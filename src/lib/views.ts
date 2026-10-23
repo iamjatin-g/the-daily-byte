@@ -206,6 +206,6 @@ export function shellHtml(o: ShellOpts): string {
     `<footer class="site-footer"><div class="wrap"><ul class="footer-links">` +
     ['about:About', 'contact:Contact', 'privacy:Privacy policy', 'disclaimer:Disclaimer', 'remove:Publisher removal requests']
       .map((x) => { const [p, t] = x.split(':') as [string, string]; return `<li><a href="/${p}/">${esc(t)}</a></li>`; }).join('') +
-    `<li><a href="/rss.xml">RSS feed</a></li></ul>` +
+    `</ul>` +
     `<p class="footer-note">${esc(v.siteName)} collects headlines and short excerpts from public sources. All rights belong to the original publishers. Summaries are written by AI and can contain mistakes.</p></div></footer>`;
 }
