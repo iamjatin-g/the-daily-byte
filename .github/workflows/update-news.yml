@@ -62,7 +62,7 @@ jobs:
             || echo "::notice::schedule re-enable call was not needed or not permitted"
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: '20'
 
