@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import { config } from '../../../config/site.config';
+import { loadIndex } from '../../lib/data';
+import { archiveMain, type ViewCtx } from '../../lib/views';
+
+const { data, ok } = await loadIndex();
+const v: ViewCtx = {
+  now: new Date(), siteName: config.site.name, tagline: config.site.tagline, categories: config.categories,
+  publishTimesIST: config.schedule.publishTimesIST, contactEmail: config.site.contactEmail,
+};
+const main = archiveMain(ok ? data.days : [], v);
+---
+<Base main={main} title="Archive" description={`Every day of stories from ${config.site.name}.`} activeNav="archive" generatedAt={ok ? data.generatedAt : null} />

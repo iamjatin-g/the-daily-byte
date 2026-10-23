@@ -1,0 +1,83 @@
+{
+  "runAt": "2026-10-21T11:47:30.850Z",
+  "outcome": "partial",
+  "totals": {
+    "fetched": 120,
+    "afterFilter": 119,
+    "clusters": 110,
+    "linkRotDropped": 0,
+    "llmCallsUsed": 0
+  },
+  "llmCallsToday": {
+    "date": "2026-10-21",
+    "count": 0
+  },
+  "sources": [
+    {
+      "name": "AI research",
+      "provider": "gdelt",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "This operation was aborted",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "LLMs",
+      "provider": "gdelt",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "This operation was aborted",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "machine learning",
+      "provider": "gdelt",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "This operation was aborted",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "AI research",
+      "provider": "google-news",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-21T11:47:30.850Z",
+      "disabledAt": null
+    },
+    {
+      "name": "LLMs",
+      "provider": "google-news",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-21T11:47:30.850Z",
+      "disabledAt": null
+    },
+    {
+      "name": "machine learning",
+      "provider": "google-news",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-21T11:47:30.850Z",
+      "disabledAt": null
+    }
+  ],
+  "errors": [
+    "gdelt:AI research: This operation was aborted",
+    "gdelt:LLMs: This operation was aborted",
+    "gdelt:machine learning: This operation was aborted",
+    "briefings: no API key (or provider disabled), using plain snippets"
+  ]
+}

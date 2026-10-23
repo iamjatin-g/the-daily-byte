@@ -1,0 +1,14 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "types": ["node"],
+    "baseUrl": ".",
+    "paths": { "@config/*": ["config/*"], "@lib/*": ["src/lib/*"] }
+  },
+  "include": ["src", "worker", "config", "tests", "*.ts", "*.mjs"],
+  "exclude": ["dist", "node_modules"]
+}

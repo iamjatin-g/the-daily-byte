@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import { config } from '../../config/site.config';
+import { disclaimerMain } from '../lib/pages';
+import type { ViewCtx } from '../lib/views';
+
+const v: ViewCtx = {
+  now: new Date(), siteName: config.site.name, tagline: config.site.tagline, categories: config.categories,
+  publishTimesIST: config.schedule.publishTimesIST, contactEmail: config.site.contactEmail,
+};
+const main = disclaimerMain(v);
+---
+<Base main={main} title="Disclaimer" />

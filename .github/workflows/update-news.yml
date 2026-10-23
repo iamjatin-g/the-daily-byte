@@ -1,0 +1,152 @@
+# ONE workflow does everything, in order, so nothing depends on another workflow:
+#   keep-alive -> fetch + rank + brief -> commit data -> build site -> deploy -> ping watchdog
+#
+# SCHEDULE (GitHub cron is always UTC). IST is UTC+5:30 with no daylight saving,
+# so subtract 5 hours 30 minutes from each IST time:
+#   06:00 IST = 00:30 UTC  ->  "30 0 * * *"
+#   18:00 IST = 12:30 UTC  ->  "30 12 * * *"
+# These must match config/site.config.ts (schedule.cronUTC). A test fails if they drift.
+# GitHub may start scheduled runs a few minutes late; that is normal.
+#
+# SECRETS (Settings > Secrets and variables > Actions > Secrets):
+#   CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID, HEALTHCHECKS_URL,
+#   GEMINI_API_KEY or GROQ_API_KEY (optional), GNEWS_API_KEY / NEWSDATA_API_KEY (optional)
+# VARIABLES (same page, "Variables" tab):
+#   SITE_URL (e.g. https://your-site.pages.dev), CF_PAGES_PROJECT (your Pages project name)
+
+name: Update news
+
+on:
+  schedule:
+    - cron: '30 0 * * *'   # 06:00 IST
+    - cron: '30 12 * * *'  # 18:00 IST
+  workflow_dispatch: {}    # the "Run workflow" button, for testing only
+
+# Never run two updates at once; a second run waits instead of cancelling the first.
+concurrency:
+  group: news-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commit the data files
+  actions: write    # lets the keep-alive step re-enable the schedule if GitHub paused it
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      SITE_URL: ${{ vars.SITE_URL }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # GitHub pauses scheduled workflows in public repos after 60 days without activity.
+      # Guarantee a commit at least every 25 days, even if every later step fails.
+      - name: Keep-alive
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          last=$(git log -1 --format=%ct)
+          now=$(date +%s)
+          age_days=$(( (now - last) / 86400 ))
+          echo "Newest commit is ${age_days} day(s) old"
+          if [ "$age_days" -ge 25 ]; then
+            git commit --allow-empty -m "chore: keep-alive"
+            git push origin "HEAD:${GITHUB_REF_NAME}" || echo "::warning::keep-alive push failed"
+          fi
+          # Belt and braces: re-enable the schedule if GitHub paused it. Harmless if already enabled.
+          gh api -X PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/update-news.yml/enable" \
+            || echo "::notice::schedule re-enable call was not needed or not permitted"
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # No lockfile exists on the very first run; npm install creates one and it is committed below.
+      - name: Install dependencies
+        timeout-minutes: 8
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci --no-audit --no-fund
+          else
+            npm install --no-audit --no-fund
+          fi
+
+      # continue-on-error lets the later steps (commit health, alert) still run when the worker
+      # fails. The "Fail the run" step below then turns the run red so GitHub emails you.
+      - name: Fetch, rank and brief the news
+        id: worker
+        continue-on-error: true
+        timeout-minutes: 12
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+        run: npm run worker
+
+      # On a failed run the worker leaves the news files untouched and only updates health.json
+      # (so failing sources get disabled), which is safe to commit.
+      - name: Commit data
+        if: steps.worker.outcome != 'skipped'
+        run: |
+          git add data
+          if [ -f package-lock.json ]; then git add package-lock.json; fi
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          fi
+          for i in 1 2 3; do
+            if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::Could not push the data commit"
+          exit 1
+
+      # Only build and deploy when the worker succeeded, so a bad run leaves the live site untouched.
+      - name: Build site
+        if: steps.worker.outcome == 'success'
+        timeout-minutes: 8
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        if: steps.worker.outcome == 'success'
+        timeout-minutes: 8
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=${{ vars.CF_PAGES_PROJECT }} --branch=main
+
+      # Outside watchdog: healthchecks.io emails you if this ping stops arriving.
+      - name: Ping watchdog
+        if: success() && steps.worker.outcome == 'success'
+        env:
+          HC_URL: ${{ secrets.HEALTHCHECKS_URL }}
+        run: |
+          if [ -z "$HC_URL" ]; then
+            echo "::warning::HEALTHCHECKS_URL secret is not set, so the watchdog is NOT active"
+            exit 0
+          fi
+          curl -fsS -m 10 --retry 3 "$HC_URL" > /dev/null
+
+      - name: Fail the run if the worker failed
+        if: steps.worker.outcome == 'failure'
+        run: |
+          echo "::error::The worker failed. The live site keeps its previous content."
+          exit 1
+
+      # Instant alert on failure (healthchecks.io supports a /fail ping), in addition to GitHub's email.
+      - name: Tell watchdog about the failure
+        if: failure()
+        env:
+          HC_URL: ${{ secrets.HEALTHCHECKS_URL }}
+        run: |
+          if [ -n "$HC_URL" ]; then curl -fsS -m 10 --retry 2 "${HC_URL}/fail" > /dev/null || true; fi

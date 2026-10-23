@@ -1,0 +1,70 @@
+---
+import '../styles/global.css';
+import { config } from '../../config/site.config';
+import { shellHtml, type ViewCtx } from '../lib/views';
+
+interface Props {
+  main: string;
+  title?: string;
+  description?: string;
+  isHome?: boolean;
+  activeNav?: string;
+  generatedAt?: string | null;
+  noindex?: boolean;
+}
+const { main, title, description, isHome = false, activeNav = '', generatedAt = null, noindex = false } = Astro.props;
+
+const v: ViewCtx = {
+  now: new Date(),
+  siteName: config.site.name,
+  tagline: config.site.tagline,
+  categories: config.categories,
+  publishTimesIST: config.schedule.publishTimesIST,
+  contactEmail: config.site.contactEmail,
+};
+const pageTitle = title ? `${title} | ${config.site.name}` : `${config.site.name}: ${config.site.tagline}`;
+const desc = description ?? config.site.description;
+const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+const body = shellHtml({ v, main, isHome, activeNav, generatedAt });
+---
+<!doctype html>
+<html lang={config.site.language}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={desc} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title={config.site.name} href="/rss.xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta name="theme-color" content="#f2f3f0" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#14161a" media="(prefers-color-scheme: dark)" />
+    <meta property="og:site_name" content={config.site.name} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={`${config.site.language}_${config.site.region}`} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={desc} />
+    <!-- Applies the saved or system theme before first paint, so there is no flash. -->
+    <script is:inline>
+      (function () {
+        var d = document.documentElement, t = null;
+        try { t = localStorage.getItem('theme'); } catch (e) {}
+        if (t !== 'light' && t !== 'dark') { t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; }
+        d.dataset.theme = t;
+        d.classList.add('js');
+      })();
+    </script>
+  </head>
+  <body>
+    <Fragment set:html={body} />
+    <script>
+      import '../scripts/app';
+    </script>
+  </body>
+</html>
