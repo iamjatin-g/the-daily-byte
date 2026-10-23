@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-23T18:07:44.897Z",
-  "outcome": "partial",
+  "runAt": "2026-10-23T18:15:44.726Z",
+  "outcome": "success",
   "totals": {
     "fetched": 120,
-    "afterFilter": 222,
-    "clusters": 118,
+    "afterFilter": 230,
+    "clusters": 120,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-10-23",
-    "count": 6
+    "count": 9
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-23T18:07:44.897Z",
+      "lastSuccessAt": "2026-10-23T18:15:44.726Z",
       "disabledAt": null
     },
     {
@@ -60,7 +60,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-23T18:07:44.897Z",
+      "lastSuccessAt": "2026-10-23T18:15:44.726Z",
       "disabledAt": null
     },
     {
@@ -70,17 +70,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-23T18:07:44.897Z",
+      "lastSuccessAt": "2026-10-23T18:15:44.726Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:AI research: This operation was aborted",
-    "gdelt:LLMs: This operation was aborted",
-    "gdelt:machine learning: This operation was aborted",
-    "briefing skipped for \"OpenAI and Poland's NASK collaborate on \": This operation was aborted",
+    "briefing skipped for \"OpenAI and Poland's NASK collaborate on \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefing skipped for \"StorageChain Launches Atlas, Its Native \": This operation was aborted",
-    "briefing skipped for \"6 Best Sites to Compare LLMs\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"6 Best Sites to Compare LLMs\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
