@@ -1,0 +1,83 @@
+{
+  "runAt": "2026-10-23T18:34:15.773Z",
+  "outcome": "success",
+  "totals": {
+    "fetched": 120,
+    "afterFilter": 8,
+    "clusters": 8,
+    "linkRotDropped": 0,
+    "llmCallsUsed": 3
+  },
+  "llmCallsToday": {
+    "date": "2026-10-24",
+    "count": 3
+  },
+  "sources": [
+    {
+      "name": "AI research",
+      "provider": "gdelt",
+      "status": "disabled",
+      "articlesFetched": 0,
+      "consecutiveFailures": 3,
+      "lastError": "This operation was aborted",
+      "lastSuccessAt": null,
+      "disabledAt": "2026-10-23T18:07:44.897Z"
+    },
+    {
+      "name": "LLMs",
+      "provider": "gdelt",
+      "status": "disabled",
+      "articlesFetched": 0,
+      "consecutiveFailures": 3,
+      "lastError": "This operation was aborted",
+      "lastSuccessAt": null,
+      "disabledAt": "2026-10-23T18:07:44.897Z"
+    },
+    {
+      "name": "machine learning",
+      "provider": "gdelt",
+      "status": "disabled",
+      "articlesFetched": 0,
+      "consecutiveFailures": 3,
+      "lastError": "This operation was aborted",
+      "lastSuccessAt": null,
+      "disabledAt": "2026-10-23T18:07:44.897Z"
+    },
+    {
+      "name": "AI research",
+      "provider": "google-news",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-23T18:34:15.773Z",
+      "disabledAt": null
+    },
+    {
+      "name": "LLMs",
+      "provider": "google-news",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-23T18:34:15.773Z",
+      "disabledAt": null
+    },
+    {
+      "name": "machine learning",
+      "provider": "google-news",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-23T18:34:15.773Z",
+      "disabledAt": null
+    }
+  ],
+  "errors": [
+    "briefing skipped for \"U.S residents favor AI training for work\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Best AI Video Generators: 12-Step Test, \": This operation was aborted",
+    "briefing skipped for \"AstraZeneca Partners With Oracle to Refi\": This operation was aborted",
+    "briefings: 3 failures in a row, stopping for this run"
+  ]
+}
