@@ -12,7 +12,7 @@ export class LlmRateLimitError extends Error {}
 
 async function post(fetchFn: Fetch, url: string, headers: Record<string, string>, body: unknown): Promise<unknown> {
   const ctl = new AbortController();
-  const timer = setTimeout(() => ctl.abort(), 30_000);
+  const timer = setTimeout(() => ctl.abort(), 60_000);
   try {
     const res = await fetchFn(url, {
       method: 'POST',
