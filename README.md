@@ -20,7 +20,45 @@
 
 ## Built With
 
-<div align="center">
+<div>
+
+FRONTEND & CORE
+
+<p>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
+
+NEWS & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Google_News_RSS-4285F4?style=for-the-badge&logo=googlenews&logoColor=white" alt="Google News RSS">
+  <img src="https://img.shields.io/badge/GDELT-333333?style=for-the-badge" alt="GDELT">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+</p>
+
+AUTOMATION & DEPLOYMENT
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages">
+  <img src="https://img.shields.io/badge/healthchecks.io-5EB15E?style=for-the-badge" alt="healthchecks.io">
+</p>
+
+SEARCH, VALIDATION & QUALITY
+
+<p>
+  <img src="https://img.shields.io/badge/Pagefind-393939?style=for-the-badge" alt="Pagefind">
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier">
+  <img src="https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" alt="Dependabot">
+</p>
+
+</div>
 
 ---
 
