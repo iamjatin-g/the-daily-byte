@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-10-24T10:14:54.394Z",
+  "runAt": "2026-10-24T10:20:14.733Z",
   "outcome": "success",
   "totals": {
     "fetched": 170,
@@ -10,7 +10,7 @@
   },
   "llmCallsToday": {
     "date": "2026-10-24",
-    "count": 15
+    "count": 18
   },
   "sources": [
     {
@@ -18,7 +18,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -30,7 +30,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:14:54.394Z",
+      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
       "disabledAt": null
     },
     {
@@ -38,7 +38,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -48,7 +48,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -58,7 +58,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -68,7 +68,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://ndtv.com/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -78,7 +78,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://news18.com/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -88,7 +88,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -130,7 +130,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:14:54.394Z",
+      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
       "disabledAt": null
     },
     {
@@ -140,7 +140,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:14:54.394Z",
+      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
       "disabledAt": null
     },
     {
@@ -150,7 +150,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:14:54.394Z",
+      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
       "disabledAt": null
     },
     {
@@ -160,7 +160,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:14:54.394Z",
+      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:14:54.394Z",
+      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
       "disabledAt": null
     },
     {
@@ -180,7 +180,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:14:54.394Z",
+      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
       "disabledAt": null
     }
   ],
@@ -192,9 +192,9 @@
     "feed:aninews.in: HTTP 403 for https://aninews.in/",
     "feed:news18.com: HTTP 403 for https://news18.com/",
     "feed:lokmattimes.com: no usable feed found",
-    "briefing skipped for \"UK Commits $800 Million to AI Security a\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"UK Commits $800 Million to AI Security a\": This operation was aborted",
     "briefing skipped for \"UK £100M AI Biosecurity Lab: OpenAI & An\": This operation was aborted",
-    "briefing skipped for \"Lingnan University showcases five new pr\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Lingnan University showcases five new pr\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
