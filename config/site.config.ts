@@ -53,7 +53,7 @@ export const config = ConfigSchema.parse({
     disableAfterFailures: 3,
     // Re-test disabled sources every N days.
     retestDisabledEveryDays: 7,
-    optionalNewsApi: 'none', // none | gnews | newsdata
+    optionalNewsApi: 'gnews', // none | gnews | newsdata
   },
 
   spamBlocklist: ['you won\'t believe', 'shocking', 'this one trick', 'gone wrong', 'doctors hate'],
