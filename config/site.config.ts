@@ -60,14 +60,14 @@ export const config = ConfigSchema.parse({
 
   pipeline: {
     snippetMaxChars: 200,
-    latestCount: 100,
+    latestCount: 50,
     featuredPerCategory: 3,
-    keepDays: 2,
+    keepDays: 1,
     fetchTimeoutMs: 10000,
     fetchRetries: 2,
     perDomainDelayMs: 1000,
     similarityThreshold: 0.6, // title similarity for clustering (0-1)
-    maxAgeHours: 48, // ignore freshly fetched articles older than this
+    maxAgeHours: 24, // ignore freshly fetched articles older than this
     feedDiscoveryLimit: 8, // publisher domains to probe for RSS per run
     maxResolvePerRun: 60, // max Google News redirect resolutions per run
     linkCheckTopClusters: 150, // link-rot check covers the top N clusters
