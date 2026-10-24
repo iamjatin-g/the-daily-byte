@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-23T19:13:02.993Z",
+  "runAt": "2026-10-24T04:50:38.463Z",
   "outcome": "success",
   "totals": {
     "fetched": 120,
-    "afterFilter": 116,
-    "clusters": 110,
+    "afterFilter": 225,
+    "clusters": 158,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-10-24",
-    "count": 6
+    "count": 9
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-23T19:13:02.993Z",
+      "lastSuccessAt": "2026-10-24T04:50:38.463Z",
       "disabledAt": null
     },
     {
@@ -60,7 +60,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-23T19:13:02.993Z",
+      "lastSuccessAt": "2026-10-24T04:50:38.463Z",
       "disabledAt": null
     },
     {
@@ -70,14 +70,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-23T19:13:02.993Z",
+      "lastSuccessAt": "2026-10-24T04:50:38.463Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "briefing skipped for \"CKD Risk Stratification, Payment Models,\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"The AI Model That Promised to Crush GPT-\": This operation was aborted",
-    "briefing skipped for \"Bringing foundational models to the fron\": This operation was aborted",
+    "briefing skipped for \"SonicWall to Focus on AI, Cloud and Cybe\": This operation was aborted",
+    "briefing skipped for \"AI Models May Be Less Mysterious Than Re\": This operation was aborted",
+    "briefing skipped for \"An \"invisible\" car? Researcher uses mach\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
