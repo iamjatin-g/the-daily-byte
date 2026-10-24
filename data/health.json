@@ -1,27 +1,27 @@
 {
-  "runAt": "2026-10-24T10:20:14.733Z",
+  "runAt": "2026-10-24T10:28:25.807Z",
   "outcome": "success",
   "totals": {
     "fetched": 170,
-    "afterFilter": 125,
-    "clusters": 119,
+    "afterFilter": 123,
+    "clusters": 116,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 2
   },
   "llmCallsToday": {
     "date": "2026-10-24",
-    "count": 18
+    "count": 20
   },
   "sources": [
     {
       "name": "aninews.in",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-24T10:28:25.807Z"
     },
     {
       "name": "devdiscourse.com",
@@ -30,68 +30,68 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
+      "lastSuccessAt": "2026-10-24T10:28:25.807Z",
       "disabledAt": null
     },
     {
       "name": "economictimes.indiatimes.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-24T10:28:25.807Z"
     },
     {
       "name": "indiatoday.in",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-24T10:28:25.807Z"
     },
     {
       "name": "lokmattimes.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-24T10:28:25.807Z"
     },
     {
       "name": "ndtv.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "HTTP 403 for https://ndtv.com/",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-24T10:28:25.807Z"
     },
     {
       "name": "news18.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "HTTP 403 for https://news18.com/",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-24T10:28:25.807Z"
     },
     {
       "name": "tribuneindia.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-24T10:28:25.807Z"
     },
     {
       "name": "AI research",
@@ -130,7 +130,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
+      "lastSuccessAt": "2026-10-24T10:28:25.807Z",
       "disabledAt": null
     },
     {
@@ -140,7 +140,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
+      "lastSuccessAt": "2026-10-24T10:28:25.807Z",
       "disabledAt": null
     },
     {
@@ -150,7 +150,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
+      "lastSuccessAt": "2026-10-24T10:28:25.807Z",
       "disabledAt": null
     },
     {
@@ -160,7 +160,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
+      "lastSuccessAt": "2026-10-24T10:28:25.807Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
+      "lastSuccessAt": "2026-10-24T10:28:25.807Z",
       "disabledAt": null
     },
     {
@@ -180,7 +180,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T10:20:14.733Z",
+      "lastSuccessAt": "2026-10-24T10:28:25.807Z",
       "disabledAt": null
     }
   ],
@@ -194,7 +194,6 @@
     "feed:lokmattimes.com: no usable feed found",
     "briefing skipped for \"UK Commits $800 Million to AI Security a\": This operation was aborted",
     "briefing skipped for \"UK £100M AI Biosecurity Lab: OpenAI & An\": This operation was aborted",
-    "briefing skipped for \"Lingnan University showcases five new pr\": This operation was aborted",
-    "briefings: 3 failures in a row, stopping for this run"
+    "briefings: daily cap of 20 reached, 13 stories use plain snippets"
   ]
 }
