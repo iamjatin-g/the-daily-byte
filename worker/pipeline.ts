@@ -14,6 +14,7 @@ import { pMap } from './lib/pool';
 import { feedJobs } from './providers/feedDiscovery';
 import { recordResult, shouldRun, sourceKey } from './sourceHealth';
 import type { EnrichInput, EnrichOutput } from './briefing';
+import { fetchMissingImages, MAX_IMAGE_FETCHES } from './images';
 
 const IST_MS = 5.5 * 3_600_000; // IST = UTC+5:30, no daylight saving
 export const istDate = (d: Date) => new Date(d.getTime() + IST_MS).toISOString().slice(0, 10);
@@ -206,6 +207,26 @@ export async function runPipeline(d: Deps): Promise<RunResult> {
     errors.push(`link-rot check skipped: ${e instanceof Error ? e.message : String(e)}`);
   }
 
+     // 7b. Fill in missing images from each story's own page (og:image). Only the image URL is stored.
+   try {
+     const targets: { id: string; url: string }[] = [];
+     for (const c of ranked) {
+       if (targets.length >= MAX_IMAGE_FETCHES) break;
+       if (c.articles.some((a) => a.imageUrl)) continue;
+       const first = c.articles.find((a) => a.resolved);
+       if (first) targets.push({ id: first.id, url: first.url });
+     }
+     if (targets.length) {
+       const found = await fetchMissingImages(targets, d.fetch);
+       if (found.size) {
+         articles = articles.map((a) => (found.has(a.id) ? { ...a, imageUrl: found.get(a.id) as string } : a));
+         ranked = build();
+       }
+     }
+   } catch (e) {
+     errors.push(`image lookup skipped: ${e instanceof Error ? e.message : String(e)}`);
+   }
+  
   if (ranked.length === 0) {
     errors.push('Every candidate link was dead; keeping existing data');
     const health = baseHealth('failed', { linkRotDropped });
