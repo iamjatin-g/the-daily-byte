@@ -62,7 +62,7 @@ export const config = ConfigSchema.parse({
     snippetMaxChars: 200,
     latestCount: 100,
     featuredPerCategory: 3,
-    keepDays: 60,
+    keepDays: 2,
     fetchTimeoutMs: 10000,
     fetchRetries: 2,
     perDomainDelayMs: 1000,
