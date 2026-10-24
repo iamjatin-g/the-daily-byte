@@ -11,10 +11,23 @@ export function getStaticPaths() {
 const { id } = Astro.params;
 const { data, ok } = await loadLatest();
 const v: ViewCtx = {
-  now: new Date(), siteName: config.site.name, tagline: config.site.tagline, categories: config.categories,
-  publishTimesIST: config.schedule.publishTimesIST, contactEmail: config.site.contactEmail,
+  now: new Date(),
+  siteName: config.site.name,
+  tagline: config.site.tagline,
+  categories: config.categories,
+  publishTimesIST: config.schedule.publishTimesIST,
+  contactEmail: config.site.contactEmail,
 };
 const label = categoryLabel(id as string, config.categories);
-const main = categoryMain(id as string, { latest: data.latest, ok }, v);
+const seen = new Set<string>();
+const all = [...data.featured, ...data.latest].filter((c) => !seen.has(c.id) && seen.add(c.id));
+const main = categoryMain(id as string, { latest: all, ok }, v);
 ---
-<Base main={main} title={label} description={`Latest ${label} stories from ${config.site.name}.`} activeNav={id as string} generatedAt={ok ? data.generatedAt : null} />
+
+<Base
+  main={main}
+  title={label}
+  description={`Latest ${label} stories from ${config.site.name}.`}
+  activeNav={id as string}
+  generatedAt={ok ? data.generatedAt : null}
+/>
