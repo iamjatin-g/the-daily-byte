@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-24T04:50:38.463Z",
+  "runAt": "2026-10-24T09:58:11.346Z",
   "outcome": "success",
   "totals": {
     "fetched": 120,
-    "afterFilter": 225,
-    "clusters": 158,
+    "afterFilter": 117,
+    "clusters": 113,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-10-24",
-    "count": 9
+    "count": 12
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T04:50:38.463Z",
+      "lastSuccessAt": "2026-10-24T09:58:11.346Z",
       "disabledAt": null
     },
     {
@@ -60,7 +60,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T04:50:38.463Z",
+      "lastSuccessAt": "2026-10-24T09:58:11.346Z",
       "disabledAt": null
     },
     {
@@ -70,14 +70,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-24T04:50:38.463Z",
+      "lastSuccessAt": "2026-10-24T09:58:11.346Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "briefing skipped for \"SonicWall to Focus on AI, Cloud and Cybe\": This operation was aborted",
-    "briefing skipped for \"AI Models May Be Less Mysterious Than Re\": This operation was aborted",
-    "briefing skipped for \"An \"invisible\" car? Researcher uses mach\": This operation was aborted",
+    "briefing skipped for \"UK Commits $800 Million to AI Security a\": This operation was aborted",
+    "briefing skipped for \"UK £100M AI Biosecurity Lab: OpenAI & An\": This operation was aborted",
+    "briefing skipped for \"Flicker Light Test and Machine Learning \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
