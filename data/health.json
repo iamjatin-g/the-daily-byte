@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-25T05:00:11.841Z",
+  "runAt": "2026-10-25T16:40:16.375Z",
   "outcome": "partial",
   "totals": {
-    "fetched": 29,
-    "afterFilter": 11,
-    "clusters": 7,
+    "fetched": 149,
+    "afterFilter": 110,
+    "clusters": 95,
     "linkRotDropped": 0,
-    "llmCallsUsed": 2
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-10-25",
-    "count": 2
+    "count": 5
   },
   "sources": [
     {
@@ -38,7 +38,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://indianexpress.com/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -58,7 +58,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -68,7 +68,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://news18.com/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -78,7 +78,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -98,7 +98,7 @@
       "provider": "gdelt",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "fetch failed",
       "lastSuccessAt": "2026-10-24T16:09:36.979Z",
       "disabledAt": null
@@ -130,7 +130,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T05:00:11.841Z",
+      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
       "disabledAt": null
     },
     {
@@ -140,7 +140,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T05:00:11.841Z",
+      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
       "disabledAt": null
     },
     {
@@ -150,57 +150,49 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T05:00:11.841Z",
+      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
       "disabledAt": null
     },
     {
       "name": "AI research",
       "provider": "google-news",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-      "lastSuccessAt": "2026-10-24T16:09:36.979Z",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-      "lastSuccessAt": "2026-10-24T16:09:36.979Z",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
       "disabledAt": null
     },
     {
       "name": "machine learning",
       "provider": "google-news",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-      "lastSuccessAt": "2026-10-24T16:09:36.979Z",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "google-news:AI research: HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "google-news:LLMs: HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "google-news:machine learning: HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "gdelt:AI research: fetch failed",
-    "gdelt:LLMs: fetch failed",
-    "gdelt:machine learning: fetch failed",
-    "feed:indiatoday.in: no usable feed found",
-    "feed:aninews.in: HTTP 403 for https://aninews.in/",
     "feed:timesofindia.indiatimes.com: no usable feed found",
-    "feed:economictimes.indiatimes.com: no usable feed found",
-    "feed:tribuneindia.com: no usable feed found",
     "feed:livemint.com: no usable feed found",
     "feed:indianexpress.com: HTTP 403 for https://indianexpress.com/",
     "feed:news18.com: HTTP 403 for https://news18.com/",
-    "briefing skipped for \"CBFC board members get first-hand experi\": This operation was aborted",
-    "briefing skipped for \"AI could unlock USD 2.52 trillion in ann\": LLM rate limit (HTTP 429)",
-    "briefings: rate limited, stopping for this run"
+    "briefing skipped for \"NCERT Introduces 20-Hour AI Module For C\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"BITS Pilani gives UG students more flexi\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"2 AI Blocs: Pax Silica Edges WAICO [2026\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefings: 3 failures in a row, stopping for this run"
   ]
 }
