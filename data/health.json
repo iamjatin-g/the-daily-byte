@@ -1,15 +1,15 @@
 {
-  "runAt": "2026-10-26T05:03:53.538Z",
-  "outcome": "partial",
+  "runAt": "2026-10-26T18:47:03.444Z",
+  "outcome": "success",
   "totals": {
     "fetched": 149,
-    "afterFilter": 76,
-    "clusters": 71,
+    "afterFilter": 120,
+    "clusters": 108,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "count": 3
   },
   "sources": [
@@ -32,6 +32,16 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-10-25T05:00:11.841Z"
+    },
+    {
+      "name": "freepressjournal.in",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "indianexpress.com",
@@ -68,18 +78,8 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
-      "name": "telegraphindia.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://telegraphindia.com/",
       "lastSuccessAt": null,
       "disabledAt": null
     },
@@ -130,7 +130,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
+      "lastSuccessAt": "2026-10-26T18:47:03.444Z",
       "disabledAt": null
     },
     {
@@ -140,7 +140,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
+      "lastSuccessAt": "2026-10-26T18:47:03.444Z",
       "disabledAt": null
     },
     {
@@ -150,7 +150,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
+      "lastSuccessAt": "2026-10-26T18:47:03.444Z",
       "disabledAt": null
     },
     {
@@ -160,7 +160,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
+      "lastSuccessAt": "2026-10-26T18:47:03.444Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
+      "lastSuccessAt": "2026-10-26T18:47:03.444Z",
       "disabledAt": null
     },
     {
@@ -180,19 +180,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
+      "lastSuccessAt": "2026-10-26T18:47:03.444Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:AI research: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
-    "feed:livemint.com: no usable feed found",
-    "feed:telegraphindia.com: HTTP 403 for https://telegraphindia.com/",
-    "feed:indianexpress.com: HTTP 403 for https://indianexpress.com/",
+    "feed:freepressjournal.in: no usable feed found",
     "feed:lokmattimes.com: no usable feed found",
-    "briefing skipped for \"NCERT Introduces 20-Hour AI Module For C\": This operation was aborted",
-    "briefing skipped for \"Canva Built Craft in 6 Months With 160 S\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Terence Tao’s Awkward Position Unveiled:\": This operation was aborted",
+    "briefing skipped for \"Springer Nature and Google DeepMind to b\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"New AI tools coming to faculty, students\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Using AI to Shop for a Car? Can You Trus\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
