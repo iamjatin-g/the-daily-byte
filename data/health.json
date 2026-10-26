@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-25T16:40:16.375Z",
+  "runAt": "2026-10-26T05:03:53.538Z",
   "outcome": "partial",
   "totals": {
     "fetched": 149,
-    "afterFilter": 110,
-    "clusters": 95,
+    "afterFilter": 76,
+    "clusters": 71,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-10-25",
-    "count": 5
+    "date": "2026-10-26",
+    "count": 3
   },
   "sources": [
     {
@@ -36,12 +36,12 @@
     {
       "name": "indianexpress.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "HTTP 403 for https://indianexpress.com/",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-26T05:03:53.538Z"
     },
     {
       "name": "indiatoday.in",
@@ -56,30 +56,30 @@
     {
       "name": "livemint.com",
       "provider": "feed",
+      "status": "disabled",
+      "articlesFetched": 0,
+      "consecutiveFailures": 3,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": "2026-10-26T05:03:53.538Z"
+    },
+    {
+      "name": "lokmattimes.com",
+      "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 1,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
     },
     {
-      "name": "news18.com",
+      "name": "telegraphindia.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "HTTP 403 for https://news18.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
-      "name": "timesofindia.indiatimes.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "no usable feed found",
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://telegraphindia.com/",
       "lastSuccessAt": null,
       "disabledAt": null
     },
@@ -96,12 +96,12 @@
     {
       "name": "AI research",
       "provider": "gdelt",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "fetch failed",
+      "consecutiveFailures": 3,
+      "lastError": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
       "lastSuccessAt": "2026-10-24T16:09:36.979Z",
-      "disabledAt": null
+      "disabledAt": "2026-10-26T05:03:53.538Z"
     },
     {
       "name": "LLMs",
@@ -130,7 +130,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
+      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
       "disabledAt": null
     },
     {
@@ -140,7 +140,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
+      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
       "disabledAt": null
     },
     {
@@ -150,7 +150,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
+      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
       "disabledAt": null
     },
     {
@@ -160,7 +160,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
+      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
+      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
       "disabledAt": null
     },
     {
@@ -180,19 +180,19 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-25T16:40:16.375Z",
+      "lastSuccessAt": "2026-10-26T05:03:53.538Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:AI research: fetch failed",
-    "feed:timesofindia.indiatimes.com: no usable feed found",
+    "gdelt:AI research: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
     "feed:livemint.com: no usable feed found",
+    "feed:telegraphindia.com: HTTP 403 for https://telegraphindia.com/",
     "feed:indianexpress.com: HTTP 403 for https://indianexpress.com/",
-    "feed:news18.com: HTTP 403 for https://news18.com/",
-    "briefing skipped for \"NCERT Introduces 20-Hour AI Module For C\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"BITS Pilani gives UG students more flexi\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"2 AI Blocs: Pax Silica Edges WAICO [2026\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:lokmattimes.com: no usable feed found",
+    "briefing skipped for \"NCERT Introduces 20-Hour AI Module For C\": This operation was aborted",
+    "briefing skipped for \"Canva Built Craft in 6 Months With 160 S\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Terence Tao’s Awkward Position Unveiled:\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
