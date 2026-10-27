@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-27T05:19:36.038Z",
+  "runAt": "2026-10-27T18:09:08.543Z",
   "outcome": "success",
   "totals": {
-    "fetched": 149,
-    "afterFilter": 228,
-    "clusters": 167,
+    "fetched": 150,
+    "afterFilter": 286,
+    "clusters": 249,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-10-27",
-    "count": 6
+    "count": 9
   },
   "sources": [
     {
@@ -32,6 +32,16 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-10-25T05:00:11.841Z"
+    },
+    {
+      "name": "hindustantimes.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "indianexpress.com",
@@ -78,18 +88,8 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://ndtv.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
-      "name": "theweek.in",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
     },
@@ -140,17 +140,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T05:19:36.038Z",
+      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 9,
+      "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T05:19:36.038Z",
+      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
       "disabledAt": null
     },
     {
@@ -160,7 +160,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T05:19:36.038Z",
+      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T05:19:36.038Z",
+      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
       "disabledAt": null
     },
     {
@@ -180,7 +180,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T05:19:36.038Z",
+      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
       "disabledAt": null
     },
     {
@@ -190,17 +190,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T05:19:36.038Z",
+      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:theweek.in: no usable feed found",
-    "feed:lokmattimes.com: no usable feed found",
     "feed:ndtv.com: HTTP 403 for https://ndtv.com/",
-    "briefing skipped for \"AI will reshape, not replace, Indian job\": This operation was aborted",
-    "briefing skipped for \"Springer Nature and Google DeepMind to b\": This operation was aborted",
-    "briefing skipped for \"AI Voice Reminders for Seniors: 89.3% Wa\": This operation was aborted",
+    "feed:hindustantimes.com: no usable feed found",
+    "briefing skipped for \"LLM defends Prosignal’s appointment for \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Scientists warn secret passwords can cau\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"AI talent war has quant firms racing to \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }

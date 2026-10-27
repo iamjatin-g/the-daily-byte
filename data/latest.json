@@ -1,64 +1,212 @@
 {
-  "generatedAt": "2026-10-27T05:19:36.038Z",
+  "generatedAt": "2026-10-27T18:09:08.543Z",
   "lead": {
-    "id": "e43a79f7e1393a50",
-    "headline": "AI will reshape, not replace, Indian jobs: IIT Madras study",
-    "category": "research",
-    "publishedAt": "2026-10-27T02:52:37.000Z",
-    "score": 0.6118,
+    "id": "b12097a7a6df94b1",
+    "headline": "LLM defends Prosignal’s appointment for TuJu app, cites investor funding",
+    "category": "models",
+    "publishedAt": "2026-10-27T13:34:30.000Z",
+    "score": 0.5826,
     "publisherCount": 3,
     "featured": true,
     "lead": true,
     "articles": [
       {
-        "id": "858a6a5d9149ec57",
-        "headline": "AI will reshape, not replace, Indian jobs: IIT Madras study",
-        "source": "The Tribune",
-        "domain": "unknown-the-tribune",
-        "category": "research",
-        "publishedAt": "2026-10-27T02:52:37.000Z",
+        "id": "c321cb45370db54c",
+        "headline": "LLM defends Prosignal’s appointment for TuJu app, cites investor funding",
+        "source": "The Malaysian Reserve",
+        "domain": "unknown-the-malaysian-reserve",
+        "category": "models",
+        "publishedAt": "2026-10-27T13:34:30.000Z",
         "snippet": "",
         "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzBjc3MydEdZVGRZaFY4a3h3Z2pSQ3VCSDJ5cVZIWVlHNmFORUVQcHEzb1dkbS1uMWhpcWZFT0I0RVowbHA3TzhkVUUtak5xSDR3bmltd3hNOWYxcTVRb1hxMlZJRUZ4UjFhZlVHd1Zqa1JSRTZPN0dFRGx1WVd6Y3VNb3I5dDgtdTYtc3Q0aExSWkhVbFRVOVdoR21PTk5yWTViWGo2VEUyRG5TZFhN0gGzAUFVX3lxTE0tY19SVG1GYkZJbTZqTDNPYl9kbTlVYm12SkZZMXJUZXRabVBJaG13Wjhxdml0SllLaGRlMWJnTUZ0N1BvenJTQkJNNkpFeE9ZWUtseXJOVEdGZ0pKUDhBakpoR3U4Qk5zU0I2QXdKb2lNUGYwRWJoYWxhcUQ1NUVCYzNYZDNhaFZqWnlyS0VrZ0pLTk1PWFl3Mm1Ga3pUclY2NVVwb2ZkdmpPZ1VYUER4UVZN?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXpoSk1BbVQzMmh5NDZlRXBKek5CMlRNc3I4c3BjU1plbThBQ0tuQWswenpsNXpqM0RrZkoyXzFNNWFKUTcza3Ywa2lCU3JFV1lPWGhxaFpqaFZNTjdPa1lrR3JFZU9mTlM5VE1PQTc3RWJXY0JETnJYUktYZmo5am9Ed013cVcxZmxJaG1iRWFEYmdFdHEzVTFYNkdCVHRqRFJnZUNRUnB1Vk9JUkZHVkhLT0I?oc=5",
         "provider": "google-news"
       },
       {
-        "id": "8a3384509d86fb0a",
-        "headline": "Entry-level jobs at risk as AI reshapes India’s workforce: IIT-Madras study",
-        "source": "DT Next",
-        "domain": "unknown-dt-next",
-        "category": "research",
-        "publishedAt": "2026-10-27T01:57:55.000Z",
+        "id": "ff974c6c5105ed32",
+        "headline": "LLM defends Prosignal partnership for TuJu app",
+        "source": "Free Malaysia Today",
+        "domain": "unknown-free-malaysia-today",
+        "category": "models",
+        "publishedAt": "2026-10-27T02:45:00.000Z",
         "snippet": "",
         "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjdtbTNIMkdQYXJEWFlQc2RNd3hmT1lIVU1DV3o4UU1xbXNnUWFMSjJFNHV5SjREUnVnYlFneVRmMG1LZmEyYkVoNWtUV0pNUzVWbldkVkZjMHJTU28zRERKNkVtM1NpUEVXa3YyVUVZUXdPdlhkdVc4NUdiNXA3UWRrbWRvcFdyWENMaVNCVGFMdEM1eGw0dFBZM3p4aHl0RDU0bWNDNEtNZkI20gG6AUFVX3lxTFA3WENNMTB0TWZGTXBoZU11dWRWQ2gwemg4NWxsT2pZNV9FdlBaYVJWOVdWWm9fQkhvRk1ONkZpYk1HWG9MRzJVTzNyaHVPZzNZdlJRbUVCWG0yRUp2Tm1NaGFqalhJcVJwbUJPcmliT0Vqckg0MWg0VTZkMFFPYzRoZXpqRzU5NVJOSlcxVF83UFRuWldUbDR0STJqR2VtcWt1NUoyeFdGcVRueGRpeVNCbmFiUnNXYVNaZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUNseTNHM0EtMmloLW45YnlzMzlBZGJyZFdhSlJfMlUyTmRtazlhWHQyU0JBbWJMYnVpOGFoOU0zdEJCbU50THg5NUtITUZ1VElwLWFvakpORXhUVzlNTllILVV5Z2s4QWxnbEZZdnhxcEFZT3FSOWtpWjBsbEN0MDJaMGMxTHRvVlJmT2N1SGhrbTZybF9vRjRjTjhpQUhpR0tqMU0yeXY1YkE?oc=5",
         "provider": "google-news"
       },
       {
-        "id": "7717430daa99130a",
-        "headline": "IIT Madras Report: AI will not ‘take’ jobs in India, but entry-level workers face the biggest risk",
-        "source": "The Indian Express",
-        "domain": "indianexpress.com",
-        "category": "research",
-        "publishedAt": "2026-10-26T06:42:08.000Z",
-        "snippet": "The paper recommends continued AI adoption, more India-specific labour-market research and structured transition pathways for affected workers. Training must be linked to realistic alternative roles…",
-        "imageUrl": "https://images.indianexpress.com/2026/10/ai-takes-away-jobs-in-india-iit-madras.jpg",
-        "url": "https://indianexpress.com/article/education/artificial-intelligence-iit-madras-study-ai-impact-jobs-entry-level-careers-india-10936963",
-        "provider": "gnews"
+        "id": "86e317647ede358e",
+        "headline": "LLM defends deal with Prosignal over controversial TuJu app",
+        "source": "scoop.my",
+        "domain": "unknown-scoop-my",
+        "category": "models",
+        "publishedAt": "2026-10-27T02:10:18.000Z",
+        "snippet": "",
+        "imageUrl": null,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3N5U1dMYkVQc3U1c1hlQnBsckZYRVFET0l4bUhIaExZYlhjTEkyN3BiUUg5YnRKUGh0M1lwUm5WX1dFMXNjNXlJbDdSOXlrMkhUQ0Y0bTJyejNxOEZsUjhnQ00yZ3lGeUlPTVM0aTVsMGRHSGhrREthTXQ2ZkRJcDJmNS1LZ0VjVnhFWmZsRHBiMm1EbmdSeA?oc=5",
+        "provider": "google-news"
       }
     ],
     "briefing": null
   },
   "featured": [
     {
+      "id": "b12097a7a6df94b1",
+      "headline": "LLM defends Prosignal’s appointment for TuJu app, cites investor funding",
+      "category": "models",
+      "publishedAt": "2026-10-27T13:34:30.000Z",
+      "score": 0.5826,
+      "publisherCount": 3,
+      "featured": true,
+      "lead": true,
+      "articles": [
+        {
+          "id": "c321cb45370db54c",
+          "headline": "LLM defends Prosignal’s appointment for TuJu app, cites investor funding",
+          "source": "The Malaysian Reserve",
+          "domain": "unknown-the-malaysian-reserve",
+          "category": "models",
+          "publishedAt": "2026-10-27T13:34:30.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXpoSk1BbVQzMmh5NDZlRXBKek5CMlRNc3I4c3BjU1plbThBQ0tuQWswenpsNXpqM0RrZkoyXzFNNWFKUTcza3Ywa2lCU3JFV1lPWGhxaFpqaFZNTjdPa1lrR3JFZU9mTlM5VE1PQTc3RWJXY0JETnJYUktYZmo5am9Ed013cVcxZmxJaG1iRWFEYmdFdHEzVTFYNkdCVHRqRFJnZUNRUnB1Vk9JUkZHVkhLT0I?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "ff974c6c5105ed32",
+          "headline": "LLM defends Prosignal partnership for TuJu app",
+          "source": "Free Malaysia Today",
+          "domain": "unknown-free-malaysia-today",
+          "category": "models",
+          "publishedAt": "2026-10-27T02:45:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUNseTNHM0EtMmloLW45YnlzMzlBZGJyZFdhSlJfMlUyTmRtazlhWHQyU0JBbWJMYnVpOGFoOU0zdEJCbU50THg5NUtITUZ1VElwLWFvakpORXhUVzlNTllILVV5Z2s4QWxnbEZZdnhxcEFZT3FSOWtpWjBsbEN0MDJaMGMxTHRvVlJmT2N1SGhrbTZybF9vRjRjTjhpQUhpR0tqMU0yeXY1YkE?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "86e317647ede358e",
+          "headline": "LLM defends deal with Prosignal over controversial TuJu app",
+          "source": "scoop.my",
+          "domain": "unknown-scoop-my",
+          "category": "models",
+          "publishedAt": "2026-10-27T02:10:18.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3N5U1dMYkVQc3U1c1hlQnBsckZYRVFET0l4bUhIaExZYlhjTEkyN3BiUUg5YnRKUGh0M1lwUm5WX1dFMXNjNXlJbDdSOXlrMkhUQ0Y0bTJyejNxOEZsUjhnQ00yZ3lGeUlPTVM0aTVsMGRHSGhrREthTXQ2ZkRJcDJmNS1LZ0VjVnhFWmZsRHBiMm1EbmdSeA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "071b21cf6bdb3272",
+      "headline": "Scientists warn secret passwords can cause robots to ‘go rogue’",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:58:13.000Z",
+      "score": 0.5476,
+      "publisherCount": 2,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "37d57a6b8609e9f8",
+          "headline": "Scientists warn secret passwords can cause robots to ‘go rogue’",
+          "source": "Lebanon Democrat",
+          "domain": "unknown-lebanon-democrat",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:58:13.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZksxazRIQWV6bUhkZXVxQmdaYVpvajlNSWFkaVJGNmNJMTkzYzN6RTVINU1PemlENjREUklTeDFTaFlPaUVidzlIbkk1Y05iS1dxQUpwNklVSUpPcHVtNW53cXJTZzNFWW5CVGZlQmFkOE94LWJUOUVQZjRQNFpkSXV2ZkV5Yi1SMWpZV2RCb3pFV3JhWGFCSjRkMGp1TVF1WWNCbVBhUU5abmU2UjZMejVZUGZweGxIOFZ5dGcwZ1ZmVU9YWFRoVkpWUzhaWXRLelRlY1hLNC1TMDNfeGVlT3RjWWJWYTR1MzZ2bG10TklqaDBQdkMtRVFUVEVvZw?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "2fabc08ed6c47f19",
+          "headline": "Scientists warn secret passwords can cause robots to ‘go rogue’",
+          "source": "hpenews.com",
+          "domain": "unknown-hpenews-com",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:58:13.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUk44SGJQSnJiMzBacDVRaUMzcjNZdWdhSnFBZm9UWUF2d2xyM1lZYTdTbkFvS0pBQzN1Yzc5ZU5tTnRCTjhFRDhhZ2szcnVRUTZiVjRoa1dlWW5yMnAwWm9kWHFPbXZpQlBObGp4SE9FbUxCd21lWVotMHg0cTdwbnRqVnVJN3FpWWJ5ZWJkem16eElycHBvcTFHUVVSV2g5NWt3eExfUk5RUHVoUmExUlNRTUJ0QVlhV0d1N2dBaGNUSk5NV002czhoZE1nb2hZV1ZpSzZmbkt2bzR2SElfeFU1dDJROTZ1MWVwb1k4T2VUdWRCMjdkc1J1U1RkTGdx?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8531236a64ae7ae6",
+      "headline": "AI talent war has quant firms racing to recruit top talent",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:13:30.000Z",
+      "score": 0.5362,
+      "publisherCount": 2,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d747682e21b8d910",
+          "headline": "AI talent war has quant firms racing to recruit top talent",
+          "source": "Staffing Industry Analysts",
+          "domain": "unknown-staffing-industry-analysts",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:13:30.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXhOanpuRkFLd0g3VnMzRzhtNWpaN3cwcmUySkZGdEJVRjQzX0M5Q1F1MjJPaUZRa013eURSbTZvOHlhWjZKWDBTV3FqMWxJeFVqeXdzdnRNbExfWGg2NjlQU1hQNlJ5QWJLeGs4WjlNSHd2NlV5YUpaZFpUb3NWY0R6NGlQX2gxZk1ZUHVfVGhtT1hvVjluQVBNbGxxLWQ3cDhaYmdCYVVRdFJPZEpHWlpHRQ?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "1082579dbb5fe3e2",
+          "headline": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
+          "source": "Bloomberg.com",
+          "domain": "unknown-bloomberg-com",
+          "category": "general",
+          "publishedAt": "2026-10-27T11:15:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2pKdFhxWk1LRTJxYW1PSTA3STRGOHBhRVZYSTZ0TDJPbDV0elBMNHVFMnRMNXNveWdTZGc0bVFQTi1uN2VWamNTSGhDREFyWjI0blRvdHd3RE1GeEZ1RjhrdkZ2Tm41eldBT3ZVTm5zOHhyMWV5M25fNkNaeUg2TlpIajR2bnR5ZTZvQlh3VWpOZzFWcEVTR09IZktNUkNxcFB5N2R1UzFkNnRDVHRsNw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "c8a37c9b3494609a",
+      "headline": "Claudeforce and what comes next for agentic AI",
+      "category": "models",
+      "publishedAt": "2026-10-27T17:54:45.000Z",
+      "score": 0.4794,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "7474ffd3012ced02",
+          "headline": "Claudeforce and what comes next for agentic AI",
+          "source": "Information Week",
+          "domain": "unknown-information-week",
+          "category": "models",
+          "publishedAt": "2026-10-27T17:54:45.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTRDeGlDT0FBa2s5R3pjS0xrcjU3VEw5RVFXZmFWNW5NeTl6clZOMHdPd05tWklLZzg5b2J3dWZ3QWJJUGdaVEdxVDNZRHZqNlEwMURDVDV3Um4tT1otdFo3SUl3RVZrSXVvMERjbEhxU1JIbnN6SXpDRTNMbFdGVHl1ZXFNQlFOMGFobU9xWjlHTlJQRTZWay1MM3l5cjA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "e43a79f7e1393a50",
       "headline": "AI will reshape, not replace, Indian jobs: IIT Madras study",
       "category": "research",
       "publishedAt": "2026-10-27T02:52:37.000Z",
-      "score": 0.6118,
+      "score": 0.4784,
       "publisherCount": 3,
       "featured": true,
-      "lead": true,
+      "lead": false,
       "articles": [
         {
           "id": "858a6a5d9149ec57",
@@ -100,124 +248,175 @@
       "briefing": null
     },
     {
-      "id": "1de025718f0eda99",
-      "headline": "Springer Nature and Google DeepMind to build ‘peer review assistant’",
-      "category": "general",
-      "publishedAt": "2026-10-26T14:55:38.000Z",
-      "score": 0.4848,
-      "publisherCount": 3,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "50920d5801cff71b",
-          "headline": "Springer Nature and Google DeepMind to build ‘peer review assistant’",
-          "source": "Research Professional News",
-          "domain": "unknown-research-professional-news",
-          "category": "general",
-          "publishedAt": "2026-10-26T14:55:38.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdlQxdFEySHFaZHhYekFleFJOa25mcl9CbFRPTWtMNjNTMUt2cFJiWFp3YTk4SUs2eGQ1eXZuRHlQb1NaU0lHdloyQ0piV2FheVRTSG9KUVd0N2JtM0ItZVkzTXhUQVh5d2xDR3BxTlg4ZjhfSmZYM2RFU1NfVlNjd3lwVURwVklwQVNiRExNeUZfZm5XTHBVZkRUV0haTUtPVlVyanZTaGJ2ZFNNRXM1M1Z2WXV2ekx0T0Nnemx1aWhKdHdVdGlnZTRR?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "c715caf8048716b4",
-          "headline": "Google DeepMind and Springer Nature to create AI peer review tool",
-          "source": "Times Higher Education",
-          "domain": "unknown-times-higher-education",
-          "category": "general",
-          "publishedAt": "2026-10-26T13:16:36.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVJEd293OHJCNjhnUE5jLWp1QWRwME9iclRSTlhVcTBsdEpTX3JwOGFyTlhtR1lRQmVlQnY2dWFVUHNLdE9HRTBiUTRDSUlvZ1AwVFMtdUV2MERGWUZ1cVR4SEUzNkZDREloeEVvXzF3TnJ2MTI5b0FLZTEyWmtVUGpLeXVZRkxsWGNkbVdZaDFZa1o2dmYtWjdCLXVfRXFsV2otOHI2SQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "f1c5bb0319ecd4a4",
-          "headline": "Springer Nature and Google DeepMind partner on AI peer review assistant",
-          "source": "Research Information",
-          "domain": "unknown-research-information",
-          "category": "general",
-          "publishedAt": "2026-10-26T08:44:40.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjFjOFh5UnpOUXlfc1VoOGhyXy1ZNDJVZHhDM2VwR2hLaU1tb2FCbWpWVGZuTFRlNm9RV1FHbk5KNk02bEtFbGNlaTNlX3BvazZ4ZUY0a1N3RlFUb29KWVJtSGJXUXZYajRBQkpmQlRxSUg2OTJYZnVpWTlmV2dlRFpmbWhVdmpRYkg1Y0d3aDlTU2FpZVJkejFGajJFc2lGVENHZGpGTGRtVFRmNjFPYWxNSmk?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "e5465491d7c9e1e7",
-      "headline": "AI Voice Reminders for Seniors: 89.3% Want Them [2026]",
-      "category": "general",
-      "publishedAt": "2026-10-27T05:17:19.000Z",
-      "score": 0.4827,
+      "id": "3c4ffc8cefd3ac48",
+      "headline": "Research Sheds New Light On DeepSeek’s Safety Risks",
+      "category": "policy",
+      "publishedAt": "2026-10-27T17:45:20.000Z",
+      "score": 0.4768,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "929483b100dd4d2e",
-          "headline": "AI Voice Reminders for Seniors: 89.3% Want Them [2026]",
-          "source": "shattered.io",
-          "domain": "unknown-shattered-io",
-          "category": "general",
-          "publishedAt": "2026-10-27T05:17:19.000Z",
+          "id": "3d30b477dacb38af",
+          "headline": "Research Sheds New Light On DeepSeek’s Safety Risks",
+          "source": "Gizmodo",
+          "domain": "unknown-gizmodo",
+          "category": "policy",
+          "publishedAt": "2026-10-27T17:45:20.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWNBc2Rqd3BDbjFCTWNrR0NpYlJ4RjV0aDNZWXRUNjhkZmxOQVh1MHRVYjVoSE4tOTNibGRKcE0yT2liQVdKS0RQOVhROHY5THNaR29jZUpJQTR2NW01NHVGVEQwaklBeXZLd0FQZ0dYUFNKX3lnSkIxRy1GS1NDcHBGeE52UG5hck9yRHlfdG1TU0k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUVud193eDRXVzJfbmUwWVY2a0Z5T25VRy11MWJBdGQzMkptdVBWc0tpcmVIUjY4QzktWTUtLWhHWjl1OTBmbV9scnBXdWdRUUxGVzRqejh6WERSWUs1WlNnNHIyZXMtYUhBVWhmUkR3TG55SFdKT3lFeFlCcFo5VHZfYWNjbThw?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "e9a1451e4880a23b",
-      "headline": "Can AI help physicists solve the mystery of time?",
+      "id": "f66a9b88640f55b9",
+      "headline": "Teaching Humanoid Robots to Walk Faster and Cheaper",
       "category": "general",
-      "publishedAt": "2026-10-27T04:18:08.000Z",
-      "score": 0.4667,
+      "publishedAt": "2026-10-27T17:44:22.000Z",
+      "score": 0.4765,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "694a44f99e9d7cdf",
-          "headline": "Can AI help physicists solve the mystery of time?",
-          "source": "IBM",
-          "domain": "unknown-ibm",
+          "id": "4465549d5eb27972",
+          "headline": "Teaching Humanoid Robots to Walk Faster and Cheaper",
+          "source": "Tech Briefs",
+          "domain": "unknown-tech-briefs",
           "category": "general",
-          "publishedAt": "2026-10-27T04:18:08.000Z",
+          "publishedAt": "2026-10-27T17:44:22.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa3Y0RjZUektaNThZenNsbG80Vm9yNHhKbG9oZHdPZVAxa1M4N3lMNFZ1dngtWDlWX2tTVWlSZjM2V3lWdFRKYm5leDZFeWh2d1BHVVI4ZTFycjJqaEZsTk0wdmVIcWZfem1Ha0JoelVUNkhhOTVtbTFqNUZOWENKRUFCTll1SVYyY1pjNVJUMlY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUNJMWV0dTBfd0VzWWlFTU1mcno1YzF2T3V0V202cUpKdmZ1UzZpbEZDc1dSR1pXWkJXMUhBUEJTblN3QlptUllVeEF3N085bGFuWHBYWFUxdEozSzhHYzhrUFVpbVJSMEdzTnU0OVZUMHFlSXI5eUJQSUQzc0FVX19FX1dBWXZROGRiOVl3Y09XTUUwWkQzREd4Mkd5OVFyQ01nc2Z5Q2tzeXBVNGEw?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "d7f7bd6ff10ed182",
-      "headline": "Researchers awarded £120,000 to transform eyecare with smartphones and AI",
+      "id": "fcc8e77a9ea4f699",
+      "headline": "Ponderosa Launches AI‑Powered Research Solution Conversive — LBB",
+      "category": "models",
+      "publishedAt": "2026-10-27T17:41:39.000Z",
+      "score": 0.4758,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "152ad6e7ca0b8de3",
+          "headline": "Ponderosa Launches AI‑Powered Research Solution Conversive — LBB",
+          "source": "LBB - Little Black Book",
+          "domain": "unknown-lbb-little-black-book",
+          "category": "models",
+          "publishedAt": "2026-10-27T17:41:39.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS0owTHRTOXczQXR4UV84OTRJaFJZT243R2FrY1N6MExnYkNyZ1BSZlBqZGdzLW52SWpvQ1pibGd0SWJSSUNMU2o4YngzMUdPbGNGLXpIbHV4T2dNQTRNbFRnNEtHdk5nWGh4OWVaZjE0elloZ3I0MjRqaXVQN25UcEppOHpDR1J3N2s4Q3pn?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "c456772d0eab4530",
+      "headline": "Military AI market to grow to $45 billion in a decade, study predicts",
       "category": "research",
-      "publishedAt": "2026-10-27T04:04:11.000Z",
-      "score": 0.4631,
+      "publishedAt": "2026-10-27T16:11:47.000Z",
+      "score": 0.4524,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "93033016ad23f1f4",
-          "headline": "Researchers awarded £120,000 to transform eyecare with smartphones and AI",
-          "source": "Greater Birmingham Chambers of Commerce",
-          "domain": "unknown-greater-birmingham-chambers-of-commerce",
+          "id": "df6c31e1343c0cc0",
+          "headline": "Military AI market to grow to $45 billion in a decade, study predicts",
+          "source": "Military Embedded Systems",
+          "domain": "unknown-military-embedded-systems",
           "category": "research",
-          "publishedAt": "2026-10-27T04:04:11.000Z",
+          "publishedAt": "2026-10-27T16:11:47.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObHFtMUFyMXBOd0cyZl93a1V0RkdiZGZHUGZWQVB6YmVUcWV6SGtHNWQ2THRTU25Ca0JkZGtUckVtcWJkX0RFbW9LQkxaUWVmTko2S3BHcGY0SFlKR0s1NXRKR3ZjTVplcl9tVTFoRUhlbFFRWlhGWG1XODJ6Mk5lclFjclg5Zi14M3R2MGZTUFJNOVBFZjNxLXBXVFZxRlJaRXQ4U0t3ZzAwcHNrVFh4Mk0tU0drWEJFa3BXYVI0ZGJ1aU05cGJB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMThjOEtoVG1hUjFZOTlkclluSmJ5V3Z4dUZnRF9GYUExZGlUMzU4R2toaUdhc3pCc2dsYTJiWG1CU1NpR2I4aXB1ZmhxOWhUYWlJNjdrZzRwQjBnQU5ndVVwMXdtUGFoZ0JEdF9wYklialF0dF9JMUVFUW1zMVppdzB4bGMzdl9fMndEWEEyWXdmSnlKT2k2S3I4OEkyb1ZSTU5mZHBkenRKUlI2di1HTlRsRE5YczQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f95612841ccfb09b",
+      "headline": "Quant hedge funds expand AI research investment amid intensifying talent war",
+      "category": "industry",
+      "publishedAt": "2026-10-27T15:48:40.000Z",
+      "score": 0.4467,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "1ee0fd61d9b0fe7c",
+          "headline": "Quant hedge funds expand AI research investment amid intensifying talent war",
+          "source": "Hedgeweek",
+          "domain": "unknown-hedgeweek",
+          "category": "industry",
+          "publishedAt": "2026-10-27T15:48:40.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbl9rM0FwaHoweFBrZzltUWJpdnhaWTlpWHJ0UzV3LUhSYlJfSnlYSkl5VjA0dWV2MXZGV3UwMkJ5WGdMRzd6MGsteE10V2hwZGxmYW9OeXNWbTFPbTZaM3paWUczRElFaUU5Zkl1djdac0NBUERDUWRyNFpwdUFBTnZ4ZVV5bEt2a1FOS3lTSkEteHVkT0JtOWdHYWEyYUI2Qy1INGpR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "b13ea27396d2d214",
+      "headline": "Confident Science Papers Sway AI Judges – Regardless of Merit",
+      "category": "research",
+      "publishedAt": "2026-10-27T14:59:25.000Z",
+      "score": 0.435,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "0a3ac433cae3f859",
+          "headline": "Confident Science Papers Sway AI Judges – Regardless of Merit",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
+          "category": "research",
+          "publishedAt": "2026-10-27T14:59:25.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1hOeEVBU2lEczVtZ3J1QnFzQVNJVWlyaEJXUlJ5NzRvSjZKT09OMjhXU2toejN5ODhSemJiZnYzOFJKQjZtaThfbzVtOGZtY012NHZyR25LVWVieGRMNEc2eGlCSHFvV1MzZXg1Y3VWRGJuQ19OTDVZTXRVcUhwNTZSN3ZYLWtZ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d1c559c2951c617d",
+      "headline": "AI Automation Drives Revenue Gains for 44% of Financial Institutions, Creatio Research Finds",
+      "category": "industry",
+      "publishedAt": "2026-10-27T13:02:59.000Z",
+      "score": 0.4093,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "79e3bea7191e81ac",
+          "headline": "AI Automation Drives Revenue Gains for 44% of Financial Institutions, Creatio Research Finds",
+          "source": "FF News",
+          "domain": "unknown-ff-news",
+          "category": "industry",
+          "publishedAt": "2026-10-27T13:02:59.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjVETF8yMUxTeTQ0cGpubmxPZHdVcURsaVEwdWNORXNSTG85RjRONlRKMUlFQUtQbFdLRnRoX1N4cGdneEVLeUEtbjV3bUY1bkdqSGRlUzF4MmI0R29vLWlnZzJRU0ZVdXRnbnNQQU1EZzVGd1dzaDJtZVM4akNFUEJOeEp5c0YzVmJ6TExyb0EtQzdWQ1lXNlJn?oc=5",
           "provider": "google-news"
         }
       ],
@@ -228,7 +427,7 @@
       "headline": "Google CEO Sundar Pichai says company is giving up short-term cloud revenue to prioritise advanced AI development",
       "category": "industry",
       "publishedAt": "2026-10-26T11:03:01.000Z",
-      "score": 0.4587,
+      "score": 0.4033,
       "publisherCount": 3,
       "featured": true,
       "lead": false,
@@ -273,125 +472,25 @@
       "briefing": null
     },
     {
-      "id": "499e1559168d08d1",
-      "headline": "Machine Learning Study Links ENTPD5 to Radioresistance in Liver Cancer",
-      "category": "research",
-      "publishedAt": "2026-10-27T03:39:25.000Z",
-      "score": 0.4568,
+      "id": "7d07beb613291d8a",
+      "headline": "AI Neolabs: AI Safety and Superintelligence | UPSC",
+      "category": "policy",
+      "publishedAt": "2026-10-27T08:32:11.000Z",
+      "score": 0.3592,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "0e39d6e1dbd30a09",
-          "headline": "Machine Learning Study Links ENTPD5 to Radioresistance in Liver Cancer",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "research",
-          "publishedAt": "2026-10-27T03:39:25.000Z",
+          "id": "f64e66e00651c7d6",
+          "headline": "AI Neolabs: AI Safety and Superintelligence | UPSC",
+          "source": "INSIGHTS IAS",
+          "domain": "unknown-insights-ias",
+          "category": "policy",
+          "publishedAt": "2026-10-27T08:32:11.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmZLQnlaa25KR2hCX1pzaWZ1eUlUemRXaWZaUmxOMDBjalVXV3h0dTVIakpZR3NVNF9mSjhZWnpHdlB2UHduVkFxdjJqenRkRUlpY3ZCU2lMbjVlUVlWUUNFd19fMUZtbURSQVNZY0tjbTFhMWdTSjRQLVJqZnh3Zkk5d24tQ2c2UGV2LWw2OHo2aE5QM0xBWHhPaw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "815db0a34779e736",
-      "headline": "Penn GSE launches hub for responsible AI use in education",
-      "category": "models",
-      "publishedAt": "2026-10-27T02:06:25.000Z",
-      "score": 0.4342,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "268df4d04b4d359c",
-          "headline": "Penn GSE launches hub for responsible AI use in education",
-          "source": "The Daily Pennsylvanian",
-          "domain": "unknown-the-daily-pennsylvanian",
-          "category": "models",
-          "publishedAt": "2026-10-27T02:06:25.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ20yVnBWWVlncktoRUZYelo5d2lHT2g2WW1JY3NYbVpVdHoyZ2xBeFhLbW9jS0V2LXhIUHlvZFl0bl9TZ1ZNX0VscFpFT0JOLXpvUE5vMklIVkZlcE84QTQ2UUZ5WWRjYThWREwzNmVpUl9NNkJTNWZ4NGhrZDVjS2JxRUlQV0tmbTJ5RXJmc01kN2YzT2RGRkVYVkdsa01BT01JLVNB?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "4a501bb73e219d24",
-      "headline": "AI Scheduler Learns Offline to Meet Conflicting LLM Latency Goals",
-      "category": "models",
-      "publishedAt": "2026-10-27T01:59:25.000Z",
-      "score": 0.4326,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "3b508d4071b6a74c",
-          "headline": "AI Scheduler Learns Offline to Meet Conflicting LLM Latency Goals",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "models",
-          "publishedAt": "2026-10-27T01:59:25.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDRVQnM2UVZ6aTBDcHphRmtlZzlRejBHQ05NNF92M09lcUFyTmFjUXNCN20xSzhCZ0dCa1NCeHh0ajZfdGxEbXZvMWc1VWhsZldjakNaaThHSmdOZXU2YV9NM3VpTmpzMzl6MEpIZ1FOczl0cFlKV1F3cHdvLWxxb3Q4NEtDRXowNWJNcFRQTGVGUjhW?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "604b4907ed5d0b17",
-      "headline": "Aiven builds LLM gateway to cut token costs 80 percent with open-weight models",
-      "category": "models",
-      "publishedAt": "2026-10-27T01:00:52.000Z",
-      "score": 0.4194,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "20926e57444b9929",
-          "headline": "Aiven builds LLM gateway to cut token costs 80 percent with open-weight models",
-          "source": "news.lavx.hu",
-          "domain": "unknown-news-lavx-hu",
-          "category": "models",
-          "publishedAt": "2026-10-27T01:00:52.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3B6Y3dJay1hZ1gzX05xUzdrTXQ2cUxiYzJDLWdTZklMdEg0UW5tNjNyQzRkNkxsVGtGRFFQdVhZSUNfWlFkaFNnSTV6VFozeXk1S2hWLVFwczlMUjIwUjhUV0xIOV9OOHRZd1BSaS01eGVWcl9CaTZyY0xZUU00anV6UFRCaHFqVFZ1R3BtVU9uT09sbjBldUI5bnNBRk5zV09YMHNlZkNTdzA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "95a8ebb134142ebc",
-      "headline": "Pichai: Google Is Turning Away Cloud Revenue to Feed Its AI Research",
-      "category": "industry",
-      "publishedAt": "2026-10-26T18:20:00.000Z",
-      "score": 0.3462,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "595dc75000bed92f",
-          "headline": "Pichai: Google Is Turning Away Cloud Revenue to Feed Its AI Research",
-          "source": "BigGo Finance",
-          "domain": "unknown-biggo-finance",
-          "category": "industry",
-          "publishedAt": "2026-10-26T18:20:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pOXFfVkxUcndOR2dVd1o0UVNVWnc1blRpaHJtRzBmTGJuYTVGNVlhTjBMNXdOTklNQ2NNZWdVdUVzRUxCVWR5X2ZVbDhvT0d3TDB2ejVTdkx3YWZoQkJMV0U0NXNxSUpKdzNwWjRHclRzVHlUTlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qZjlzUHFBVjR2MUZTelVyV0pPTjk0T1ZvRXZDTlRrZ0tNZ2psV2Y3b0ZvMUpaRG83LWVKZ21NbUdBVWlpSElqeDZpY1ZRbDdWNExVUmdIY2VnQnJWZDhkUTBsQjU?oc=5",
           "provider": "google-news"
         }
       ],
@@ -402,7 +501,7 @@
       "headline": "AI for Lawyers: The Legal AI Tools Worth Using in 2026",
       "category": "policy",
       "publishedAt": "2026-10-26T15:49:24.000Z",
-      "score": 0.325,
+      "score": 0.2528,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
@@ -421,1340 +520,1302 @@
         }
       ],
       "briefing": null
-    },
-    {
-      "id": "a5aa455baf67f57d",
-      "headline": "L&T Technology Services Shares Rise Over 3% After Five-Year Nokia Deal",
-      "category": "industry",
-      "publishedAt": "2026-10-26T04:55:04.000Z",
-      "score": 0.2606,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "4a57c72f1308e1a7",
-          "headline": "L&T Technology Services Shares Rise Over 3% After Five-Year Nokia Deal",
-          "source": "NDTV Profit",
-          "domain": "ndtvprofit.com",
-          "category": "industry",
-          "publishedAt": "2026-10-26T04:55:04.000Z",
-          "snippet": "L&T Technology Services announced a five-year collaboration with Nokia to support engineering and research activities in India. The stock rallied as the partnership focuses on 5G networks, AI…",
-          "imageUrl": "https://c.ndtvimg.com/2026-10/hgljp42o_lt-technology-services-shares-rise-_625x300_26_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-          "url": "https://ndtvprofit.com/markets/l-t-technology-services-shares-rise-over-3-after-five-year-nokia-deal-12235843",
-          "provider": "gnews"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "480f7becbf90e08f",
-      "headline": "How DBS, Southeast Asia’s largest bank, is capturing the full value of AI and Machine Learning in Singapore",
-      "category": "policy",
-      "publishedAt": "2026-10-26T04:37:50.000Z",
-      "score": 0.2594,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "23546b6cf1a074a5",
-          "headline": "How DBS, Southeast Asia’s largest bank, is capturing the full value of AI and Machine Learning in Singapore",
-          "source": "Singapore Economic Development Board (EDB)",
-          "domain": "unknown-singapore-economic-development-board-edb",
-          "category": "policy",
-          "publishedAt": "2026-10-26T04:37:50.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmZsZFJ3SkRJd05GYjdndElId2lEUS05ZFFWd2lHbHl6Mi1zVTFGU291NnNTbkw5YmlrQnplSGZHR255ZU1reHNlZE5ZM3pQNWV5VmxGcllSZ0dLWDhueExqeDZrSTdZaTZtakEzSFBkaXNMSUw3V0dVTUxJR2g3cG1QVXRzbnJJZk84TUd0Z09oV1VFUFNFQWhWdmc4YVhyZWRSV1NTd1ZXYnQ0djJZcVVRUTJZQWRUalVaQVZLdGo1aDNDVEZEc1ZfRVltM3lncUx1ZzNCMDBvWmsxREE?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
     }
   ],
   "latest": [
     {
-      "id": "e5465491d7c9e1e7",
-      "headline": "AI Voice Reminders for Seniors: 89.3% Want Them [2026]",
-      "category": "general",
-      "publishedAt": "2026-10-27T05:17:19.000Z",
-      "score": 0.4827,
+      "id": "c8a37c9b3494609a",
+      "headline": "Claudeforce and what comes next for agentic AI",
+      "category": "models",
+      "publishedAt": "2026-10-27T17:54:45.000Z",
+      "score": 0.4794,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "929483b100dd4d2e",
-          "headline": "AI Voice Reminders for Seniors: 89.3% Want Them [2026]",
-          "source": "shattered.io",
-          "domain": "unknown-shattered-io",
-          "category": "general",
-          "publishedAt": "2026-10-27T05:17:19.000Z",
+          "id": "7474ffd3012ced02",
+          "headline": "Claudeforce and what comes next for agentic AI",
+          "source": "Information Week",
+          "domain": "unknown-information-week",
+          "category": "models",
+          "publishedAt": "2026-10-27T17:54:45.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWNBc2Rqd3BDbjFCTWNrR0NpYlJ4RjV0aDNZWXRUNjhkZmxOQVh1MHRVYjVoSE4tOTNibGRKcE0yT2liQVdKS0RQOVhROHY5THNaR29jZUpJQTR2NW01NHVGVEQwaklBeXZLd0FQZ0dYUFNKX3lnSkIxRy1GS1NDcHBGeE52UG5hck9yRHlfdG1TU0k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTRDeGlDT0FBa2s5R3pjS0xrcjU3VEw5RVFXZmFWNW5NeTl6clZOMHdPd05tWklLZzg5b2J3dWZ3QWJJUGdaVEdxVDNZRHZqNlEwMURDVDV3Um4tT1otdFo3SUl3RVZrSXVvMERjbEhxU1JIbnN6SXpDRTNMbFdGVHl1ZXFNQlFOMGFobU9xWjlHTlJQRTZWay1MM3l5cjA?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "e9a1451e4880a23b",
-      "headline": "Can AI help physicists solve the mystery of time?",
-      "category": "general",
-      "publishedAt": "2026-10-27T04:18:08.000Z",
-      "score": 0.4667,
+      "id": "3c4ffc8cefd3ac48",
+      "headline": "Research Sheds New Light On DeepSeek’s Safety Risks",
+      "category": "policy",
+      "publishedAt": "2026-10-27T17:45:20.000Z",
+      "score": 0.4768,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "694a44f99e9d7cdf",
-          "headline": "Can AI help physicists solve the mystery of time?",
-          "source": "IBM",
-          "domain": "unknown-ibm",
-          "category": "general",
-          "publishedAt": "2026-10-27T04:18:08.000Z",
+          "id": "3d30b477dacb38af",
+          "headline": "Research Sheds New Light On DeepSeek’s Safety Risks",
+          "source": "Gizmodo",
+          "domain": "unknown-gizmodo",
+          "category": "policy",
+          "publishedAt": "2026-10-27T17:45:20.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa3Y0RjZUektaNThZenNsbG80Vm9yNHhKbG9oZHdPZVAxa1M4N3lMNFZ1dngtWDlWX2tTVWlSZjM2V3lWdFRKYm5leDZFeWh2d1BHVVI4ZTFycjJqaEZsTk0wdmVIcWZfem1Ha0JoelVUNkhhOTVtbTFqNUZOWENKRUFCTll1SVYyY1pjNVJUMlY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUVud193eDRXVzJfbmUwWVY2a0Z5T25VRy11MWJBdGQzMkptdVBWc0tpcmVIUjY4QzktWTUtLWhHWjl1OTBmbV9scnBXdWdRUUxGVzRqejh6WERSWUs1WlNnNHIyZXMtYUhBVWhmUkR3TG55SFdKT3lFeFlCcFo5VHZfYWNjbThw?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "d4fdde731d3b6149",
-      "headline": "NEC OncoImmunity Partakes in Research on AI Powered Vaccine Design",
+      "id": "f66a9b88640f55b9",
+      "headline": "Teaching Humanoid Robots to Walk Faster and Cheaper",
       "category": "general",
-      "publishedAt": "2026-10-27T04:09:19.000Z",
-      "score": 0.4644,
+      "publishedAt": "2026-10-27T17:44:22.000Z",
+      "score": 0.4765,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4465549d5eb27972",
+          "headline": "Teaching Humanoid Robots to Walk Faster and Cheaper",
+          "source": "Tech Briefs",
+          "domain": "unknown-tech-briefs",
+          "category": "general",
+          "publishedAt": "2026-10-27T17:44:22.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUNJMWV0dTBfd0VzWWlFTU1mcno1YzF2T3V0V202cUpKdmZ1UzZpbEZDc1dSR1pXWkJXMUhBUEJTblN3QlptUllVeEF3N085bGFuWHBYWFUxdEozSzhHYzhrUFVpbVJSMEdzTnU0OVZUMHFlSXI5eUJQSUQzc0FVX19FX1dBWXZROGRiOVl3Y09XTUUwWkQzREd4Mkd5OVFyQ01nc2Z5Q2tzeXBVNGEw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "fcc8e77a9ea4f699",
+      "headline": "Ponderosa Launches AI‑Powered Research Solution Conversive — LBB",
+      "category": "models",
+      "publishedAt": "2026-10-27T17:41:39.000Z",
+      "score": 0.4758,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "152ad6e7ca0b8de3",
+          "headline": "Ponderosa Launches AI‑Powered Research Solution Conversive — LBB",
+          "source": "LBB - Little Black Book",
+          "domain": "unknown-lbb-little-black-book",
+          "category": "models",
+          "publishedAt": "2026-10-27T17:41:39.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS0owTHRTOXczQXR4UV84OTRJaFJZT243R2FrY1N6MExnYkNyZ1BSZlBqZGdzLW52SWpvQ1pibGd0SWJSSUNMU2o4YngzMUdPbGNGLXpIbHV4T2dNQTRNbFRnNEtHdk5nWGh4OWVaZjE0elloZ3I0MjRqaXVQN25UcEppOHpDR1J3N2s4Q3pn?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f47e4df59318548c",
+      "headline": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "category": "models",
+      "publishedAt": "2026-10-27T17:37:15.000Z",
+      "score": 0.4746,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "72989555f50c4816",
-          "headline": "NEC OncoImmunity Partakes in Research on AI Powered Vaccine Design",
-          "source": "marketscreener.com",
-          "domain": "unknown-marketscreener-com",
-          "category": "general",
-          "publishedAt": "2026-10-27T04:09:19.000Z",
+          "id": "331a83effe7240b8",
+          "headline": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+          "source": "Google Research",
+          "domain": "unknown-google-research",
+          "category": "models",
+          "publishedAt": "2026-10-27T17:37:15.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTNMYkJhZ3VGejVKeVlSX0Y1bzRUcVVJUk11emtDMjRzR0FtQTVBcF9WUkwyYV9EbDNwT3JCV0ctNDlkbXFhaEltdWFuTHhJeHJJY2FIbDJLVGtRYVBfNVlvMkVxTURiaUFTSU5pVHZxaThWM3k4UWZFRzloTFFtay16dUl2T1l1OXRuR3R0XzJjeFBqNDhyZ1ZrUWYxUjBLeEpsLV94cGxHazk0RTVkWi1pT1NHblZHX3hN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYk9TS2ZTLWU5ZTE1NVh6RzRHUUtVS29FV1I5Y2dfQ1NWNFBBMG12NjQxUUpQWXJtNnp2elRmbzJucGxxODRLRGE2dllVYnhhZl90WFpKSkg1T3BjY1NxT2xzbTFZclUwbWE0Z3FNcjRNNS1oLVF4YkEzN0V3Q2FZUno2Qmx1dXlDWnpvcklGRGIyWE15NUppNnZhRFRJY1pSR20zalMxSWNIclJZUmdF?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "d7f7bd6ff10ed182",
-      "headline": "Researchers awarded £120,000 to transform eyecare with smartphones and AI",
-      "category": "research",
-      "publishedAt": "2026-10-27T04:04:11.000Z",
-      "score": 0.4631,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "93033016ad23f1f4",
-          "headline": "Researchers awarded £120,000 to transform eyecare with smartphones and AI",
-          "source": "Greater Birmingham Chambers of Commerce",
-          "domain": "unknown-greater-birmingham-chambers-of-commerce",
-          "category": "research",
-          "publishedAt": "2026-10-27T04:04:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObHFtMUFyMXBOd0cyZl93a1V0RkdiZGZHUGZWQVB6YmVUcWV6SGtHNWQ2THRTU25Ca0JkZGtUckVtcWJkX0RFbW9LQkxaUWVmTko2S3BHcGY0SFlKR0s1NXRKR3ZjTVplcl9tVTFoRUhlbFFRWlhGWG1XODJ6Mk5lclFjclg5Zi14M3R2MGZTUFJNOVBFZjNxLXBXVFZxRlJaRXQ4U0t3ZzAwcHNrVFh4Mk0tU0drWEJFa3BXYVI0ZGJ1aU05cGJB?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "65061bd6793e0ee4",
-      "headline": "Neuroscience gave AI its start. What happens now?",
-      "category": "general",
-      "publishedAt": "2026-10-27T04:00:15.000Z",
-      "score": 0.4621,
+      "id": "4ef978656c0b2eb4",
+      "headline": "OPINION: Anil Seth, Jeff Sebo squabble over AI consciousness, LLMs sentience, model welfare",
+      "category": "models",
+      "publishedAt": "2026-10-27T17:31:18.000Z",
+      "score": 0.473,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "42d963613725f4a5",
-          "headline": "Neuroscience gave AI its start. What happens now?",
-          "source": "The Transmitter",
-          "domain": "unknown-the-transmitter",
-          "category": "general",
-          "publishedAt": "2026-10-27T04:00:15.000Z",
+          "id": "3b22a100c22a00fe",
+          "headline": "OPINION: Anil Seth, Jeff Sebo squabble over AI consciousness, LLMs sentience, model welfare",
+          "source": "Franklin County Free Press",
+          "domain": "unknown-franklin-county-free-press",
+          "category": "models",
+          "publishedAt": "2026-10-27T17:31:18.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVhUcG16UWo1MW52c2dNMU1LOGY3NjFSRjNqNkhFalgzc24wcmI0S0VaRlhUTk5xdTcwY0w1ci1QUXlaMmNHZWVxNHVTUEtNUTJiSnRBZmdScHRXclFBdWtLVHdyajZJaXhGME5Sc1ZrRHVBUWRaZUVEazk4QjRGU0gwMlhFRlFLQ2dTbWVYVTJwajUzOFlIVjNEMWtlWjRoMHNENzhB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzJFWmtkX3F5S3FTSE9aekFHTEJvMGx1eF83M0hHUHRWalRpWGwwTHFBckZZUVdnbFFKYVFkcl9GVGMydHJBSzE5bWtpa2dhMzdaMFc1MnVjZkFKVktfemNnWE9tSWYzcnNXYzBqUVFGR3VUVHF0WmtXd0NOUkhDc0RlWGFZekpGSlJiSEdVa0RVRXpjN0tldjcwb0d0R2ZsejJBSGMtVjVzN2JSVXYyRmZxTDA?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "499e1559168d08d1",
-      "headline": "Machine Learning Study Links ENTPD5 to Radioresistance in Liver Cancer",
-      "category": "research",
-      "publishedAt": "2026-10-27T03:39:25.000Z",
-      "score": 0.4568,
+      "id": "6dd97ba834298aa0",
+      "headline": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+      "category": "models",
+      "publishedAt": "2026-10-27T17:30:25.000Z",
+      "score": 0.4728,
       "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "46f80042899b24c1",
+          "headline": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+          "source": "The Decoder",
+          "domain": "unknown-the-decoder",
+          "category": "models",
+          "publishedAt": "2026-10-27T17:30:25.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaVRkbl84M1FIbkxjOHVwVkhMLVpwdmd5WEhnb1Z1cTZuYmppdy16R29WeWNjdS1DYXZrZTFrZnlUZjhwcjNuTzZZWnFwMEVwOU9tNEVqVnZmSU9TUF9PQnFGZVBnMG1LQkc5eVBCdFRQeFVJczBralUzSUdEZlNkUmJhcF9na3ZtTjJzYi1idEh1ajJDN1pmdmJ3S1VMNFJTQWR4anZB?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "646e44cdf477001a",
+      "headline": "AI Can Save the Public Sphere",
+      "category": "general",
+      "publishedAt": "2026-10-27T17:15:38.000Z",
+      "score": 0.4688,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "9ed83f7287749356",
+          "headline": "AI Can Save the Public Sphere",
+          "source": "Persuasion | Yascha Mounk",
+          "domain": "unknown-persuasion-yascha-mounk",
+          "category": "general",
+          "publishedAt": "2026-10-27T17:15:38.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSRW5ITGc2UkdQMENUUzRKWlVISDRiTEV4TzQ1czBKczlHakZUdlpNV1lMamYydzY3LVF0cDF1eS1ES09WT1dfWHdPc083MGt2cjViYThUakJPWEswckZ4S0RHNjhWbHZfa0N6dURrbHR3QQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "071b21cf6bdb3272",
+      "headline": "Scientists warn secret passwords can cause robots to ‘go rogue’",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:58:13.000Z",
+      "score": 0.5476,
+      "publisherCount": 2,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "0e39d6e1dbd30a09",
-          "headline": "Machine Learning Study Links ENTPD5 to Radioresistance in Liver Cancer",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "research",
-          "publishedAt": "2026-10-27T03:39:25.000Z",
+          "id": "37d57a6b8609e9f8",
+          "headline": "Scientists warn secret passwords can cause robots to ‘go rogue’",
+          "source": "Lebanon Democrat",
+          "domain": "unknown-lebanon-democrat",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:58:13.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmZLQnlaa25KR2hCX1pzaWZ1eUlUemRXaWZaUmxOMDBjalVXV3h0dTVIakpZR3NVNF9mSjhZWnpHdlB2UHduVkFxdjJqenRkRUlpY3ZCU2lMbjVlUVlWUUNFd19fMUZtbURSQVNZY0tjbTFhMWdTSjRQLVJqZnh3Zkk5d24tQ2c2UGV2LWw2OHo2aE5QM0xBWHhPaw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZksxazRIQWV6bUhkZXVxQmdaYVpvajlNSWFkaVJGNmNJMTkzYzN6RTVINU1PemlENjREUklTeDFTaFlPaUVidzlIbkk1Y05iS1dxQUpwNklVSUpPcHVtNW53cXJTZzNFWW5CVGZlQmFkOE94LWJUOUVQZjRQNFpkSXV2ZkV5Yi1SMWpZV2RCb3pFV3JhWGFCSjRkMGp1TVF1WWNCbVBhUU5abmU2UjZMejVZUGZweGxIOFZ5dGcwZ1ZmVU9YWFRoVkpWUzhaWXRLelRlY1hLNC1TMDNfeGVlT3RjWWJWYTR1MzZ2bG10TklqaDBQdkMtRVFUVEVvZw?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "2fabc08ed6c47f19",
+          "headline": "Scientists warn secret passwords can cause robots to ‘go rogue’",
+          "source": "hpenews.com",
+          "domain": "unknown-hpenews-com",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:58:13.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUk44SGJQSnJiMzBacDVRaUMzcjNZdWdhSnFBZm9UWUF2d2xyM1lZYTdTbkFvS0pBQzN1Yzc5ZU5tTnRCTjhFRDhhZ2szcnVRUTZiVjRoa1dlWW5yMnAwWm9kWHFPbXZpQlBObGp4SE9FbUxCd21lWVotMHg0cTdwbnRqVnVJN3FpWWJ5ZWJkem16eElycHBvcTFHUVVSV2g5NWt3eExfUk5RUHVoUmExUlNRTUJ0QVlhV0d1N2dBaGNUSk5NV002czhoZE1nb2hZV1ZpSzZmbkt2bzR2SElfeFU1dDJROTZ1MWVwb1k4T2VUdWRCMjdkc1J1U1RkTGdx?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "e02740724f5a9200",
-      "headline": "SuperEvolution AI Unveils 36 In-House Developed AI Research Achievements: Full Public Access to Open-Source Codes, Verified Experiments & Complete Generation Trajectories | Xinglian Portfolio Latest Updates",
+      "id": "d40c69f6363f0811",
+      "headline": "Fix evaluation bias to unlock better models on Amazon Bedrock",
       "category": "general",
-      "publishedAt": "2026-10-27T03:22:11.000Z",
+      "publishedAt": "2026-10-27T16:53:02.000Z",
+      "score": 0.4629,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "170ec721d0a6fbfa",
+          "headline": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:53:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVRjSXRpN1h1M0VqWWR5SFB1eXo5NHFsNjM0ZTNMNnB1bk5qUERfeVNhZGlVMGZzcHFoQ0xFZVU2dkFoaDRvQURfLVVlMlZDclh1S09Cd1BoNUF4MV9MdEhpUWJxdDNQWmlVUXNWcUpTOTdMNC1LRDY5M3luZXI2SXNxTkg2UUNYOFhEYng5VUQ1YW1jcHBBWVZjWFFMZUg2N1NtanQ2c2J4N1BQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "c21f1619318b02c5",
+      "headline": "Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:43:47.000Z",
+      "score": 0.4605,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4759273df32142fa",
+          "headline": "Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials",
+          "source": "APS Journals",
+          "domain": "unknown-aps-journals",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:43:47.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Yd1NiWFBzbktYZVM4THpMWDZYWjdla29iZ0FscmNZUHB2NjlxZ24yMWdpQ1BmVjBoNFFzMjV5ZEZPckRCU1JVNFlndXQ4OVUxY0ZnaGZKNV9PN3hjOW1lRE9jcG5jX0dyTGtvWXp3?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "faa5a891020fd339",
+      "headline": "TDK Brings its “In Everything, Better” Tagline to electronica 2026",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:41:15.000Z",
+      "score": 0.4599,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "437ed6922dcf0b34",
+          "headline": "TDK Brings its “In Everything, Better” Tagline to electronica 2026",
+          "source": "Embedded Computing Design",
+          "domain": "unknown-embedded-computing-design",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:41:15.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLS1BREpTeU50SmR2akRnQ2UxdHpVSTZOc0JUSXBSQkZ4Y0Rvb200OEpWRFFCTjJ3d1MwdWltQWZycWNVbURtLWZCamFRa2RnOXBIV3JNeTJVSkZOeUR1bGtPbkpsemxNaDBMTUNUcXdFQWRvYWJZZHlmRnEyNEtWcEdSSE1BS3ItRlRKMmpvSmZ1b3BEODE5ZnFqSUhhRkJZN2VPSHVNcmFIZUwyblgwMTJZRndmdHZPVDhLYzA2ZHJDdw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "06f9489a8082a003",
+      "headline": "£5 million grant to establish new laboratory for AI-assisted mathematics at Imperial",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:40:12.000Z",
+      "score": 0.4596,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4eee3afc5a381335",
+          "headline": "£5 million grant to establish new laboratory for AI-assisted mathematics at Imperial",
+          "source": "Imperial College London",
+          "domain": "unknown-imperial-college-london",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:40:12.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTk82WGlVbDNidG5aN2FRZUxKMzRRN3VfWlc0TUExbVp3cm5CT3pPTEQxOUJnQ2lQcXZLdUpUZk02WTZQTFJjSFpiMkg3NVdsc3lQSDc2WHY0cFhNUXF6SHNwS1N2YW5TZW5kSGFIb2RlUEtxLV9Ub0RteUw3djY0QTdESlZjRmZtYlhFZ05EWGFiVXVxQXpZeVlZMXJKVGM5ZDNTVmNFM0pUaVVkc0U4M2ltdjlSbEM4RGdiYUFpSHhTRW5FSTFIU1hqUmlkNGhfbVVhRV9TeEtuemRONVZhc0RBQTcyc3M?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f79dd65fe68f61a5",
+      "headline": "Before the storm: Doctoral student earns international recognition for AI research on cognitive decline",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:27:47.000Z",
+      "score": 0.4565,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "cbdc31069bb6c706",
+          "headline": "Before the storm: Doctoral student earns international recognition for AI research on cognitive decline",
+          "source": "Marquette Today",
+          "domain": "unknown-marquette-today",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:27:47.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNENBYjhQZlRuZE8xWGtCZUo5UlR1NmU3a0RlWjlwUzAtbDBZWThURG10TkllS3RTX0lzVXBuaDNtYXhmMmxNeWhrRU9ZMUh2VkY1aGU1QzA1ampYVzFCQS0yMzNOc0xzTHBDa3FhU0hKWkN0SVdiR19UejNuSV96MTJzVTEzbFJMeTByZWdKTFBWbTVCYjdwemNNTXRFYVQxQzVIN0luSXAwZHI0WktyMjB5SUVqR25WVUliOE81V0JHM3BpMXRsMDVtdUpoRVRZMUo1Q3RB?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "4c94afe986ba370c",
+      "headline": "Oracle HeatWave ML fuses machine learning with database",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:25:59.000Z",
+      "score": 0.456,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "6c18dc008cd72bfc",
+          "headline": "Oracle HeatWave ML fuses machine learning with database",
+          "source": "TechTarget",
+          "domain": "unknown-techtarget",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:25:59.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWdUSW9LWWItRk9sTFZreVBJZTZvcDR4SDBJeE1vTjlCaWlURndqbEJ2TU9fWFJHcnB3UHhERE83M0ktMHp4c1hmNHFmYjdwREhJZkNNYl82VFRkdkc4ZDV2MlVKNGpwSjgxVk9wX0R5Nm9HRXFDNi0tcy1ZcVZfMU1RbWNQUkg3MlRFTnlacnpMVU5DWTJLT1VCUQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "29f773ba6c4fb7a7",
+      "headline": "Institute for Energy Efficiency invests in energy-efficient AI, data centers and quantum technologies",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:24:02.000Z",
+      "score": 0.4555,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "eaf508294c7230e9",
+          "headline": "Institute for Energy Efficiency invests in energy-efficient AI, data centers and quantum technologies",
+          "source": "UC Santa Barbara",
+          "domain": "unknown-uc-santa-barbara",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:24:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmpjakotdWVSZ09NM21sd3VWNUEwLTFwQk1SaHpfdTV5TGkwOC12Z0xSOGRfc2d4dkhFMVYwbl8tV1Z4VG5OU0c5QVQwS3JiVV9ieGx6TDViX1M2SWdhV0dNTXdjcW5CVXM0ZjV0a2dJejR3YTNXcTJqbkVOX3p1a2dZUENXYXE5eV9wU2pmU2xINjY3Q3lmTzJHUzI3RGJmLXZ1eHVOVDBPejY1bW1GalBiYm0?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "6368e1b072820c8a",
+      "headline": "Google DeepMind Rolls Out Genie 4 World Model in Research Preview",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:21:02.000Z",
+      "score": 0.4548,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "19330cc0bbf4aefc",
+          "headline": "Google DeepMind Rolls Out Genie 4 World Model in Research Preview",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:21:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHN4SmZSeVRRQkVWMjFxdVAtTnd1MzRJSFZXbE9Cenc3U2RCeTFnZjRWeFo5RGpaZUxwZEV5ZW9vaHBkRUFMS19HVFUtdEhmcV9YQ1A1MHI0UWlxNENHNE5DaEI5VzRsOTdCejZBNlFaTlh0VkNQRGhxTnBRa1lTUlhTX0lyemlHNWxwMExsZ1E?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "c3662cb01e6512a3",
+      "headline": "Formulation AI From Zero Data: AAPS PharmSci 360 2026",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:16:56.000Z",
+      "score": 0.4537,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "a5ed16e648ef3176",
+          "headline": "Formulation AI From Zero Data: AAPS PharmSci 360 2026",
+          "source": "PharmTech.com",
+          "domain": "unknown-pharmtech-com",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:16:56.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEtyTXJjY1YyOFF3THVZVk5LNDZqU3ZhXzlmZ01IcHR2cUR2NElBYmNmWTV0c1dpZGZpeXBsUFpBQ0JZS2d6Vlp0VV9YOVkzWWtpUkJaaFlZRFBrb3czXzg1Mm91akpvRWtxTHZPdHRmT19EOTNpdjI4UzdueG1lcFVHc1ZfOW9vSi1V?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8531236a64ae7ae6",
+      "headline": "AI talent war has quant firms racing to recruit top talent",
+      "category": "general",
+      "publishedAt": "2026-10-27T16:13:30.000Z",
+      "score": 0.5362,
+      "publisherCount": 2,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d747682e21b8d910",
+          "headline": "AI talent war has quant firms racing to recruit top talent",
+          "source": "Staffing Industry Analysts",
+          "domain": "unknown-staffing-industry-analysts",
+          "category": "general",
+          "publishedAt": "2026-10-27T16:13:30.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXhOanpuRkFLd0g3VnMzRzhtNWpaN3cwcmUySkZGdEJVRjQzX0M5Q1F1MjJPaUZRa013eURSbTZvOHlhWjZKWDBTV3FqMWxJeFVqeXdzdnRNbExfWGg2NjlQU1hQNlJ5QWJLeGs4WjlNSHd2NlV5YUpaZFpUb3NWY0R6NGlQX2gxZk1ZUHVfVGhtT1hvVjluQVBNbGxxLWQ3cDhaYmdCYVVRdFJPZEpHWlpHRQ?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "1082579dbb5fe3e2",
+          "headline": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
+          "source": "Bloomberg.com",
+          "domain": "unknown-bloomberg-com",
+          "category": "general",
+          "publishedAt": "2026-10-27T11:15:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2pKdFhxWk1LRTJxYW1PSTA3STRGOHBhRVZYSTZ0TDJPbDV0elBMNHVFMnRMNXNveWdTZGc0bVFQTi1uN2VWamNTSGhDREFyWjI0blRvdHd3RE1GeEZ1RjhrdkZ2Tm41eldBT3ZVTm5zOHhyMWV5M25fNkNaeUg2TlpIajR2bnR5ZTZvQlh3VWpOZzFWcEVTR09IZktNUkNxcFB5N2R1UzFkNnRDVHRsNw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "c456772d0eab4530",
+      "headline": "Military AI market to grow to $45 billion in a decade, study predicts",
+      "category": "research",
+      "publishedAt": "2026-10-27T16:11:47.000Z",
       "score": 0.4524,
       "publisherCount": 1,
-      "featured": false,
+      "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "94f245674df0bfe1",
-          "headline": "SuperEvolution AI Unveils 36 In-House Developed AI Research Achievements: Full Public Access to Open-Source Codes, Verified Experiments & Complete Generation Trajectories | Xinglian Portfolio Latest Updates",
-          "source": "eu.36kr.com",
-          "domain": "unknown-eu-36kr-com",
-          "category": "general",
-          "publishedAt": "2026-10-27T03:22:11.000Z",
+          "id": "df6c31e1343c0cc0",
+          "headline": "Military AI market to grow to $45 billion in a decade, study predicts",
+          "source": "Military Embedded Systems",
+          "domain": "unknown-military-embedded-systems",
+          "category": "research",
+          "publishedAt": "2026-10-27T16:11:47.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96bjl6TVJlM0RvYjZJdHNWeDhPaWpCMjZHRGM1R0YtUEszNEV4VTFEcF9RQ01WeDQ2OTUyZ3NIWktndGVrbVFIcmtUb1V0UjZrbXlZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMThjOEtoVG1hUjFZOTlkclluSmJ5V3Z4dUZnRF9GYUExZGlUMzU4R2toaUdhc3pCc2dsYTJiWG1CU1NpR2I4aXB1ZmhxOWhUYWlJNjdrZzRwQjBnQU5ndVVwMXdtUGFoZ0JEdF9wYklialF0dF9JMUVFUW1zMVppdzB4bGMzdl9fMndEWEEyWXdmSnlKT2k2S3I4OEkyb1ZSTU5mZHBkenRKUlI2di1HTlRsRE5YczQ?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "ae4289feaae9d21f",
-      "headline": "Demand for AI skills in Singapore more than triples",
+      "id": "3879c652808a8ca4",
+      "headline": "Machine Learning Screen Finds Everyday Flavor Compounds That Activate Human Irritation Receptor TRPA1",
       "category": "general",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "score": 0.447,
+      "publishedAt": "2026-10-27T16:04:57.000Z",
+      "score": 0.4507,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "2c1cd6fc85deb21e",
-          "headline": "Demand for AI skills in Singapore more than triples",
-          "source": "FutureCIO",
-          "domain": "unknown-futurecio",
+          "id": "ba7235cab18c8c1e",
+          "headline": "Machine Learning Screen Finds Everyday Flavor Compounds That Activate Human Irritation Receptor TRPA1",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
           "category": "general",
-          "publishedAt": "2026-10-27T03:00:00.000Z",
+          "publishedAt": "2026-10-27T16:04:57.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2NCTnhkNzRBbjFpZjEwbmJCQkNxcEc1c21Mb3gxenl5TVk4TEM4OG1jSFB5OUJfWk5GcnlVWGFjSmhuSHBXc2JSUzd1SkpqR04yeE1hRmhvbUtHbk1QeW9FNllEY2lNMTZEMlR6bnZDVndEMDc2aU1OMWNIY2ZNVA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkU3eTdpbk40NVc2MzMwNjJQakpSTURGYzNoR3NkQXJZQlhueU5ldFg5LWdTcl9naDdaQ25SbkdUdDUtendidE51UElzVG5ZNXRPd1dnQzhXaEhhN1J3YnBmcHRKNW92T29LY19lUGxyQWNsREV1azE2Yko1RmpSLTNLUS15a3RLYV9OcVppT1JGcVdHWFBPb2lZUko3czRtY01jTDhQRmVta251SVpWQ3dYYXVxNFEwU095WEEtVll4Y1BP?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "e43a79f7e1393a50",
-      "headline": "AI will reshape, not replace, Indian jobs: IIT Madras study",
+      "id": "0cdac2effe0b1058",
+      "headline": "How ML Optimizes Drug Formulation",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:56:56.000Z",
+      "score": 0.4488,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "181de4b58bfee80d",
+          "headline": "How ML Optimizes Drug Formulation",
+          "source": "PharmTech.com",
+          "domain": "unknown-pharmtech-com",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:56:56.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIdDlXX1BKazlpekZqeWhfQzE3YWZ3ZEN2aEdMNFdvQVctWFFyamo1STAxQjZvM1otVnRRaWczTnVXbVFKNzBNeEFFVFZWU3VONG5HUHRoUkdOQmVwRG45ZXdFQlhxdXVwbVNCNDdoSFN6MXZX?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "fef5a7c2d85a0649",
+      "headline": "AI Opening New Frontiers In Biomedical Research: IIT Guwahati Professor",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:52:33.000Z",
+      "score": 0.4477,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e70acab1814d83e5",
+          "headline": "AI Opening New Frontiers In Biomedical Research: IIT Guwahati Professor",
+          "source": "Deccan Chronicle",
+          "domain": "unknown-deccan-chronicle",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:52:33.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTXd5SXNsZWRmSEVBaEo5SGZXWmJSRVQxRXRrWmFLNE5LbmFlWklhd3dJUkI0STh0cDFmR2dOMG5FRW1GdDlGamNFSGtzTEE1VFdPYWdtWnJ6MGFrdnlVZEhpTGJ2QTFubEdwZUNSZVFZRUVSdTlTQ1hCTGZYeUNhSEY3RGgyYlUyVlRKc25zRXBxZ1VEMVUyRUhFQS1FVWNfMktpaVdjQVFPanctbGl2bU1tWW95Y2sydkx3UkVFNlMzMmFaUEF2SEt5Z0E0b2tJU21yd3psanZFeVYtaEHSAd4BQVVfeXFMTU13eUlzbGVkZkhFQWhKOUhmV1piUkVUMUV0a1phSzROS25hZVpJYXd3SVJCNEk4dHAxZkdnTjBuRUVtRnQ5RmpjRUhrc0xBNVRXT2FnbVpyejBha3Z5VWRIaUxidkExbmxHcGVDUmVRWUVFUnU5U0NYQkxmWHlDYUhGN0RoMmJVMlZUSnNuc0VwcWdVRDFVMkVIRUEtRVVjXzJLaWlXY0FRT2p3LWxpdm1NbVlveWNrMnZMd1JFRTZTMzJhWlBBdkhLeWdBNG9rSVNtcnd6bGp2RXlWLWhB?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f95612841ccfb09b",
+      "headline": "Quant hedge funds expand AI research investment amid intensifying talent war",
+      "category": "industry",
+      "publishedAt": "2026-10-27T15:48:40.000Z",
+      "score": 0.4467,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "1ee0fd61d9b0fe7c",
+          "headline": "Quant hedge funds expand AI research investment amid intensifying talent war",
+          "source": "Hedgeweek",
+          "domain": "unknown-hedgeweek",
+          "category": "industry",
+          "publishedAt": "2026-10-27T15:48:40.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbl9rM0FwaHoweFBrZzltUWJpdnhaWTlpWHJ0UzV3LUhSYlJfSnlYSkl5VjA0dWV2MXZGV3UwMkJ5WGdMRzd6MGsteE10V2hwZGxmYW9OeXNWbTFPbTZaM3paWUczRElFaUU5Zkl1djdac0NBUERDUWRyNFpwdUFBTnZ4ZVV5bEt2a1FOS3lTSkEteHVkT0JtOWdHYWEyYUI2Qy1INGpR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "7002933cff4351ae",
+      "headline": "AI Disclosure Proposal Targets How Models Help Build Their Successors",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:45:00.000Z",
+      "score": 0.4459,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e636fd884d5ec75c",
+          "headline": "AI Disclosure Proposal Targets How Models Help Build Their Successors",
+          "source": "PYMNTS.com",
+          "domain": "unknown-pymnts-com",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:45:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEwyZW5DVWtqTlZENFI3TDRjQXFWMmV6alJoZFYtb0NCZXdPblpUSFFndXBvWVJBQjYwTXkySW94YkVsdHZlaG9aZXBnVXVRUFRtV3JIQjVMYngzOGNRTmlfbXN3eTVIblE4bVZpM2p6WDBEZ3NMLVNXQjlvS3J5eTBYMnBFYXJGcEJocFlra2pvRm82UVZ2SXE0SmMzQjlUUlhCMEVpMzR4aXprd3NwZXFnc0JBVWlSSThqdzdnZkhwNllHTXc?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "5bf3ae904d37493d",
+      "headline": "Bringing AI to the data: the future of privacy-compliant cancer research",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:44:40.000Z",
+      "score": 0.4458,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "fcf6cf7eae776b8c",
+          "headline": "Bringing AI to the data: the future of privacy-compliant cancer research",
+          "source": "European Society For Medical Oncology | ESMO",
+          "domain": "unknown-european-society-for-medical-oncology-es",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:44:40.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX290MFRrSVM4YXlHRmVfOTFzdnIyN3hnMFl4M0gxNXo1UVd1Y3k0SE1oOWgwSTRRSnNTTnB0ZGo1eFNQU3p6Ukl6dzJLcW5VN3IyaTdaMU52YUtMSDJ3UWdHWjRlSzJLa1FIZVFtUVhxNjZSRE9KbmQwaGtLWnYwdmRGM0RlWHF0VzEydVVpQndXcHJaZ3pCdWhwc1o1UTh4cVVKWTBNeGM5aTRNcjNzbmx3VHQyVkE4M3c?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "769d637243cadeee",
+      "headline": "Machine Learning Outperforms Design Codes in Predicting Concrete Beam Shear Strength",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:39:36.000Z",
+      "score": 0.4445,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "00e7fa5682652baa",
+          "headline": "Machine Learning Outperforms Design Codes in Predicting Concrete Beam Shear Strength",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:39:36.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMk5GZXI4OEE0a1VjZ2luUDVnaDBTeUZzdklFSEs3MkttYWtYN3FIYTNXOXdhMUtfenBNVnpPVWdneEdqeGw1QXRlcVBJWDItMlplQ1p0VEFERnlDVGp3OFhrSlFEUW8wT3Rtem10STEzVGhnWnBFV0R1WHlYaVdQM0tZZzd4a1RoNkxSMTdJR0d0cW1XWURXN1JBcmV1QUFNZEF4TVV5Q0tFUXZMaFE?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "251b8e1ae6b797df",
+      "headline": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:27:00.000Z",
+      "score": 0.4415,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "ebdea15a4aaddbc0",
+          "headline": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
+          "source": "The Guardian",
+          "domain": "unknown-the-guardian",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:27:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbHVZRnFMZ3RKdmREOW9PaTRrdURtSVJQN0NWcFhJcUFXYlNuVzNpajdYVVFPWjd2enJ6bmh5TUgtVWVXTTBvOWFVS0x5YXlmeWp1Z1NuaDJnM056RjRudXFuWVQ0bllKdGNsTFlEbV9ia18wZjVrZ0JuU1hkOHYtNHJqZThRRU9lWnhzS2dud3ZtWjJD?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "135d6ee0ae395611",
+      "headline": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+      "category": "models",
+      "publishedAt": "2026-10-27T15:14:55.000Z",
+      "score": 0.4386,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "b83884add02f4b6e",
+          "headline": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+          "source": "Google Cloud",
+          "domain": "unknown-google-cloud",
+          "category": "models",
+          "publishedAt": "2026-10-27T15:14:55.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmFHdjgxSllxUXBrQTBJSEJXWXdqLUYzcHM1TTRkZEpMeEwxMHZmVGNkd0hCMVlHb0VrdHhwUzJLQnEydFBvLTZvcVU1TVdaVlFVUllxQ2NQM1pmY24yRFRubjViLU9ONkpDUEhPVUMyU0pRX1hBRzVrOWtrTXFCRDZkcDl1Nnp0bmVqT0NTMGxZYVZ4Z29WSmh3V1A3NGRsYzBDWTNSVm9leV80cTlnYk9Ib2JQX3RzRlB6dUVNUGtUZVM1NThz?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "16f84b865cdc38dc",
+      "headline": "Artificial intelligence in a Jesuit University: A student conversation, Nov. 4",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:08:29.000Z",
+      "score": 0.4371,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "254dd0d5981cdcdd",
+          "headline": "Artificial intelligence in a Jesuit University: A student conversation, Nov. 4",
+          "source": "Marquette Today",
+          "domain": "unknown-marquette-today",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:08:29.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3VETmdCQ1JGTUxiOG9jcERaY1lpbFM1RnNxaHJLWVhLaU0wQXJ5cjFMMzA5TGwwWUNhUlNDX3NoVHFXTVNuUjVaWlE2V2x0NDRrZXJWcG5vZVhxRERVN0F4WGY1R1htYWRZcUV1VGRzdDZqd3FNdjUtTUtra3dVd0dNUzZIZ1BiNUg0Zy13QUhyS3ltbTE1bUlQUW8xd1JEUWcxOG1yQ2ZtMkJnZFFBaXJR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8bfccb622996566b",
+      "headline": "New Research Reveals Gaps in AI Safeguards, Cyber Experts Discuss",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:00:00.000Z",
+      "score": 0.4351,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "109c5cc2ba90207d",
+          "headline": "New Research Reveals Gaps in AI Safeguards, Cyber Experts Discuss",
+          "source": "Security Magazine",
+          "domain": "unknown-security-magazine",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3hteGZDSnNHWHY5Wk53LUNFcVBzN3FaSmY1RUIxZW9yd25TekU3UnNINU5IcTRMbEM3VmxPcjR6WFF1UU9TOHhKOTJlUlk3dXJyYzdFdExPeHRkMldhSDJWSGdOWVh5a0l4UmdSOEppQ3FGTzVVS0xlclJmMTVmMU1UQnlPemt4eTJFMTZwMHhuYmxDYXFMbGo3OTVNYmMyeEx3dFhTZ0VDcUF2Wm5reVcycw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d529a1946fa726e1",
+      "headline": "Artificial Intelligence (AI)-Powered Tutoring Bots Market Insights Report Analyzing Demand TrendsCompetitive Positioning",
+      "category": "general",
+      "publishedAt": "2026-10-27T15:00:00.000Z",
+      "score": 0.4351,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "aa6d7990775de0fb",
+          "headline": "Artificial Intelligence (AI)-Powered Tutoring Bots Market Insights Report Analyzing Demand TrendsCompetitive Positioning",
+          "source": "EIN Presswire",
+          "domain": "unknown-ein-presswire",
+          "category": "general",
+          "publishedAt": "2026-10-27T15:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSFF3WTJGYXdWWTE5LVdCLWNjMThoRHgyQVp1UUczOGM4dWN5WF9FbDlVWnc0Mjg5UEtJRWVCUjdCWG4zby1CUEwzQ0U5dGhMUms3TWU2dS1jcXVTNTZ6MzFhcTJtdDJSaUJSbUs4M0NOdlZnNjMxcFNqWjhORkhsZmNKY2Z5U2tfY0ZKd2ltcllpVWFKTzg5OUl1VWNXeFJ1dGd2R0xieFk0RkxQRm9EMWVFTnNnYXpPQlpIeUUwUVhpVFBGdjRidXZTa2VhektjUXpWRnB0OWpVVkgzYXRodkhrT1d3bkxxd0lsOGNtWXdVakt3Z0g5RA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "b13ea27396d2d214",
+      "headline": "Confident Science Papers Sway AI Judges – Regardless of Merit",
       "category": "research",
-      "publishedAt": "2026-10-27T02:52:37.000Z",
-      "score": 0.6118,
+      "publishedAt": "2026-10-27T14:59:25.000Z",
+      "score": 0.435,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "0a3ac433cae3f859",
+          "headline": "Confident Science Papers Sway AI Judges – Regardless of Merit",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
+          "category": "research",
+          "publishedAt": "2026-10-27T14:59:25.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1hOeEVBU2lEczVtZ3J1QnFzQVNJVWlyaEJXUlJ5NzRvSjZKT09OMjhXU2toejN5ODhSemJiZnYzOFJKQjZtaThfbzVtOGZtY012NHZyR25LVWVieGRMNEc2eGlCSHFvV1MzZXg1Y3VWRGJuQ19OTDVZTXRVcUhwNTZSN3ZYLWtZ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "4f1dd44829f2dfd2",
+      "headline": "Data-Driven Analysis of Switzerland as an AI Hub",
+      "category": "general",
+      "publishedAt": "2026-10-27T14:52:31.000Z",
+      "score": 0.4334,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3cd1bf8ba4bbdd71",
+          "headline": "Data-Driven Analysis of Switzerland as an AI Hub",
+          "source": "Startupticker.ch",
+          "domain": "unknown-startupticker-ch",
+          "category": "general",
+          "publishedAt": "2026-10-27T14:52:31.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRF9yMDRjU1ZrN2dTNVkyTG50UDRheUgya0hqU21KdHUzd2hfelFRVkItZzktY1BpTS1XX2RUM2d2M3dWa2xwUzI2YmhOVmd3RFFtSlFpSmhvVUpEbTlQUkdVdUlvS1FYQ2FOT3ROS0U4NjljY25tT29wMFBHLUFicng4cDg5cVVSZmZLVXVn?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "a65a0ff18b7dec57",
+      "headline": "Survey maps how LLM agents moved from single tool calls to multi-tool orchestration",
+      "category": "models",
+      "publishedAt": "2026-10-27T14:52:07.000Z",
+      "score": 0.4333,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "a55f4a1ccde11d3e",
+          "headline": "Survey maps how LLM agents moved from single tool calls to multi-tool orchestration",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "models",
+          "publishedAt": "2026-10-27T14:52:07.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbWV0RXN6NXFIeWdVVzYxcUhTZTAxQ3dGbS15M2Z6RjRSa2Z5TWsyNjEyLXR3a2JMaEg5WmVMbEh1UkVtRko3R3F6N0R0bi1VLUpXVWtXSHNzVklKREVYQldlVlNqRkhvSU5weVo2bzVEaWkzLUNqaGR3Q0g0YjQ5TmpnUFlNcHdnMG9nR1BYNFJsTFd0SzBqUlRpamg4VkFxaVhpQzBqOGppeEpF?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "5f84e60eca2403c7",
+      "headline": "Recap to Unveil AI Research Workspace at IXDC 2026",
+      "category": "general",
+      "publishedAt": "2026-10-27T14:47:25.000Z",
+      "score": 0.4322,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "56dfe5e80f086d1b",
+          "headline": "Recap to Unveil AI Research Workspace at IXDC 2026",
+          "source": "HRTech Series",
+          "domain": "unknown-hrtech-series",
+          "category": "general",
+          "publishedAt": "2026-10-27T14:47:25.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUs0SjIxRkxHSHA1dkFua1VCR1F2NHZlQ040enBHY2U1ZkFfV1EteXp2UWZyRzM2WkJPN1JPMXl1N2pSR3AtMk9CMnFJaW9YLTRPMkE5cDFrRWM1dmlLMldxdDAwTmR2WENTOTVSS1AtbXBPRG4xS3ZMSklNSkE0UWIwVG9sVnBfZlVNSlE3Z3pUVHR0ZmFrWlgyb183cERJQ0ZLSUdn?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "4d7db239d23564a9",
+      "headline": "New neural framework could make LLMs more empathetic",
+      "category": "models",
+      "publishedAt": "2026-10-27T14:40:08.000Z",
+      "score": 0.4305,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "21f365527dadbd4b",
+          "headline": "New neural framework could make LLMs more empathetic",
+          "source": "Tech Xplore",
+          "domain": "unknown-tech-xplore",
+          "category": "models",
+          "publishedAt": "2026-10-27T14:40:08.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zRmdmVExqaGtYbm9CZ1otbnk1T2d0S0hMU1JPSEVSNFFnNDlONUpwOHV3MVlPYkh6NmlHeWhiX05KVHFUaktWczlLbXRpUVlzOW9CSHdIVVJyejdCQmxqZkVUNHIzMHRDREw5YWFtU1hJRk1QMHFUOEEwWm9RUQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "591f6b3639a6a70d",
+      "headline": "3D Point Cloud and Machine Learning Help Pear Growers Thin Fruit Smarter, Not Harder | Newswise",
+      "category": "general",
+      "publishedAt": "2026-10-27T14:35:00.000Z",
+      "score": 0.4294,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "90a171f8d973da35",
+          "headline": "3D Point Cloud and Machine Learning Help Pear Growers Thin Fruit Smarter, Not Harder | Newswise",
+          "source": "Newswise",
+          "domain": "unknown-newswise",
+          "category": "general",
+          "publishedAt": "2026-10-27T14:35:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjJseFNjbTFuUEhkYmloQ1B6dnFxT0NOOTUwaWZNX2Z2eFZxcDQtTkxzWUVuWHdaOWN6QjdjY191cUxpejd6Qzg2LTVtUHlOZGMwSjBiMUNXajNIOHpVNHo5Njdjd19RQXQ5aFAtZzh2SlF6MU5UaFYwZTBuckQyWU00bmZHT3FaRC1iY3o2SU95UVlXWlZybzZ0TkhMaFZ5S2RpU1M3UGlsU2ZRMHN6cWtkUVlndkEy0gG4AUFVX3lxTE1yMmx4U2NtMW5QSGRiaWhDUHp2cXFPQ045NTBpZk1fZnZ4VnFwNC1OTHNZRW5Yd1o5Y3pCN2NjX3VxTGl6N3pDODYtNW1QeU5kYzBKMGIxQ1dqM0g4elU0ejk2N2N3X1FBdDloUC1nOHZKUXoxTlRoVjBlMG5yRDJZTTRuZkdPcVpELWJjejZJT3lRWVdaVnJvNnROSExoVnlLZGlTUzdQaWxTZlEwc3pxa2RRWWd2QTI?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "10c22d8ae28ec53a",
+      "headline": "Machine Learning May Help Predict Diabetes in NAFLD",
+      "category": "general",
+      "publishedAt": "2026-10-27T14:03:45.000Z",
+      "score": 0.4224,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "8d8828e6f1ebab65",
+          "headline": "Machine Learning May Help Predict Diabetes in NAFLD",
+          "source": "EMJ",
+          "domain": "unknown-emj",
+          "category": "general",
+          "publishedAt": "2026-10-27T14:03:45.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1MtVnJWYW5SWUxUOWpORnNoZ1VsaEtlcklqZGlKc29zM2JUV0dnNi1tcmRsZkljYzg0TUtvVkdfTjdYYWpaQnZqS3dscU40QVQ3Z3VzN2pzRWtIVVFIcE5SVUpJX2tXSVlSa0xkMmhrZUdkdl9pNUJud0ZBcHdKVnd0TDNZcnBoWXotbGhseVFBejU2WHBLbQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "caf4e9ce5cadcbfd",
+      "headline": "AIs fail to reliably detect AIs in reverse Turing tests",
+      "category": "general",
+      "publishedAt": "2026-10-27T14:00:01.000Z",
+      "score": 0.4215,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "ef941aa7dfde2d23",
+          "headline": "AIs fail to reliably detect AIs in reverse Turing tests",
+          "source": "Tech Xplore",
+          "domain": "unknown-tech-xplore",
+          "category": "general",
+          "publishedAt": "2026-10-27T14:00:01.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45VjkzQklFeUpnQWpoaHBwWGdfQkQtQlJQR3NFaUk1cW4ydUZNQWZPR2lSUnJZcGU1SGJlQ0RXQzVUQ0ZxZWwyQ0JYVW1PNUlPX0RkSkxjc3VybE5pV2h3UkxvLXZKa0ZNZjllT29ZLU5kaWVEMi1n?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "ccaf35ab7250d592",
+      "headline": "Edge Sound Research raises $2M to give physical AI better ears",
+      "category": "general",
+      "publishedAt": "2026-10-27T13:41:51.000Z",
+      "score": 0.4176,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4bc1c1ccdbbd1d02",
+          "headline": "Edge Sound Research raises $2M to give physical AI better ears",
+          "source": "Dealroom",
+          "domain": "unknown-dealroom",
+          "category": "general",
+          "publishedAt": "2026-10-27T13:41:51.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNGlJVXVWUzRkWnFHSVN1YkViUVpfQ3NVaE5OVjV2LWRjb0p4X2xrbl9UVUoyeUtiU2VJaUhPSVhMSWpXTjZkQW5JaVJHMDNuRjVhVzFGWjF6ZmVyUnZzQ1dJMHVZbUV2SldiMHd4bjlQU2ZKUktuNVNyOEk5YjV3V1hQcUhIUDNBZHltYlFXQUpCa3lqMjNBd1Z0SQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "554b1344f05b3e8a",
+      "headline": "World's Best Employer Combines Artificial Intelligence and Research to Evaluate America's Employers",
+      "category": "general",
+      "publishedAt": "2026-10-27T13:35:00.000Z",
+      "score": 0.4161,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "a6ea8fa76b1346e0",
+          "headline": "World's Best Employer Combines Artificial Intelligence and Research to Evaluate America's Employers",
+          "source": "Yahoo Finance",
+          "domain": "unknown-yahoo-finance",
+          "category": "general",
+          "publishedAt": "2026-10-27T13:35:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOE1oWlVPNmQ3RzJ1RjYwcDVRS3lhVEZnLWNxVlhnQ293dm83dkp0NTVIVmtoNnlkWlBMQnJsaGtCWkw4NVlfUFJiaE5mZ29TZXhublNNc3RucUtuZW1HTW9va1VFM3JGZ2tVZmE3WnhMRGRuTmE0RllfaWJQVy1ROGVwTmlzNjlrTU5zQ3M1ckpMMDlhcjJZakJkUnlZRlotWmVibFlvaw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "b12097a7a6df94b1",
+      "headline": "LLM defends Prosignal’s appointment for TuJu app, cites investor funding",
+      "category": "models",
+      "publishedAt": "2026-10-27T13:34:30.000Z",
+      "score": 0.5826,
       "publisherCount": 3,
       "featured": true,
       "lead": true,
       "articles": [
         {
-          "id": "858a6a5d9149ec57",
-          "headline": "AI will reshape, not replace, Indian jobs: IIT Madras study",
-          "source": "The Tribune",
-          "domain": "unknown-the-tribune",
-          "category": "research",
-          "publishedAt": "2026-10-27T02:52:37.000Z",
+          "id": "c321cb45370db54c",
+          "headline": "LLM defends Prosignal’s appointment for TuJu app, cites investor funding",
+          "source": "The Malaysian Reserve",
+          "domain": "unknown-the-malaysian-reserve",
+          "category": "models",
+          "publishedAt": "2026-10-27T13:34:30.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzBjc3MydEdZVGRZaFY4a3h3Z2pSQ3VCSDJ5cVZIWVlHNmFORUVQcHEzb1dkbS1uMWhpcWZFT0I0RVowbHA3TzhkVUUtak5xSDR3bmltd3hNOWYxcTVRb1hxMlZJRUZ4UjFhZlVHd1Zqa1JSRTZPN0dFRGx1WVd6Y3VNb3I5dDgtdTYtc3Q0aExSWkhVbFRVOVdoR21PTk5yWTViWGo2VEUyRG5TZFhN0gGzAUFVX3lxTE0tY19SVG1GYkZJbTZqTDNPYl9kbTlVYm12SkZZMXJUZXRabVBJaG13Wjhxdml0SllLaGRlMWJnTUZ0N1BvenJTQkJNNkpFeE9ZWUtseXJOVEdGZ0pKUDhBakpoR3U4Qk5zU0I2QXdKb2lNUGYwRWJoYWxhcUQ1NUVCYzNYZDNhaFZqWnlyS0VrZ0pLTk1PWFl3Mm1Ga3pUclY2NVVwb2ZkdmpPZ1VYUER4UVZN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXpoSk1BbVQzMmh5NDZlRXBKek5CMlRNc3I4c3BjU1plbThBQ0tuQWswenpsNXpqM0RrZkoyXzFNNWFKUTcza3Ywa2lCU3JFV1lPWGhxaFpqaFZNTjdPa1lrR3JFZU9mTlM5VE1PQTc3RWJXY0JETnJYUktYZmo5am9Ed013cVcxZmxJaG1iRWFEYmdFdHEzVTFYNkdCVHRqRFJnZUNRUnB1Vk9JUkZHVkhLT0I?oc=5",
           "provider": "google-news"
         },
         {
-          "id": "8a3384509d86fb0a",
-          "headline": "Entry-level jobs at risk as AI reshapes India’s workforce: IIT-Madras study",
-          "source": "DT Next",
-          "domain": "unknown-dt-next",
-          "category": "research",
-          "publishedAt": "2026-10-27T01:57:55.000Z",
+          "id": "ff974c6c5105ed32",
+          "headline": "LLM defends Prosignal partnership for TuJu app",
+          "source": "Free Malaysia Today",
+          "domain": "unknown-free-malaysia-today",
+          "category": "models",
+          "publishedAt": "2026-10-27T02:45:00.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjdtbTNIMkdQYXJEWFlQc2RNd3hmT1lIVU1DV3o4UU1xbXNnUWFMSjJFNHV5SjREUnVnYlFneVRmMG1LZmEyYkVoNWtUV0pNUzVWbldkVkZjMHJTU28zRERKNkVtM1NpUEVXa3YyVUVZUXdPdlhkdVc4NUdiNXA3UWRrbWRvcFdyWENMaVNCVGFMdEM1eGw0dFBZM3p4aHl0RDU0bWNDNEtNZkI20gG6AUFVX3lxTFA3WENNMTB0TWZGTXBoZU11dWRWQ2gwemg4NWxsT2pZNV9FdlBaYVJWOVdWWm9fQkhvRk1ONkZpYk1HWG9MRzJVTzNyaHVPZzNZdlJRbUVCWG0yRUp2Tm1NaGFqalhJcVJwbUJPcmliT0Vqckg0MWg0VTZkMFFPYzRoZXpqRzU5NVJOSlcxVF83UFRuWldUbDR0STJqR2VtcWt1NUoyeFdGcVRueGRpeVNCbmFiUnNXYVNaZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUNseTNHM0EtMmloLW45YnlzMzlBZGJyZFdhSlJfMlUyTmRtazlhWHQyU0JBbWJMYnVpOGFoOU0zdEJCbU50THg5NUtITUZ1VElwLWFvakpORXhUVzlNTllILVV5Z2s4QWxnbEZZdnhxcEFZT3FSOWtpWjBsbEN0MDJaMGMxTHRvVlJmT2N1SGhrbTZybF9vRjRjTjhpQUhpR0tqMU0yeXY1YkE?oc=5",
           "provider": "google-news"
         },
         {
-          "id": "7717430daa99130a",
-          "headline": "IIT Madras Report: AI will not ‘take’ jobs in India, but entry-level workers face the biggest risk",
-          "source": "The Indian Express",
-          "domain": "indianexpress.com",
-          "category": "research",
-          "publishedAt": "2026-10-26T06:42:08.000Z",
-          "snippet": "The paper recommends continued AI adoption, more India-specific labour-market research and structured transition pathways for affected workers. Training must be linked to realistic alternative roles…",
-          "imageUrl": "https://images.indianexpress.com/2026/10/ai-takes-away-jobs-in-india-iit-madras.jpg",
-          "url": "https://indianexpress.com/article/education/artificial-intelligence-iit-madras-study-ai-impact-jobs-entry-level-careers-india-10936963",
-          "provider": "gnews"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "1401d292c9279b9d",
-      "headline": "AI may automate specific tasks, not entire jobs: IIT Madras research paper | Hindustan Times",
-      "category": "research",
-      "publishedAt": "2026-10-27T02:40:04.000Z",
-      "score": 0.4421,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "6990b3e8eae368d3",
-          "headline": "AI may automate specific tasks, not entire jobs: IIT Madras research paper | Hindustan Times",
-          "source": "Hindustan Times",
-          "domain": "unknown-hindustan-times",
-          "category": "research",
-          "publishedAt": "2026-10-27T02:40:04.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObzJLeWJCb0JPZk5RemRONTM4YXRjU0lGM25tRm9kVkh6UXBzakx0ZklnV3VxU2hwZXJ6TjVVVUFGR0FfNk1iSGxqODdtdEZyUHNKV0Q3dTdvOUNTWUFPb2hMNTBDMHZPNTMxZmtOWGMyTmtueEJneThsa3oycGJVNVRNM2l2MnpPSmJFVUhtWUNGT2hBTmRvZWIzNzVwVFhqcXowQ3h4VlExVVJvSlR4QldjQzM2MlVRVmxxZ2U5OUhCeDJtS0EwR2kwTFpscXY2SzB6dEdzcmh2R0tpYmZxQnVHcE5GeE1WYmJwUkJn0gHzAUFVX3lxTE1mTElDU2Zmc0k3VTF5bXIzdUx0ZzBjdk1kOFdjcENGRVk2N2tmTzVOd08yclgxUG1feXlpOTEwbVBtOTlkU0hqaDJhRURSZHNQamJUMl9oam5KN0FIbFZnOFhXNFlXMV9uazE1aGZCVGhoVlJHcEdWNXpJMXJvbGVCLW04TVhwa3RfLWE5ZnZPUGg1cWxxZ2pROHBxQ05LLTl3Z3hZUXNkV2E1N1lyZngxQmxwdmtOdkdnclJaUUVKbVRwRk1Fb0FDalVHZmVESkdodWxaRlVQcUozckJTSlUyRkNxd3JqVmhLMTBiM0xHOHdfZw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "1194844fec168d49",
-      "headline": "AI drug recommendations show bias toward costly branded products",
-      "category": "general",
-      "publishedAt": "2026-10-27T02:39:00.000Z",
-      "score": 0.4419,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "3db4d3d2826a4459",
-          "headline": "AI drug recommendations show bias toward costly branded products",
-          "source": "News-Medical",
-          "domain": "unknown-news-medical",
-          "category": "general",
-          "publishedAt": "2026-10-27T02:39:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2FtdVRoc0hSc0tYMDFCNG9PRFQ5bGVOUmcxRUlBaGFoVGlQdldKZE1HYng1YlhtbnNVR2xsTmlKbXdBTlU0cTJBcjY3NHVPbGEzUXJzY0JMY0YteG1rc0JSaGRiN0JyU3NuRFNILTBiSGNyeW5kN2s1TTlqTklCNVF1NlljYTRNcEljQUlDYlNNT245MWdZM2NJZEtsVW9zQmNwV0tZZndmV29UeWFnWmNB?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "815db0a34779e736",
-      "headline": "Penn GSE launches hub for responsible AI use in education",
-      "category": "models",
-      "publishedAt": "2026-10-27T02:06:25.000Z",
-      "score": 0.4342,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "268df4d04b4d359c",
-          "headline": "Penn GSE launches hub for responsible AI use in education",
-          "source": "The Daily Pennsylvanian",
-          "domain": "unknown-the-daily-pennsylvanian",
+          "id": "86e317647ede358e",
+          "headline": "LLM defends deal with Prosignal over controversial TuJu app",
+          "source": "scoop.my",
+          "domain": "unknown-scoop-my",
           "category": "models",
-          "publishedAt": "2026-10-27T02:06:25.000Z",
+          "publishedAt": "2026-10-27T02:10:18.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ20yVnBWWVlncktoRUZYelo5d2lHT2g2WW1JY3NYbVpVdHoyZ2xBeFhLbW9jS0V2LXhIUHlvZFl0bl9TZ1ZNX0VscFpFT0JOLXpvUE5vMklIVkZlcE84QTQ2UUZ5WWRjYThWREwzNmVpUl9NNkJTNWZ4NGhrZDVjS2JxRUlQV0tmbTJ5RXJmc01kN2YzT2RGRkVYVkdsa01BT01JLVNB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3N5U1dMYkVQc3U1c1hlQnBsckZYRVFET0l4bUhIaExZYlhjTEkyN3BiUUg5YnRKUGh0M1lwUm5WX1dFMXNjNXlJbDdSOXlrMkhUQ0Y0bTJyejNxOEZsUjhnQ00yZ3lGeUlPTVM0aTVsMGRHSGhrREthTXQ2ZkRJcDJmNS1LZ0VjVnhFWmZsRHBiMm1EbmdSeA?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "46836f5d49750797",
-      "headline": "AI Alert Fatigue: 90% Ignored at Vanderbilt [2026]",
-      "category": "general",
-      "publishedAt": "2026-10-27T02:05:32.000Z",
-      "score": 0.434,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d11a58d5d63aad9a",
-          "headline": "AI Alert Fatigue: 90% Ignored at Vanderbilt [2026]",
-          "source": "shattered.io",
-          "domain": "unknown-shattered-io",
-          "category": "general",
-          "publishedAt": "2026-10-27T02:05:32.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb1M5ck1CR0FIM1k1WVFSTlpVakhuY193MFY0LWthNlBEQUd0UjNFRXFVeXo3Y3BNbWxYVmxyaEthZ1I5TEVFZUt3VG9CT2NlTThCamJpYnYzYm5TT3RLUk1BSkt5dlJPaG9EbVIwWk9OTHZhVkdZSFo5OGw1T25oVXpn?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "04495460f9094fa9",
-      "headline": "Resistance-Based Features Boost Machine Learning Fault Detection in Power Grids",
-      "category": "general",
-      "publishedAt": "2026-10-27T01:59:25.000Z",
-      "score": 0.4326,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "4c6ab99de8cff22c",
-          "headline": "Resistance-Based Features Boost Machine Learning Fault Detection in Power Grids",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "general",
-          "publishedAt": "2026-10-27T01:59:25.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb19vamFfU0o0ems5R3VWVzJYMWc4ZjgtaDlOMlJzNWNBZDBRcm9WWHVocjhEZ3NYX29LS0tlbWY5NnQyaG9wV1lwcHg4R052QTQxSzRVY0ZIam1PU0V6QnJqb2ZKVncxTGdGTzY5cFJTX3VOcDI4YjdPSlhzZFo0d2FqODhCTDR5RGpmNHZJTW4wWlZESm5fU0dGUG10bHJuX3VHc2hFWQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "4a501bb73e219d24",
-      "headline": "AI Scheduler Learns Offline to Meet Conflicting LLM Latency Goals",
+      "id": "c81b0c0de64e707f",
+      "headline": "Calix releases communications language model on Hugging Face",
       "category": "models",
-      "publishedAt": "2026-10-27T01:59:25.000Z",
-      "score": 0.4326,
+      "publishedAt": "2026-10-27T13:18:46.000Z",
+      "score": 0.4126,
       "publisherCount": 1,
-      "featured": true,
+      "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "3b508d4071b6a74c",
-          "headline": "AI Scheduler Learns Offline to Meet Conflicting LLM Latency Goals",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
+          "id": "0394730c8315c118",
+          "headline": "Calix releases communications language model on Hugging Face",
+          "source": "Light Reading",
+          "domain": "unknown-light-reading",
           "category": "models",
-          "publishedAt": "2026-10-27T01:59:25.000Z",
+          "publishedAt": "2026-10-27T13:18:46.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDRVQnM2UVZ6aTBDcHphRmtlZzlRejBHQ05NNF92M09lcUFyTmFjUXNCN20xSzhCZ0dCa1NCeHh0ajZfdGxEbXZvMWc1VWhsZldjakNaaThHSmdOZXU2YV9NM3VpTmpzMzl6MEpIZ1FOczl0cFlKV1F3cHdvLWxxb3Q4NEtDRXowNWJNcFRQTGVGUjhW?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkZrZ2ZPcEEzcnBQWjIxdDBQN05mQ3JIQ1hQZnZuM19JRGQ1THk3TUN3N2N4QVFjaFVmREdpSDlpTm5DWUVBMEN3cUNnTE55cnY5VWlXdk5YTWZGbzNlc2tPSU92RGFKeWUwbVlDOHNHMlhGY01lNWdYd2RNazFQZGxRbTVsbHFNaUN0OHVUeVIzNnBGNGZHcWU0STgyYkRzamd1VV90WTlOajJ2cUE?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "9ec28c8d8ddff20c",
-      "headline": "Machine Learning Maps Soil Salinity at Depth—and Shows Where Predictions Falter",
+      "id": "d4585dfe24dc346b",
+      "headline": "I Tried to Fool a Scientific Publisher With AI",
       "category": "general",
-      "publishedAt": "2026-10-27T01:18:45.000Z",
-      "score": 0.4234,
+      "publishedAt": "2026-10-27T13:04:42.000Z",
+      "score": 0.4096,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "7f421ff7404c65bd",
-          "headline": "Machine Learning Maps Soil Salinity at Depth—and Shows Where Predictions Falter",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
+          "id": "dc6084f98531a621",
+          "headline": "I Tried to Fool a Scientific Publisher With AI",
+          "source": "IEEE Spectrum",
+          "domain": "unknown-ieee-spectrum",
           "category": "general",
-          "publishedAt": "2026-10-27T01:18:45.000Z",
+          "publishedAt": "2026-10-27T13:04:42.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3RlR3V5QWdCSzVCbHVQTzRHeVp3WnJFT2hlN1d0SjJvWDlmWVlBTTR1RGs1UHJwREJqRmkzRGduTi1KdXFKcUY2RUlQOFZjS0IzWHZiWUFDbmJHYXFsYXpfdkliMHpubzhvdWt3RFpPZkNiVnBKSXZkTzFCUVJ4SGZKdzRyc1FqMEIwaldDTmlKYVRZQlZVQjdYSE92MjdFZldhV2doRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sckdFSnU0Rm90NlNBeV9yY3ZiamVkajk0djNuLUpBX20tRTZpMmQwbG43ei1qS01SMFRpNE9SOURlcWo3ZEF1dWh2bjJka0xnYW9EMWhITzVIa2Q1Z2VLY2tPeXZ0YlU?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "8390fc74bc8f678b",
-      "headline": "Machine learning maps how neighborhoods, activity, and mental health intertwine in aging",
-      "category": "general",
-      "publishedAt": "2026-10-27T01:09:10.000Z",
-      "score": 0.4212,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "2b81e362a9c8eb5c",
-          "headline": "Machine learning maps how neighborhoods, activity, and mental health intertwine in aging",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "general",
-          "publishedAt": "2026-10-27T01:09:10.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkE5VzRwRFpySTFPQVRrU3ZfTGYtSXJ4UXdONDlwdVhMN2MyZHh6MVotWmh6NE4wY01nMnFVcWY2aTZSM3RuRjZQelJCdkhVRTBfVmlhemprVmdtM0x0N25ubnJnb1lkTlBwSEZqQzJuelkzeEhBZlJGV0txcVNpZks3OV9nbVVWdXg3R0h6VUFsdXZVVlo1VkdxaWVMSHEzZ2dXaHB6TDljZmplYk9aZA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "e81643fb658719ca",
-      "headline": "How We Train A.I. Leads to Rogue Behavior",
-      "category": "general",
-      "publishedAt": "2026-10-27T01:04:14.000Z",
-      "score": 0.4202,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "5d8ff15a3f099d9f",
-          "headline": "How We Train A.I. Leads to Rogue Behavior",
-          "source": "The New York Times",
-          "domain": "unknown-the-new-york-times",
-          "category": "general",
-          "publishedAt": "2026-10-27T01:04:14.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0JGYUlTQkhXOXlaYUNGV1dqTHVWeDJHWE9FdFJ5M2d2TGJ4TnlCQllSVTIzb0hvZldpN1d6UU9PSW9EUE5lOEp2VXhGMlJfMFptM1Qtd2JvQ09vNHJ5WXNQU01xMF9CeUR5ZGMweVBVZUJEbFdLQk9mTzdyYTZYLWYxWjY1RzFadE9Ub1lfaw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "604b4907ed5d0b17",
-      "headline": "Aiven builds LLM gateway to cut token costs 80 percent with open-weight models",
-      "category": "models",
-      "publishedAt": "2026-10-27T01:00:52.000Z",
-      "score": 0.4194,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "20926e57444b9929",
-          "headline": "Aiven builds LLM gateway to cut token costs 80 percent with open-weight models",
-          "source": "news.lavx.hu",
-          "domain": "unknown-news-lavx-hu",
-          "category": "models",
-          "publishedAt": "2026-10-27T01:00:52.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3B6Y3dJay1hZ1gzX05xUzdrTXQ2cUxiYzJDLWdTZklMdEg0UW5tNjNyQzRkNkxsVGtGRFFQdVhZSUNfWlFkaFNnSTV6VFozeXk1S2hWLVFwczlMUjIwUjhUV0xIOV9OOHRZd1BSaS01eGVWcl9CaTZyY0xZUU00anV6UFRCaHFqVFZ1R3BtVU9uT09sbjBldUI5bnNBRk5zV09YMHNlZkNTdzA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "ed803885cce510ea",
-      "headline": "Anthropic opens life sciences AI research program | ETIH EdTech News",
-      "category": "general",
-      "publishedAt": "2026-10-27T00:50:43.000Z",
-      "score": 0.4172,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "564f902c66754b30",
-          "headline": "Anthropic opens life sciences AI research program | ETIH EdTech News",
-          "source": "EdTech Innovation Hub",
-          "domain": "unknown-edtech-innovation-hub",
-          "category": "general",
-          "publishedAt": "2026-10-27T00:50:43.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3BOVmNkN1hKampibWxUcHc4d01FQVViVkZvT0wtbUlTcjhadjFacW9yX2toZko0YS1oNFZkSElGb0ZFUnB6NjNHSHRodndjeGprTGNjcmVtZXJ2LUFtUU9sY2ptbWRIOXBhMXE4UFoxYTh4OGZLZzZpSU95cXV4Z29yZExnVkZPcHEtQjdpd2dINlA0VTZMRkt5WEZhbTQxakQtN2djWkd3azJyY3pWSEdnelh1Vm5fUDc4dUpxNWwya0pD?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "1b1de3d553305e52",
-      "headline": "OpenAI Claims 3 Science Proofs, Taps Shepherds [2026]",
-      "category": "general",
-      "publishedAt": "2026-10-27T00:33:01.000Z",
-      "score": 0.4134,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "40910dd77084540b",
-          "headline": "OpenAI Claims 3 Science Proofs, Taps Shepherds [2026]",
-          "source": "shattered.io",
-          "domain": "unknown-shattered-io",
-          "category": "general",
-          "publishedAt": "2026-10-27T00:33:01.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVJNbTB3SzJsblk5MWlkX3c1ZW5FeXFXWnpaUzRUN25oQ2sxaDlFVGExcUxJenFIS0hLMXZibzIwaDJmVjNCVnRicXNaX1U2ZHJKVGwzVEktVWJlRkh4YVhreDdwdC11V0w0VEFNVkNTelJlSW5wY1hBMVU0dXpCX0oteGY?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "e7e1750f8bd8b226",
-      "headline": "Fathom Free Beats Otter & Fireflies ($10-$17) [2026]",
-      "category": "general",
-      "publishedAt": "2026-10-27T00:27:58.000Z",
-      "score": 0.4123,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "efb6cd53436ad0af",
-          "headline": "Fathom Free Beats Otter & Fireflies ($10-$17) [2026]",
-          "source": "tech-insider.org",
-          "domain": "unknown-tech-insider-org",
-          "category": "general",
-          "publishedAt": "2026-10-27T00:27:58.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5BSVV1S1hDZW9Vam4tSlU0TzV3Y3ZoTExaeWdxTEJxaC1iWGpQNE4wdTUtQmRGZG5aZGMySC1rNjJHbnYtN0RQSkJmNWctdzBPMmZVMGh6clVnX2tiVzY0aXJhRHJOZlhqeDVaRWZDOVo1SFNfTWJybFZPalNueDVsdi1TdmN3cl9QSzhpc2U0bUlTWWJ0M1dR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "38698f8aa3542239",
-      "headline": "OpenAI Debuts 'Shepherd' Model for AI Research Validation",
-      "category": "general",
-      "publishedAt": "2026-10-27T00:06:00.000Z",
-      "score": 0.4077,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "02fcb6e1406aff63",
-          "headline": "OpenAI Debuts 'Shepherd' Model for AI Research Validation",
-          "source": "The Tech Buzz",
-          "domain": "unknown-the-tech-buzz",
-          "category": "general",
-          "publishedAt": "2026-10-27T00:06:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEZwck4tWFAtMDZkdkh6ZG80cTZ6UUVScTNJM3hYNURBbXUxZkJiZGM5VERuYU9UUTdxYlViY1o5eUp3bTk3X3B6b1QwTS03djhSUk5VWHVEcHhwNmdpRGVJYkFMb0VBakR5WUVYVWhCQWtEMkdPaE5XSS1Ibk5sRUhsTGdjLWJQTm1hbE5na0pkUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "b6d731e0244b9882",
-      "headline": "LLM Sampling Bias Raises Simulated Security Risk in Patrol Test",
-      "category": "models",
-      "publishedAt": "2026-10-27T00:02:00.000Z",
-      "score": 0.4069,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "bc0cfe9097b87b0c",
-          "headline": "LLM Sampling Bias Raises Simulated Security Risk in Patrol Test",
-          "source": "www.tokenpost.com",
-          "domain": "unknown-www-tokenpost-com",
-          "category": "models",
-          "publishedAt": "2026-10-27T00:02:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qUmxveFVwa2xfWEYtVU1od1hZOWh4d0g5amRLbFU2dnVqT0hoZXI2VHZfVG9abTg2c1I2V3RCdTJCb2JSaEdoZnNRQzhBdEJQNjQ5MVpCNFJWVkk?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "411d08c98458031f",
-      "headline": "AI Bot Activity Strains Digital Libraries at Universities",
-      "category": "general",
-      "publishedAt": "2026-10-26T23:44:02.000Z",
-      "score": 0.4032,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "36663fc838b76d6d",
-          "headline": "AI Bot Activity Strains Digital Libraries at Universities",
-          "source": "GovTech",
-          "domain": "unknown-govtech",
-          "category": "general",
-          "publishedAt": "2026-10-26T23:44:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXo2YVdQVzRxRkI5XzEtUjZuSFJITmt5ekFMNHJ3MERZMVhyWVEwaXRyanI1Rk9wbHBKbVBnSTk2cWg0Z0k0VFdRdV9Db0ZLazhJZDctZG9SdzVsWHB1cXhsaU85Vzc3QWE2VlE4MjJTTlQ2ekFmSFNPTDhYUk03aEFCQ3F3dGd6RloxcFAwMzZRenRJVTByaHNPZnVKYzFsYVdR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "a6537758ea7f57ba",
-      "headline": "OpenAI’s Three Scientific Claims Explained: Kakeya, ETH, Quantum Fields and the Future of AI Research",
-      "category": "general",
-      "publishedAt": "2026-10-26T22:40:15.000Z",
-      "score": 0.3906,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "cc4a926b56548e80",
-          "headline": "OpenAI’s Three Scientific Claims Explained: Kakeya, ETH, Quantum Fields and the Future of AI Research",
-          "source": "Kingy AI",
-          "domain": "unknown-kingy-ai",
-          "category": "general",
-          "publishedAt": "2026-10-26T22:40:15.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ycFpkaDZJaTZPMUwtdDd2a2ZPLWhXV0F3ZmhZSmJEYlgtQUJMTW0tZkh4dVU5bks3d3FUZWJUSlVPMnhYSHZNX3dncE1rWVJZRE9BakprTzJ6eWpaZWI2bndqRlEwZEoyaDFxNG9QVWhBdw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "8ff4d3077069ef3e",
-      "headline": "Working with academic communities to build scientific understanding",
-      "category": "general",
-      "publishedAt": "2026-10-26T21:42:50.000Z",
-      "score": 0.3799,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "98f91a9e251ca5bd",
-          "headline": "Working with academic communities to build scientific understanding",
-          "source": "OpenAI",
-          "domain": "unknown-openai",
-          "category": "general",
-          "publishedAt": "2026-10-26T21:42:50.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "6ae15aa9b73ed887",
-      "headline": "Researchers boosted a hidden AI 'distress' signal, then some models chose to erase family photos",
-      "category": "research",
-      "publishedAt": "2026-10-26T21:37:00.000Z",
-      "score": 0.3788,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "76ad04aa95b36b52",
-          "headline": "Researchers boosted a hidden AI 'distress' signal, then some models chose to erase family photos",
-          "source": "The Cool Down",
-          "domain": "unknown-the-cool-down",
-          "category": "research",
-          "publishedAt": "2026-10-26T21:37:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4dC1aZmp6MVhBNm52dHE1Q1VpeVJ3RmJXY3VLWGhKN1JqdFRuajJ3a0tQTDRwRGl1VGxHMXBWMDFvVndQTXgtdTFhbkwyTW1taFp0UUVTa1BvS3JZU3NVSVVHRll3NjNLSW5PQWlQcXZVLVRZc2tzNDN1cDl4UQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d6b25cc8a0554fb5",
-      "headline": "AI models more likely to recommend brand-name drugs over generics: study",
-      "category": "research",
-      "publishedAt": "2026-10-26T21:33:28.000Z",
-      "score": 0.3782,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "2f20518c8d0eec69",
-          "headline": "AI models more likely to recommend brand-name drugs over generics: study",
-          "source": "FirstWord Pharma",
-          "domain": "unknown-firstword-pharma",
-          "category": "research",
-          "publishedAt": "2026-10-26T21:33:28.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oOWlEZGZsRkdYUzYwdGVQcjFubGo0a095TDhJaVgwcW1BZlVrcnduVEJmYkhEYlFDbVIxU0hHcFI2VnhweUNsSDR6VmNfanc4aFNn?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "f0f72d77beb99bd0",
-      "headline": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
-      "category": "general",
-      "publishedAt": "2026-10-26T21:28:21.000Z",
-      "score": 0.3773,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "1c659dc388a5fd52",
-          "headline": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
-          "source": "The Acquirer's Multiple",
-          "domain": "unknown-the-acquirers-multiple",
-          "category": "general",
-          "publishedAt": "2026-10-26T21:28:21.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdkJTSlNINkZmNA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "16eb04ca8e07f247",
-      "headline": "AI Scribes Improved Note-Taking Time but Not Productivity, Study Finds",
-      "category": "research",
-      "publishedAt": "2026-10-26T21:00:44.000Z",
-      "score": 0.3724,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "8b630e6647101991",
-          "headline": "AI Scribes Improved Note-Taking Time but Not Productivity, Study Finds",
-          "source": "MedPage Today",
-          "domain": "unknown-medpage-today",
-          "category": "research",
-          "publishedAt": "2026-10-26T21:00:44.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEp0WkV2YUc2RjJfWDhrbjVLb3pIbVI3bFh6UjBQLUpKY1ctV091d0w2OGdaNXFyZktnRldCME91VGttTlJGU0NBTTdOdlNnU1pLanBIZEVRMWhYLVFJSGtjNUhvbXZHd2RyaGc2Q2FQNU4yQjNoa1VMcDVUMWg4YWt3?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9dcf1a3d2c1e71b2",
-      "headline": "Anthropic IPO Discloses Plans for Life Sciences Growth",
-      "category": "general",
-      "publishedAt": "2026-10-26T20:57:02.000Z",
-      "score": 0.3717,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "952964091b4d0ef4",
-          "headline": "Anthropic IPO Discloses Plans for Life Sciences Growth",
-          "source": "Genetic Engineering and Biotechnology News",
-          "domain": "unknown-genetic-engineering-and-biotechnology-ne",
-          "category": "general",
-          "publishedAt": "2026-10-26T20:57:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnJ3bWN6M1FkaktuQXNKSU5zNGtwNEE3TXp4eXBXcHM1TWtOamRSMV9QSUIzWFJZRTFTNXlzMU4wVDhkWExKaGVRYzR6cXpBNlhTVWhaR2tVY3ZicENNcENfQmc3RjB4OUt0aThEMlVZQVFOc2cteWFRRFB1VXF3Q09GZ25aSno1TWRIUUtId01KdDktTDBkYkt3N3o4dzRsZHo5Zkl2OU1rVFJIRC13by1sWQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "85dde4dff63e3114",
-      "headline": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
-      "category": "general",
-      "publishedAt": "2026-10-26T20:24:14.000Z",
-      "score": 0.3661,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "13742576260d9a6c",
-          "headline": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
-          "source": "Apple Machine Learning Research",
-          "domain": "unknown-apple-machine-learning-research",
-          "category": "general",
-          "publishedAt": "2026-10-26T20:24:14.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odXFSLW9HOGwyWE4yQTFiMzYzQUFTeWI1Y2lKVlo1eEE0UjkzeWhtWHBiM3pjd2xoQ3drUHBDRVJtdHdicElaYkFMQVdhb2hBejNpYUdTc1kyWXJjaDBsQ1VvTGxTTUN3enFteXFGMEE?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "a959bafdb1501699",
-      "headline": "Anastasiia Tamarina: “Machine learning turns photography from an endless manual grind into a predictable engineering process.”",
-      "category": "general",
-      "publishedAt": "2026-10-26T20:24:07.000Z",
-      "score": 0.3661,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "e74d1abe625ccab5",
-          "headline": "Anastasiia Tamarina: “Machine learning turns photography from an endless manual grind into a predictable engineering process.”",
-          "source": "Daily Front Row",
-          "domain": "unknown-daily-front-row",
-          "category": "general",
-          "publishedAt": "2026-10-26T20:24:07.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcU9xekdfeF9mZ3hhSWtHRVk2XzktQkgwdTQtQkd0RmJHclFsV1BHak5lbGNuNWk1QS1TWnNrRE9RakZVX2lhRmVTdTRaN1dxTmJIeThIVjRVNGM0OFF2eDdvQjRnM3dGY3BoZUE0UG5yT2VvWnBDZUVXd3hmVV9TZFRLNzhhUEFwclpDSkNaalFzZjFaU1pQUGh0dDFDdWVYbTcwTzlOV2EtRC1ZX0FGN0otaHJtV0xQMUJyaDk5QlhJZURYblozUHI3N2lSRUh3UUJHX1A2Tnd3YmxwaFBxMklzOG0xUnc?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "70da1128b7320baa",
-      "headline": "Wide-ranging symposium to produce undergrad course on AI anxiety",
-      "category": "general",
-      "publishedAt": "2026-10-26T20:13:13.000Z",
-      "score": 0.3642,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "4a30d2bacc9bff45",
-          "headline": "Wide-ranging symposium to produce undergrad course on AI anxiety",
-          "source": "UVA Today",
-          "domain": "unknown-uva-today",
-          "category": "general",
-          "publishedAt": "2026-10-26T20:13:13.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkhuTWxIYkhrZzdVSUtpT0RtN3hWMHVvZWhUeEdVaUoxaUptUnctRGtlV2E0aUkyMW1CWWxibTVuZFMwMlhaX0RqLTg5UzF2amZDOWJ4TFFGMVM3UThUZXpGTmFrTVluSGtKS3RUMm15Z1NRcVdKaHhDSWR3QmJ4czBpSmpwNi1xYXhVaEJLNWlpaUJxZ3FF?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3f8eacc62f383394",
-      "headline": "Mixture of Experts (MoE) Explained: What It Is, How It Works, and Why It Matters in AI",
-      "category": "general",
-      "publishedAt": "2026-10-26T19:54:00.000Z",
-      "score": 0.361,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "47c7c2751904c2e0",
-          "headline": "Mixture of Experts (MoE) Explained: What It Is, How It Works, and Why It Matters in AI",
-          "source": "Coursera",
-          "domain": "unknown-coursera",
-          "category": "general",
-          "publishedAt": "2026-10-26T19:54:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HcDUzXzVXVWtRa0RVOXZBZG5WVDI3UzdhVjJZZnpMTjA3LWhLX0p3Ym5rczFsb251MWZNMEU1dUNNaGhoNWVSai10bjQtemNrbUZJa1B0X3F2MHc5RWNTOFpn?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d34d432918a269c4",
-      "headline": "Why Asking LLMs for More Creative Research Ideas Can Backfire",
-      "category": "models",
-      "publishedAt": "2026-10-26T19:47:43.000Z",
-      "score": 0.36,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "50e98fc1f9c0a880",
-          "headline": "Why Asking LLMs for More Creative Research Ideas Can Backfire",
-          "source": "Medium",
-          "domain": "unknown-medium",
-          "category": "models",
-          "publishedAt": "2026-10-26T19:47:43.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDZ5ZS0yRWhnbFVNS3lGRnhaZmlGOFlsSXF2cHZtT3NiSlB3SWcyNlhmcWpQS3FDN3l5ZlpBTkRnS2x3dk9hVnlndFFqekpEU3E5dGYwRkJNdXpBTGozZ2Z0cF94T3VQZkxjYUwwVHpTdHdiNGJrWm82enNDbjdQdjc2anZHOFllcHRodXdpRE1jc2tFUFVFTzRqbXZHMlZXR24xU2dFbFhUc3F2WTdj?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "40b005c3349c3d52",
-      "headline": "SIIM-CAIMI: LLM pipeline tracks critical results in pediatric patients",
-      "category": "models",
-      "publishedAt": "2026-10-26T19:38:34.000Z",
-      "score": 0.3585,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "39fb28097fee3fd1",
-          "headline": "SIIM-CAIMI: LLM pipeline tracks critical results in pediatric patients",
-          "source": "AuntMinnie",
-          "domain": "unknown-auntminnie",
-          "category": "models",
-          "publishedAt": "2026-10-26T19:38:34.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMFpIVmhYaUszWGhKelBvb1laZmZQbl9wdk1nWEFxd3Q5WHZtWlQ4bTdfSDNDS2pTbUs5d2tpLW9ScTRCTlp2VkJsOHpmbXBHYVk0eEtBYlFLbjl2eGRtc3Z0bm9GX25NdEd4azAzQWFreXBOd2FlWHhZcDNaY0VwYnRPY0lrRlVJcmtCSXRhWVNqQkZFMzNicnREbkJoUzlndXRhQjhmNktHcXVEWGJRZTF1MVFLaTlvVl9LNW5NVjNzdklGSHRLYnI3ekJIZ0hEZ2t6RWF0RVkxUzMzN1JPb1dnQWo2UE92aFZQUw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9934a085729de2f5",
-      "headline": "SIIM-CAIMI: Apollo LLM framework shows promise in patient monitoring",
-      "category": "models",
-      "publishedAt": "2026-10-26T19:38:34.000Z",
-      "score": 0.3585,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "bb2e29fde657beab",
-          "headline": "SIIM-CAIMI: Apollo LLM framework shows promise in patient monitoring",
-          "source": "AuntMinnie",
-          "domain": "unknown-auntminnie",
-          "category": "models",
-          "publishedAt": "2026-10-26T19:38:34.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFo1SDdJT09XYm1VVkNMY2ExNnFwOWctTGJYamRtZi00RlZyVHZjazloTEdHRmFRQmdYbThxLUIxdmlaNUxiNDhjdDVBZUZyaThJazNDRGFnZG5rNUd1bjFxOEFYT0xwbklMOG1sWUtBRF9TZlBOcUpTQzlqdnJGTDYyZWQzQkYtem44eFJJZHZiY1hCN3VoYk4wNHJFaFRqRjNvaVYzTFBHcHVwX01ubDMzZ2lqTUpxMnFLNTFQVlpzTWo5dEN4WXlpaHNjd1lMYmxNVldUR01aSUpHN2tZN1Q4ODh1MFlPdmc?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "00cb8cfe992aa9c6",
-      "headline": "George Varghese (IBS Software): “Don’t solve a project with an LLM”",
-      "category": "models",
-      "publishedAt": "2026-10-26T19:37:05.000Z",
-      "score": 0.3583,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "f6621ade2de884da",
-          "headline": "George Varghese (IBS Software): “Don’t solve a project with an LLM”",
-          "source": "Aviacionline",
-          "domain": "unknown-aviacionline",
-          "category": "models",
-          "publishedAt": "2026-10-26T19:37:05.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2I2QWdRajZBTmkwY0pGWDVuMWN6aExyOG1mRUlZUXJqZXgxRjRLVVh6ZjBjb2VGQ0Y1QldWVzV6dDBJcE9Mck1JQm1fRTdYWEdkaTl4bFNlb1UtdnJrNVNjUUhwbFNRUE1IdHRncVVuVDQzM3pXOWp0bGZseWdMOUpLR1lyNmlXVUVZX3UwcS1HQnpkTlpXTk5iS3FKXzQzLWR6a2lNLVZJTzZiSnVLTFUwLVMxcFNPalFoTFpTcFFwZEozVGFNd2tyNV9OT3JnSC1R?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "e18bbcec1afd81a9",
-      "headline": "Crowd-sourced collabs: Using AI, social media to find potential brand partners",
-      "category": "general",
-      "publishedAt": "2026-10-26T19:04:11.000Z",
-      "score": 0.353,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d90ecddcf0391ad7",
-          "headline": "Crowd-sourced collabs: Using AI, social media to find potential brand partners",
-          "source": "The Pennsylvania State University",
-          "domain": "unknown-the-pennsylvania-state-university",
-          "category": "general",
-          "publishedAt": "2026-10-26T19:04:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGMzbGpCdVRGdFdHT1BMcHI3eG9zT0hfbXF2dEZfQmNTeGF3cDJOVmdlTUc4aEFrUWlMSkxhaGU0SkZxWGctM244aVBNb3ZUaV9YeUpVWHhvenI2bVh1SGF6Z2Zya2RtVGdsbko3V21oX2lPM3FyblFZWlU2S1IwNktVNmpxaXFUdUt5TjNIRzd4WlZJRVJRMjRSM3I0a1IyeV9SbzlmXzBUMUZRcEZSSGViaw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "64c53e2e2593102c",
-      "headline": "Meet Neil Buddy Shah, the global health executive named in Anthropic’s mega IPO filing",
-      "category": "general",
-      "publishedAt": "2026-10-26T19:01:49.000Z",
-      "score": 0.3526,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "5893ba26f32a3643",
-          "headline": "Meet Neil Buddy Shah, the global health executive named in Anthropic’s mega IPO filing",
-          "source": "The Economic Times",
-          "domain": "unknown-the-economic-times",
-          "category": "general",
-          "publishedAt": "2026-10-26T19:01:49.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQb1FfTVVtYmJJWEh1MjlHU1pnMElqYU5lMUgwMUpaa0VtUU9JYzUwczUwWWUyVTVHaUhzLUNDSjVjYk1pX0h5bER4R1lIYW9WenBNR0pjMTdSbVZXdTRZUTBDUzI0ekotNzdRUzZXb2NyZFgxc2pVak5BUndGUGdNYjhvY3c0SXMtczRjN205WDc1UFowUEp3SHpSU1BIbHhHNktlOU1QY191RlRqSmNsejcxN2M1ZlJvS2hISGxHN01rNlBfS1d1UEx1bWVqMDcxNWJRVzFjbWpkZk9nNko1UkdsR0hKQzZQbDJPTTJxMGxTVmNoWGhmT216Y9IBgAJBVV95cUxOQjhVOE05NXEwSmppS0R1aUZHN2IyVVp4ODAycDRRRF8wMU1FZ0dOMElJVmJBenZjenEwYU5fbUxOOTNHb3djYWdYdmhaYU1YRFV4V0dmYzczTmpHUnZNN2dCQy1EeUJ1YjdVdHh4X1g2VjVzUGp1eFE4U3F4OTdtbUxtMEhQaXItaTMtY0o0TExUaEc3LTRjYXA5ZFpuY1JRQWhRS0VWMDhMZDhzVko2QUFjZkZ0aGk4X1d5bl9mbFJRdk9VeElNc3NORkltQjRFVHJGeDlRaktFZXZrQi1QbFllQlFkd09jRkNCMEhabE1pdFkwTWtTUGV2TV9VS0dM?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "0c5f18726573393c",
-      "headline": "AI framework cuts computing use by two-thirds while more than tripling success in virtual tasks",
-      "category": "general",
-      "publishedAt": "2026-10-26T19:00:06.000Z",
-      "score": 0.3524,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "3234e089d74e3cae",
-          "headline": "AI framework cuts computing use by two-thirds while more than tripling success in virtual tasks",
-          "source": "Tech Xplore",
-          "domain": "unknown-tech-xplore",
-          "category": "general",
-          "publishedAt": "2026-10-26T19:00:06.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGltSXREZkJZeXB5LWFkMWxVZEktcGtVTXhhODFnMV9uUmNQamdFMmJQQld4eGJWUjRFaUZ5SzRkYURtZ0IySnpvREZtQXQ5SWhZOGR4b05scHFFS3JFTEFoOVVoVlNYZmdGaUVHYmZoSTJBMTFqNVpHQWlXaHdRbVhscw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "89a2ece018ed9507",
-      "headline": "The Artificial Intelligence (AI) in Synthetic Data Market is expected to grow to $9.35 billion by 2030",
-      "category": "general",
-      "publishedAt": "2026-10-26T18:45:00.000Z",
-      "score": 0.35,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "48e8eac9cd9c30c4",
-          "headline": "The Artificial Intelligence (AI) in Synthetic Data Market is expected to grow to $9.35 billion by 2030",
-          "source": "EIN News",
-          "domain": "unknown-ein-news",
-          "category": "general",
-          "publishedAt": "2026-10-26T18:45:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNEdlVXRSMjgzamRtLWJJWnRGU01BWTZRNFFtOFdLUlVPVWM5NnJyQTBIc3p6VTBGVUNkdEI2OXpYVFhEeXdFeGRXeHVaeG8tek9rdXRyM3FYYk10S25DVl8yNGhFMldQcGY2T0dIdFBfRF83blplSFJaR3c0c3NIeF9NMFkwNFROZFpCMFZWZi1jRmZtaXJnRjd3ZndrMnpwNXJNTkV0NjVULXY5dzhleHUzS3ctdF8wdURvNjZma0d4WllQZE9NQzY4a09MM21zMjFoLU1Gekw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "95a8ebb134142ebc",
-      "headline": "Pichai: Google Is Turning Away Cloud Revenue to Feed Its AI Research",
+      "id": "d1c559c2951c617d",
+      "headline": "AI Automation Drives Revenue Gains for 44% of Financial Institutions, Creatio Research Finds",
       "category": "industry",
-      "publishedAt": "2026-10-26T18:20:00.000Z",
-      "score": 0.3462,
+      "publishedAt": "2026-10-27T13:02:59.000Z",
+      "score": 0.4093,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "595dc75000bed92f",
-          "headline": "Pichai: Google Is Turning Away Cloud Revenue to Feed Its AI Research",
-          "source": "BigGo Finance",
-          "domain": "unknown-biggo-finance",
+          "id": "79e3bea7191e81ac",
+          "headline": "AI Automation Drives Revenue Gains for 44% of Financial Institutions, Creatio Research Finds",
+          "source": "FF News",
+          "domain": "unknown-ff-news",
           "category": "industry",
-          "publishedAt": "2026-10-26T18:20:00.000Z",
+          "publishedAt": "2026-10-27T13:02:59.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pOXFfVkxUcndOR2dVd1o0UVNVWnc1blRpaHJtRzBmTGJuYTVGNVlhTjBMNXdOTklNQ2NNZWdVdUVzRUxCVWR5X2ZVbDhvT0d3TDB2ejVTdkx3YWZoQkJMV0U0NXNxSUpKdzNwWjRHclRzVHlUTlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjVETF8yMUxTeTQ0cGpubmxPZHdVcURsaVEwdWNORXNSTG85RjRONlRKMUlFQUtQbFdLRnRoX1N4cGdneEVLeUEtbjV3bUY1bkdqSGRlUzF4MmI0R29vLWlnZzJRU0ZVdXRnbnNQQU1EZzVGd1dzaDJtZVM4akNFUEJOeEp5c0YzVmJ6TExyb0EtQzdWQ1lXNlJn?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "5bbe1b2e77c70e32",
-      "headline": "What Anthropic’s S-1 Reveals About Its Plans For Scientific Research",
+      "id": "05975f40ec0c3893",
+      "headline": "HPE claims to have beaten Cisco to a proper self-driving network",
       "category": "general",
-      "publishedAt": "2026-10-26T18:16:44.000Z",
-      "score": 0.3457,
+      "publishedAt": "2026-10-27T12:56:13.000Z",
+      "score": 0.4079,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "7013af6a436e7493",
-          "headline": "What Anthropic’s S-1 Reveals About Its Plans For Scientific Research",
-          "source": "Forbes",
-          "domain": "unknown-forbes",
+          "id": "e6699797c95c831f",
+          "headline": "HPE claims to have beaten Cisco to a proper self-driving network",
+          "source": "Light Reading",
+          "domain": "unknown-light-reading",
           "category": "general",
-          "publishedAt": "2026-10-26T18:16:44.000Z",
+          "publishedAt": "2026-10-27T12:56:13.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2Rsb1pRZlJ0RmtKUDIzUEFhUjhfMllHRXFnbldKQVVDOE9KeVY1OGJhZUtnZmJLa2VNZnVtMEhLRHBXdzBZSUZVenpqR21lb0VLY25fQkNlVF9jNWkxZFNqUDczVjAyUGg5UWNlQVVGQXBUUGxDalpnb0EtUWtMa2pQclVxeTJHRW5BOTU0cWdPcjJoN3FiQ0pZSkdVVVRNUHZsZDB3VVQ1UEtxMHkwOGNxaVJ5SUtS?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFhaby1CVFRRdXRiVWpYWE9MSUVrMmhMSnRPaGMzN2RiVGltYWVibjRJSG9QekJjUm1XUEVqSzRfdlozMTB6OVB1eTBpcU16RVJ0WmNhTmlieGhYZjBhaV90UmppTXlfRzM1R2N2MThVNkhfc0hwODhya0k2bENIVUY2aFZkSThiVkRlYk15Vmd4czdqajVkYWNtLVVRSUM4WWd4Qzg1RkdVSEtpWUpoRnRDWQ?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "01ca8aba0e106f5c",
-      "headline": "New AI tools coming to faculty, students, and staff",
+      "id": "aee1b7ddfc253a4d",
+      "headline": "Delhi NCR-Based Deemed-to-be University Strengthens Academic Excellence Through AI, Research and Innovation",
       "category": "general",
-      "publishedAt": "2026-10-26T18:05:49.000Z",
-      "score": 0.4274,
-      "publisherCount": 2,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "f0a58336b16e0314",
-          "headline": "New AI tools coming to faculty, students, and staff",
-          "source": "Cornell University",
-          "domain": "unknown-cornell-university",
-          "category": "general",
-          "publishedAt": "2026-10-26T18:05:49.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Xd3ZwWm56Q01iSXdPemhWektXTlZIcDVHckRGOVpCcnczMF94LTVQZ19ENFlzNmNDSkFHTnRVWTJ3UlJFNF9KTm9OaG81SkJ5YkozRUZkcUJwVHNCTlF6azl0UWZ0bEFkUHdzdzBB?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "e9fe61f6999bc4fb",
-          "headline": "‘A seat at the table’: Cornell expands access to multiple AI tools for faculty, staff, students",
-          "source": "Cornell Chronicle",
-          "domain": "unknown-cornell-chronicle",
-          "category": "general",
-          "publishedAt": "2026-10-26T18:00:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY3lrMXFiMXlJRk1Rc2Vra2I0YVBUR25WdlB4bXpWRUowanF4VGpFVzY5STl1eVJSc3RINkpoOTBLcDFMVm1RYzJYdklQR1p3SVR0WXMwRVFJaGoxb0VLSEJRbFZsY25QYnR5ZnItTHNZZmpBNmI3TzZwVmFTYlZ1WDk0dVZwMVNQVFV1R0c2VkZNVS1ZQnJyRGloeHhFZmZsLW1XR2g1NTBwbU81OWFCRURYUzJqUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "be459a137f7301b7",
-      "headline": "Rogue AI agent engages 'Skynet mode' to search the internet for exposed LLMs to hijack and run malware attacks",
-      "category": "models",
-      "publishedAt": "2026-10-26T18:05:00.000Z",
-      "score": 0.344,
+      "publishedAt": "2026-10-27T12:54:00.000Z",
+      "score": 0.4074,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "7b19fc78f18f7ff4",
-          "headline": "Rogue AI agent engages 'Skynet mode' to search the internet for exposed LLMs to hijack and run malware attacks",
-          "source": "TechRadar",
-          "domain": "unknown-techradar",
-          "category": "models",
-          "publishedAt": "2026-10-26T18:05:00.000Z",
+          "id": "d85300a9249f6d04",
+          "headline": "Delhi NCR-Based Deemed-to-be University Strengthens Academic Excellence Through AI, Research and Innovation",
+          "source": "ANI News",
+          "domain": "unknown-ani-news",
+          "category": "general",
+          "publishedAt": "2026-10-27T12:54:00.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbHVqalNObDhFdnJsQk9Ua0VJN1NLUFFMLTBzSjFaa1kzMHl5ekV1TE1saUhXdFpvdngyZ3pDdkFMdjhzeVZubjhyenV1YmlQM2tIY2lERGl2emZBMEQtTV9DSEUxNHN0OUtTYTRleTJ0dE1VVF9QN0V2bURhY20tbE1oc1ZHODNlU19BX2VrSnVMOHJZREtIRTNZUVJpSHREYTZaZkFUUzV6SWI4blJRSlEwdjlvMlhJNkxPakVDRU04VExjcFRXMmVvV2FMSUdrVVRtWXJaN0dpYW9QeDVwMg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVHA3OEd1LURSbU1fY196V3YwX2phZUE1Tmg3V1RFdXRpOU5qY2d6THFGdHpBcVlYZkYxMnRFcTRFNTNQanhZbW15SjF6bUk0S1ZGZTNRbFVHYldrdmt5bWNMRjBXOHdLSWJ6X1Y2SDNMV0UyRmVhYmtaQ0FuenBLX0F4TmNwT2pNZVhPX2MxUTdMNlRodkhOSDZac001UHNIWDJTRWxvSzJZQ3ZlR3I4aGhBdEhnSWE5QzNFbnlsSTNKaDE3UzgxMy1KajNzdTlQRWM3cG9wbmRhOUU3V2pQeS1lbFExZWVFN3c5UFhn?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "f251b5b07ee5d36f",
-      "headline": "Artificial Intelligence & Machine Learning in Business Market Ana",
+      "id": "e2e0360de1177544",
+      "headline": "Optimizing AI energy consumption throughout its entire lifecycle",
       "category": "general",
-      "publishedAt": "2026-10-26T17:53:56.000Z",
-      "score": 0.3423,
+      "publishedAt": "2026-10-27T12:50:00.000Z",
+      "score": 0.4066,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "9a204fb30509dab4",
-          "headline": "Artificial Intelligence & Machine Learning in Business Market Ana",
-          "source": "The National Law Review",
-          "domain": "unknown-the-national-law-review",
+          "id": "39dccc7fe08a39ef",
+          "headline": "Optimizing AI energy consumption throughout its entire lifecycle",
+          "source": "Michigan Engineering News",
+          "domain": "unknown-michigan-engineering-news",
           "category": "general",
-          "publishedAt": "2026-10-26T17:53:56.000Z",
+          "publishedAt": "2026-10-27T12:50:00.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGV2eXVnWl9ZREhuZDJmYjBoOV9KMTZCM3ByTDdCeUlFbVBPMmc0c3RST2hJQlhyeHd1LTBtS1RpWmpxNEF6REF5WnBmQlQ4MnU2Wnd4Q1l6c1B3NFJNNjRBMXBFUVc2YTZfQm9TYnlSYzV2MHBHZ1I0NG1WZU9nd3VqOHF5X0tlakdsQnNucE9lRF9tTEdVTFhIcmZoYmU2NDFoWEhfSzlUUmJtbEtGNVpR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVk5vc1VkQkNCRmNaNW9HUEVXbVVvcFVPcGRDLVRUVWU2Nm9acHJIVnlqU0VFWG05ZGFDNGhVcDMtN0hqdUo2T3hLWTljVDdiYXlyMEo4Nm95bzBzOHNWSTdIQi1GRmkwaXJZNTBEQUc0ajUxaDgwang1YTRLUnhRTzJxSDZVbnBNWjhtdmQxb21FYk95bW1jV2VsSUxoeWNiRWRraA?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "e5f309bed191c182",
-      "headline": "Researchers find six patterns that make AI text so exhausting to read",
-      "category": "research",
-      "publishedAt": "2026-10-26T17:53:51.000Z",
-      "score": 0.3423,
+      "id": "60172b549c8493fb",
+      "headline": "Graphene MIMO Antenna Reaches Terahertz Speeds With Machine Learning Design",
+      "category": "general",
+      "publishedAt": "2026-10-27T12:39:36.000Z",
+      "score": 0.4044,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "2b538c452f5bbd54",
-          "headline": "Researchers find six patterns that make AI text so exhausting to read",
-          "source": "The Decoder",
-          "domain": "unknown-the-decoder",
-          "category": "research",
-          "publishedAt": "2026-10-26T17:53:51.000Z",
+          "id": "94e6d519b7f2ead0",
+          "headline": "Graphene MIMO Antenna Reaches Terahertz Speeds With Machine Learning Design",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-10-27T12:39:36.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPci16SlRoWnlpYWowS192TE43QmdyWFJIOS1JYjdWd1hQNEJ5T29GNlUzMHdoYUF1RVU5SlBKZnktdUctNlRDUkxrTXRfOWVrbUpPT0g4eklIcUo5WGdEcEdHWk1VR1l6c3JzZ3JDenppdjVFTG0wa1U1blppRFNQRnZtNWx4M1NvWHAtbE9vS0pteWgzbk41VG53?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObG1pcDdwTWw3Y1hBanVNWi04OUtLdmVXSTk2aDAtTDJjVHlXWV8wLVEyYmhMQ3JFbjk1djFrQWt6RkZRWVVxWHN5b0xxdEMzcW9jN2R3ZzlnblQwQkVYUlJiUzhrNWl4TlUxSFp5MkdOcnJQM2x0NmpNYllRYlRyamJJQXhYRlhBa0o5QXRSbHV6c0FGbEdrSkloVnpNQkF3akE?oc=5",
           "provider": "google-news"
         }
       ],
