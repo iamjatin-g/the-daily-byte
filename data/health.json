@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-27T18:09:08.543Z",
+  "runAt": "2026-10-28T05:58:43.621Z",
   "outcome": "success",
   "totals": {
-    "fetched": 150,
-    "afterFilter": 286,
-    "clusters": 249,
+    "fetched": 145,
+    "afterFilter": 74,
+    "clusters": 71,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-10-27",
-    "count": 9
+    "date": "2026-10-28",
+    "count": 3
   },
   "sources": [
     {
@@ -34,7 +34,7 @@
       "disabledAt": "2026-10-25T05:00:11.841Z"
     },
     {
-      "name": "hindustantimes.com",
+      "name": "freepressjournal.in",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
@@ -86,10 +86,20 @@
     {
       "name": "ndtv.com",
       "provider": "feed",
+      "status": "disabled",
+      "articlesFetched": 0,
+      "consecutiveFailures": 3,
+      "lastError": "HTTP 403 for https://ndtv.com/",
+      "lastSuccessAt": null,
+      "disabledAt": "2026-10-28T05:58:43.621Z"
+    },
+    {
+      "name": "outlookindia.com",
+      "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "HTTP 403 for https://ndtv.com/",
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
     },
@@ -140,7 +150,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
+      "lastSuccessAt": "2026-10-28T05:58:43.621Z",
       "disabledAt": null
     },
     {
@@ -150,7 +160,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
+      "lastSuccessAt": "2026-10-28T05:58:43.621Z",
       "disabledAt": null
     },
     {
@@ -160,7 +170,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
+      "lastSuccessAt": "2026-10-28T05:58:43.621Z",
       "disabledAt": null
     },
     {
@@ -170,17 +180,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
+      "lastSuccessAt": "2026-10-28T05:58:43.621Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 35,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
+      "lastSuccessAt": "2026-10-28T05:58:43.621Z",
       "disabledAt": null
     },
     {
@@ -190,16 +200,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-27T18:09:08.543Z",
+      "lastSuccessAt": "2026-10-28T05:58:43.621Z",
       "disabledAt": null
     }
   ],
   "errors": [
     "feed:ndtv.com: HTTP 403 for https://ndtv.com/",
-    "feed:hindustantimes.com: no usable feed found",
-    "briefing skipped for \"LLM defends Prosignal’s appointment for \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Scientists warn secret passwords can cau\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"AI talent war has quant firms racing to \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:freepressjournal.in: no usable feed found",
+    "feed:outlookindia.com: no usable feed found",
+    "briefing skipped for \"McKinsey research shows retailers are lo\": This operation was aborted",
+    "briefing skipped for \"Lingnan University’s AI expert Prof Xin \": This operation was aborted",
+    "briefing skipped for \"Splice Machine 3.0 integrates machine le\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
