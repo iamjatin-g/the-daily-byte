@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-29T06:05:25.178Z",
+  "runAt": "2026-10-29T18:35:49.430Z",
   "outcome": "success",
   "totals": {
     "fetched": 148,
-    "afterFilter": 84,
-    "clusters": 80,
+    "afterFilter": 96,
+    "clusters": 92,
     "linkRotDropped": 0,
-    "llmCallsUsed": 5
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-10-29",
-    "count": 5
+    "date": "2026-10-30",
+    "count": 3
   },
   "sources": [
     {
@@ -24,16 +24,6 @@
       "disabledAt": "2026-10-25T05:00:11.841Z"
     },
     {
-      "name": "deccanchronicle.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
       "name": "economictimes.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -44,11 +34,21 @@
       "disabledAt": "2026-10-25T05:00:11.841Z"
     },
     {
-      "name": "hindustantimes.com",
+      "name": "freepressjournal.in",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
       "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "hindustantimes.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -150,7 +150,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
+      "lastSuccessAt": "2026-10-29T18:35:49.430Z",
       "disabledAt": null
     },
     {
@@ -160,7 +160,7 @@
       "articlesFetched": 8,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
+      "lastSuccessAt": "2026-10-29T18:35:49.430Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
+      "lastSuccessAt": "2026-10-29T18:35:49.430Z",
       "disabledAt": null
     },
     {
@@ -180,7 +180,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
+      "lastSuccessAt": "2026-10-29T18:35:49.430Z",
       "disabledAt": null
     },
     {
@@ -190,7 +190,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
+      "lastSuccessAt": "2026-10-29T18:35:49.430Z",
       "disabledAt": null
     },
     {
@@ -200,16 +200,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
+      "lastSuccessAt": "2026-10-29T18:35:49.430Z",
       "disabledAt": null
     }
   ],
   "errors": [
     "feed:hindustantimes.com: no usable feed found",
-    "feed:deccanchronicle.com: no usable feed found",
-    "briefing skipped for \"IEM-UEM Group Signs MoU with Invariz Pri\": This operation was aborted",
-    "briefing skipped for \"Machine learning digital twin predicts e\": This operation was aborted",
-    "briefing skipped for \"UNIST Develops Compression Method to Cut\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:freepressjournal.in: no usable feed found",
+    "briefing skipped for \"How the SDLC Evolves Once You Deploy LLM\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Digital Science Acquires Jenni AI, Expan\": This operation was aborted",
+    "briefing skipped for \"Research report: A proposed hybrid machi\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
