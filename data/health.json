@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-28T18:25:56.638Z",
+  "runAt": "2026-10-29T06:05:25.178Z",
   "outcome": "success",
   "totals": {
-    "fetched": 170,
-    "afterFilter": 189,
-    "clusters": 156,
+    "fetched": 148,
+    "afterFilter": 84,
+    "clusters": 80,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 5
   },
   "llmCallsToday": {
-    "date": "2026-10-28",
-    "count": 6
+    "date": "2026-10-29",
+    "count": 5
   },
   "sources": [
     {
@@ -24,13 +24,13 @@
       "disabledAt": "2026-10-25T05:00:11.841Z"
     },
     {
-      "name": "devdiscourse.com",
+      "name": "deccanchronicle.com",
       "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-10-28T18:25:56.638Z",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
       "disabledAt": null
     },
     {
@@ -44,11 +44,11 @@
       "disabledAt": "2026-10-25T05:00:11.841Z"
     },
     {
-      "name": "freepressjournal.in",
+      "name": "hindustantimes.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 1,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -150,17 +150,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-28T18:25:56.638Z",
+      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 10,
+      "articlesFetched": 8,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-28T18:25:56.638Z",
+      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-28T18:25:56.638Z",
+      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
       "disabledAt": null
     },
     {
@@ -180,7 +180,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-28T18:25:56.638Z",
+      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
       "disabledAt": null
     },
     {
@@ -190,7 +190,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-28T18:25:56.638Z",
+      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
       "disabledAt": null
     },
     {
@@ -200,15 +200,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-28T18:25:56.638Z",
+      "lastSuccessAt": "2026-10-29T06:05:25.178Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:freepressjournal.in: no usable feed found",
-    "briefing skipped for \"Indian IT firms poised to benefit from e\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Hummingbird Acquires Quantimon to Bring \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Delhi NCR-Based Deemed-to-be University \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:hindustantimes.com: no usable feed found",
+    "feed:deccanchronicle.com: no usable feed found",
+    "briefing skipped for \"IEM-UEM Group Signs MoU with Invariz Pri\": This operation was aborted",
+    "briefing skipped for \"Machine learning digital twin predicts e\": This operation was aborted",
+    "briefing skipped for \"UNIST Develops Compression Method to Cut\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
