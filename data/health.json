@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-30T06:07:00.834Z",
-  "outcome": "success",
+  "runAt": "2026-10-30T18:07:48.289Z",
+  "outcome": "partial",
   "totals": {
-    "fetched": 146,
-    "afterFilter": 207,
-    "clusters": 154,
+    "fetched": 29,
+    "afterFilter": 169,
+    "clusters": 158,
     "linkRotDropped": 0,
-    "llmCallsUsed": 15
+    "llmCallsUsed": 2
   },
   "llmCallsToday": {
     "date": "2026-10-30",
-    "count": 18
+    "count": 20
   },
   "sources": [
     {
@@ -32,16 +32,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-10-25T05:00:11.841Z"
-    },
-    {
-      "name": "freepressjournal.in",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "indianexpress.com",
@@ -94,21 +84,11 @@
       "disabledAt": "2026-10-28T05:58:43.621Z"
     },
     {
-      "name": "republicworld.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
       "name": "timesofindia.indiatimes.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -160,17 +140,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-30T06:07:00.834Z",
+      "lastSuccessAt": "2026-10-30T18:07:48.289Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 8,
+      "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-30T06:07:00.834Z",
+      "lastSuccessAt": "2026-10-30T18:07:48.289Z",
       "disabledAt": null
     },
     {
@@ -180,48 +160,47 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-30T06:07:00.834Z",
+      "lastSuccessAt": "2026-10-30T18:07:48.289Z",
       "disabledAt": null
     },
     {
       "name": "AI research",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 40,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-10-30T06:07:00.834Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 38,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-10-30T06:07:00.834Z",
       "disabledAt": null
     },
     {
       "name": "machine learning",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 40,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-10-30T06:07:00.834Z",
       "disabledAt": null
     }
   ],
   "errors": [
+    "google-news:AI research: HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "google-news:LLMs: HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "google-news:machine learning: HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "feed:timesofindia.indiatimes.com: no usable feed found",
-    "feed:freepressjournal.in: no usable feed found",
-    "feed:republicworld.com: no usable feed found",
-    "briefing skipped for \"Machine learning maps irrigation safety \": This operation was aborted",
-    "briefing skipped for \"Global Experts Discuss AI-Driven Materia\": This operation was aborted",
-    "briefing skipped for \"Survey Maps How Narrative Theory Shapes \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"NTT Data launches AI-powered consulting \": This operation was aborted",
-    "briefing skipped for \"Researchers Find Architectural Backdoors\": This operation was aborted"
+    "briefing skipped for \"Machine-learning models predict human he\": This operation was aborted",
+    "briefing skipped for \"How the SDLC Evolves Once You Deploy LLM\": This operation was aborted",
+    "briefings: daily cap of 20 reached, 8 stories use plain snippets"
   ]
 }
