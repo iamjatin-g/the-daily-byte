@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-30T18:07:48.289Z",
-  "outcome": "partial",
+  "runAt": "2026-10-31T06:00:54.239Z",
+  "outcome": "success",
   "totals": {
-    "fetched": 29,
-    "afterFilter": 169,
-    "clusters": 158,
+    "fetched": 149,
+    "afterFilter": 116,
+    "clusters": 113,
     "linkRotDropped": 0,
-    "llmCallsUsed": 2
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-10-30",
-    "count": 20
+    "date": "2026-10-31",
+    "count": 3
   },
   "sources": [
     {
@@ -22,6 +22,16 @@
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": "2026-10-25T05:00:11.841Z"
+    },
+    {
+      "name": "deccanchronicle.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://deccanchronicle.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "economictimes.indiatimes.com",
@@ -86,12 +96,12 @@
     {
       "name": "timesofindia.indiatimes.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-10-31T06:00:54.239Z"
     },
     {
       "name": "tribuneindia.com",
@@ -140,7 +150,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-30T18:07:48.289Z",
+      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
       "disabledAt": null
     },
     {
@@ -150,7 +160,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-30T18:07:48.289Z",
+      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
       "disabledAt": null
     },
     {
@@ -160,47 +170,46 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-30T18:07:48.289Z",
+      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
       "disabledAt": null
     },
     {
       "name": "AI research",
       "provider": "google-news",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-      "lastSuccessAt": "2026-10-30T06:07:00.834Z",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-      "lastSuccessAt": "2026-10-30T06:07:00.834Z",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
       "disabledAt": null
     },
     {
       "name": "machine learning",
       "provider": "google-news",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-      "lastSuccessAt": "2026-10-30T06:07:00.834Z",
+      "status": "ok",
+      "articlesFetched": 40,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "google-news:AI research: HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "google-news:LLMs: HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "google-news:machine learning: HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "feed:deccanchronicle.com: HTTP 403 for https://deccanchronicle.com/",
     "feed:timesofindia.indiatimes.com: no usable feed found",
-    "briefing skipped for \"Machine-learning models predict human he\": This operation was aborted",
-    "briefing skipped for \"How the SDLC Evolves Once You Deploy LLM\": This operation was aborted",
-    "briefings: daily cap of 20 reached, 8 stories use plain snippets"
+    "briefing skipped for \"Google’s Project Suncatcher achieves AI \": This operation was aborted",
+    "briefing skipped for \"AI Trends for Businesses: $3.64T Spend, \": This operation was aborted",
+    "briefing skipped for \"7 Peec AI alternatives, compared on the \": This operation was aborted",
+    "briefings: 3 failures in a row, stopping for this run"
   ]
 }
