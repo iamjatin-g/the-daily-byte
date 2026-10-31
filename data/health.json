@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-31T06:00:54.239Z",
+  "runAt": "2026-10-31T17:19:15.518Z",
   "outcome": "success",
   "totals": {
-    "fetched": 149,
-    "afterFilter": 116,
-    "clusters": 113,
+    "fetched": 137,
+    "afterFilter": 204,
+    "clusters": 159,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-10-31",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -28,8 +28,8 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://deccanchronicle.com/",
+      "consecutiveFailures": 2,
+      "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
     },
@@ -150,7 +150,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
+      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
       "disabledAt": null
     },
     {
@@ -160,7 +160,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
+      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
+      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
       "disabledAt": null
     },
     {
@@ -180,17 +180,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
+      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 28,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
+      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
       "disabledAt": null
     },
     {
@@ -200,16 +200,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T06:00:54.239Z",
+      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:deccanchronicle.com: HTTP 403 for https://deccanchronicle.com/",
-    "feed:timesofindia.indiatimes.com: no usable feed found",
-    "briefing skipped for \"Google’s Project Suncatcher achieves AI \": This operation was aborted",
-    "briefing skipped for \"AI Trends for Businesses: $3.64T Spend, \": This operation was aborted",
-    "briefing skipped for \"7 Peec AI alternatives, compared on the \": This operation was aborted",
+    "feed:deccanchronicle.com: no usable feed found",
+    "briefing skipped for \"Google Just Got AI To Talk From Space — \": This operation was aborted",
+    "briefing skipped for \"IISc Director Flags AI Risks, Opportunit\": This operation was aborted",
+    "briefing skipped for \"Karpathy’s Tiny LLM Runs in Qwen’s Weigh\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
