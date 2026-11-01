@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-01T06:31:00.623Z",
-  "outcome": "partial",
+  "runAt": "2026-11-01T18:01:50.193Z",
+  "outcome": "success",
   "totals": {
-    "fetched": 128,
-    "afterFilter": 60,
-    "clusters": 52,
+    "fetched": 126,
+    "afterFilter": 127,
+    "clusters": 98,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 6
   },
   "llmCallsToday": {
     "date": "2026-11-01",
-    "count": 3
+    "count": 9
   },
   "sources": [
     {
@@ -64,6 +64,16 @@
       "disabledAt": "2026-11-01T06:31:00.623Z"
     },
     {
+      "name": "indiatvnews.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://indiatvnews.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
       "name": "livemint.com",
       "provider": "feed",
       "status": "disabled",
@@ -98,7 +108,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://ndtvprofit.com/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -108,18 +118,8 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
-      "name": "scanx.trade",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://scanx.trade/",
       "lastSuccessAt": null,
       "disabledAt": null
     },
@@ -180,7 +180,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
+      "lastSuccessAt": "2026-11-01T18:01:50.193Z",
       "disabledAt": null
     },
     {
@@ -190,7 +190,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
+      "lastSuccessAt": "2026-11-01T18:01:50.193Z",
       "disabledAt": null
     },
     {
@@ -200,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
+      "lastSuccessAt": "2026-11-01T18:01:50.193Z",
       "disabledAt": null
     },
     {
@@ -210,17 +210,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
+      "lastSuccessAt": "2026-11-01T18:01:50.193Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 19,
+      "articlesFetched": 17,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
+      "lastSuccessAt": "2026-11-01T18:01:50.193Z",
       "disabledAt": null
     },
     {
@@ -230,22 +230,19 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
+      "lastSuccessAt": "2026-11-01T18:01:50.193Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:LLMs: fetch failed",
-    "gdelt:machine learning: fetch failed",
-    "feed:economictimes.indiatimes.com: no usable feed found",
-    "feed:deccanchronicle.com: no usable feed found",
-    "feed:indiatoday.in: no usable feed found",
+    "feed:indiatvnews.com: HTTP 403 for https://indiatvnews.com/",
     "feed:ndtvprofit.com: HTTP 403 for https://ndtvprofit.com/",
     "feed:republicworld.com: no usable feed found",
-    "feed:scanx.trade: HTTP 403 for https://scanx.trade/",
     "briefing skipped for \"AI’s Promise and Perils Take Centre Stag\": This operation was aborted",
-    "briefing skipped for \"Reddit CEO: AI Mode Cut Traffic 30%? 3 F\": This operation was aborted",
-    "briefing skipped for \"AI Training Opt-Out: 4 Giants Agree on 1\": This operation was aborted",
+    "briefing skipped for \"Google, Reddit and AI: Who Can You Trust\": This operation was aborted",
+    "briefing skipped for \"Call for Applications: AI for Human Righ\": This operation was aborted",
+    "briefing skipped for \"Yann LeCun's tiny 109M model aligns with\": This operation was aborted",
+    "briefing skipped for \"Researchers Cut Training Time Using Long\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
