@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-10-31T17:19:15.518Z",
-  "outcome": "success",
+  "runAt": "2026-11-01T06:31:00.623Z",
+  "outcome": "partial",
   "totals": {
-    "fetched": 137,
-    "afterFilter": 204,
-    "clusters": 159,
+    "fetched": 128,
+    "afterFilter": 60,
+    "clusters": 52,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-10-31",
-    "count": 6
+    "date": "2026-11-01",
+    "count": 3
   },
   "sources": [
     {
@@ -26,22 +26,22 @@
     {
       "name": "deccanchronicle.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-11-01T06:31:00.623Z"
     },
     {
       "name": "economictimes.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-10-25T05:00:11.841Z"
+      "disabledAt": "2026-11-01T06:31:00.623Z"
     },
     {
       "name": "indianexpress.com",
@@ -58,10 +58,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-10-25T05:00:11.841Z"
+      "disabledAt": "2026-11-01T06:31:00.623Z"
     },
     {
       "name": "livemint.com",
@@ -92,6 +92,36 @@
       "lastError": "HTTP 403 for https://ndtv.com/",
       "lastSuccessAt": null,
       "disabledAt": "2026-10-28T05:58:43.621Z"
+    },
+    {
+      "name": "ndtvprofit.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://ndtvprofit.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "republicworld.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "scanx.trade",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://scanx.trade/",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "timesofindia.indiatimes.com",
@@ -128,20 +158,20 @@
       "provider": "gdelt",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "fetch failed",
       "lastSuccessAt": null,
-      "disabledAt": "2026-10-25T05:00:11.841Z"
+      "disabledAt": "2026-11-01T06:31:00.623Z"
     },
     {
       "name": "machine learning",
       "provider": "gdelt",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "fetch failed",
       "lastSuccessAt": null,
-      "disabledAt": "2026-10-25T05:00:11.841Z"
+      "disabledAt": "2026-11-01T06:31:00.623Z"
     },
     {
       "name": "AI research",
@@ -150,7 +180,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
+      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
       "disabledAt": null
     },
     {
@@ -160,7 +190,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
+      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
       "disabledAt": null
     },
     {
@@ -170,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
+      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
       "disabledAt": null
     },
     {
@@ -180,17 +210,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
+      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 28,
+      "articlesFetched": 19,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
+      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
       "disabledAt": null
     },
     {
@@ -200,15 +230,22 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-10-31T17:19:15.518Z",
+      "lastSuccessAt": "2026-11-01T06:31:00.623Z",
       "disabledAt": null
     }
   ],
   "errors": [
+    "gdelt:LLMs: fetch failed",
+    "gdelt:machine learning: fetch failed",
+    "feed:economictimes.indiatimes.com: no usable feed found",
     "feed:deccanchronicle.com: no usable feed found",
-    "briefing skipped for \"Google Just Got AI To Talk From Space — \": This operation was aborted",
-    "briefing skipped for \"IISc Director Flags AI Risks, Opportunit\": This operation was aborted",
-    "briefing skipped for \"Karpathy’s Tiny LLM Runs in Qwen’s Weigh\": This operation was aborted",
+    "feed:indiatoday.in: no usable feed found",
+    "feed:ndtvprofit.com: HTTP 403 for https://ndtvprofit.com/",
+    "feed:republicworld.com: no usable feed found",
+    "feed:scanx.trade: HTTP 403 for https://scanx.trade/",
+    "briefing skipped for \"AI’s Promise and Perils Take Centre Stag\": This operation was aborted",
+    "briefing skipped for \"Reddit CEO: AI Mode Cut Traffic 30%? 3 F\": This operation was aborted",
+    "briefing skipped for \"AI Training Opt-Out: 4 Giants Agree on 1\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
