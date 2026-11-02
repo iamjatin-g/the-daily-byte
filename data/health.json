@@ -1,15 +1,15 @@
 {
-  "runAt": "2026-11-02T06:31:18.443Z",
-  "outcome": "partial",
+  "runAt": "2026-11-02T21:51:24.502Z",
+  "outcome": "success",
   "totals": {
-    "fetched": 172,
-    "afterFilter": 79,
-    "clusters": 74,
+    "fetched": 189,
+    "afterFilter": 124,
+    "clusters": 108,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "count": 3
   },
   "sources": [
@@ -18,20 +18,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-10-25T05:00:11.841Z"
-    },
-    {
-      "name": "businesstoday.in",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-02T06:31:18.443Z",
-      "disabledAt": null
+      "disabledAt": "2026-11-02T21:51:24.502Z"
     },
     {
       "name": "deccanchronicle.com",
@@ -44,6 +34,16 @@
       "disabledAt": "2026-11-01T06:31:00.623Z"
     },
     {
+      "name": "devdiscourse.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "disabledAt": null
+    },
+    {
       "name": "economictimes.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -52,16 +52,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
-    },
-    {
-      "name": "in.mashable.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-02T06:31:18.443Z",
-      "disabledAt": null
     },
     {
       "name": "indianexpress.com",
@@ -82,16 +72,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
-    },
-    {
-      "name": "indiatvnews.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "HTTP 403 for https://indiatvnews.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "livemint.com",
@@ -134,6 +114,16 @@
       "disabledAt": "2026-11-02T06:31:18.443Z"
     },
     {
+      "name": "thehindu.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "disabledAt": null
+    },
+    {
       "name": "timesofindia.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -148,10 +138,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-10-25T05:00:11.841Z"
+      "disabledAt": "2026-11-02T21:51:24.502Z"
     },
     {
       "name": "AI research",
@@ -190,17 +180,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T06:31:18.443Z",
+      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 8,
+      "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T06:31:18.443Z",
+      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
       "disabledAt": null
     },
     {
@@ -210,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T06:31:18.443Z",
+      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
       "disabledAt": null
     },
     {
@@ -220,17 +210,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T06:31:18.443Z",
+      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 24,
+      "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T06:31:18.443Z",
+      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
       "disabledAt": null
     },
     {
@@ -240,19 +230,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T06:31:18.443Z",
+      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:AI research: fetch failed",
-    "feed:livemint.com: no usable feed found",
-    "feed:indianexpress.com: HTTP 403 for https://indianexpress.com/",
-    "feed:indiatvnews.com: HTTP 403 for https://indiatvnews.com/",
-    "feed:ndtvprofit.com: HTTP 403 for https://ndtvprofit.com/",
-    "briefing skipped for \"AI debt surge pushes Magnificent Seven b\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Kenya’s central bank maps 300 AI use cas\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Higher Education panel delivers tangible\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:tribuneindia.com: no usable feed found",
+    "feed:aninews.in: HTTP 403 for https://aninews.in/",
+    "briefing skipped for \"AI boom comes with a debt bomb: Magnific\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"NU-led research team explores AI tools t\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"AI could break legal systems by finding \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
