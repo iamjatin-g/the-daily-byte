@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-02T21:51:24.502Z",
+  "runAt": "2026-11-03T07:02:42.094Z",
   "outcome": "success",
   "totals": {
-    "fetched": 189,
-    "afterFilter": 124,
-    "clusters": 108,
+    "fetched": 169,
+    "afterFilter": 240,
+    "clusters": 170,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-03",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -40,7 +40,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
       "disabledAt": null
     },
     {
@@ -114,16 +114,6 @@
       "disabledAt": "2026-11-02T06:31:18.443Z"
     },
     {
-      "name": "thehindu.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
-      "disabledAt": null
-    },
-    {
       "name": "timesofindia.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -180,7 +170,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
       "disabledAt": null
     },
     {
@@ -190,7 +180,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
       "disabledAt": null
     },
     {
@@ -200,7 +190,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
       "disabledAt": null
     },
     {
@@ -210,7 +200,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
       "disabledAt": null
     },
     {
@@ -220,7 +210,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
       "disabledAt": null
     },
     {
@@ -230,16 +220,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-02T21:51:24.502Z",
+      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:tribuneindia.com: no usable feed found",
-    "feed:aninews.in: HTTP 403 for https://aninews.in/",
-    "briefing skipped for \"AI boom comes with a debt bomb: Magnific\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"AI boom comes with a debt bomb: Magnific\": This operation was aborted",
+    "briefing skipped for \"MIT Researchers Show LLMs Can Read and E\": This operation was aborted",
     "briefing skipped for \"NU-led research team explores AI tools t\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"AI could break legal systems by finding \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
