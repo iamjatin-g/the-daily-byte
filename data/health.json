@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-03T07:02:42.094Z",
+  "runAt": "2026-11-03T19:41:56.319Z",
   "outcome": "success",
   "totals": {
-    "fetched": 169,
-    "afterFilter": 240,
-    "clusters": 170,
+    "fetched": 150,
+    "afterFilter": 109,
+    "clusters": 101,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-03",
-    "count": 6
+    "date": "2026-11-04",
+    "count": 3
   },
   "sources": [
     {
@@ -32,16 +32,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
-    },
-    {
-      "name": "devdiscourse.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
-      "disabledAt": null
     },
     {
       "name": "economictimes.indiatimes.com",
@@ -170,17 +160,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
+      "lastSuccessAt": "2026-11-03T19:41:56.319Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 9,
+      "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
+      "lastSuccessAt": "2026-11-03T19:41:56.319Z",
       "disabledAt": null
     },
     {
@@ -190,7 +180,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
+      "lastSuccessAt": "2026-11-03T19:41:56.319Z",
       "disabledAt": null
     },
     {
@@ -200,7 +190,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
+      "lastSuccessAt": "2026-11-03T19:41:56.319Z",
       "disabledAt": null
     },
     {
@@ -210,7 +200,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
+      "lastSuccessAt": "2026-11-03T19:41:56.319Z",
       "disabledAt": null
     },
     {
@@ -220,14 +210,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-03T07:02:42.094Z",
+      "lastSuccessAt": "2026-11-03T19:41:56.319Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "briefing skipped for \"AI boom comes with a debt bomb: Magnific\": This operation was aborted",
-    "briefing skipped for \"MIT Researchers Show LLMs Can Read and E\": This operation was aborted",
-    "briefing skipped for \"NU-led research team explores AI tools t\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Google: LLMjacking attacks rack up $1 mi\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Artificial Limitation: The Illusion of I\": This operation was aborted",
+    "briefing skipped for \"OpenAI partners with security firms to s\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
