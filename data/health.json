@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-04T06:45:36.880Z",
+  "runAt": "2026-11-04T19:57:12.518Z",
   "outcome": "success",
   "totals": {
-    "fetched": 170,
-    "afterFilter": 222,
-    "clusters": 166,
+    "fetched": 186,
+    "afterFilter": 103,
+    "clusters": 97,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-04",
-    "count": 6
+    "date": "2026-11-05",
+    "count": 3
   },
   "sources": [
     {
@@ -40,7 +40,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T06:45:36.880Z",
+      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
       "disabledAt": null
     },
     {
@@ -98,10 +98,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "HTTP 403 for https://ndtv.com/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-10-28T05:58:43.621Z"
+      "disabledAt": "2026-11-04T19:57:12.518Z"
     },
     {
       "name": "ndtvprofit.com",
@@ -112,6 +112,16 @@
       "lastError": "HTTP 403 for https://ndtvprofit.com/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-02T06:31:18.443Z"
+    },
+    {
+      "name": "thehindubusinessline.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
+      "disabledAt": null
     },
     {
       "name": "timesofindia.indiatimes.com",
@@ -170,7 +180,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T06:45:36.880Z",
+      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
       "disabledAt": null
     },
     {
@@ -180,7 +190,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T06:45:36.880Z",
+      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
       "disabledAt": null
     },
     {
@@ -190,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T06:45:36.880Z",
+      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
       "disabledAt": null
     },
     {
@@ -200,17 +210,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T06:45:36.880Z",
+      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 36,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T06:45:36.880Z",
+      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
       "disabledAt": null
     },
     {
@@ -220,14 +230,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T06:45:36.880Z",
+      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "briefing skipped for \"Google: LLMjacking attacks rack up $1 mi\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"AI/ML Now: Predicting Reversed-Phase LC \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"From the PLC Cabinet to the Research Pap\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:ndtv.com: HTTP 403 for https://ndtv.com/",
+    "briefing skipped for \"Top 10 AI Leaders\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Novo Nordisk Foundation funds research f\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Human at the Center: 2026 CCI Research S\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
