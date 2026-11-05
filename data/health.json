@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-04T19:57:12.518Z",
+  "runAt": "2026-11-05T07:06:40.494Z",
   "outcome": "success",
   "totals": {
-    "fetched": 186,
-    "afterFilter": 103,
-    "clusters": 97,
+    "fetched": 150,
+    "afterFilter": 217,
+    "clusters": 161,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 4
   },
   "llmCallsToday": {
     "date": "2026-11-05",
-    "count": 3
+    "count": 7
   },
   "sources": [
     {
@@ -34,16 +34,6 @@
       "disabledAt": "2026-11-01T06:31:00.623Z"
     },
     {
-      "name": "devdiscourse.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
-      "disabledAt": null
-    },
-    {
       "name": "economictimes.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -52,6 +42,16 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
+    },
+    {
+      "name": "firstpost.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://firstpost.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "indianexpress.com",
@@ -114,16 +114,6 @@
       "disabledAt": "2026-11-02T06:31:18.443Z"
     },
     {
-      "name": "thehindubusinessline.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
-      "disabledAt": null
-    },
-    {
       "name": "timesofindia.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -180,7 +170,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
+      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
       "disabledAt": null
     },
     {
@@ -190,7 +180,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
+      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
       "disabledAt": null
     },
     {
@@ -200,7 +190,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
+      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
       "disabledAt": null
     },
     {
@@ -210,17 +200,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
+      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 36,
+      "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
+      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
       "disabledAt": null
     },
     {
@@ -230,15 +220,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-04T19:57:12.518Z",
+      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:ndtv.com: HTTP 403 for https://ndtv.com/",
-    "briefing skipped for \"Top 10 AI Leaders\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Novo Nordisk Foundation funds research f\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Human at the Center: 2026 CCI Research S\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:firstpost.com: HTTP 403 for https://firstpost.com/",
+    "briefing skipped for \"Ricursive launches Ripple-65B Preview, i\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"South Korea Launches 5 University Resear\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Samsung's Patient Research Support Bears\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
