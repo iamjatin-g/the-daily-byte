@@ -1,18 +1,28 @@
 {
-  "runAt": "2026-11-05T07:06:40.494Z",
+  "runAt": "2026-11-05T20:11:21.973Z",
   "outcome": "success",
   "totals": {
-    "fetched": 150,
-    "afterFilter": 217,
-    "clusters": 161,
+    "fetched": 165,
+    "afterFilter": 108,
+    "clusters": 96,
     "linkRotDropped": 0,
-    "llmCallsUsed": 4
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-05",
-    "count": 7
+    "date": "2026-11-06",
+    "count": 3
   },
   "sources": [
+    {
+      "name": "analyticsindiamag.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
+      "disabledAt": null
+    },
     {
       "name": "aninews.in",
       "provider": "feed",
@@ -42,16 +52,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
-    },
-    {
-      "name": "firstpost.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://firstpost.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "indianexpress.com",
@@ -114,6 +114,16 @@
       "disabledAt": "2026-11-02T06:31:18.443Z"
     },
     {
+      "name": "newsbytesapp.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://newsbytesapp.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
       "name": "timesofindia.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -170,7 +180,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
+      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
       "disabledAt": null
     },
     {
@@ -180,7 +190,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
+      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
       "disabledAt": null
     },
     {
@@ -190,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
+      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
       "disabledAt": null
     },
     {
@@ -200,17 +210,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
+      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 35,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
+      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
       "disabledAt": null
     },
     {
@@ -220,15 +230,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T07:06:40.494Z",
+      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:firstpost.com: HTTP 403 for https://firstpost.com/",
-    "briefing skipped for \"Ricursive launches Ripple-65B Preview, i\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"South Korea Launches 5 University Resear\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Samsung's Patient Research Support Bears\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:newsbytesapp.com: HTTP 403 for https://newsbytesapp.com/",
+    "briefing skipped for \"Anthropic is rapidly accelerating AI dev\": This operation was aborted",
+    "briefing skipped for \"Anthropic's models improving nearly twic\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"IIT Guwahati researchers use Drones and \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
