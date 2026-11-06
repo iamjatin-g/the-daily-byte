@@ -1,133 +1,25 @@
 {
-  "generatedAt": "2026-11-06T07:05:40.275Z",
+  "generatedAt": "2026-11-06T19:37:33.422Z",
   "lead": {
-    "id": "54051e66141e07c7",
-    "headline": "Anthropic Is Rapidly Accelerating AI Development Amid Slowdown Calls, Outside Research Group Says",
-    "category": "general",
-    "publishedAt": "2026-11-06T05:30:25.000Z",
-    "score": 0.8747,
-    "publisherCount": 10,
+    "id": "8925435ce4a4dfbd",
+    "headline": "AI points researchers toward new disease targets hidden in mitochondria",
+    "category": "research",
+    "publishedAt": "2026-11-06T19:20:01.000Z",
+    "score": 0.4785,
+    "publisherCount": 1,
     "featured": true,
     "lead": true,
     "articles": [
       {
-        "id": "84fd72cac5043872",
-        "headline": "Anthropic Is Rapidly Accelerating AI Development Amid Slowdown Calls, Outside Research Group Says",
-        "source": "ETV Bharat",
-        "domain": "unknown-etv-bharat",
-        "category": "general",
-        "publishedAt": "2026-11-06T05:30:25.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOckpZdjd4OUc0cm43LWdTS2RITE42U181TmJzWVNmZE1HanA1ZHZDbXY3ZnprcmpXZ0NuakZJZnZENWlHQXhmUzdNejY3SzgxOGtudXJ1aWZHMFZoYnlLa2ROZWkzNkd1Y053N1FDV04tZVJ6U0llNk1fb1RIR3FkX3oyRnhfYW9YZ0dVa1JHb0xtRzJ3OWVVYldpSWlJcFJvOTRXRE1aQ1dBMHhXUXAzZy1mNkRJaUMxaHVid2otOFBRLVR2Q0x4N2tGeWJaVThLUG1DRlQ2akNJZzJieWNnY1YzTVZRQdIB6wFBVV95cUxOUjdIbElmY29HQkpoTUdsVUJITzQtdGk3T0FzYktqWmR1NTE3cXlycGhobXF0eGFkemdvc3BtQUtjS3lSeWhxX2RKRXMteGlncVpUUFlWTE44XzZUQjlGdFktV1ZyZ2E0aG9TNDBFV29MRmQ4aUFCTTdybFBQSlRiaGRqaXJDQnM4NjJwUFFUeW5qMDhSYnlHdWtLbFhhMGxERXI5SE8yOGJIYXJka2MyTlZkMV9hR2xoOHhsVmRGUHVZRC1ZU3JudFNYZmkwS3NiTmN4cl9VT3RrYUw0TVhjRWxENVhSQ2Jva1pR?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "818f38db27190755",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "AP News",
-        "domain": "unknown-ap-news",
-        "category": "general",
-        "publishedAt": "2026-11-05T21:50:00.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "f1119133109f816d",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "Tech Xplore",
-        "domain": "unknown-tech-xplore",
-        "category": "general",
-        "publishedAt": "2026-11-05T19:40:11.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUFHT3EtVVFzOWU4dl85MXVMVFJzdmEyNXl6cUxGUEMxZ1NLU2Zob0xfU0JjWXpVTEY1ZUNBREtFQU16ckM2Q2JsLXh5NlFzc0VFWVVqd20wRjBXTUFGczU1NjNDTlFVN2ZWT1A2NEF1b05VTXMyWklRdXFtWi1ZY053?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "4822585e552f34c1",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "The Killeen Daily Herald",
-        "domain": "unknown-the-killeen-daily-herald",
-        "category": "general",
-        "publishedAt": "2026-11-05T19:24:24.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWEw5TElPX3QxODRGdzJiak1VOUo1MFpqTkx2a1JnOF9ucUlReTJYck0tb3dUcmN1VGpCWEluMGxFcjVoSWgzOTF3Qy1vMVlNUGZmVi01N1Y0bnJzQ3lieEpGSFFBQldmdDJhempIU0JKRVJRa2JKZnNRcDVwaTlZeU9OZEhFcFhzNEg1OGZURk5qenZ2X25mME8xOWRYU2NfUGwzZ09JbTJ0WXhzMGpzSGd5MC1xRmVibnFld0U3NkMtSEd1QmpUdWNPOEZUel94SDFNNTU2Vm5YMlR6RktHVmdjdVVqUTdSejlVaW1abWs0eGxtY01TaDlkZG1jZ1J6WXJOdTZGRVZNdw?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "893b1658c44cbb3d",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "The Seattle Times",
-        "domain": "unknown-the-seattle-times",
-        "category": "general",
-        "publishedAt": "2026-11-05T18:12:40.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRERXdGFueTdUUlNWaDEyY09IcXBxVWlrVk8yT2EwaGlkZzlNNHVBZC1wUzdNeFJOcVNhMGVLOWVIbFl3aThjZVB2WS0tZ1VlYTFMaEpWUHRsbnd1ejIxeHVqUFptZFBLVm0ybnhjeWllOHJpWFl3cHFIQ0xJTUVkTi03bkl6Z1BGS1h0bkNralNvcmFoTTNWV21ySnZsbHM2Q2RxTWV3eW1ONkNhX1JFRzlqUjBoU0pwQ3hzT202UHA2bkdFM1FVcU9GLVM0V0hF?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "a6692470e3f6b4ed",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "The Economic Times",
-        "domain": "economictimes.indiatimes.com",
+        "id": "c822837c55c475a5",
+        "headline": "AI points researchers toward new disease targets hidden in mitochondria",
+        "source": "Phys.org",
+        "domain": "unknown-phys-org",
         "category": "research",
-        "publishedAt": "2026-11-05T18:11:41.000Z",
-        "snippet": "Anthropic invited researchers from the Berkeley, California-based nonprofit, Model Evaluation and Threat Research, to review its internal data and interview staff as it prepares for its Wall Street…",
-        "imageUrl": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-4301908,resizemode-75,msid-135583912/tech/artificial-intelligence/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says.jpg",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says/articleshow/135583912.cms",
-        "provider": "gnews"
-      },
-      {
-        "id": "5e22f0b0c190118d",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "Livemint",
-        "domain": "livemint.com",
-        "category": "general",
-        "publishedAt": "2026-11-05T18:06:04.000Z",
-        "snippet": "",
-        "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-        "url": "https://livemint.com/companies/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says-11793901964710.html",
-        "provider": "gnews"
-      },
-      {
-        "id": "7c3e804717bddbdf",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "Ottumwa Courier",
-        "domain": "unknown-ottumwa-courier",
-        "category": "general",
-        "publishedAt": "2026-11-05T18:05:02.000Z",
+        "publishedAt": "2026-11-06T19:20:01.000Z",
         "snippet": "",
         "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZnkzNDZ3MnZhdkFVbnNRc3dTYndYTXotMm15MEcyOTdBWVBjZFVGcC12VlgxVEhJYy1NckV0OHQ1UFJXTkJpUkF5c1hOV3g0dDR2TDRySTNzSTdNYVo4NzVsTzh0aF9zUW9EYThET1R0akFIZ053RUNfV2x6M1NpU2NpU3dxRXltMXVnYzYwbmhqWEJ3d05oeWRTVVNLLXZpRldWYWQ4dDNDRm1wTUFfeEpFN1NUb3g2dUY4TGhZb0R2RUdaQUliRzVPd3lkR0JJcWRKMlpiNTYzT2pzby05LTk4VXQtRi1SU1R2VFgzaW0ySks1WFBSNUdUZ1RTLVd2NkpFeDZyZzBINFhaaTh2QlJxSFFSaVR3cnRR?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "1c19f9e6ce5fcaa6",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "Clinton Herald",
-        "domain": "unknown-clinton-herald",
-        "category": "general",
-        "publishedAt": "2026-11-05T18:05:02.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNOUVwel8wd3ZnTjdIdnI5S1J5R05fU1JaM3JFanB6V1dTTWZQbXNiQlpMUGlvRmxXU0k5amk1RG8yM3JJMWRhSHl6Snh3bnBUbkgyUjRwUzBwZ2RIRWdPT1AwWGo1WlpBY3REZlJ1VlU2RzBSTHpzalVRWWlQSVlkWlI0Uy1kaTNZRjdobFFTU01HSXNDeFhkdVRpZ3c5SDREb2JqZzgwLTlTUlRJUjJRYkdyaXZuT0hMM0hZdk90NHIxZ2hVZFJUNklURnBRalB3ZDZZTTd4VXJ1ekpEcjBiV1d5ajl0MGtpQUJ3SXRieDNsRHdFLTAxREJMTG5ZR3N1bzBKQTZRWjBPb2xCb3FUdjZlZUhQN29VOWktbG9JSjU?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "193d751d3b62d13a",
-        "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "source": "NewsChannel20",
-        "domain": "unknown-newschannel20",
-        "category": "general",
-        "publishedAt": "2026-11-05T18:00:18.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONVkzbmt2YUI4WnNlemlDaTd4VnZvRjlERkVQSHd5QXFlNlBUVGk5MkVlcmVyT0ExWUNrRVNTbllmYnpJTHlNbVhEVkxhQjFuSE9JUDhxa1RQNzRXTWI2eUo5SE5RSjhadVJYVndOVTcza0ZsUHRBZVhNUlB0TFBaV1pDYkZLblQ2MHR5TTRyNnBackhmWTNVdktaU0M4ZnpEV0JUaVhwcm9oanJDekgyLW5qWHBjOXVVVkh4dnAyLS02QnB0Z2ltbFd6Ul9iMWhuYzBFYkRJNVhEbXp6NnhqVnlxbXp5UERwT3lUeHFWS2xXSVBZZE9jWEdwb1VzY1RZanh5MDZ0b3QwMC05a1hSUVFEbnIzT2xueDk5N21PRQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ickNCUHVNUjhQVWZ2RGdsNE9wb3pyMng2cFRKc0xPQ1JORExrWFZXdXFLQkEyRzRqVVprdDkzdERQaUZsa1pGT2pYSEp4UHBIRnRzUDN0dXowWVZRZ0pHNUV6ZWhBZE9JY3k2aXNoUnpCOU0?oc=5",
         "provider": "google-news"
       }
     ],
@@ -135,507 +27,301 @@
   },
   "featured": [
     {
-      "id": "54051e66141e07c7",
-      "headline": "Anthropic Is Rapidly Accelerating AI Development Amid Slowdown Calls, Outside Research Group Says",
-      "category": "general",
-      "publishedAt": "2026-11-06T05:30:25.000Z",
-      "score": 0.8747,
-      "publisherCount": 10,
+      "id": "8925435ce4a4dfbd",
+      "headline": "AI points researchers toward new disease targets hidden in mitochondria",
+      "category": "research",
+      "publishedAt": "2026-11-06T19:20:01.000Z",
+      "score": 0.4785,
+      "publisherCount": 1,
       "featured": true,
       "lead": true,
       "articles": [
         {
-          "id": "84fd72cac5043872",
-          "headline": "Anthropic Is Rapidly Accelerating AI Development Amid Slowdown Calls, Outside Research Group Says",
-          "source": "ETV Bharat",
-          "domain": "unknown-etv-bharat",
-          "category": "general",
-          "publishedAt": "2026-11-06T05:30:25.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOckpZdjd4OUc0cm43LWdTS2RITE42U181TmJzWVNmZE1HanA1ZHZDbXY3ZnprcmpXZ0NuakZJZnZENWlHQXhmUzdNejY3SzgxOGtudXJ1aWZHMFZoYnlLa2ROZWkzNkd1Y053N1FDV04tZVJ6U0llNk1fb1RIR3FkX3oyRnhfYW9YZ0dVa1JHb0xtRzJ3OWVVYldpSWlJcFJvOTRXRE1aQ1dBMHhXUXAzZy1mNkRJaUMxaHVid2otOFBRLVR2Q0x4N2tGeWJaVThLUG1DRlQ2akNJZzJieWNnY1YzTVZRQdIB6wFBVV95cUxOUjdIbElmY29HQkpoTUdsVUJITzQtdGk3T0FzYktqWmR1NTE3cXlycGhobXF0eGFkemdvc3BtQUtjS3lSeWhxX2RKRXMteGlncVpUUFlWTE44XzZUQjlGdFktV1ZyZ2E0aG9TNDBFV29MRmQ4aUFCTTdybFBQSlRiaGRqaXJDQnM4NjJwUFFUeW5qMDhSYnlHdWtLbFhhMGxERXI5SE8yOGJIYXJka2MyTlZkMV9hR2xoOHhsVmRGUHVZRC1ZU3JudFNYZmkwS3NiTmN4cl9VT3RrYUw0TVhjRWxENVhSQ2Jva1pR?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "818f38db27190755",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "AP News",
-          "domain": "unknown-ap-news",
-          "category": "general",
-          "publishedAt": "2026-11-05T21:50:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "f1119133109f816d",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "Tech Xplore",
-          "domain": "unknown-tech-xplore",
-          "category": "general",
-          "publishedAt": "2026-11-05T19:40:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUFHT3EtVVFzOWU4dl85MXVMVFJzdmEyNXl6cUxGUEMxZ1NLU2Zob0xfU0JjWXpVTEY1ZUNBREtFQU16ckM2Q2JsLXh5NlFzc0VFWVVqd20wRjBXTUFGczU1NjNDTlFVN2ZWT1A2NEF1b05VTXMyWklRdXFtWi1ZY053?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "4822585e552f34c1",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "The Killeen Daily Herald",
-          "domain": "unknown-the-killeen-daily-herald",
-          "category": "general",
-          "publishedAt": "2026-11-05T19:24:24.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWEw5TElPX3QxODRGdzJiak1VOUo1MFpqTkx2a1JnOF9ucUlReTJYck0tb3dUcmN1VGpCWEluMGxFcjVoSWgzOTF3Qy1vMVlNUGZmVi01N1Y0bnJzQ3lieEpGSFFBQldmdDJhempIU0JKRVJRa2JKZnNRcDVwaTlZeU9OZEhFcFhzNEg1OGZURk5qenZ2X25mME8xOWRYU2NfUGwzZ09JbTJ0WXhzMGpzSGd5MC1xRmVibnFld0U3NkMtSEd1QmpUdWNPOEZUel94SDFNNTU2Vm5YMlR6RktHVmdjdVVqUTdSejlVaW1abWs0eGxtY01TaDlkZG1jZ1J6WXJOdTZGRVZNdw?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "893b1658c44cbb3d",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "The Seattle Times",
-          "domain": "unknown-the-seattle-times",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:12:40.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRERXdGFueTdUUlNWaDEyY09IcXBxVWlrVk8yT2EwaGlkZzlNNHVBZC1wUzdNeFJOcVNhMGVLOWVIbFl3aThjZVB2WS0tZ1VlYTFMaEpWUHRsbnd1ejIxeHVqUFptZFBLVm0ybnhjeWllOHJpWFl3cHFIQ0xJTUVkTi03bkl6Z1BGS1h0bkNralNvcmFoTTNWV21ySnZsbHM2Q2RxTWV3eW1ONkNhX1JFRzlqUjBoU0pwQ3hzT202UHA2bkdFM1FVcU9GLVM0V0hF?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "a6692470e3f6b4ed",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "The Economic Times",
-          "domain": "economictimes.indiatimes.com",
+          "id": "c822837c55c475a5",
+          "headline": "AI points researchers toward new disease targets hidden in mitochondria",
+          "source": "Phys.org",
+          "domain": "unknown-phys-org",
           "category": "research",
-          "publishedAt": "2026-11-05T18:11:41.000Z",
-          "snippet": "Anthropic invited researchers from the Berkeley, California-based nonprofit, Model Evaluation and Threat Research, to review its internal data and interview staff as it prepares for its Wall Street…",
-          "imageUrl": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-4301908,resizemode-75,msid-135583912/tech/artificial-intelligence/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says.jpg",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says/articleshow/135583912.cms",
-          "provider": "gnews"
-        },
-        {
-          "id": "5e22f0b0c190118d",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "Livemint",
-          "domain": "livemint.com",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:06:04.000Z",
-          "snippet": "",
-          "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-          "url": "https://livemint.com/companies/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says-11793901964710.html",
-          "provider": "gnews"
-        },
-        {
-          "id": "7c3e804717bddbdf",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "Ottumwa Courier",
-          "domain": "unknown-ottumwa-courier",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:05:02.000Z",
+          "publishedAt": "2026-11-06T19:20:01.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZnkzNDZ3MnZhdkFVbnNRc3dTYndYTXotMm15MEcyOTdBWVBjZFVGcC12VlgxVEhJYy1NckV0OHQ1UFJXTkJpUkF5c1hOV3g0dDR2TDRySTNzSTdNYVo4NzVsTzh0aF9zUW9EYThET1R0akFIZ053RUNfV2x6M1NpU2NpU3dxRXltMXVnYzYwbmhqWEJ3d05oeWRTVVNLLXZpRldWYWQ4dDNDRm1wTUFfeEpFN1NUb3g2dUY4TGhZb0R2RUdaQUliRzVPd3lkR0JJcWRKMlpiNTYzT2pzby05LTk4VXQtRi1SU1R2VFgzaW0ySks1WFBSNUdUZ1RTLVd2NkpFeDZyZzBINFhaaTh2QlJxSFFSaVR3cnRR?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "1c19f9e6ce5fcaa6",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "Clinton Herald",
-          "domain": "unknown-clinton-herald",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:05:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNOUVwel8wd3ZnTjdIdnI5S1J5R05fU1JaM3JFanB6V1dTTWZQbXNiQlpMUGlvRmxXU0k5amk1RG8yM3JJMWRhSHl6Snh3bnBUbkgyUjRwUzBwZ2RIRWdPT1AwWGo1WlpBY3REZlJ1VlU2RzBSTHpzalVRWWlQSVlkWlI0Uy1kaTNZRjdobFFTU01HSXNDeFhkdVRpZ3c5SDREb2JqZzgwLTlTUlRJUjJRYkdyaXZuT0hMM0hZdk90NHIxZ2hVZFJUNklURnBRalB3ZDZZTTd4VXJ1ekpEcjBiV1d5ajl0MGtpQUJ3SXRieDNsRHdFLTAxREJMTG5ZR3N1bzBKQTZRWjBPb2xCb3FUdjZlZUhQN29VOWktbG9JSjU?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "193d751d3b62d13a",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "NewsChannel20",
-          "domain": "unknown-newschannel20",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:00:18.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONVkzbmt2YUI4WnNlemlDaTd4VnZvRjlERkVQSHd5QXFlNlBUVGk5MkVlcmVyT0ExWUNrRVNTbllmYnpJTHlNbVhEVkxhQjFuSE9JUDhxa1RQNzRXTWI2eUo5SE5RSjhadVJYVndOVTcza0ZsUHRBZVhNUlB0TFBaV1pDYkZLblQ2MHR5TTRyNnBackhmWTNVdktaU0M4ZnpEV0JUaVhwcm9oanJDekgyLW5qWHBjOXVVVkh4dnAyLS02QnB0Z2ltbFd6Ul9iMWhuYzBFYkRJNVhEbXp6NnhqVnlxbXp5UERwT3lUeHFWS2xXSVBZZE9jWEdwb1VzY1RZanh5MDZ0b3QwMC05a1hSUVFEbnIzT2xueDk5N21PRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ickNCUHVNUjhQVWZ2RGdsNE9wb3pyMng2cFRKc0xPQ1JORExrWFZXdXFLQkEyRzRqVVprdDkzdERQaUZsa1pGT2pYSEp4UHBIRnRzUDN0dXowWVZRZ0pHNUV6ZWhBZE9JY3k2aXNoUnpCOU0?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "47b72798ea281377",
-      "headline": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-      "category": "research",
-      "publishedAt": "2026-11-05T18:53:41.000Z",
-      "score": 0.5023,
-      "publisherCount": 3,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "505c5cbae584998f",
-          "headline": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-          "source": "Reuters",
-          "domain": "unknown-reuters",
-          "category": "research",
-          "publishedAt": "2026-11-05T18:53:41.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "11122580d02ca9ce",
-          "headline": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-          "source": "marketscreener.com",
-          "domain": "unknown-marketscreener-com",
-          "category": "research",
-          "publishedAt": "2026-11-05T18:52:51.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQU9vckZQMVdZUGJSS3VLTFl6WUl2NHlJcDlTTUhTTnhmNW45UFlPdjhkUFJNdjk3TVU5V0NYZTlXMlR3V1BtSHYxMHFhZXluRmZwSHZTbmk5NUY3VWJYUm5PV256X205UHBkeGs1ZlZlVlY4RFVzV1FVVFZodXZMQmhPcWw4QkJWTHJVdy1JUGZ6dHNXaGtuMDMwRG81T25NWkNoTzFmanEwYk9NOEdSVThEaU5GS3VPRi05QWxlSFlaTzh5QkhsTlVIV24?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "c0258eb30531fc6f",
-          "headline": "Anthropic’s models improving nearly twice as fast with help from AI, study finds By Reuters",
-          "source": "Investing.com",
-          "domain": "unknown-investing-com",
-          "category": "research",
-          "publishedAt": "2026-11-05T18:10:56.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMEtXelVEUE51UWtIcWZwTTd0OE5yWmY4ekJROXh2NXUxclFYLUMzc0p2RnpVdmczbG1BM0htaUcwNk1pQnVfNEpLbG1OejJIclFBSG42SHJmbHlKWFM3dWpIcnV1bzhPZmFITGdxYThWX2VFWGUwYlhkSHAzQk5MdFdzRFRabDhQSU5kckhNQU55eElfZ3BfbzkwMmdEeDBiWDJ2M3RGbk5mWUhpaE4ybHJHVElncHV2SUlGemQ1NFdBTzNXa2J5b3RnRXE0eWkw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "c44df952ecfe2305",
-      "headline": "Researchers teach football to AI models",
-      "category": "research",
-      "publishedAt": "2026-11-06T02:40:02.000Z",
-      "score": 0.5013,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "043e24f65d587f37",
-          "headline": "Researchers teach football to AI models",
-          "source": "Tech Xplore",
-          "domain": "unknown-tech-xplore",
-          "category": "research",
-          "publishedAt": "2026-11-06T02:40:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JN1lZNnVPWGN5eUk3ZjY0ZkJQNWZyclBISTgwSjFfUjdkelpZSjVQRU8zc285NDg0RmFNODhqdHRjOFJtZ2FPVDhIalJmLVlSVTBieUNPU1ZGT1IwajUwRDVB?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "6a89d7c543853940",
-          "headline": "CMU Researchers Teach Football to AI Models",
-          "source": "Carnegie Mellon University",
-          "domain": "unknown-carnegie-mellon-university",
-          "category": "research",
-          "publishedAt": "2026-11-05T14:00:42.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNendRYXYzN0JKcThyaGZrc2pMYU4tZ0NjbHZ6VTYzbi1zb2VaaDdBNVdVc2IwMERTOU1rdUxXeUVpbV9DU1FhcnBGajN6dExhUHIxMHpIenIzY1dHX1JGMnpudnlwQ3hWZmh1ay1NWWozOFF5bDVVajJCRkpHbDBaZFMtemZjZXp3WXVHSlE1akVGb082d2MtTURZeTByWTRG?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "64d2b889b09d4bdc",
-      "headline": "87% say their AI controls need to work better",
+      "id": "899ea19e23345737",
+      "headline": "Machine learning model predicts kidney injury in children with sepsis",
       "category": "general",
-      "publishedAt": "2026-11-06T06:00:03.000Z",
-      "score": 0.4656,
+      "publishedAt": "2026-11-06T19:02:13.000Z",
+      "score": 0.4737,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "708a37796dd40771",
-          "headline": "87% say their AI controls need to work better",
-          "source": "Help Net Security",
-          "domain": "unknown-help-net-security",
-          "category": "general",
-          "publishedAt": "2026-11-06T06:00:03.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWN5Y01WTTVFcU9UaHAydGUxc1psLVdNMjZwd1BzVnZSVkI1Z0g4aVZCTU5kUDd3RXp4OFYwNDV5a1M4SXd1MXNhLUFxRUxfeFdrbUxTMVNUU3IyQjdvbk9kQjdrYTdyMW1rclhCTkFFRm9reWluanBuQkVNc1o5OElqNEw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9199b74b9728a4b9",
-      "headline": "ANU receives Google funding to boost fusion energy research with AI",
-      "category": "industry",
-      "publishedAt": "2026-11-05T23:39:31.000Z",
-      "score": 0.4651,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d511ac0b4e5fe5c5",
-          "headline": "ANU receives Google funding to boost fusion energy research with AI",
-          "source": "space & defense",
-          "domain": "unknown-space-defense",
-          "category": "industry",
-          "publishedAt": "2026-11-05T23:39:31.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnVwMHlvUXJpNzNZV3Y3TXhPRVRIOHdTNXhIMWRYbldNZ2hkcGRTZE5tblpPb0FHbVNZaUtMbDJQcUh5RHVxVmN0eGhZX2VJc0N2MGVQSndzNzlQZmtvblI3VWdYVTlDRmhhdl9IN0RRR3RpZ3NnTzRqZ3BtYXFtTHhnSmhFbmp3OXdaNFJNOTRZdEs3djRzT3p1aw?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "2e2332dd4e919151",
-          "headline": "ANU receives Google funding to boost fusion energy research with AI",
-          "source": "The Australian National University",
-          "domain": "unknown-the-australian-national-university",
-          "category": "industry",
-          "publishedAt": "2026-11-05T21:08:38.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1FkMTVaOW4xMTZXTE4zSmd2UXdIclJlaENoQkRwSHZBejJqaWhobnR4Mm1DOW5IT1BPVC1IdnRjalNaMkZuQUJCVFVPXzVoS1BzWUVlZjZ0b1IydUtqVVFPNnJNbVJqUlRMTzkxUFYzSS1TYnhkMC1aaTdKT3dsOUhzZmdFWFNBMnZpMU9GcGp5Q2VFbVVYa2F1MDBDbkRaa2k2UEJkYw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "7a87a6157f7c9b49",
-      "headline": "Rocks, robots, and a little machine learning magic!",
-      "category": "general",
-      "publishedAt": "2026-11-06T05:34:31.000Z",
-      "score": 0.4591,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "ded30476b7cdfbbd",
-          "headline": "Rocks, robots, and a little machine learning magic!",
-          "source": "Mining.com.au",
-          "domain": "unknown-mining-com-au",
-          "category": "general",
-          "publishedAt": "2026-11-06T05:34:31.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TQmVlNjNqVGpCc0FlNHBwaV9SeUJTNHNDSTYzTkZXMUFEZXgxVmFTZXVFU0c5X1NxU2xlTXktd1M0NHNyTVBzc1R1M3V5Z2ozSjdMU2l4VVRTVVpFLVpvRk5DSmFwdnVwbEJwVW1NSHBVbEdtV3BSRFhUNA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3d24ece8954ad75b",
-      "headline": "Collaborative LLM Agents Turn Multimodal Forensic Data Into Fraud Evidence",
-      "category": "models",
-      "publishedAt": "2026-11-06T04:40:12.000Z",
-      "score": 0.4455,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "077173b943186dd8",
-          "headline": "Collaborative LLM Agents Turn Multimodal Forensic Data Into Fraud Evidence",
+          "id": "a116d7a1318114fb",
+          "headline": "Machine learning model predicts kidney injury in children with sepsis",
           "source": "Bioengineer.org",
           "domain": "unknown-bioengineer-org",
-          "category": "models",
-          "publishedAt": "2026-11-06T04:40:12.000Z",
+          "category": "general",
+          "publishedAt": "2026-11-06T19:02:13.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHFKTUdiOFNlZXVfLXUzZDJXUXVmemx4SW5Oc1Y3YlI5eW9ZZEMzd0tjOVE2OEJmRU0tMEhfY0pkclN1QXRyVEJrc3ZpczBoN0xHQXBmcU1HOFFsaXZDMTg3cXRUTHVFRnVhVjdib3RGQ2tfZVFmZTNtWjZpWlNLR1NYS2hvX2N1UXBHWkxVbWd6R1Z6Y1ROb19YYjJ6aGF3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFNKT1o2LUlHYzkzb2p6SHFLXzNJZkJGRkljbV9VeFRsLXNwUVIta3hPZ0g0aXpodTFta21RZ0EyNTV3U25ad1dJRG5sdXJSUWhCcDcwQU51S2VJSWh6d0xFYjgxd1JZWUpBT0xudHVyOWhYNFgyYlkwMzhaa3A0VFdEZXYtR0E0MWt4OGZ6Q0dvMTQ3dzNvZnBn?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "2afa399ce112b1ea",
-      "headline": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
+      "id": "9ac8b1d322812b49",
+      "headline": "My local LLM turns my voice notes into to-do items automatically, and nothing falls through the cracks",
+      "category": "models",
+      "publishedAt": "2026-11-06T19:00:21.000Z",
+      "score": 0.4732,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "7d93304f8eb05d80",
+          "headline": "My local LLM turns my voice notes into to-do items automatically, and nothing falls through the cracks",
+          "source": "XDA",
+          "domain": "unknown-xda",
+          "category": "models",
+          "publishedAt": "2026-11-06T19:00:21.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZkNIZ1NJTURFMVY4YTdRQnRqejBVQ2NIcWcwUklKdTZ0QmZfeUdiSmJYeElzbzRzbHlNR1RiUDBrcFZfOXdYYy1YMkllMXV4eTdjUXNxRHhISm92UFQwN3F4a1JBRjVaNFR0azBRNG9SbVZ6NGJfckVDeXNoV1ZYRHM2WnA3M2Qtc2NsMmwtNzRpemNnRmIyekxKa1o?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "cae2af79311f16c4",
+      "headline": "How to predict the behavior of molecules from scant data",
+      "category": "general",
+      "publishedAt": "2026-11-06T19:00:00.000Z",
+      "score": 0.4731,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "c32da189b2d10cbb",
+          "headline": "How to predict the behavior of molecules from scant data",
+          "source": "MIT News",
+          "domain": "unknown-mit-news",
+          "category": "general",
+          "publishedAt": "2026-11-06T19:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3Q5SWdOTkxodVd3RFdoeWtHR1BmMUhwSm84RkxrZTBPZjU5UjRzRmtxRG9ZeWR0V1RmUTNzUHR0bzNsNVBtZXk4OFRBdnYxalF5V25hZ3pHUDRWLTI2RUZINmdZSWJHeEtBTEZRWXpoTjNJemotdGQxMVZoREZqWUJ1c2twdw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "717981be95317d1c",
+      "headline": "Machine Learning Model Integrates Multimodal Data to Stratify Glioblastoma Survival Risk",
+      "category": "general",
+      "publishedAt": "2026-11-06T18:52:13.000Z",
+      "score": 0.471,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "17751f64f283b94d",
+          "headline": "Machine Learning Model Integrates Multimodal Data to Stratify Glioblastoma Survival Risk",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-11-06T18:52:13.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnBYOXBuZkxweWlZU21LWXdJT1ZCNnhPMnVtTGNEaG9PLTdfX09KdmJCSy1rZ1pFNnZreVhQUUNZQ05heXRnZFV2QWdJNzBWVzZCLWQ5Mi16SUdHWUZaS1lYY2F2R0RvbEZEVlZCZUdkeG12Yk1xZTF6WGx5MzhET2w4R181UThCanFZNEtEYzN2N0xCSE5xbm1IY3ZwdUhYcUk1UU8wZTVZS0NOLU5zdVp5RQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "747cda7b5441ae50",
+      "headline": "DIGITIMES Insight: Cloud LLMs drive sharp increase in KV cache demand; establishes three key directions for SSD development",
+      "category": "models",
+      "publishedAt": "2026-11-06T17:32:00.000Z",
+      "score": 0.4504,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "617e13fc71e4bb00",
+          "headline": "DIGITIMES Insight: Cloud LLMs drive sharp increase in KV cache demand; establishes three key directions for SSD development",
+          "source": "digitimes",
+          "domain": "unknown-digitimes",
+          "category": "models",
+          "publishedAt": "2026-11-06T17:32:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOajFoUWMxRkNSRUFJTUY1WFczb0lMd3lJV3JJdUl3bk5XQ0xzOEtlWDRsWXRVUVVaOW83QWVWb0l4U0NHOFA4enRLbUJZdGl6ZnpMYU5CTzZ6blJPUXI4NUh1ckxFM3JwXzNKU3U0bHpIdDZHVUQ2NjVuczhLU2E3T1RZZDFWUUh4aWp5Uy1razdKOTA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "131be09833acb0aa",
+      "headline": "NEW WHITE PAPER: Deep learning for advanced users",
       "category": "research",
-      "publishedAt": "2026-11-06T03:57:27.000Z",
-      "score": 0.4354,
+      "publishedAt": "2026-11-06T17:13:17.000Z",
+      "score": 0.4458,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "3d7ac63b9e6138b5",
-          "headline": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
-          "source": "CleanTechnica",
-          "domain": "unknown-cleantechnica",
+          "id": "0484e3f8f86732e9",
+          "headline": "NEW WHITE PAPER: Deep learning for advanced users",
+          "source": "Imaging and Machine Vision Europe",
+          "domain": "unknown-imaging-and-machine-vision-europe",
           "category": "research",
-          "publishedAt": "2026-11-06T03:57:27.000Z",
+          "publishedAt": "2026-11-06T17:13:17.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSno1bDE0d3JRVjRNbk1XQ1B6aEh6NGp0RnphbGJNR2pvSUlsaXd2aTRnWDA0Y1loSDYtQU1BaDJwTXNpb0RSQWhJQ3BUWXNoQldCejdsc2h5THFBZ0FnZXNYajNFamFoNG9lbEJOd0RUeVN4WXJLR1duUl9lYlJBR0dlTzlDbUtLWG5icUNHdnBzNG05ejZiZWNSVGVUNERoU1M1c0phMGdnaHFqUG4tbUFlOV9kaENmcE81bnhteGZxV2hiWW4tM3hHODF0SlNlSHJxaVJkOExpNkRSU1NIa1lNaXM0amlRbEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjZIYllwdjFLLTNkSkVjWjNHNzB5MUpheFItTy04NnVBdmxVX0duZmxLQlpiQ0pzeG55djhaWFgtNGZTZ0NrNnh4VmlOTFpzSXdkNXlENHFkV2cwaFpuSVA5Skd2V2xnazRQZGtyWE8ySXRzZWNhaW5zWUhRRG0xUnEwOUo3VWlsRFE?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "9a9ddedf97f3fd19",
-      "headline": "Gemini Omni 1.2 Flash vs Kling vs Runway: $0.07/s [2026]",
-      "category": "models",
-      "publishedAt": "2026-11-06T00:32:58.000Z",
-      "score": 0.3919,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d056ff1339c9929b",
-          "headline": "Gemini Omni 1.2 Flash vs Kling vs Runway: $0.07/s [2026]",
-          "source": "tech-insider.org",
-          "domain": "unknown-tech-insider-org",
-          "category": "models",
-          "publishedAt": "2026-11-06T00:32:58.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nQktqcW9KRlloQ2xvQm1wOW5EMFBEME40X0d2allzY1dPRVA4YnI0M3FlQmV0M3lPM2taYl8ybnpVeGU1aGJDelQ3UUNIbllMN2J2MnpyVXlFbkR4SDhLS1lmdkRTOEtNa04wM20yajdsdkMzeGZleDBxd1RMeXc?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "4607210a86c01bab",
-      "headline": "Hugging Face launches ProtoStar open science and AI initiative | ETIH EdTech News",
-      "category": "models",
-      "publishedAt": "2026-11-06T00:03:39.000Z",
-      "score": 0.3863,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "9684607f28e8b7a2",
-          "headline": "Hugging Face launches ProtoStar open science and AI initiative | ETIH EdTech News",
-          "source": "EdTech Innovation Hub",
-          "domain": "unknown-edtech-innovation-hub",
-          "category": "models",
-          "publishedAt": "2026-11-06T00:03:39.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0ctTmRUcDlPUjhNajBqZHBPeVZVYVVQbDYxVzRtT1IyekhvemhwUG9JVmhpaGpqX1U3NDhULTd0S1RrUzBiRmZyYjBUMk44QXM4QzNTdFBHVi00WGFZdU9reFIyc0l5ZnhKU3hLMEZxeTBaWm1sVDZjcVJaVmdTbEI4Y1FWcXBfZ25jNktSUEZ5WE5jRnotTHZfaHhDclNwODlsOXpsTUhxWFJSQnlaRjRIdElVRVBMNEpWQUIyM09MVW5V?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9f9242cd18ca20a8",
-      "headline": "India needs focused investment and public infrastructure to lead in AI",
-      "category": "industry",
-      "publishedAt": "2026-11-05T18:14:14.000Z",
-      "score": 0.3302,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "bcd6dbc32e55dea1",
-          "headline": "India needs focused investment and public infrastructure to lead in AI",
-          "source": "Business Standard",
-          "domain": "unknown-business-standard",
-          "category": "industry",
-          "publishedAt": "2026-11-05T18:14:14.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2QwZkdTZFUyQWtMVWcxN1FOeU1fVk84UG4wMTlTRHgxeVNzRjhJUnloLVB5MkxmcGU3ZXZMSWpzZnZSbFl6aldnY1FodnBhejA5anV6dnIweEpMWW9wbTVqbTd5clZkQ3FGSXlTN0l2YmJ6OVpzckc0b3ozTWxzRklNMVZla0R5WU04TjdCcDlmbjYxNzA5TWVINWFjTmQtSW5pTmVTaElEN3Zqa3VLQlRYcllSblUtUXctWmV4bFZJeG9ONFZJSHY0Z25Banl5aF8tbWd0a9IB3AFBVV95cUxOYlBscW14Vk9mZ2k0TGJHdXJQczVhMjlCUnE1ZFhuMXlpVDJvdmtUbS1tNEhrb3dUQ1hQVGVmSlZPWlNMemU4cENjbWVkM0t0LWU0SXNxLWhUUGJCWnFJdkhVWUZzcjJmUHluS3VNdTZERjA4OUlaaHJ3WGlQZENoYUdESDlyZlhGejc4dWRocEFhd0puOVFZeFR1Y1M0bDVrLTE2ekFoTU1id3BpZ3pIeEE1dHU2alExTURkZV8tZDdwNWp5WXhXczM2NjRQVDhNemI2QzRialZ3Vnh2?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "7467abaed1b32841",
-      "headline": "EnterpriseDB acquires Altinity to unify open-source database engines",
-      "category": "industry",
-      "publishedAt": "2026-11-05T15:25:11.000Z",
-      "score": 0.3089,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d29acccb133c7726",
-          "headline": "EnterpriseDB acquires Altinity to unify open-source database engines",
-          "source": "TechTarget",
-          "domain": "unknown-techtarget",
-          "category": "industry",
-          "publishedAt": "2026-11-05T15:25:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGdJdF9tWV8xZ0VEc2pfVi0yZWlVSGVXTmdWUS0wUFBkRkgzMmUzNlNWUktlWkRnYThZVkY2YXZ6VVpqbWstNF90UldLVGZBQkRmTzJwU0Y0VkJBZjdfOFVOZkZhS2F3U05nQTI0cjNVWlh0Z2p1ZXZxdVdreW1zUFVPZ05Zd1NNOXhzTW5pek9IY1hXcDMxUXc3dzRaVGpnaVJLZHlHOTlHWV9y?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9022c5385cbe42e6",
-      "headline": "Banks' Hidden AI Advantage Lies in Their Legacy Core Systems",
+      "id": "b8266dea2708048e",
+      "headline": "AI Data Center Lawsuits: 5 Reasons Big Tech Wins [2026]",
       "category": "policy",
-      "publishedAt": "2026-11-05T15:04:48.000Z",
-      "score": 0.3066,
+      "publishedAt": "2026-11-06T16:52:36.000Z",
+      "score": 0.4408,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "963823d66b017ab8",
-          "headline": "Banks' Hidden AI Advantage Lies in Their Legacy Core Systems",
-          "source": "Israel Defense",
-          "domain": "unknown-israel-defense",
+          "id": "e8b4899dbe2f5a4b",
+          "headline": "AI Data Center Lawsuits: 5 Reasons Big Tech Wins [2026]",
+          "source": "https://tech-insider.org/",
+          "domain": "unknown-https-tech-insider-org",
           "category": "policy",
-          "publishedAt": "2026-11-05T15:04:48.000Z",
+          "publishedAt": "2026-11-06T16:52:36.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VRlJKU0NfNDRyT01QWmFyS3hWTGZPa1dxU3g3eURDNGF3dXRrRE5wdENCeWdGSmk5SzhlTWt4WENrS001YTVuZzJrSUNKYjBERzFRc2ZBcGI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDRUVGVWejltOXRfV19VWWJTYnRaemJ2XzJZWl8zOGFLNzBGYkJhelpQSzV2NjJvQXZsSUVzZ0s3R05xbkZmcXc0bDBQdzdKVkQ4dFctYVhhdnhENnJZZXdJUWdYNjRMdjRXamNaV1RyaW0tUThlRUd4UFY4NlBLR2JVb3lONkVrZW5lbUtwQmNOWERB?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "9ba925d32aae3ca5",
-      "headline": "Nomura sees AI capex risks from Democrats' midterm gains, warns of data centre curbs from 2028",
-      "category": "policy",
-      "publishedAt": "2026-11-05T03:43:19.000Z",
-      "score": 0.2489,
+      "id": "d9014eee50538b00",
+      "headline": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+      "category": "models",
+      "publishedAt": "2026-11-06T16:45:58.000Z",
+      "score": 0.4393,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "d71626f32506d222",
-          "headline": "Nomura sees AI capex risks from Democrats' midterm gains, warns of data centre curbs from 2028",
-          "source": "Moneycontrol",
-          "domain": "moneycontrol.com",
+          "id": "405fbc3da8200879",
+          "headline": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
+          "category": "models",
+          "publishedAt": "2026-11-06T16:45:58.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcExNUkZTUklyc0x5Q2U5djV3R3VkYjF1OHFYWjk5Ulo2Uk9WMEI0WEVVYkxwREg1a29uRDdHRGhXMnRuVDE3NVhQemo2YmVaTTVNQzRhcGdpUHR0VlBmdG1JNGdSRGxQOHJ6UzZJLXdFV1Frb1hOeHd1bWpHbFZoNW52WUpkbnVGOURQOHFrSFVfZGpYWnhmWi1GNld3YXdNQm1tTWMtMm9aZC11TldXbkloV2lzQ1YzdTBVRzltdk1MbTlmLWJsZlhzb05nWW0z?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "bf9a034dad098d71",
+      "headline": "FAU researchers explore quantum computing to predict lung cancer",
+      "category": "research",
+      "publishedAt": "2026-11-06T15:00:00.000Z",
+      "score": 0.4153,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "7f1c9dadd97a720d",
+          "headline": "FAU researchers explore quantum computing to predict lung cancer",
+          "source": "Refresh Miami",
+          "domain": "unknown-refresh-miami",
+          "category": "research",
+          "publishedAt": "2026-11-06T15:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXc5clBCWDY5aDg2TzdFdVY2RG85b3RZVmVfYnRoTjNZSU1wbEpoNnV3OUIxQ0dHY0VXQWN2VndMWFF5Vk9zdS13eFFfdkNXUW90Wnh5WHdTcDB2OHlhY2xHOGFDYjdzNnJ2YWZ6VjAwclF0TE15VFE1bnZnNFJmQ2ZXa2tyM3pNUDZuLThpSGlRdzJxTmlLTThiUQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "24ad3993c09403d9",
+      "headline": "Harvey AI To Assist CBD Lawyers With Research, Drafting And Review",
+      "category": "policy",
+      "publishedAt": "2026-11-06T12:08:02.000Z",
+      "score": 0.3812,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "857bc104119b0e2e",
+          "headline": "Harvey AI To Assist CBD Lawyers With Research, Drafting And Review",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
           "category": "policy",
-          "publishedAt": "2026-11-05T03:43:19.000Z",
-          "snippet": "The research firm noted that tighter regulations could lead to some relocation rather than outright cancellation of projects.",
-          "imageUrl": "https://images.moneycontrol.com/static-mcnews/2026/04/20260419092019_nagtr.jpg",
-          "url": "https://moneycontrol.com/news/business/markets/nomura-sees-ai-capex-risks-from-democrats-midterm-gains-warns-of-data-centre-curbs-from-2028-14070896.html",
-          "provider": "gnews"
+          "publishedAt": "2026-11-06T12:08:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR0ZQODBLLWtJZERjVmR2RXdHdm9xaVdtVk9zVEdyVERYNUFhSlk1dmp4aHF1cGhhX1k3U3QzeEV2c1ptbmJ2aEpDWGJFUzJ1ZEFOOWZYbGR5dmprdXQxVVhQUWZCQXhMUzBETHFrQ2dxQkhqaHU1MEhORFlyMEdDeFFfRzZiNU90aE01bmV3MTk?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "93ae54817285cc7f",
+      "headline": "Franklin Templeton uses OpenAI to support investment research",
+      "category": "industry",
+      "publishedAt": "2026-11-06T01:10:24.000Z",
+      "score": 0.291,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "20f0b270b84a9545",
+          "headline": "Franklin Templeton uses OpenAI to support investment research",
+          "source": "OpenAI",
+          "domain": "unknown-openai",
+          "category": "industry",
+          "publishedAt": "2026-11-06T01:10:24.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hOXNGUVZGVEEzMF9uRVd4X0kxcVNXT0ZQNjA3WnhVTGhwMjg3TC1WTkFZVTJrdExhOXN2TkRsalJsVUU2Z0FGZXR2Y2pCcVNWZE5CeGZQMA?oc=5",
+          "provider": "google-news"
         }
       ],
       "briefing": null
@@ -643,1406 +329,1250 @@
   ],
   "latest": [
     {
-      "id": "64d2b889b09d4bdc",
-      "headline": "87% say their AI controls need to work better",
-      "category": "general",
-      "publishedAt": "2026-11-06T06:00:03.000Z",
-      "score": 0.4656,
+      "id": "8925435ce4a4dfbd",
+      "headline": "AI points researchers toward new disease targets hidden in mitochondria",
+      "category": "research",
+      "publishedAt": "2026-11-06T19:20:01.000Z",
+      "score": 0.4785,
       "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "708a37796dd40771",
-          "headline": "87% say their AI controls need to work better",
-          "source": "Help Net Security",
-          "domain": "unknown-help-net-security",
-          "category": "general",
-          "publishedAt": "2026-11-06T06:00:03.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWN5Y01WTTVFcU9UaHAydGUxc1psLVdNMjZwd1BzVnZSVkI1Z0g4aVZCTU5kUDd3RXp4OFYwNDV5a1M4SXd1MXNhLUFxRUxfeFdrbUxTMVNUU3IyQjdvbk9kQjdrYTdyMW1rclhCTkFFRm9reWluanBuQkVNc1o5OElqNEw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "7a87a6157f7c9b49",
-      "headline": "Rocks, robots, and a little machine learning magic!",
-      "category": "general",
-      "publishedAt": "2026-11-06T05:34:31.000Z",
-      "score": 0.4591,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "ded30476b7cdfbbd",
-          "headline": "Rocks, robots, and a little machine learning magic!",
-          "source": "Mining.com.au",
-          "domain": "unknown-mining-com-au",
-          "category": "general",
-          "publishedAt": "2026-11-06T05:34:31.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TQmVlNjNqVGpCc0FlNHBwaV9SeUJTNHNDSTYzTkZXMUFEZXgxVmFTZXVFU0c5X1NxU2xlTXktd1M0NHNyTVBzc1R1M3V5Z2ozSjdMU2l4VVRTVVpFLVpvRk5DSmFwdnVwbEJwVW1NSHBVbEdtV3BSRFhUNA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "54051e66141e07c7",
-      "headline": "Anthropic Is Rapidly Accelerating AI Development Amid Slowdown Calls, Outside Research Group Says",
-      "category": "general",
-      "publishedAt": "2026-11-06T05:30:25.000Z",
-      "score": 0.8747,
-      "publisherCount": 10,
       "featured": true,
       "lead": true,
       "articles": [
         {
-          "id": "84fd72cac5043872",
-          "headline": "Anthropic Is Rapidly Accelerating AI Development Amid Slowdown Calls, Outside Research Group Says",
-          "source": "ETV Bharat",
-          "domain": "unknown-etv-bharat",
-          "category": "general",
-          "publishedAt": "2026-11-06T05:30:25.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOckpZdjd4OUc0cm43LWdTS2RITE42U181TmJzWVNmZE1HanA1ZHZDbXY3ZnprcmpXZ0NuakZJZnZENWlHQXhmUzdNejY3SzgxOGtudXJ1aWZHMFZoYnlLa2ROZWkzNkd1Y053N1FDV04tZVJ6U0llNk1fb1RIR3FkX3oyRnhfYW9YZ0dVa1JHb0xtRzJ3OWVVYldpSWlJcFJvOTRXRE1aQ1dBMHhXUXAzZy1mNkRJaUMxaHVid2otOFBRLVR2Q0x4N2tGeWJaVThLUG1DRlQ2akNJZzJieWNnY1YzTVZRQdIB6wFBVV95cUxOUjdIbElmY29HQkpoTUdsVUJITzQtdGk3T0FzYktqWmR1NTE3cXlycGhobXF0eGFkemdvc3BtQUtjS3lSeWhxX2RKRXMteGlncVpUUFlWTE44XzZUQjlGdFktV1ZyZ2E0aG9TNDBFV29MRmQ4aUFCTTdybFBQSlRiaGRqaXJDQnM4NjJwUFFUeW5qMDhSYnlHdWtLbFhhMGxERXI5SE8yOGJIYXJka2MyTlZkMV9hR2xoOHhsVmRGUHVZRC1ZU3JudFNYZmkwS3NiTmN4cl9VT3RrYUw0TVhjRWxENVhSQ2Jva1pR?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "818f38db27190755",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "AP News",
-          "domain": "unknown-ap-news",
-          "category": "general",
-          "publishedAt": "2026-11-05T21:50:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "f1119133109f816d",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "Tech Xplore",
-          "domain": "unknown-tech-xplore",
-          "category": "general",
-          "publishedAt": "2026-11-05T19:40:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUFHT3EtVVFzOWU4dl85MXVMVFJzdmEyNXl6cUxGUEMxZ1NLU2Zob0xfU0JjWXpVTEY1ZUNBREtFQU16ckM2Q2JsLXh5NlFzc0VFWVVqd20wRjBXTUFGczU1NjNDTlFVN2ZWT1A2NEF1b05VTXMyWklRdXFtWi1ZY053?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "4822585e552f34c1",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "The Killeen Daily Herald",
-          "domain": "unknown-the-killeen-daily-herald",
-          "category": "general",
-          "publishedAt": "2026-11-05T19:24:24.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWEw5TElPX3QxODRGdzJiak1VOUo1MFpqTkx2a1JnOF9ucUlReTJYck0tb3dUcmN1VGpCWEluMGxFcjVoSWgzOTF3Qy1vMVlNUGZmVi01N1Y0bnJzQ3lieEpGSFFBQldmdDJhempIU0JKRVJRa2JKZnNRcDVwaTlZeU9OZEhFcFhzNEg1OGZURk5qenZ2X25mME8xOWRYU2NfUGwzZ09JbTJ0WXhzMGpzSGd5MC1xRmVibnFld0U3NkMtSEd1QmpUdWNPOEZUel94SDFNNTU2Vm5YMlR6RktHVmdjdVVqUTdSejlVaW1abWs0eGxtY01TaDlkZG1jZ1J6WXJOdTZGRVZNdw?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "893b1658c44cbb3d",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "The Seattle Times",
-          "domain": "unknown-the-seattle-times",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:12:40.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRERXdGFueTdUUlNWaDEyY09IcXBxVWlrVk8yT2EwaGlkZzlNNHVBZC1wUzdNeFJOcVNhMGVLOWVIbFl3aThjZVB2WS0tZ1VlYTFMaEpWUHRsbnd1ejIxeHVqUFptZFBLVm0ybnhjeWllOHJpWFl3cHFIQ0xJTUVkTi03bkl6Z1BGS1h0bkNralNvcmFoTTNWV21ySnZsbHM2Q2RxTWV3eW1ONkNhX1JFRzlqUjBoU0pwQ3hzT202UHA2bkdFM1FVcU9GLVM0V0hF?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "a6692470e3f6b4ed",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "The Economic Times",
-          "domain": "economictimes.indiatimes.com",
+          "id": "c822837c55c475a5",
+          "headline": "AI points researchers toward new disease targets hidden in mitochondria",
+          "source": "Phys.org",
+          "domain": "unknown-phys-org",
           "category": "research",
-          "publishedAt": "2026-11-05T18:11:41.000Z",
-          "snippet": "Anthropic invited researchers from the Berkeley, California-based nonprofit, Model Evaluation and Threat Research, to review its internal data and interview staff as it prepares for its Wall Street…",
-          "imageUrl": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-4301908,resizemode-75,msid-135583912/tech/artificial-intelligence/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says.jpg",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says/articleshow/135583912.cms",
-          "provider": "gnews"
-        },
-        {
-          "id": "5e22f0b0c190118d",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "Livemint",
-          "domain": "livemint.com",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:06:04.000Z",
-          "snippet": "",
-          "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-          "url": "https://livemint.com/companies/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says-11793901964710.html",
-          "provider": "gnews"
-        },
-        {
-          "id": "7c3e804717bddbdf",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "Ottumwa Courier",
-          "domain": "unknown-ottumwa-courier",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:05:02.000Z",
+          "publishedAt": "2026-11-06T19:20:01.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZnkzNDZ3MnZhdkFVbnNRc3dTYndYTXotMm15MEcyOTdBWVBjZFVGcC12VlgxVEhJYy1NckV0OHQ1UFJXTkJpUkF5c1hOV3g0dDR2TDRySTNzSTdNYVo4NzVsTzh0aF9zUW9EYThET1R0akFIZ053RUNfV2x6M1NpU2NpU3dxRXltMXVnYzYwbmhqWEJ3d05oeWRTVVNLLXZpRldWYWQ4dDNDRm1wTUFfeEpFN1NUb3g2dUY4TGhZb0R2RUdaQUliRzVPd3lkR0JJcWRKMlpiNTYzT2pzby05LTk4VXQtRi1SU1R2VFgzaW0ySks1WFBSNUdUZ1RTLVd2NkpFeDZyZzBINFhaaTh2QlJxSFFSaVR3cnRR?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "1c19f9e6ce5fcaa6",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "Clinton Herald",
-          "domain": "unknown-clinton-herald",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:05:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNOUVwel8wd3ZnTjdIdnI5S1J5R05fU1JaM3JFanB6V1dTTWZQbXNiQlpMUGlvRmxXU0k5amk1RG8yM3JJMWRhSHl6Snh3bnBUbkgyUjRwUzBwZ2RIRWdPT1AwWGo1WlpBY3REZlJ1VlU2RzBSTHpzalVRWWlQSVlkWlI0Uy1kaTNZRjdobFFTU01HSXNDeFhkdVRpZ3c5SDREb2JqZzgwLTlTUlRJUjJRYkdyaXZuT0hMM0hZdk90NHIxZ2hVZFJUNklURnBRalB3ZDZZTTd4VXJ1ekpEcjBiV1d5ajl0MGtpQUJ3SXRieDNsRHdFLTAxREJMTG5ZR3N1bzBKQTZRWjBPb2xCb3FUdjZlZUhQN29VOWktbG9JSjU?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "193d751d3b62d13a",
-          "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-          "source": "NewsChannel20",
-          "domain": "unknown-newschannel20",
-          "category": "general",
-          "publishedAt": "2026-11-05T18:00:18.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONVkzbmt2YUI4WnNlemlDaTd4VnZvRjlERkVQSHd5QXFlNlBUVGk5MkVlcmVyT0ExWUNrRVNTbllmYnpJTHlNbVhEVkxhQjFuSE9JUDhxa1RQNzRXTWI2eUo5SE5RSjhadVJYVndOVTcza0ZsUHRBZVhNUlB0TFBaV1pDYkZLblQ2MHR5TTRyNnBackhmWTNVdktaU0M4ZnpEV0JUaVhwcm9oanJDekgyLW5qWHBjOXVVVkh4dnAyLS02QnB0Z2ltbFd6Ul9iMWhuYzBFYkRJNVhEbXp6NnhqVnlxbXp5UERwT3lUeHFWS2xXSVBZZE9jWEdwb1VzY1RZanh5MDZ0b3QwMC05a1hSUVFEbnIzT2xueDk5N21PRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ickNCUHVNUjhQVWZ2RGdsNE9wb3pyMng2cFRKc0xPQ1JORExrWFZXdXFLQkEyRzRqVVprdDkzdERQaUZsa1pGT2pYSEp4UHBIRnRzUDN0dXowWVZRZ0pHNUV6ZWhBZE9JY3k2aXNoUnpCOU0?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "500968ce810b0326",
-      "headline": "CRR Hires 2 Inspectors for Cyber, CER and AI Rules [2026]",
+      "id": "899ea19e23345737",
+      "headline": "Machine learning model predicts kidney injury in children with sepsis",
       "category": "general",
-      "publishedAt": "2026-11-06T05:13:55.000Z",
-      "score": 0.4538,
+      "publishedAt": "2026-11-06T19:02:13.000Z",
+      "score": 0.4737,
       "publisherCount": 1,
-      "featured": false,
+      "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "011b3525decfd388",
-          "headline": "CRR Hires 2 Inspectors for Cyber, CER and AI Rules [2026]",
-          "source": "tech-insider.org",
-          "domain": "unknown-tech-insider-org",
+          "id": "a116d7a1318114fb",
+          "headline": "Machine learning model predicts kidney injury in children with sepsis",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
           "category": "general",
-          "publishedAt": "2026-11-06T05:13:55.000Z",
+          "publishedAt": "2026-11-06T19:02:13.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajlIS3RUY1lwc05QNE9Fc0lDSzRTeTFITUtNTmJIR1lhekVVQVBSNVlUc1RFZWZ6eE9sRmdZOXRKd1BGeU42bGdNUzVZVTFOMHNHS0FXMTBtUG9ISVZTSURVM3hzclRDQTh3WWwwb1ZuYVBIcVZ5WDZCUDloZW9GbjBEN3Z4Z2lidGY4V0NSQzdIbVYyMnV3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFNKT1o2LUlHYzkzb2p6SHFLXzNJZkJGRkljbV9VeFRsLXNwUVIta3hPZ0g0aXpodTFta21RZ0EyNTV3U25ad1dJRG5sdXJSUWhCcDcwQU51S2VJSWh6d0xFYjgxd1JZWUpBT0xudHVyOWhYNFgyYlkwMzhaa3A0VFdEZXYtR0E0MWt4OGZ6Q0dvMTQ3dzNvZnBn?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "fad40cd6955ac017",
-      "headline": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India",
-      "category": "general",
-      "publishedAt": "2026-11-06T04:49:00.000Z",
-      "score": 0.4477,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "54096d5f5574d381",
-          "headline": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India",
-          "source": "DD India",
-          "domain": "unknown-dd-india",
-          "category": "general",
-          "publishedAt": "2026-11-06T04:49:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3d24ece8954ad75b",
-      "headline": "Collaborative LLM Agents Turn Multimodal Forensic Data Into Fraud Evidence",
+      "id": "9ac8b1d322812b49",
+      "headline": "My local LLM turns my voice notes into to-do items automatically, and nothing falls through the cracks",
       "category": "models",
-      "publishedAt": "2026-11-06T04:40:12.000Z",
-      "score": 0.4455,
+      "publishedAt": "2026-11-06T19:00:21.000Z",
+      "score": 0.4732,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "077173b943186dd8",
-          "headline": "Collaborative LLM Agents Turn Multimodal Forensic Data Into Fraud Evidence",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
+          "id": "7d93304f8eb05d80",
+          "headline": "My local LLM turns my voice notes into to-do items automatically, and nothing falls through the cracks",
+          "source": "XDA",
+          "domain": "unknown-xda",
           "category": "models",
-          "publishedAt": "2026-11-06T04:40:12.000Z",
+          "publishedAt": "2026-11-06T19:00:21.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHFKTUdiOFNlZXVfLXUzZDJXUXVmemx4SW5Oc1Y3YlI5eW9ZZEMzd0tjOVE2OEJmRU0tMEhfY0pkclN1QXRyVEJrc3ZpczBoN0xHQXBmcU1HOFFsaXZDMTg3cXRUTHVFRnVhVjdib3RGQ2tfZVFmZTNtWjZpWlNLR1NYS2hvX2N1UXBHWkxVbWd6R1Z6Y1ROb19YYjJ6aGF3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZkNIZ1NJTURFMVY4YTdRQnRqejBVQ2NIcWcwUklKdTZ0QmZfeUdiSmJYeElzbzRzbHlNR1RiUDBrcFZfOXdYYy1YMkllMXV4eTdjUXNxRHhISm92UFQwN3F4a1JBRjVaNFR0azBRNG9SbVZ6NGJfckVDeXNoV1ZYRHM2WnA3M2Qtc2NsMmwtNzRpemNnRmIyekxKa1o?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "90c0718f6235c01d",
-      "headline": "CR Longdation cybersecurity partners with GCSA establishing artificial intelligence research centre",
+      "id": "cae2af79311f16c4",
+      "headline": "How to predict the behavior of molecules from scant data",
       "category": "general",
-      "publishedAt": "2026-11-06T04:26:00.000Z",
-      "score": 0.4421,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "e06759a364305185",
-          "headline": "CR Longdation cybersecurity partners with GCSA establishing artificial intelligence research centre",
-          "source": "Vietnam Investment Review - VIR",
-          "domain": "unknown-vietnam-investment-review-vir",
-          "category": "general",
-          "publishedAt": "2026-11-06T04:26:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVc4OFItdkhuakRoT2JxRXJCN3ZBeEdhZFdqaXV4aUJweDc4dHoyc0U5Z0YyaFprNHl1aEhKSnd6R0FHcE0tWFlSU0FMMlpCUnJUSkVaMEVIeDlCOWdodmVydnB2SE5Ib0V5R1BMQTdRajh6QWZ0V08zV3JsSkd1WmpRbWRMbnV3UWduUXhZb29sRFljSUs3VWgwVVEwLTNMWG5aSDhYeVBYd2pYZnllYXFCRmZqMlFRbDFjWTU5aXdIUkxkQ1J4emx3?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "2afa399ce112b1ea",
-      "headline": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
-      "category": "research",
-      "publishedAt": "2026-11-06T03:57:27.000Z",
-      "score": 0.4354,
+      "publishedAt": "2026-11-06T19:00:00.000Z",
+      "score": 0.4731,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "3d7ac63b9e6138b5",
-          "headline": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
-          "source": "CleanTechnica",
-          "domain": "unknown-cleantechnica",
-          "category": "research",
-          "publishedAt": "2026-11-06T03:57:27.000Z",
+          "id": "c32da189b2d10cbb",
+          "headline": "How to predict the behavior of molecules from scant data",
+          "source": "MIT News",
+          "domain": "unknown-mit-news",
+          "category": "general",
+          "publishedAt": "2026-11-06T19:00:00.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSno1bDE0d3JRVjRNbk1XQ1B6aEh6NGp0RnphbGJNR2pvSUlsaXd2aTRnWDA0Y1loSDYtQU1BaDJwTXNpb0RSQWhJQ3BUWXNoQldCejdsc2h5THFBZ0FnZXNYajNFamFoNG9lbEJOd0RUeVN4WXJLR1duUl9lYlJBR0dlTzlDbUtLWG5icUNHdnBzNG05ejZiZWNSVGVUNERoU1M1c0phMGdnaHFqUG4tbUFlOV9kaENmcE81bnhteGZxV2hiWW4tM3hHODF0SlNlSHJxaVJkOExpNkRSU1NIa1lNaXM0amlRbEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3Q5SWdOTkxodVd3RFdoeWtHR1BmMUhwSm84RkxrZTBPZjU5UjRzRmtxRG9ZeWR0V1RmUTNzUHR0bzNsNVBtZXk4OFRBdnYxalF5V25hZ3pHUDRWLTI2RUZINmdZSWJHeEtBTEZRWXpoTjNJemotdGQxMVZoREZqWUJ1c2twdw?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "796b268b66ec241d",
-      "headline": "Pitt researchers improve AI models to detect uncertainty for clinical applications",
-      "category": "research",
-      "publishedAt": "2026-11-06T03:37:00.000Z",
-      "score": 0.4306,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "1634b618a3eb1d03",
-          "headline": "Pitt researchers improve AI models to detect uncertainty for clinical applications",
-          "source": "The Pitt News",
-          "domain": "unknown-the-pitt-news",
-          "category": "research",
-          "publishedAt": "2026-11-06T03:37:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObk9PWkxPVTJITmFEN3d3a0VhN3B2NGdQWTRfcDhjZUh6akpJSjRWcWx1bC1yd3lmdXVRNTFlQWxIcXpUUUVXM29vS2VMXzg0R2R3OENDdjRZZE9RSTF4MjRwdm9HekIwMW5rX2h6SFY5bllkRzBfbFBOTWNTYkNaTUpvODctaGpwbmlkVVpWN3c3T1h0cGlVajV0dzV1LXRwRnlLdWJEWHdLNTB4TkM4aEpiX1FoTDZDZ0hiRXdYOUFGd9IBxwFBVV95cUxNODBZcUR2VGhGSGdvWkpobkhhQkFJRk11ektVdENKR3FvNVdVZUFjMERpekR2eVh0dkgwTGxPNVNoQnFaV014WnNjWHVoY28tNkt3eWdybVlGanljUGJFZXFWTVVGSGpEN1FCdU01TnlORi1yMTBTN3NYZXJoLUhJS0l6T25CQmZxZ29FamlKdVhqcTlrcjhWYXVqeXRCTUU4X29ac0VHMEhfQUJGSmxKMHVQTzJvc0RZYzExd1hWRktHY2FsM0NJ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "b08dc29f1995f203",
-      "headline": "Ensemble Machine Learning Accurately Predicts Engineered Cementitious Composite Compressive Strength",
+      "id": "717981be95317d1c",
+      "headline": "Machine Learning Model Integrates Multimodal Data to Stratify Glioblastoma Survival Risk",
       "category": "general",
-      "publishedAt": "2026-11-06T03:20:26.000Z",
-      "score": 0.4269,
+      "publishedAt": "2026-11-06T18:52:13.000Z",
+      "score": 0.471,
       "publisherCount": 1,
-      "featured": false,
+      "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "fbf3d47d88da452a",
-          "headline": "Ensemble Machine Learning Accurately Predicts Engineered Cementitious Composite Compressive Strength",
+          "id": "17751f64f283b94d",
+          "headline": "Machine Learning Model Integrates Multimodal Data to Stratify Glioblastoma Survival Risk",
           "source": "Bioengineer.org",
           "domain": "unknown-bioengineer-org",
           "category": "general",
-          "publishedAt": "2026-11-06T03:20:26.000Z",
+          "publishedAt": "2026-11-06T18:52:13.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnJSNi1fZWhqSDJDY0Fpa0NyRW1adHhBeVJvb0s3UHJGa3ZVMzBlalo0Njl0Nks2T3U0SE5TcE9VNGRvRTJKSjVLV3E2cjc1cGM0ckRsaXhBUFlRazVpSzNFcHdKN1JaTmVHRmM1bVhnZUxvenNPMUZkLTc5eVBYXzRpRzNqSjlJdGItc0h0OTkzMnJZaWUtSGVneklURWc1VXV5N3pXdHEtX1VVVWVYbEtUUklOUUdtZkZMenRWNUg4QnM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnBYOXBuZkxweWlZU21LWXdJT1ZCNnhPMnVtTGNEaG9PLTdfX09KdmJCSy1rZ1pFNnZreVhQUUNZQ05heXRnZFV2QWdJNzBWVzZCLWQ5Mi16SUdHWUZaS1lYY2F2R0RvbEZEVlZCZUdkeG12Yk1xZTF6WGx5MzhET2w4R181UThCanFZNEtEYzN2N0xCSE5xbm1IY3ZwdUhYcUk1UU8wZTVZS0NOLU5zdVp5RQ?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "cb3ee471a60c3224",
-      "headline": "Weebit Nano in-memory computing research programme to advance AI hardware development",
+      "id": "4b7bf484fd58195c",
+      "headline": "Perplexity Teammates: 24/7 AI Agents for Work [2026]",
       "category": "general",
-      "publishedAt": "2026-11-06T03:19:43.000Z",
-      "score": 0.4267,
+      "publishedAt": "2026-11-06T18:50:13.000Z",
+      "score": 0.4705,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "81884bd8b88008c3",
-          "headline": "Weebit Nano in-memory computing research programme to advance AI hardware development",
-          "source": "New Electronics",
-          "domain": "unknown-new-electronics",
+          "id": "fc899a52398b45f4",
+          "headline": "Perplexity Teammates: 24/7 AI Agents for Work [2026]",
+          "source": "https://tech-insider.org/",
+          "domain": "unknown-https-tech-insider-org",
           "category": "general",
-          "publishedAt": "2026-11-06T03:19:43.000Z",
+          "publishedAt": "2026-11-06T18:50:13.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnJiOTMwV3JQSmNacFBzRWNhMThNM3hzbHNNckVtcjkteGxRNVNVeXdvS0pKSW1vWTFtWUU3YkhLZHAyM3UzTUR3RWxSQ1lISUVjRUJWc2JDaDM3UGVXVGVDSGRGdGwtSF9kNURJdGhmb1h4WjVZTUdkWktfWGxnM2FlQmpMaTJ2dzlsQkc2WXZsRzVINUFSYUdXdGtUaDRrbFAtVEpVbjFxbEtHS2ZvV3R2RkNsc19Na056ZC1EZnZCaVM5U1pSODZWcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWIxNkVxOGRYUzNXY2t0RU5XYzJPdlJRMEhGdGg2RmJUSkFneXNrV0otcEYtYVM5M3A3MW5hSkNsWFVDeTFuUGZySmhfSWtwUnJoQ0NKaXFsU0FkTjJIYVUzMXBqMzNadm9POHBPN3huSlBRRm45QWdLeV9yVEMzcg?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "c9f57ef1d8c533d9",
-      "headline": "New AI tool speeds up food science research and development",
+      "id": "ed6877078ae0918f",
+      "headline": "AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns",
       "category": "general",
-      "publishedAt": "2026-11-06T03:02:11.000Z",
-      "score": 0.4228,
+      "publishedAt": "2026-11-06T18:11:50.000Z",
+      "score": 0.4604,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "248f5ca752dbece0",
-          "headline": "New AI tool speeds up food science research and development",
-          "source": "Brownfield Ag News",
-          "domain": "unknown-brownfield-ag-news",
+          "id": "a589568667217126",
+          "headline": "AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns",
+          "source": "Benzinga",
+          "domain": "unknown-benzinga",
           "category": "general",
-          "publishedAt": "2026-11-06T03:02:11.000Z",
+          "publishedAt": "2026-11-06T18:11:50.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXgwaDRmbE1xOUtGRnlSNzhtWlBsaklkTnZDTlNEYzVMLWZwTVdzaVl0NmoxVzkzYlkwZnA5ZVBzejljZ3B2Q2xQcEpId2N6dm1sdmNnZ0hLRkROMjhjZ3o5dU5mUUZrajhHWmVkVDBMRTBlbl9Yd1VGUWZxTDFVam1NTFhKSDZ3U3poNmZVSDd2Njc2SmZlRm93?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzF1ampXb3JNWmdCNlJubzZKQnpyeEZwMmJ2NXo3cHVRdTJPMFg4VHVCa2JoX0tLdzFqVzVHeEhlbDlVajJWWmZZaXlmREhYV2JSVE5sUmVFX25IM01sTFlxaW5oZGlXbzRTMzF0NmFOMUtBQy1VX1AxMldnZlQ0cDVQS1RnYkdXM1VJTm9hS1E?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "c44df952ecfe2305",
-      "headline": "Researchers teach football to AI models",
-      "category": "research",
-      "publishedAt": "2026-11-06T02:40:02.000Z",
-      "score": 0.5013,
-      "publisherCount": 2,
+      "id": "e0dadab7d222a97a",
+      "headline": "Bringing Specialized Models to Muse and Meta AI",
+      "category": "general",
+      "publishedAt": "2026-11-06T18:04:25.000Z",
+      "score": 0.4585,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "b708be7353726fc0",
+          "headline": "Bringing Specialized Models to Muse and Meta AI",
+          "source": "Meta AI",
+          "domain": "unknown-meta-ai",
+          "category": "general",
+          "publishedAt": "2026-11-06T18:04:25.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GSW1QRUUxdHVCa1FkV3VybWVrLUU4X1dxdm5BWTF0ekpCOHJXWTJOQWVYVkxjd1FTRWRma2VvWE9PZWU0YVZLWmp6MVhnODI1U0g3UDNSM3lOV3RySXVzQ2VrMzJ2RFdoTkF2YmluRFNQbzdjTzlR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "1009a127d1792d69",
+      "headline": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "category": "general",
+      "publishedAt": "2026-11-06T18:01:00.000Z",
+      "score": 0.4577,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "07bc84f5c1edba48",
+          "headline": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
+          "category": "general",
+          "publishedAt": "2026-11-06T18:01:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ3pNb0dYdkVXaFZya3RxWHlhcGhqNE5nV0xtWnZzcEdRMFRSMDB0VHVfZEgyWlptbkJnZGY0TGg4bHlUbUt3bVRRWXB4THFDOGdxRUJrWkFxeTI1VDF1T2s3SHFsYzFtWFZQNVFiRHN5Q01uTndheFJoWjA2MFdUWTJsV1BITWxraFJPMU45UVFLYzJ6Tml1WUZueDlqZnQ2ZmxoMVBWTk5YdUpYZ2FtemhPM19YbTNKMVlqRk9KbXFfRlQ1dkdqM0FSTy1UVjhNTTdPRWxJR1M4MDd1ZVRv?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f8723e2c586e31db",
+      "headline": "Limited Hardware Testing Slows Progress In Quantum Knowledge Distillation",
+      "category": "general",
+      "publishedAt": "2026-11-06T18:00:29.000Z",
+      "score": 0.4575,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "9f1f9fa72062b970",
+          "headline": "Limited Hardware Testing Slows Progress In Quantum Knowledge Distillation",
+          "source": "Quantum Zeitgeist",
+          "domain": "unknown-quantum-zeitgeist",
+          "category": "general",
+          "publishedAt": "2026-11-06T18:00:29.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFVPN3NTUE9qMTJEaFV5dnpZeHVpOWYzM25rWG9YVC1mRjlQNjNqSmJzX2pIbnF5akxtSVNkd3NrYjduTHNXMWlkMEhLR0xWVV9rUDBJUEJ4d3FOZUUwR29PckJoZ3J4OWxlTlBjMjIxUzYzMnVDTi1mNEZYUmRuMF9RZWQyeVRfaXVF?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "b37f85a9d377f051",
+      "headline": "Escaping the Cloud with Edge RAG",
+      "category": "general",
+      "publishedAt": "2026-11-06T18:00:21.000Z",
+      "score": 0.4575,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e6dfc705c60bb74c",
+          "headline": "Escaping the Cloud with Edge RAG",
+          "source": "Communications of the ACM",
+          "domain": "unknown-communications-of-the-acm",
+          "category": "general",
+          "publishedAt": "2026-11-06T18:00:21.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vUFg4LUQzWnZZWGc1bGE2V1k2VXpVNU1nUGFQcDV3WFRiTXZVREp1d1g4d05kMjMxNWxjN2xFa1NYQ21EZ1NVaFA2Ylp0TnBOcDEybUJqYm1VQnpsNzlWNVEwdnAyTmdqaVJINjZCTWg?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "608716b92c623312",
+      "headline": "Anthropic IPO Buyers Eye $1.2T, Down From $1.5T [2026]",
+      "category": "general",
+      "publishedAt": "2026-11-06T17:52:02.000Z",
+      "score": 0.4554,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "dbbfd702dc8a63db",
+          "headline": "Anthropic IPO Buyers Eye $1.2T, Down From $1.5T [2026]",
+          "source": "https://tech-insider.org/",
+          "domain": "unknown-https-tech-insider-org",
+          "category": "general",
+          "publishedAt": "2026-11-06T17:52:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONWE0aXBFWmNMODlZQ2NreF9XbDNvWmZkMTFTN3FxSkNFbkJ2eVJ3R3BqTVZ1QWFkMDZMYVl6YjhCeWRGN2loLW56SlFPMTQxOHVKc2J2dVZfZmxoYUJrdEE1eURPS0JVREktT2U5Q0RtQ09uaWkyckYxTnc2YU5GbjU5YWZ0azJ0N0JmVHVxcXFlY0V0LXJiTmJsRVRHQQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d3349e8812a64223",
+      "headline": "Storage-optimized Z4M machine series are GA",
+      "category": "general",
+      "publishedAt": "2026-11-06T17:39:18.000Z",
+      "score": 0.4522,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "6806a0bacd0a9197",
+          "headline": "Storage-optimized Z4M machine series are GA",
+          "source": "Google Cloud",
+          "domain": "unknown-google-cloud",
+          "category": "general",
+          "publishedAt": "2026-11-06T17:39:18.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVpXYlNNOHFhQlNlcnVUMzRUcGxtdU9mU1hHT2s1V1ZRMXl2cXJDaFNybjkyZ05yd0laME50TjZHa3JXTUo4ZVplRGtzNDFiVHprTFZpR3FnSTNYMnUzOHJnUm9RR2lBa2w5R0pnVm53ZXVyWVNkS29sTEcxUjllUTlfUUtSeXhtNGxhUEdMSmprS2dm?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f99f52fb926448e2",
+      "headline": "Taxonomy of agentic primitives in Amazon Quick",
+      "category": "general",
+      "publishedAt": "2026-11-06T17:34:45.000Z",
+      "score": 0.4511,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3fb8778d0674af9b",
+          "headline": "Taxonomy of agentic primitives in Amazon Quick",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
+          "category": "general",
+          "publishedAt": "2026-11-06T17:34:45.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaThEYUFaYlMxWkpoSHlCTng5Z1JDQlRvdF9KblpWQ1VpSnVBV3YzckFnaDdORWNrX0c3VXI1eWM4NHBDME01M0NCcHJDU1RCZXhkeHpLVk1DWDlDMVR3RThvNXdVMW1KMy1NNGoyYXhZWW4zOURtZVRVOHFfcHg4VVBfRUVMcWs3WjF2SmJSdkVpWDlNX2hXMg?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "747cda7b5441ae50",
+      "headline": "DIGITIMES Insight: Cloud LLMs drive sharp increase in KV cache demand; establishes three key directions for SSD development",
+      "category": "models",
+      "publishedAt": "2026-11-06T17:32:00.000Z",
+      "score": 0.4504,
+      "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "043e24f65d587f37",
-          "headline": "Researchers teach football to AI models",
+          "id": "617e13fc71e4bb00",
+          "headline": "DIGITIMES Insight: Cloud LLMs drive sharp increase in KV cache demand; establishes three key directions for SSD development",
+          "source": "digitimes",
+          "domain": "unknown-digitimes",
+          "category": "models",
+          "publishedAt": "2026-11-06T17:32:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOajFoUWMxRkNSRUFJTUY1WFczb0lMd3lJV3JJdUl3bk5XQ0xzOEtlWDRsWXRVUVVaOW83QWVWb0l4U0NHOFA4enRLbUJZdGl6ZnpMYU5CTzZ6blJPUXI4NUh1ckxFM3JwXzNKU3U0bHpIdDZHVUQ2NjVuczhLU2E3T1RZZDFWUUh4aWp5Uy1razdKOTA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "21872dee10a5be46",
+      "headline": "BigQuery AI Functions in Pandas",
+      "category": "general",
+      "publishedAt": "2026-11-06T17:30:55.000Z",
+      "score": 0.4501,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "acf5fc9b2a3891d0",
+          "headline": "BigQuery AI Functions in Pandas",
+          "source": "Google Cloud",
+          "domain": "unknown-google-cloud",
+          "category": "general",
+          "publishedAt": "2026-11-06T17:30:55.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3dGVW9UOGFnblhBTmh0dkFGRVZ6TXdabk8xdEg1RmNfSXAxMzFQbEl3U2ZnYTYwdkRFbWEwbDVMSl96X0dDc0thVHI5cXlkVEl3ZGxmZjQxbUxXaVJsUHdySXZQMGZINHVzNHY4N0FIeTQyVlZobDlQa0hDX1hFTDI3bjVKY1hBd1NwaFV3?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "131be09833acb0aa",
+      "headline": "NEW WHITE PAPER: Deep learning for advanced users",
+      "category": "research",
+      "publishedAt": "2026-11-06T17:13:17.000Z",
+      "score": 0.4458,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "0484e3f8f86732e9",
+          "headline": "NEW WHITE PAPER: Deep learning for advanced users",
+          "source": "Imaging and Machine Vision Europe",
+          "domain": "unknown-imaging-and-machine-vision-europe",
+          "category": "research",
+          "publishedAt": "2026-11-06T17:13:17.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjZIYllwdjFLLTNkSkVjWjNHNzB5MUpheFItTy04NnVBdmxVX0duZmxLQlpiQ0pzeG55djhaWFgtNGZTZ0NrNnh4VmlOTFpzSXdkNXlENHFkV2cwaFpuSVA5Skd2V2xnazRQZGtyWE8ySXRzZWNhaW5zWUhRRG0xUnEwOUo3VWlsRFE?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "e0978ce9f0ccae56",
+      "headline": "Trinity Spinout, Oghma, Wins €500,000 for AI Research Tool",
+      "category": "general",
+      "publishedAt": "2026-11-06T17:12:41.000Z",
+      "score": 0.4457,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "156f1d97079596fe",
+          "headline": "Trinity Spinout, Oghma, Wins €500,000 for AI Research Tool",
+          "source": "The University Times",
+          "domain": "unknown-the-university-times",
+          "category": "general",
+          "publishedAt": "2026-11-06T17:12:41.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkhRNDM4dElsWFNvUFk4dHhxb1hqY01yMHB0RHdIeFpoVEg5N0lKbnZ4X182clV2eVM3bnpoazRDelpkY3lwREs1b3RscVFqT3dxYmdRdnEtZm1zbTQxWTlueDhGNDJJa2lGc2FXZ0F2SXVSaEYxQjlYYlNBMl9JaEdCX09WanFvOWFQelp1aERMbzRhU1E?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "a31547fb6f78ee8c",
+      "headline": "AI learns from the products of thinking, not thought itself. That's a problem for machines—and for us",
+      "category": "general",
+      "publishedAt": "2026-11-06T17:00:11.000Z",
+      "score": 0.4427,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d512e69866d43bba",
+          "headline": "AI learns from the products of thinking, not thought itself. That's a problem for machines—and for us",
           "source": "Tech Xplore",
           "domain": "unknown-tech-xplore",
-          "category": "research",
-          "publishedAt": "2026-11-06T02:40:02.000Z",
+          "category": "general",
+          "publishedAt": "2026-11-06T17:00:11.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JN1lZNnVPWGN5eUk3ZjY0ZkJQNWZyclBISTgwSjFfUjdkelpZSjVQRU8zc285NDg0RmFNODhqdHRjOFJtZ2FPVDhIalJmLVlSVTBieUNPU1ZGT1IwajUwRDVB?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "6a89d7c543853940",
-          "headline": "CMU Researchers Teach Football to AI Models",
-          "source": "Carnegie Mellon University",
-          "domain": "unknown-carnegie-mellon-university",
-          "category": "research",
-          "publishedAt": "2026-11-05T14:00:42.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNendRYXYzN0JKcThyaGZrc2pMYU4tZ0NjbHZ6VTYzbi1zb2VaaDdBNVdVc2IwMERTOU1rdUxXeUVpbV9DU1FhcnBGajN6dExhUHIxMHpIenIzY1dHX1JGMnpudnlwQ3hWZmh1ay1NWWozOFF5bDVVajJCRkpHbDBaZFMtemZjZXp3WXVHSlE1akVGb082d2MtTURZeTByWTRG?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQlY3YjBGSFctWXFpTjBfZTZuR0pmWE1SNUd5RldQM3BVdzdvMWZnS1p4WUVHendyS2o0UFhIWUZyV1hlbnAxY3R2djV2MjZLSHdfMkNZb3VIc2hDRU1KZWt2ODhWM3d6NU9qUHpCVmRUcWZEaXE5bUw3WHpRbjUwYVNfQQ?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "4aa3b1465848f530",
-      "headline": "Research News - Beyond Trial and Error: A Framework for AI-Driven Solid-Electrolyte Discovery",
+      "id": "b8266dea2708048e",
+      "headline": "AI Data Center Lawsuits: 5 Reasons Big Tech Wins [2026]",
+      "category": "policy",
+      "publishedAt": "2026-11-06T16:52:36.000Z",
+      "score": 0.4408,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e8b4899dbe2f5a4b",
+          "headline": "AI Data Center Lawsuits: 5 Reasons Big Tech Wins [2026]",
+          "source": "https://tech-insider.org/",
+          "domain": "unknown-https-tech-insider-org",
+          "category": "policy",
+          "publishedAt": "2026-11-06T16:52:36.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDRUVGVWejltOXRfV19VWWJTYnRaemJ2XzJZWl8zOGFLNzBGYkJhelpQSzV2NjJvQXZsSUVzZ0s3R05xbkZmcXc0bDBQdzdKVkQ4dFctYVhhdnhENnJZZXdJUWdYNjRMdjRXamNaV1RyaW0tUThlRUd4UFY4NlBLR2JVb3lONkVrZW5lbUtwQmNOWERB?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "5b50d4ef3c45c5f6",
+      "headline": "Killing ill-willed skills: Sophos AI at BSides Sydney",
       "category": "general",
-      "publishedAt": "2026-11-06T02:22:58.000Z",
-      "score": 0.4142,
+      "publishedAt": "2026-11-06T16:51:17.000Z",
+      "score": 0.4405,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "b48a368061a81a7a",
-          "headline": "Research News - Beyond Trial and Error: A Framework for AI-Driven Solid-Electrolyte Discovery",
-          "source": "Tohoku University",
-          "domain": "unknown-tohoku-university",
+          "id": "dd3c823f44a5ec0f",
+          "headline": "Killing ill-willed skills: Sophos AI at BSides Sydney",
+          "source": "Sophos",
+          "domain": "unknown-sophos",
           "category": "general",
-          "publishedAt": "2026-11-06T02:22:58.000Z",
+          "publishedAt": "2026-11-06T16:51:17.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHA1bGgxeklfWmpZUjJWSnZ4cDdKb3dGd2llenJSdGFiNXFRdUtNTFN2bklqR2NIWEgtX1k0dHRseEVvVGxDNldxLW5TQ1k0dzFjQ0Q2TVZ5MmxoN20yRWotVkxSTWpWbGNGQTBsWjFhOE5uajRTc3hTSDBNbDRpRFpEMm11LVpOUUl4VVBPRnlycFhYZTZKUmxkNkYyX2V4OExuS093RUc0UUx6VHZiMUxsSHFDZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTC1Tam1YQVpFTTNVZ2QxZjNwZDl1ZnBYZ05CWHRzeDVlaGdIYnNFRjIyM2MyQUNlTkQwNzJJYTN5TndlQ0lMaVo4b3ZlNzJEelR2LUlnX3hOOGo5RzRackZNRFVsckxOVFBpQWR5OENSUmV6eWhhSlBidWRuR0RuemlPRmpoVW43UmhlUGZLZw?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "79d1dd60d3a88be9",
-      "headline": "He Lifeng's Research Visit Sets AI and Computing Power Financial Support Direction; US Stocks Plunge Overnight with Nasdaq Down 5.52%",
+      "id": "36189bd684a23f5c",
+      "headline": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
       "category": "general",
-      "publishedAt": "2026-11-06T01:46:00.000Z",
+      "publishedAt": "2026-11-06T16:49:42.000Z",
+      "score": 0.4401,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "13176a14fe05349a",
+          "headline": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
+          "category": "general",
+          "publishedAt": "2026-11-06T16:49:42.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3JOTF9ua0xmazZmanlVOGFfMmt0YW4wN0VhdC1hU3JfR3lEaDZjYWpiWk51ei1ndGJnNHdoR3JyS1NCc2xtRUFMam9WaVdUUl92ek42N1pqaHdUZm5BT05HeW5NcnF6VGM1d0MyczBaM0tGVVR6ODRWZVY5UzdzbkhEQUZEUFpfUW5oN2xlbHhVaHppeDJyTFdkNFhkekRtS3JuX0pveHlacVVUV2tKNktqSmIwT2NkRW93?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d9014eee50538b00",
+      "headline": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+      "category": "models",
+      "publishedAt": "2026-11-06T16:45:58.000Z",
+      "score": 0.4393,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "405fbc3da8200879",
+          "headline": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
+          "category": "models",
+          "publishedAt": "2026-11-06T16:45:58.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcExNUkZTUklyc0x5Q2U5djV3R3VkYjF1OHFYWjk5Ulo2Uk9WMEI0WEVVYkxwREg1a29uRDdHRGhXMnRuVDE3NVhQemo2YmVaTTVNQzRhcGdpUHR0VlBmdG1JNGdSRGxQOHJ6UzZJLXdFV1Frb1hOeHd1bWpHbFZoNW52WUpkbnVGOURQOHFrSFVfZGpYWnhmWi1GNld3YXdNQm1tTWMtMm9aZC11TldXbkloV2lzQ1YzdTBVRzltdk1MbTlmLWJsZlhzb05nWW0z?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "b81230f8d8229f81",
+      "headline": "How InjuryLawyers4U achieved LLM dominance – and a £7.6 blended ROI",
+      "category": "models",
+      "publishedAt": "2026-11-06T16:25:15.000Z",
+      "score": 0.4344,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "111b509319bf4ecb",
+          "headline": "How InjuryLawyers4U achieved LLM dominance – and a £7.6 blended ROI",
+          "source": "Performance Marketing World",
+          "domain": "unknown-performance-marketing-world",
+          "category": "models",
+          "publishedAt": "2026-11-06T16:25:15.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFByOGdVU0htZDZySnY3UWNDVTItU19XTl9iaG1KZWVCdzdwTmR2ZGVnYURSM1RJclZYVGR3d1hSSWZGNThiSWczVFA2RVFWZTdsblAzcVJCdTRmdG5VOV8wVVVQcFZPZDVJbEEtMXhscHNhcXhodDdTLXNmNENLRk85aWdpNXVqQ3BYZU9paE1XdlhrVHFoVDl0cERoM2o1MFFab01oSk5fS0VJUzhsbFd6M19id0F4U1I5blZB?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "62774ba462eb1fa4",
+      "headline": "New Research from Abnormal AI Finds Nearly Half of Security Teams Say They Can't Tell What Normal Behavior Looks Like for AI Agents",
+      "category": "general",
+      "publishedAt": "2026-11-06T16:22:50.000Z",
+      "score": 0.4338,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "2fed6e34dcfaa6ad",
+          "headline": "New Research from Abnormal AI Finds Nearly Half of Security Teams Say They Can't Tell What Normal Behavior Looks Like for AI Agents",
+          "source": "VMblog",
+          "domain": "unknown-vmblog",
+          "category": "general",
+          "publishedAt": "2026-11-06T16:22:50.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT3A4UlpIcHIyb2I2dzg0Z3ZscVBpc2VQOTgwbkRhLXpDSkRTdXhvN0cxMEZaSWFvTFE1SjdLbGlBYnl6YTVWcFkyS0JxdG9YTVRxekVTQ3NqSmR4akZKNVNvakI0dmNvZ3lDMmcyaWVlMktPQkxtcGRwVFFRbjBQOTZqZ2lmbVRYSHZQdkNnYkdCRWpKcnNzaEpmbmJ1RVAwNzd6RGMxR0hCbFd0S0M3NFV1WmNBekpkYVFQZkdsWXNiVFc3SUs3YURDN0EwVVdhanhWSF9PMGZHMnJhcTAtUW5HSWZzc015RXdz?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "dec4021641cabee0",
+      "headline": "Can LLMs help judge how intelligently autonomous vehicles behave in traffic?",
+      "category": "models",
+      "publishedAt": "2026-11-06T16:19:59.000Z",
+      "score": 0.4332,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "5934ae540fd33147",
+          "headline": "Can LLMs help judge how intelligently autonomous vehicles behave in traffic?",
+          "source": "EurekAlert!",
+          "domain": "unknown-eurekalert",
+          "category": "models",
+          "publishedAt": "2026-11-06T16:19:59.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LVl9ud1NBNnRkR0RBVU5uZkpYTnFRZ21fNXJDYWQzRVV1Yi13RWVWdXRZNHMxbFVCNU5mWFp0endIMVFPM3VJcUVkbExuTl9UV0VvMUt3NWpQNmEy?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "62cf5bf3149d3497",
+      "headline": "Machine Learning Accurately Predicts Capacity of Long Bolted Steel Modular Joints",
+      "category": "general",
+      "publishedAt": "2026-11-06T16:17:12.000Z",
+      "score": 0.4325,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "cca1a12aa47b3f4c",
+          "headline": "Machine Learning Accurately Predicts Capacity of Long Bolted Steel Modular Joints",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-11-06T16:17:12.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0dpczVGbnRaUXM0NEg1OWtrdnQ0R2hERWxwanpGZmJNdjVxa1JWMXJralF0eGtuNUpaTWNOeGlfemlrak8wc1FoZkxZMW0yQnhJd0VGc2puT0hMWmc3RUU1U0FTTWRuSUliTDVDN1dQTi1wLXJvZFgxYnBfTzFkREVIcnpsT0Y1UDYxTEladEQtcDYwd0JVbnQ1eVpOa3BiRUpWejJWTllXdw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "4cf6783df5dcd4f2",
+      "headline": "Faculty 100 Q&A: Ankit Shah on AI and cybersecurity",
+      "category": "general",
+      "publishedAt": "2026-11-06T16:05:36.000Z",
+      "score": 0.4299,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "192c8be78ce1bd4a",
+          "headline": "Faculty 100 Q&A: Ankit Shah on AI and cybersecurity",
+          "source": "IU Today",
+          "domain": "unknown-iu-today",
+          "category": "general",
+          "publishedAt": "2026-11-06T16:05:36.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2VsZmRzWk4wQlpsdTJfQ04yVGFIeDN1VHk4MlZsOUJXRFBQaEtxYmlXbHJUYTZkT2oweGVfbHNib3ZreWxBbjBhMXNaTnVudlhMbHVtSkhSV185dW1qQU5la0QxY194ZkFGVHJuRnhnQzNBZ3haVUxlbVRKaHJ6UUtXUXRGdw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "53c10ebc9b1a781b",
+      "headline": "GPT-6 Cyber Scores 48.5% on ExploitGym [2026]",
+      "category": "models",
+      "publishedAt": "2026-11-06T16:05:28.000Z",
+      "score": 0.4298,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "45af09c94e2f0f2a",
+          "headline": "GPT-6 Cyber Scores 48.5% on ExploitGym [2026]",
+          "source": "https://tech-insider.org/",
+          "domain": "unknown-https-tech-insider-org",
+          "category": "models",
+          "publishedAt": "2026-11-06T16:05:28.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXFkaUVPZ3JOWDhuM3ZQZXRlXzhMN2lHYzJMTzFVR21KcS0xX2l5ZU5iWEd0OHBMREJpRWxjZWM5TlNVZHVZd0lOcVFVWU1USTNnQlJ5T3lndzQ0UHdvR0I2WWpLSmJHdHZxdzVfNm9qbXNlV3RJRzZFbDVNWV9BZzQ0Z0hqYXJ2ZFgwelhMYw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "47b1bedf4b649903",
+      "headline": "Network Bio Announces Research Collaboration with a Leading Academic Medical Center to Build AI Models of Human Disease from Biospecimens",
+      "category": "general",
+      "publishedAt": "2026-11-06T16:00:00.000Z",
+      "score": 0.4286,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "f51015d8935e612e",
+          "headline": "Network Bio Announces Research Collaboration with a Leading Academic Medical Center to Build AI Models of Human Disease from Biospecimens",
+          "source": "01net",
+          "domain": "unknown-01net",
+          "category": "general",
+          "publishedAt": "2026-11-06T16:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOFRZbFo4QjdxQjlwalE1eXp3MjNmaXdRdEhtSzFIc1diVEhVcF9yRWtUYTlndldSUnFDLUNtYlYxcFo1VE1Ma2ZqWXFFRVRzRFRYcFpxcmtSMGtfUkhVN1NYZTBHZmF2YXpMMzZIaTBVWmJmb2FJdVVhMFpXbW9EUkNSYzVQaHd0a09KNEFvSWVCbEIydTFKYjAwUzNVSlBZdWluT0RSM2pLdDl1S2ZnU1dsRTlhcXhKajlic0hBcUFQMTI1eXhVeHd6dGo2QWdwUTNBQ3pHNU9PZWxzMHhocDVoUTEzeWZLZ1JkM3NCM2w?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "be668fd6feaeaf94",
+      "headline": "From simulation to prediction: the emerging role of AI in fire engineering",
+      "category": "general",
+      "publishedAt": "2026-11-06T15:47:19.000Z",
+      "score": 0.4257,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "78495dc784d2fab5",
+          "headline": "From simulation to prediction: the emerging role of AI in fire engineering",
+          "source": "Construction Management Magazine",
+          "domain": "unknown-construction-management-magazine",
+          "category": "general",
+          "publishedAt": "2026-11-06T15:47:19.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMThDWFV0VHhJSkRoVm1Ub241YWJSSXZ6MDYwM09RTHdaZzhZZmxpY3pOTVNCc21MYk0yMWN6RjNvaEIzYWNrdEM2NHJsc0s3U2lFdVFWenB0YWlqZUNMU2dIX3NUUVo0Q1MtREpCNjdmbWZUdWVBRUlSS016Q1IxR2lPWmtUcU9QdW1VYW5oaFJJU0dzSFhvRkRjWGZlM19lN25aYUlvVko3S29nRHBKTw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "6719e1d8310f6b2c",
+      "headline": "Grading a Machine That Read 51,008 Pages With No Answer Key",
+      "category": "general",
+      "publishedAt": "2026-11-06T15:20:34.000Z",
+      "score": 0.4198,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "57cace7f148a759d",
+          "headline": "Grading a Machine That Read 51,008 Pages With No Answer Key",
+          "source": "HackerNoon",
+          "domain": "unknown-hackernoon",
+          "category": "general",
+          "publishedAt": "2026-11-06T15:20:34.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWS1uYjZfNEtmX2ppel82YVpBZWk2VjRfdExPUkpfTXhleXVXNXpnWWJDZzAtbTJlTmhiUmoycTNmRG9mTDZ2T1NFeUtTbk00Y2NKQmJNUXZyYzZoSW40bWxVenZMOTBMT09hb2ZEUzVsYmtGd1A4LWhCeXRLYVVNbDl2Vkx1RlBn?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "b04a13c969fcd63b",
+      "headline": "Can an AI ‘Co-Scientist’ Accelerate Cancer Research? | Newswise",
+      "category": "general",
+      "publishedAt": "2026-11-06T15:10:00.000Z",
+      "score": 0.4175,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "af86028625f55755",
+          "headline": "Can an AI ‘Co-Scientist’ Accelerate Cancer Research? | Newswise",
+          "source": "Newswise",
+          "domain": "unknown-newswise",
+          "category": "general",
+          "publishedAt": "2026-11-06T15:10:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWktNSFFsRE1rNk9FM3VVeWtla20waEJWbWhTTGZVVTRCLU1KdG9VcDF4M1VOc2oweDVILWlfYzVINDhfOW5RTGp3ZmdYVVd4Vk5uTi1XdlhZcFNKT25IdGdhdkpGZ2l1NmtXTjlmSGp0VkxpcEd6b1dZaUJPenpQanlyTjZ6X01NWVFZ0gGLAUFVX3lxTFBaS01IUWxETWs2T0UzdVV5a2VrbTBoQlZtaFNMZlVVNEItTUp0b1VwMXgzVU5zajB4NUgtaV9jNUg0OF85blFMandmZ1hVV3hWTm5OLVd2WFlwU0pPbkh0Z2F2SkZnaXU2a1dOOWZIanRWTGlwR3pvV1lpQk96elBqeXJONnpfTU1ZUVk?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8f70379aab3b3b02",
+      "headline": "ScienceOra Upgrades Innovation Evaluation with Full English-Language Research Support",
+      "category": "general",
+      "publishedAt": "2026-11-06T15:08:00.000Z",
+      "score": 0.4171,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "411e564af93cf3ed",
+          "headline": "ScienceOra Upgrades Innovation Evaluation with Full English-Language Research Support",
+          "source": "Morningstar",
+          "domain": "unknown-morningstar",
+          "category": "general",
+          "publishedAt": "2026-11-06T15:08:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR29La2RWeXlGSXhfS00xdzQxdndfM0E2N3JaSGhCd2paVEVyVU1qNGltREpwLTZUYUpvSHZ0cTZBMlROX2V6STRjTmVQTmpTV053WW1sNXctMEpNUWZoN3hmM0pYcVFGcnljSWxIYkdpbmZrYkpqTXlLYUpKVmZ0ejRfZ2tXZEk2d1ZGZWw2QTR0TE42d2RVWnBPRGhNajRlSVI0M21nYzVFTU1IUTR3emNnQjJTMjAyOVUwLV9tLXBFNGduTUhMaWY2V1MtTlEtajlzWDFYcnQ1cW5MbFpv?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "fa2334e9240af800",
+      "headline": "Wenge AI Adds English Support to Its Research Evaluation Platform",
+      "category": "general",
+      "publishedAt": "2026-11-06T15:08:00.000Z",
+      "score": 0.4171,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "2467309882f4fcbf",
+          "headline": "Wenge AI Adds English Support to Its Research Evaluation Platform",
+          "source": "TradingView",
+          "domain": "unknown-tradingview",
+          "category": "general",
+          "publishedAt": "2026-11-06T15:08:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZDczQWZxLXd4a20zTGltWDFhbUxEc0k5a2g2WWRZTmM2eW1nYzQ4bWlFbXN1VVBIUmUxZ0R5SHF6eFhwR2pjQ1hjb044NGttbUpORFFQdGVkWlFjWUYzRGNPelh3eE9BMWRNVlRHZkZKWFhkeGw2UWJfbWxvU053RDBCYklqSFpjTFpzQTV5NGFUVkdhMkJtdlZSajZiaHR1UzJCejdLV192U3QxNWE0MkNKRGFadlVCS1l4ZjVsUy12R1FQbXc?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "6c81fb31165294de",
+      "headline": "Building an LLM-Powered Content Moderation Bot in the Classroom -",
+      "category": "models",
+      "publishedAt": "2026-11-06T15:02:40.000Z",
+      "score": 0.4159,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "ec5048c793519cb1",
+          "headline": "Building an LLM-Powered Content Moderation Bot in the Classroom -",
+          "source": "Political Science Now",
+          "domain": "unknown-political-science-now",
+          "category": "models",
+          "publishedAt": "2026-11-06T15:02:40.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGZkRmNOSldSaHN1Mi1rcFlmdjMzSzRkeGNHS1VqNTBWMFg4bThkRml6Y0pWV0FTNVNPS0h1cnpZaHh1Z1JrWFRRTEZ0V01aR3VRREF0WTNZY2pqUkxlS0llTldJamR2WkZCdTl3Qk42QjgtMGlnNDdVUHdJV2IycTJQcDEwRHc2RUt3MC1pODlsQURLdVJYNzB5Yk8?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "bf9a034dad098d71",
+      "headline": "FAU researchers explore quantum computing to predict lung cancer",
+      "category": "research",
+      "publishedAt": "2026-11-06T15:00:00.000Z",
+      "score": 0.4153,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "7f1c9dadd97a720d",
+          "headline": "FAU researchers explore quantum computing to predict lung cancer",
+          "source": "Refresh Miami",
+          "domain": "unknown-refresh-miami",
+          "category": "research",
+          "publishedAt": "2026-11-06T15:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXc5clBCWDY5aDg2TzdFdVY2RG85b3RZVmVfYnRoTjNZSU1wbEpoNnV3OUIxQ0dHY0VXQWN2VndMWFF5Vk9zdS13eFFfdkNXUW90Wnh5WHdTcDB2OHlhY2xHOGFDYjdzNnJ2YWZ6VjAwclF0TE15VFE1bnZnNFJmQ2ZXa2tyM3pNUDZuLThpSGlRdzJxTmlLTThiUQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d4c632ec9c9d620d",
+      "headline": "ExpertCrowd and HUD Collaborate to Advance AI Training and Evaluation, Release SWE Benchmark",
+      "category": "research",
+      "publishedAt": "2026-11-06T15:00:00.000Z",
+      "score": 0.4153,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "f70c8063f179c453",
+          "headline": "ExpertCrowd and HUD Collaborate to Advance AI Training and Evaluation, Release SWE Benchmark",
+          "source": "Yahoo Finance Singapore",
+          "domain": "unknown-yahoo-finance-singapore",
+          "category": "research",
+          "publishedAt": "2026-11-06T15:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0dhdExUMzlwckxKQnhnVlZWbGpCTFEwRVl1YXRQZ2prd3hlQVpkWl9Mb3VWY3ZtUUItTDlxWVMzdnVqTll3R3dIWTJUMU1CVG1PRVNNR1BJS0s1SDR0UVZQZWdkUndWenRseWkwMnZXX3g0bDVWS0VnUUdHc01wdFlwRWdmdHI4YUd2a3ZGTU4?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "42fa042d9081bfbf",
+      "headline": "It’s best to be curious and to always ask questions: Meet Professor Ali Bereyhi",
+      "category": "general",
+      "publishedAt": "2026-11-06T14:42:53.000Z",
+      "score": 0.4117,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3670368844ca5164",
+          "headline": "It’s best to be curious and to always ask questions: Meet Professor Ali Bereyhi",
+          "source": "U of T Engineering News -",
+          "domain": "unknown-u-of-t-engineering-news",
+          "category": "general",
+          "publishedAt": "2026-11-06T14:42:53.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1dkcjVpZTU3Ulp5NUxaamxnQlQtTlZXRzRJLUFyWEtROUgzMC12cWVDX2ltZjh0eUcwRktMVFRzLXJuUDdfUGd4UWZRRFVaXzRpYndfc05aVnh5eS1hNElEdWlQTktxLUJ6UzAtYXMxcnhZU2dZTlRsQ1E5RThaZGVCNzBmQzh2MHVVZXZNT0tMX0Nsb1FWYkExOWFVM2M2MWlZOWJVeFdZaGdxb0FGdm1HZkswZw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "58fc9edda7e429ea",
+      "headline": "Gemini Omni 1.2 Flash: 15s AI Video, 30% Cheaper [2026]",
+      "category": "models",
+      "publishedAt": "2026-11-06T14:36:47.000Z",
+      "score": 0.4104,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "551fca6c77b36b98",
+          "headline": "Gemini Omni 1.2 Flash: 15s AI Video, 30% Cheaper [2026]",
+          "source": "https://tech-insider.org/",
+          "domain": "unknown-https-tech-insider-org",
+          "category": "models",
+          "publishedAt": "2026-11-06T14:36:47.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVZVdlVxWnlXeGUtUWMyWGEwckhhcTFidXJLWGVJMzJqSUFfNnNJSTR0dldOek9WLVJOWTgxc3JLMzdlbUZkd2JlNURLRE9NZFpFeVl6MDhnWWoxNkRhbWtPbFpuY2FFU2htNnZYa1lJaC1iNjBiUFF2dnZXU0FLRW5BdFlUOWxGekREa3pnMndFV3M?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "e4d37897b9738fa7",
+      "headline": "Leading Academic Medical Centers to Present New AI-ECG Research on Viz.ai’s Cardio Suite at AHA 2026",
+      "category": "general",
+      "publishedAt": "2026-11-06T14:36:29.000Z",
+      "score": 0.4103,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "c5e40d8340ca38ce",
+          "headline": "Leading Academic Medical Centers to Present New AI-ECG Research on Viz.ai’s Cardio Suite at AHA 2026",
+          "source": "The National Law Review",
+          "domain": "unknown-the-national-law-review",
+          "category": "general",
+          "publishedAt": "2026-11-06T14:36:29.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHFXaFV5T3d3eXJqTWN0SUNkM0txRHRoSnlpcHdmNld1MzNXeERUbzBkNXA4ZFdCVGZtZlhIajd5Q2ZYZjREUVVjVV9KdUJCbWlhVUN0V1d1M3hsZXNiaGY1QXIyU0NtNHkxUlZoQUk0WGJFS0tneXF1MXF1U19UdXptUEV1MHZZV2x0OEtvZkxsQ0N6QXBXUXFOUHYyUEdGWTE5ckxJbEZ2VHgzLVlxX3VhcmE?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "ca65c150c956db8d",
+      "headline": "Are LLMs Really More Empathetic Than Humans?",
+      "category": "models",
+      "publishedAt": "2026-11-06T14:31:38.000Z",
+      "score": 0.4093,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "53155bee2154dc28",
+          "headline": "Are LLMs Really More Empathetic Than Humans?",
+          "source": "Psychology Today",
+          "domain": "unknown-psychology-today",
+          "category": "models",
+          "publishedAt": "2026-11-06T14:31:38.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUVfSm1DZ25jU1dLcHluTE5NYWtuSXJkNjlSdHgwNGJVbXF2Z2NMb3pRR2FudXN0c1hPZ3JUcFhETWQ2Mk9yX0QxeVhOZHJoWTBKOW92U0FJZy1EeTZHZUl6OFF5Wkd4NXRtcE12dUk3eFl4ZGRKQ1VWRDNFX25HRXhtYkJPNVM2VWFROWQzMXVEVFg1LUZxWTRJM19MNW1XaGtQSi1yRkpTVDljc08yZWYwcDh0SWo0RnhheWtJc1JMMl93UE41ZQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "e99e17c3297fd8a4",
+      "headline": "Can We Be Outsmarted By AI?",
+      "category": "general",
+      "publishedAt": "2026-11-06T14:23:21.000Z",
+      "score": 0.4076,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "c9cde3d73d53cf73",
+          "headline": "Can We Be Outsmarted By AI?",
+          "source": "HMP Global Learning Network",
+          "domain": "unknown-hmp-global-learning-network",
+          "category": "general",
+          "publishedAt": "2026-11-06T14:23:21.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbzRiUFZXenRReS15MkUwX19NQ2Nna00wWjZkS2pLTFFJd0xXVlVWUEF6NWU0OHNHcVQzMnd0NzFjNV9VZGoyMG1GS191amNhYWFDcy1vOU4xbFFfQjBGT0lpb0l3eHg4cEtBY0tPelZvUFpFeE96Sm02N3ZycG5jazBieTlKM3huc0lESnBQTQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "19adc3355d886360",
+      "headline": "Machine Learning Fibonacci Extensions [FEELS] — Indicator by FeelsStrategy",
+      "category": "general",
+      "publishedAt": "2026-11-06T14:17:58.000Z",
       "score": 0.4065,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "a09beb181ed0da9d",
-          "headline": "He Lifeng's Research Visit Sets AI and Computing Power Financial Support Direction; US Stocks Plunge Overnight with Nasdaq Down 5.52%",
-          "source": "BigGo Finance",
-          "domain": "unknown-biggo-finance",
+          "id": "d0dc50d53ac52cf9",
+          "headline": "Machine Learning Fibonacci Extensions [FEELS] — Indicator by FeelsStrategy",
+          "source": "TradingView",
+          "domain": "unknown-tradingview",
           "category": "general",
-          "publishedAt": "2026-11-06T01:46:00.000Z",
+          "publishedAt": "2026-11-06T14:17:58.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjdVBQYXZZRGRyY0FyVTJpWjRwY2xjMG9lUUFwNGJtYjZJVXJON0VxSjlOQUg3dTlLbTU5cUNpNktlMkJaWWlDM040U2dNVlFoZVl0R2RKcXgyeVpUVVg2aTRWaTRyUUJyUkVZdEgwXzhaM3FpM0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZTJGN0xEekZUdUprNnBzUlFFZUZ4WGZRNWVoQWh0OEYxOS04bU9EYXRnS3VQR0xjQ0tSczZFYkZpMnlxbl9oM3pJc3JVZ1NzUy1QT0Q0djJlYlNHOERpak1PcUkxZ0hMY1lBVEk0UGx0ME0zMW80SXJyNzJaek1pLVVhMVUzVGxQTktnR2pPV1Q1UQ?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "202da46da252e833",
-      "headline": "Edge Medicine Awarded $10 Million from Laude Institute Competition for AI in Healthcare",
-      "category": "general",
-      "publishedAt": "2026-11-06T01:41:26.000Z",
-      "score": 0.4055,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "fe9e886b43b54bd8",
-          "headline": "Edge Medicine Awarded $10 Million from Laude Institute Competition for AI in Healthcare",
-          "source": "University of California, Berkeley",
-          "domain": "unknown-university-of-california-berkeley",
-          "category": "general",
-          "publishedAt": "2026-11-06T01:41:26.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTd5Ri1OVFdNZ1V6YUc1aFNQZXlvZkFhb2hkd3BQRWFyMVBFcjVJeU02Vk54YnE0NGZlVzlrTkp2WjBBcWZxQzFHX3ZlWVRqSVo5Z3BUejBXWWRHYWRLbGY2bWZISWtzM3JiY1VUcEVoLXpIN0d3UEo2Z3B4MzBXbGdiOGZGb3Ryb1l0U3M2NzNGdEJNMHVyM1JYanpxaGl0ZlZIRzVlMGt1N0hkb3FmUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "f6686f5b9c30ef30",
-      "headline": "Ask an AI chatbot for a medicine, and you may get the same brand again and again, study finds",
+      "id": "717b280104663ded",
+      "headline": "Google Researchers Propose Sleep Framework to Retain LLM Facts",
       "category": "research",
-      "publishedAt": "2026-11-06T01:33:58.000Z",
-      "score": 0.404,
+      "publishedAt": "2026-11-06T14:15:13.000Z",
+      "score": 0.4059,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "fdb51343bfa44f75",
-          "headline": "Ask an AI chatbot for a medicine, and you may get the same brand again and again, study finds",
-          "source": "The South First",
-          "domain": "unknown-the-south-first",
+          "id": "35ad5df12c440b94",
+          "headline": "Google Researchers Propose Sleep Framework to Retain LLM Facts",
+          "source": "Geeky Gadgets",
+          "domain": "unknown-geeky-gadgets",
           "category": "research",
-          "publishedAt": "2026-11-06T01:33:58.000Z",
+          "publishedAt": "2026-11-06T14:15:13.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR2NTR2JtSGh1RmhJNVFMTjVjcUx2LTdwVk91dmZqU3BQcVZqQXNoQU5neUdyaVZoOGxTZU9yNWNFcjZScXFxNHBsNEFBQ3NkN29WTjlCNEIwNEhWbWhIakpvdk9EUm8xV1lhemI4a011WThhaktIbFJsOXdJV1g4VUw2bEM3LXZUYW5NVGRmVlFaZVlQMlVuTEVoMDhPN1BhdFFEcUlZYjBUeTl5N3pKTDZJZmNMdjhIR28xZXBrVExHTEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PVTJhOURFOFJfVld2Vzc0ZnF4TXpsUGQ1U2Q2NE82VUl0RElPa3dJeHhJNW5yWFZfZVBPYldLX3lLNk0tcmVIekVQTnd3WHVMUUU1TWhOU3ZsVHhBMnA2dTU0NHd3eXlfdEpF?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "42c49940772a49bb",
-      "headline": "Australian universities are creating AI-native graduates",
-      "category": "general",
-      "publishedAt": "2026-11-06T01:22:46.000Z",
-      "score": 0.4017,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "03154db53b65a6c0",
-          "headline": "Australian universities are creating AI-native graduates",
-          "source": "OpenAI",
-          "domain": "unknown-openai",
-          "category": "general",
-          "publishedAt": "2026-11-06T01:22:46.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tZEJVMEZnT3BuWUZaN0JTVXhiUTRaclVqc28zQ0k5TXJ4eEU1azgxMmhnWVZnQVpsVUk0RnBEZWFaRHVtMzVqUzVMbHJHTTZjWnpHd25rdmJxZU1ieDFaT3d6UUdwNUJkWmFuSU05djJBdEdqTXVaZA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9a9ddedf97f3fd19",
-      "headline": "Gemini Omni 1.2 Flash vs Kling vs Runway: $0.07/s [2026]",
+      "id": "badd797b1e92d055",
+      "headline": "The Department of Know: LLM jacking, Asia rocked by Amadeus, freezers still getting hacked",
       "category": "models",
-      "publishedAt": "2026-11-06T00:32:58.000Z",
-      "score": 0.3919,
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "score": 0.4028,
       "publisherCount": 1,
-      "featured": true,
+      "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "d056ff1339c9929b",
-          "headline": "Gemini Omni 1.2 Flash vs Kling vs Runway: $0.07/s [2026]",
-          "source": "tech-insider.org",
-          "domain": "unknown-tech-insider-org",
+          "id": "282567a1eb2aa766",
+          "headline": "The Department of Know: LLM jacking, Asia rocked by Amadeus, freezers still getting hacked",
+          "source": "CISO Series",
+          "domain": "unknown-ciso-series",
           "category": "models",
-          "publishedAt": "2026-11-06T00:32:58.000Z",
+          "publishedAt": "2026-11-06T14:00:00.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nQktqcW9KRlloQ2xvQm1wOW5EMFBEME40X0d2allzY1dPRVA4YnI0M3FlQmV0M3lPM2taYl8ybnpVeGU1aGJDelQ3UUNIbllMN2J2MnpyVXlFbkR4SDhLS1lmdkRTOEtNa04wM20yajdsdkMzeGZleDBxd1RMeXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjdHZnJpMzlQbmVOaGNZZEtUYXlmR0VndTJ0cjB0clhOZWtwSi1zaEdGbG5IVXBTby1LSEpsQnpETVZDMWZValdocFJxbUMyZFBZSVdvSVJyZVBKbkFJTExtTlZtM1pQdVUtdHd5TlpUMWoyRy1pOXdja1NDOE55bE1ueTVLN25xNnM1ZVRubzZaUGg1N3pmQmVkdXZBQ3B6S0tXeUpBRHVCZFdSVzlPSA?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "59686861195e3f3d",
-      "headline": "Aina’s AI Ring: $399 Preorder, Screen and Joystick [2026]",
+      "id": "88d360838abe08e1",
+      "headline": "Machine Learning Classifies Urban Heat Patterns Directly from Radiant Temperature Data",
       "category": "general",
-      "publishedAt": "2026-11-06T00:20:17.000Z",
-      "score": 0.3894,
+      "publishedAt": "2026-11-06T13:57:35.000Z",
+      "score": 0.4023,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "346ef3ac8920c004",
-          "headline": "Aina’s AI Ring: $399 Preorder, Screen and Joystick [2026]",
-          "source": "https://tech-insider.org/",
-          "domain": "unknown-https-tech-insider-org",
-          "category": "general",
-          "publishedAt": "2026-11-06T00:20:17.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaVdiUG1jbWRTWHR4MDlYYm8wSGt5Ry13dC1kRktMZDBqQXUtLUctMkxLVHU4UGFoeGtaQzl2QjZ6M1pkdWNpMnhacnJEVzY3aFdZX3diSUNwRi1nZVp2N1cwX3ZjMGpFUDVnLU5Xblo4eF96TThMRExyUUJxWE92R3dGaDFYVXE3V053?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "f13fc0fba80ce4d7",
-      "headline": "Value Aligned Research Advisors drops 33% as AI stock selloff hits hedge fund",
-      "category": "general",
-      "publishedAt": "2026-11-06T00:10:45.000Z",
-      "score": 0.3876,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "816655edd25724dc",
-          "headline": "Value Aligned Research Advisors drops 33% as AI stock selloff hits hedge fund",
-          "source": "Traders Union",
-          "domain": "unknown-traders-union",
-          "category": "general",
-          "publishedAt": "2026-11-06T00:10:45.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmh0dnE3S0hfa0xETEdMUjM1SmJRS0trUGNtaU9jSnhhRU41LUJVNVdGZUkzWjFlM3BqR1ZZY2hac3NhVHptdGo3ZXhwUDVBQXMyakdhRzhwSDBSVnlJcE5SSk0xTk96NDFONVI4WnU3S2tXeDJ0UmZSSkt4aENtSVVlVHFybWFFamhtTUJjVHN2ZGRoZDEwZE9jZWQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "4607210a86c01bab",
-      "headline": "Hugging Face launches ProtoStar open science and AI initiative | ETIH EdTech News",
-      "category": "models",
-      "publishedAt": "2026-11-06T00:03:39.000Z",
-      "score": 0.3863,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "9684607f28e8b7a2",
-          "headline": "Hugging Face launches ProtoStar open science and AI initiative | ETIH EdTech News",
-          "source": "EdTech Innovation Hub",
-          "domain": "unknown-edtech-innovation-hub",
-          "category": "models",
-          "publishedAt": "2026-11-06T00:03:39.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0ctTmRUcDlPUjhNajBqZHBPeVZVYVVQbDYxVzRtT1IyekhvemhwUG9JVmhpaGpqX1U3NDhULTd0S1RrUzBiRmZyYjBUMk44QXM4QzNTdFBHVi00WGFZdU9reFIyc0l5ZnhKU3hLMEZxeTBaWm1sVDZjcVJaVmdTbEI4Y1FWcXBfZ25jNktSUEZ5WE5jRnotTHZfaHhDclNwODlsOXpsTUhxWFJSQnlaRjRIdElVRVBMNEpWQUIyM09MVW5V?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "080abae6dbadbbae",
-      "headline": "Study: UK ranked fourth for AI readiness",
-      "category": "research",
-      "publishedAt": "2026-11-06T00:03:19.000Z",
-      "score": 0.3862,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "e27c87148d210c98",
-          "headline": "Study: UK ranked fourth for AI readiness",
-          "source": "Advanced Television",
-          "domain": "unknown-advanced-television",
-          "category": "research",
-          "publishedAt": "2026-11-06T00:03:19.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGxsTXBRSnZnNDFPNWdKRS1uMDNZYnlQdXMxUjhOOGUxeVFrZTJobGlPT2FwdVpSUTl5Z1pycUNJZmxQWHVrSjNpMExsWVZ3ZUYxZERhby1kVUZaSHphbVc5MU9zUUxiaWRwaWxkMjR5aXlPOEF2dUhpdDRucHM0QTZDUGZ2TmlDSUlOV0YtT08?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "40457d0f77f41dc9",
-      "headline": "Perplexity Cuts Agent API Research Costs and Adds Ultra Effort",
-      "category": "general",
-      "publishedAt": "2026-11-05T23:59:02.000Z",
-      "score": 0.3854,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "aa495cb9a01bae2b",
-          "headline": "Perplexity Cuts Agent API Research Costs and Adds Ultra Effort",
-          "source": "Unite.AI",
-          "domain": "unknown-unite-ai",
-          "category": "general",
-          "publishedAt": "2026-11-05T23:59:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXVKZjhPWVZVaHVtYVRCNmxLUnhBY3RUbWpIYnl0N0M5UFVCMmZEeXZwNktDNmdDdUY2a2E2ZHVJZkZycThGRWUweGx5ZjdId0tJTE1feHRiemxGazNMNXI5MHk1T3RWbW1rVUlkWFZVZzA5OUNGTFBFeWZqR2lBSnp3d0JMSklpSzhmdg?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "ab1b66a320bb900b",
-      "headline": "Making Henry Hoovers Battle for AI Education",
-      "category": "general",
-      "publishedAt": "2026-11-05T23:54:48.000Z",
-      "score": 0.3846,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "4eb5a1eca1e446d2",
-          "headline": "Making Henry Hoovers Battle for AI Education",
-          "source": "Hackster.io",
-          "domain": "unknown-hackster-io",
-          "category": "general",
-          "publishedAt": "2026-11-05T23:54:48.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0F0R3BRUlphRk5JWFdWenNzLXd0Mkk4bUJzYjc3eWRLMjljdXJ5bzQwNVhMUkEtV1dfT3NlU3NOejFydUhpcXFES1FRaWt5M3hOUXB0YlROdHpfU1hndXJIQUlPRmpza0NvMkNucW1fbDdFQ2tSb3RXekNjNjRmak9tWnpSWDdIVUR4UlVYdw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9199b74b9728a4b9",
-      "headline": "ANU receives Google funding to boost fusion energy research with AI",
-      "category": "industry",
-      "publishedAt": "2026-11-05T23:39:31.000Z",
-      "score": 0.4651,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d511ac0b4e5fe5c5",
-          "headline": "ANU receives Google funding to boost fusion energy research with AI",
-          "source": "space & defense",
-          "domain": "unknown-space-defense",
-          "category": "industry",
-          "publishedAt": "2026-11-05T23:39:31.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnVwMHlvUXJpNzNZV3Y3TXhPRVRIOHdTNXhIMWRYbldNZ2hkcGRTZE5tblpPb0FHbVNZaUtMbDJQcUh5RHVxVmN0eGhZX2VJc0N2MGVQSndzNzlQZmtvblI3VWdYVTlDRmhhdl9IN0RRR3RpZ3NnTzRqZ3BtYXFtTHhnSmhFbmp3OXdaNFJNOTRZdEs3djRzT3p1aw?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "2e2332dd4e919151",
-          "headline": "ANU receives Google funding to boost fusion energy research with AI",
-          "source": "The Australian National University",
-          "domain": "unknown-the-australian-national-university",
-          "category": "industry",
-          "publishedAt": "2026-11-05T21:08:38.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1FkMTVaOW4xMTZXTE4zSmd2UXdIclJlaENoQkRwSHZBejJqaWhobnR4Mm1DOW5IT1BPVC1IdnRjalNaMkZuQUJCVFVPXzVoS1BzWUVlZjZ0b1IydUtqVVFPNnJNbVJqUlRMTzkxUFYzSS1TYnhkMC1aaTdKT3dsOUhzZmdFWFNBMnZpMU9GcGp5Q2VFbVVYa2F1MDBDbkRaa2k2UEJkYw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "8b9df509a4fe693b",
-      "headline": "Machine learning maps which lens layers bend when your eyes focus close up",
-      "category": "general",
-      "publishedAt": "2026-11-05T23:10:10.000Z",
-      "score": 0.3765,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "8bc2e38d763f0232",
-          "headline": "Machine learning maps which lens layers bend when your eyes focus close up",
+          "id": "17a9c970ed02b7d3",
+          "headline": "Machine Learning Classifies Urban Heat Patterns Directly from Radiant Temperature Data",
           "source": "Bioengineer.org",
           "domain": "unknown-bioengineer-org",
           "category": "general",
-          "publishedAt": "2026-11-05T23:10:10.000Z",
+          "publishedAt": "2026-11-06T13:57:35.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMllsclJ4MUJsYzl5akFZZWx4MXFSRjJDZW50TGZkRWJPbTYzZ0JCVXRGelZWNHBHMGhjRXZPV3ItN2hwQkRINnU5MFFEcFhCQXBMS0tNMXQ2RjR5RjU3blJaYjRBb2ItaTMzRm1YYUxpcXRyMi01VWgzQUUzZktWMGoyVzNFc0YtcW9LMVlVTHhtWm9xcmlLNzhfRkd1RnFB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlZudWRQdFRmWHJVc3FzQzdiUkl0TlhTd01IdkRTRDYzU1FERHdXNkJnRnMydTNyQjRTNW5DQmk4NjVkWVdmMkxyX0VsckQzWS1VOXV3eWJzb0NobmkzME5WU2FLNWlCdXpWejFqaU9YaUVhYjF1M3piX0hTOTNGTkQ1bXRfTEZtRkpkdWh0VkdSamJxSEc5OU5rVVpCaldoQkxyaFRHRm54WEMwcjE5OQ?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "c36f3149105e42e5",
-      "headline": "Correlated errors cap how many voters an LLM ensemble really has",
-      "category": "models",
-      "publishedAt": "2026-11-05T23:05:10.000Z",
-      "score": 0.3756,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "7520f9f6f6197077",
-          "headline": "Correlated errors cap how many voters an LLM ensemble really has",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "models",
-          "publishedAt": "2026-11-05T23:05:10.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWlqZldSeW9rOGVuXzM4MnVMMUx4ZWlxNGdYYjZFSDkyaVhMemJzeExqNTVDc1RpbndTLUJIOElmbDNkS2NJbEx0NzZEWUZ2QUVMTE1NaHNYVTAzQ0xVa1ludEs1RUNWUGpJWUlwRE1lSXNwQ1VVMmJmMmlQb0JISzluck1UZnBNVU82Sm5DaDBhNkk?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "b9faa9baf68ebfea",
-      "headline": "FBI Opens Market Research for Enterprise Data Platform and AI/ML Foundation",
+      "id": "c51a21a2f8585d79",
+      "headline": "Lingnan University plans to establish a Division of Mathematics, as world-renowned mathematician Prof Jean-Michel Morel says AI development will create more jobs for mathematicians",
       "category": "general",
-      "publishedAt": "2026-11-05T23:04:43.000Z",
-      "score": 0.3755,
+      "publishedAt": "2026-11-06T13:43:02.000Z",
+      "score": 0.3994,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "08f11d508b4b0c29",
-          "headline": "FBI Opens Market Research for Enterprise Data Platform and AI/ML Foundation",
-          "source": "OrangeSlices AI",
-          "domain": "unknown-orangeslices-ai",
+          "id": "f5d0f1178680a729",
+          "headline": "Lingnan University plans to establish a Division of Mathematics, as world-renowned mathematician Prof Jean-Michel Morel says AI development will create more jobs for mathematicians",
+          "source": "Asia Research News |",
+          "domain": "unknown-asia-research-news",
           "category": "general",
-          "publishedAt": "2026-11-05T23:04:43.000Z",
+          "publishedAt": "2026-11-06T13:43:02.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0J6aG9CTEp5d2oxdGVRY1NoN3dGaGxJam8zNTNoOFI2QWtxeHpIWEZpeDF3LTgzSVpzZERmNkZOc3k3ZVVza2xMYXFuZWlweGlqTFJMWk13X0RRcXdZSlJhVG5TMnhtUndtaGVvS1ZoZkhqVlA1X3FmNkd6cWk0MXdhVzhKbDZaRGJVdzh5UXZSUjBOQ0c4eVZKQmppTFNqM0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFRnR3BuYlhNWWItT2VTSXNORFZwNFR3UWMweXByVDlaVHltU2lLbFFCRl9nUWVTYmxwYzhmRVNFbUp6NURyOUZyQmtpOGNfNWU5NW5aZUtxdEJiN200ZzBNYnZCR0xycU9VQTRfWmZTUTljT3RNeF9CRkxINWtYTnowdFFJT2hyekRXVmlETWZYa05NV1V6RHMzQUpFbm5hTmNnTG5TYkgyMGc3aEtPaEhQZzcxb20wc2xQRDZZdWZsRDczQjZQc193?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "c60eefa46001854c",
-      "headline": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria",
-      "category": "research",
-      "publishedAt": "2026-11-05T23:02:49.000Z",
-      "score": 0.3752,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "e1bcabec88c5d8e3",
-          "headline": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria",
-          "source": "AgriLife Today",
-          "domain": "unknown-agrilife-today",
-          "category": "research",
-          "publishedAt": "2026-11-05T23:02:49.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "bfd5bef3452b5241",
-      "headline": "Airbnb Plans AI Travel Agent for Planning, Booking and Support",
+      "id": "24f1d2245488ee38",
+      "headline": "Ragic Makes AI Agents More Affordable With Automatic Jev Selection for Classification Tasks",
       "category": "general",
-      "publishedAt": "2026-11-05T22:56:06.000Z",
-      "score": 0.374,
+      "publishedAt": "2026-11-06T13:32:11.000Z",
+      "score": 0.3972,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "d757da721770f4a4",
-          "headline": "Airbnb Plans AI Travel Agent for Planning, Booking and Support",
-          "source": "Unite.AI",
-          "domain": "unknown-unite-ai",
+          "id": "da77b7b2f682e473",
+          "headline": "Ragic Makes AI Agents More Affordable With Automatic Jev Selection for Classification Tasks",
+          "source": "AiThority",
+          "domain": "unknown-aithority",
           "category": "general",
-          "publishedAt": "2026-11-05T22:56:06.000Z",
+          "publishedAt": "2026-11-06T13:32:11.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHEwQmphT3BwRVl4R1R3akVQZGwzdUtqaW1LdFFnMHlreHNJSGxQaWUyenNycGNBd19zQWpaX2VMNl9namlNTU1PeVJhR3lOM29Nblo3TmJxWmxNUEVtTmYwZENIXzJTYnNzVWNXZ1NwM3h0WHYzSmhCR2pucDBhYmZIX21DMnhoUHlN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHBMcmdEd1Rud0JTU2tyX2Q4VS1BN2ZVT2RMZ1JwQXlkY0pXN1VuRWFBT0xlQTlDWGRLSXhBSUNsOWJTMDVHX2x2RUFTVU8tVldLS1hLMmtaQTl5V21KYXdFelBuNlY0Ql9MbFg5UnBWTUpDaWtCdGpWMlpFbXQyMkNLSlFVNjN4RDFmLW16MC11NzlZV0hUQ3FWWDk4QVF3dm1iT3BXbG1yWEliYXZhd0dqSjRnV1ZFVXo3TjBwZlZuWXJxT0F1QjNJdw?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "6ac9458c46eb36db",
-      "headline": "Aetina’s DeviceEdge AIE-VX28/18-IP Delivers NVIDIA AI Power with In-Vehicle Video Analytics",
+      "id": "8a2df7f7a913a448",
+      "headline": "New Research Finds AI Is Moving Faster Than Organizations Can Adapt",
       "category": "general",
-      "publishedAt": "2026-11-05T22:52:52.000Z",
-      "score": 0.3734,
+      "publishedAt": "2026-11-06T13:28:44.000Z",
+      "score": 0.3965,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "df59d4efba876159",
-          "headline": "Aetina’s DeviceEdge AIE-VX28/18-IP Delivers NVIDIA AI Power with In-Vehicle Video Analytics",
-          "source": "Embedded Computing Design",
-          "domain": "unknown-embedded-computing-design",
+          "id": "6d4f1a8ad7d28838",
+          "headline": "New Research Finds AI Is Moving Faster Than Organizations Can Adapt",
+          "source": "SAP News Center",
+          "domain": "unknown-sap-news-center",
           "category": "general",
-          "publishedAt": "2026-11-05T22:52:52.000Z",
+          "publishedAt": "2026-11-06T13:28:44.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPS19ENGk3N3hnZ0x0N01sN0V1MzlUZ2djejBvSFBwa1hOUW5aNUZGeklfcHZrS2dwM2pwVUUyWHlSVFQxelpMbzhmbng1MDlTRHhabUswczZmaVhseDQ2a0R6N0RCT2JZMWFmbl9YeEF1TEx5TkdjejNTQnNXN2ZlYllWMURQeE1OZHhXSk9lb3RyZHFhVklNQTFmR2Y1eWRkMDBTdTJRbWhXQkhGZXZqR1RuZl9KeFNHSDhicllrZHBVLTR2YUY5dzdrMmJ3TENYVjEwdWRpUG1Wb05oeWY0N21qbXhjR25RQnVSbkRKUTV5YXIwazg1RFAyLXozRFMtMTdOdnR3MEJPOEhjeTR1SzVR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "53c04e7b9bba5fd9",
-      "headline": "Johns Hopkins study finds LLMs discover more when trained on one-off facts",
-      "category": "research",
-      "publishedAt": "2026-11-05T22:49:33.000Z",
-      "score": 0.3728,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "2022fa6fd513841a",
-          "headline": "Johns Hopkins study finds LLMs discover more when trained on one-off facts",
-          "source": "Crypto Briefing",
-          "domain": "unknown-crypto-briefing",
-          "category": "research",
-          "publishedAt": "2026-11-05T22:49:33.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZUGViRXRqeHFwc2Z5NWVYM2NFZnZMcll0bnBuNDRabkJLUkRaUk9Vd1B1d1RhejV4RVYxdVU1UmJqbm5NYmcxZmFhcFEwX1d2Z2FlTGtva2lrSk0ydmVMdmpJYWwxV21BNGNXeFp5Z3RUYzJuTTU3NmpZUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "dfce6ddd83d34cdc",
-      "headline": "AI in academic journal submissions is hurting the credibility of research itself",
-      "category": "general",
-      "publishedAt": "2026-11-05T22:46:00.000Z",
-      "score": 0.3722,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "8276d75a21c46c5e",
-          "headline": "AI in academic journal submissions is hurting the credibility of research itself",
-          "source": "Marketplace.org",
-          "domain": "unknown-marketplace-org",
-          "category": "general",
-          "publishedAt": "2026-11-05T22:46:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkVDTDBXQnNIR3ppN1dNNjVRVjl0SFVqNTNZeDVDdVkzT29WN1ZJTzdFS2pEWG5SQm9Bb2txaTZOUjlobVpkVk4wYURxU2F5SGRhZktydXBfOXBqYmRjNWdnQm5vSzExVHIzbVZkR3lOVVB4QUtJM3dTUXlIQXEzNjNZTkQ4Sm5UQ21HMDZ3VHc4eFpqaXM3WkdR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "4d777dc04983f164",
-      "headline": "AI in environmental management: Iran’s practical milestones and horizons for Zim",
-      "category": "general",
-      "publishedAt": "2026-11-05T22:02:03.000Z",
-      "score": 0.3647,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "41372cb1f5660d3f",
-          "headline": "AI in environmental management: Iran’s practical milestones and horizons for Zim",
-          "source": "Herald.co.zw",
-          "domain": "unknown-herald-co-zw",
-          "category": "general",
-          "publishedAt": "2026-11-05T22:02:03.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVVkOXJlcmY3OEtmWmJWazVVakdkV3ZQNzE5N284aG1vRmVHeUp4cDlEMWllZHdLOXlldlJMeU9KS3JaMTJwZ0otQXlnQWJwbWQ1VHJaeDNwQnpJaUdpVjhhSTBieTJJZWJHbEE4cS12V25JQUxsVmg2M2lVWXhHNVFuTWEwZzIwZjA5T3M0MFJpNVE4TFFzbkVsd1hIcGNNR25NNldXaExMUG92NnZn?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "fbf0dc1fc4c99cab",
-      "headline": "Connecting artificial intelligence with the tools of astrophysical research",
-      "category": "general",
-      "publishedAt": "2026-11-05T22:00:07.000Z",
-      "score": 0.3644,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "44d25b4ee61e0854",
-          "headline": "Connecting artificial intelligence with the tools of astrophysical research",
-          "source": "Phys.org",
-          "domain": "unknown-phys-org",
-          "category": "general",
-          "publishedAt": "2026-11-05T22:00:07.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNallRdlVIcUh5WXhLMFJIQXRkcXJvM2ZrTzdxX2ppRHVwdmJROUVOeE5CeWs2YU8tMkJDYkV3QU50N3VXbXFtcEhLSF9GanRlenJCSXBnREdiZk1QOHFfcEFrbEJndGRXM3E0LVVRY0VBQ1A3V25JTW5rZ2tGU2NXUGtCZ1g?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "65558eb03dbb43dd",
-      "headline": "Evals All the Way Down: Fault Localization in Compound AI Systems | by Adnan Masood, PhD. | Nov, 2026",
-      "category": "general",
-      "publishedAt": "2026-11-05T21:51:01.000Z",
-      "score": 0.3628,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "19128cb9b35ace17",
-          "headline": "Evals All the Way Down: Fault Localization in Compound AI Systems | by Adnan Masood, PhD. | Nov, 2026",
-          "source": "Medium",
-          "domain": "unknown-medium",
-          "category": "general",
-          "publishedAt": "2026-11-05T21:51:01.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNekJaV1FxbUdnMUxXQy1NaW96YmJlVWxJTDR2TEFsYTZ3VUJRX0R0QW1aM0hJZEszVlU2bm14MXhEMklQdHROTzIwMUo3NUlJSUlOYVl3RlM2eC10cUQyQWJtV2NsbGM2R0hCUkVTQTZyMUE1bXZBajdIZXE1TWpJSnE2VHNqU2d2NGZjeDV4MjQ1Wm5FcEtvckp2b0oyV3dpU2tfaHhNMEs3ajYzYnc?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "06d7ec611017a009",
-      "headline": "Research Finds AI Bots Still Rely on Stereotypes",
-      "category": "general",
-      "publishedAt": "2026-11-05T21:19:00.000Z",
-      "score": 0.3576,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "6be3a9a833a00bde",
-          "headline": "Research Finds AI Bots Still Rely on Stereotypes",
-          "source": "Mirage News",
-          "domain": "unknown-mirage-news",
-          "category": "general",
-          "publishedAt": "2026-11-05T21:19:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMm4yclA0cV9MMWRGTHByUDlXM0U1YVNsNUtUTGJvSkVKaVdUb0dxaEJKYk9wRjJ3RThQTl9pT1Q2NHAzaFhMNFV2Nnh2UklFdk1hNzROWXI4QjNnNzFEbFk5U3ZwMVVZU0cwbWJWbzlCVVFROHJ2ZDVtUDAzd1FLTTVhbTNNMGFuaWFQRQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "974ae2ff8d222d83",
-      "headline": "Amazon AI Ph.D. fellowship supports 20 Illinois students",
-      "category": "general",
-      "publishedAt": "2026-11-05T21:04:38.000Z",
-      "score": 0.3553,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "c1deaf2f009674d1",
-          "headline": "Amazon AI Ph.D. fellowship supports 20 Illinois students",
-          "source": "Siebel School of Computing and Data Science",
-          "domain": "unknown-siebel-school-of-computing-and-data-scie",
-          "category": "general",
-          "publishedAt": "2026-11-05T21:04:38.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KTHdFb25wbTZtQlBibVVBdWhVQ3BFTzNhTGdoWk1rMERSUHYxZlJhVk9xNXZyLUNVOGoyeWtwYzdPWFg3ZlF3TUF3U2FQeEJiSzJtcTVjQTFiUDE1d251elNoUW1FS3dCX2pvQ0o1Y1NqcWtacE1DMEhJcw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "36c7b3c6a3f232d6",
-      "headline": "Getting started with Web Answer on Amazon Bedrock AgentCore | Amazon Web Services",
-      "category": "general",
-      "publishedAt": "2026-11-05T21:04:24.000Z",
-      "score": 0.3553,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "b7533d564534198f",
-          "headline": "Getting started with Web Answer on Amazon Bedrock AgentCore | Amazon Web Services",
-          "source": "Amazon Web Services (AWS)",
-          "domain": "unknown-amazon-web-services-aws",
-          "category": "general",
-          "publishedAt": "2026-11-05T21:04:24.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHFxWWpHb2pNT1g3ZEJCcl9Ub1Q0WGtpT2lYYjZpeTBuejF4aG5MdUc0anJlQV9nZjlKb0ZURnE1alBabmYwWFIwZWtaRjVpNFQxWkdqUG96NzItd3I0cWFFdGRTd3BYTDhXMTljcjRJNW9GMVZJLXJlc054anZma3NfOHNXeGtrZ2F3THd4bVRRb25TOF9Ka21NMTJ1ZEZpVTR6MUtRSWhtUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "366ed3adb11677ca",
-      "headline": "Making Immersive LLM Chat Experiences Accessible for Assistive Technology",
-      "category": "models",
-      "publishedAt": "2026-11-05T20:55:11.000Z",
-      "score": 0.3538,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "edca9df7fe88c6c5",
-          "headline": "Making Immersive LLM Chat Experiences Accessible for Assistive Technology",
-          "source": "news.lavx.hu",
-          "domain": "unknown-news-lavx-hu",
-          "category": "models",
-          "publishedAt": "2026-11-05T20:55:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUzF6SmZoYVpVUWJmdTJFVEdxMUV3OXl4UXAwVVpRYXF0OGtsSjByQXFSQU51M21sQW5YTmwyVDNGeXcwd2RJNE1hMWpJcUdEV1l5YTM2SWlkN1h4b1hhdGVzQ3FINlhsSUhxaWxCOVowZzhCeXRHUDBWYjhJNUUwTDN4U2t4YVhfejkzM1lNV2JNcTVvNFZteThXX0lOc2xZUjgybw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d60cbb838cb6ce95",
-      "headline": "Blinded experts flag unsafe actions in synthetic outputs from local clinical LLMs",
-      "category": "models",
-      "publishedAt": "2026-11-05T20:28:21.000Z",
-      "score": 0.3496,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "f515c38add8fa425",
-          "headline": "Blinded experts flag unsafe actions in synthetic outputs from local clinical LLMs",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "models",
-          "publishedAt": "2026-11-05T20:28:21.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTNWbnZwdVhaU21JU0JhVkl4TVozQ2FZSlN1a2w1Z3pBT2paemc2ZEQ4eWJreWh4c05HbnJPR3k0VFpGd1NsNEk4VkpFaDFxMXQ0R1RPZ3JTSHEyTi1qdjZyVHZtcnlkUS11Y3ItTVd3Q0NMMVczZXBKdUg0cWRIZi1SdThRcWtRVmtCQTRzR3NpaXpSRDgtb21aTTYtSjJvZEI1cm83eTFUdw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "967182a27a4d6a18",
-      "headline": "UNCG AI Showcase Explores Tools for Teaching, Research, and Work",
-      "category": "general",
-      "publishedAt": "2026-11-05T20:24:45.000Z",
-      "score": 0.3491,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "927e4f773b1acbcc",
-          "headline": "UNCG AI Showcase Explores Tools for Teaching, Research, and Work",
-          "source": "UNC Greensboro",
-          "domain": "unknown-unc-greensboro",
-          "category": "general",
-          "publishedAt": "2026-11-05T20:24:45.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPREN4dkNwcktRbzhTRVVoOW5odTZVZVI5cTROektBbUQ3Yk82am8ySjA0bWwwbHVlNFA5ekhCOVNDbVhsVDZycFpicEltSDByb3g1bXJURVJCcE52ekwxX3ZSaHdRRjNTbDJ3WGRZSUxJbFBaWjNnbTNOVDg2V0VRWnBn?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "a05c134766fd6bee",
-      "headline": "NVIDIA launches Minerva to spot AI factory faults early",
-      "category": "models",
-      "publishedAt": "2026-11-05T20:09:48.000Z",
-      "score": 0.3468,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "1156b84bab39e112",
-          "headline": "NVIDIA launches Minerva to spot AI factory faults early",
-          "source": "IT Brief UK",
-          "domain": "unknown-it-brief-uk",
-          "category": "models",
-          "publishedAt": "2026-11-05T20:09:48.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWgxVjlFR1draVBhRFRzMVFLNWxQUUNUck43RjhoRHNOOUZzSFVUZ3VJa1FPaVRRbVpWa2p4elNNeENKZ1lLYmRzYTN1VEtDdDFrZ3oxenVyWDhkQklzYmw2UngwSkd5NDZnY0pIYWQ5dVB2RFR2Vld1SXlUVkswaGxHenFRYnlBMEo4?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "ee8bd14054ca15bc",
-      "headline": "New study warns of dangers behind AI chatbots and 'concerning' health advice from private clinics",
-      "category": "research",
-      "publishedAt": "2026-11-05T20:00:01.000Z",
-      "score": 0.3453,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "8f35033eb9ea6ce0",
-          "headline": "New study warns of dangers behind AI chatbots and 'concerning' health advice from private clinics",
-          "source": "Medical Xpress",
-          "domain": "unknown-medical-xpress",
-          "category": "research",
-          "publishedAt": "2026-11-05T20:00:01.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd29XUDZrVXBOOUplX0VoQ3Bhbmt1aG1EMUR2RFBrVUdZV3Q2ckJULUEtSG14dnlyZERFbkJwVU9mN2JJcmhzWWotenhPbDU3SDRfS2xlUzBVa0kyUHFxNDhrcUpyVXdVbW1iME5jNW02cGNIcWhoLVNCRHZRellnS0xWVQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "251fc5db6d5f933a",
-      "headline": "New AI e-nose device brings digitized smell to wearable technology",
-      "category": "general",
-      "publishedAt": "2026-11-05T19:45:00.000Z",
-      "score": 0.3431,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "ab260c0d2ab0a947",
-          "headline": "New AI e-nose device brings digitized smell to wearable technology",
-          "source": "News-Medical",
-          "domain": "unknown-news-medical",
-          "category": "general",
-          "publishedAt": "2026-11-05T19:45:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmF2SW5BdkpkQkpsT1hqNDNQRGpjeERoVHdwaFotNFk0OTc2MDBUQWkxeS04UHBCVV9LY0FJaVZmbWx5WUE2bU02NGxDWVliWVlHVHhWSnk0bmJIWk5QaXF1QnVLNnlJOEZWYzg5R2ptZWE3ajF2aXVFQ0ptUEFoaGpxVEhFeUJ0U2FXVV9tZnFORHNZSGpaVDFSOVNURHR5b21ETDVpNTdkMVZ6MnBVWTFSd1c?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "5b1087ecfa45f9f5",
-      "headline": "National AI Research Report Covers How Tools Are Used in Classrooms",
-      "category": "general",
-      "publishedAt": "2026-11-05T19:41:01.000Z",
-      "score": 0.3425,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "497ed6bfc7923bec",
-          "headline": "National AI Research Report Covers How Tools Are Used in Classrooms",
-          "source": "EdTech Magazine",
-          "domain": "unknown-edtech-magazine",
-          "category": "general",
-          "publishedAt": "2026-11-05T19:41:01.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDhuVWFOQS00TEVGMDFwWXIzWm9ERk9ocF9jek14WWR5WURVRVlGdFZ2amY1U2pqX3VENElCc0tuTFJKWjZob0o4RW5iUENQR2tuRmxlNER2akFTVENpVTlrUDVyLWhLX25QVDdvU3R4Y0M0dExhd3hxWFUxYUFna3FnMjJJNlZ0TEdPRnotd1Fzc2J2WXdzNWJic08zdnZCbnRFb3E3eEZvbkhiOFFSQQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "b51e3bdc440a4842",
-      "headline": "Lam Research Stocks Fall 13.5% as Equipment Investors Reassess AI Spending",
-      "category": "general",
-      "publishedAt": "2026-11-05T19:31:33.000Z",
-      "score": 0.3411,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "334d271fb5548714",
-          "headline": "Lam Research Stocks Fall 13.5% as Equipment Investors Reassess AI Spending",
-          "source": "Yahoo Finance Singapore",
-          "domain": "unknown-yahoo-finance-singapore",
-          "category": "general",
-          "publishedAt": "2026-11-05T19:31:33.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkF2a0pqVXcwZEdPRVU5RDFteVNCcmpBalZ1TUlmNF9BRzcyRi1JTTltdUJtYmlhZXI5a2JJVFQyUFdHOVZ1ZnRJbnZ4a3FFSmI1MmtwSXpKX0lMQjlBWHI0bHZUUUJUaTk1UDNtM1dqajBGUXlhemhXNjJkaVlxa1B3?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "e538db969a15a1ef",
-      "headline": "I learned Godot by letting LLMs guide me, not code for me",
-      "category": "models",
-      "publishedAt": "2026-11-05T19:00:20.000Z",
-      "score": 0.3366,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "6bfc533b32764ac9",
-          "headline": "I learned Godot by letting LLMs guide me, not code for me",
-          "source": "XDA",
-          "domain": "unknown-xda",
-          "category": "models",
-          "publishedAt": "2026-11-05T19:00:20.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52VTNhUGEwXzBWaUFQQVdBdTBGY0pjVTMtOGNHUXhSZzBzcVRST0RjYTdKS3BlS1o5cnJnLWpjZmFvLWQ2VUJ2SldEZnlzTjJ0VFh4aWFxMnl1R183S3NWcjJ0cldFNnNmS0RnVnFRNmY2QjN5dnc?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "47b72798ea281377",
-      "headline": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-      "category": "research",
-      "publishedAt": "2026-11-05T18:53:41.000Z",
-      "score": 0.5023,
-      "publisherCount": 3,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "505c5cbae584998f",
-          "headline": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-          "source": "Reuters",
-          "domain": "unknown-reuters",
-          "category": "research",
-          "publishedAt": "2026-11-05T18:53:41.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "11122580d02ca9ce",
-          "headline": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-          "source": "marketscreener.com",
-          "domain": "unknown-marketscreener-com",
-          "category": "research",
-          "publishedAt": "2026-11-05T18:52:51.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQU9vckZQMVdZUGJSS3VLTFl6WUl2NHlJcDlTTUhTTnhmNW45UFlPdjhkUFJNdjk3TVU5V0NYZTlXMlR3V1BtSHYxMHFhZXluRmZwSHZTbmk5NUY3VWJYUm5PV256X205UHBkeGs1ZlZlVlY4RFVzV1FVVFZodXZMQmhPcWw4QkJWTHJVdy1JUGZ6dHNXaGtuMDMwRG81T25NWkNoTzFmanEwYk9NOEdSVThEaU5GS3VPRi05QWxlSFlaTzh5QkhsTlVIV24?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "c0258eb30531fc6f",
-          "headline": "Anthropic’s models improving nearly twice as fast with help from AI, study finds By Reuters",
-          "source": "Investing.com",
-          "domain": "unknown-investing-com",
-          "category": "research",
-          "publishedAt": "2026-11-05T18:10:56.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMEtXelVEUE51UWtIcWZwTTd0OE5yWmY4ekJROXh2NXUxclFYLUMzc0p2RnpVdmczbG1BM0htaUcwNk1pQnVfNEpLbG1OejJIclFBSG42SHJmbHlKWFM3dWpIcnV1bzhPZmFITGdxYThWX2VFWGUwYlhkSHAzQk5MdFdzRFRabDhQSU5kckhNQU55eElfZ3BfbzkwMmdEeDBiWDJ2M3RGbk5mWUhpaE4ybHJHVElncHV2SUlGemQ1NFdBTzNXa2J5b3RnRXE0eWkw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakJlRncyZXhhZFlFT0pMckk5SzRYSzg0V1pJMVpvYlJFMHRYNTBfdnE4MGNseGxWOXUxekpfRkU0X2gtU0lvSklCVVRDRjIzTlFvU2hDQXhGLUVQSFdUclhpT29mOGZmUko4X2pCVExGeW1qcU9tS1dXY2Z1dG9tSm41dm1LQXlENG94enZmRGZCS0ZONFp1c2lsc2lCTDdPaW1zMDZ0U2NNd0ktOUE?oc=5",
           "provider": "google-news"
         }
       ],

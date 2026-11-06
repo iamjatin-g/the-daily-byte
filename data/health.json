@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-06T07:05:40.275Z",
+  "runAt": "2026-11-06T19:37:33.422Z",
   "outcome": "success",
   "totals": {
-    "fetched": 141,
-    "afterFilter": 211,
-    "clusters": 148,
+    "fetched": 136,
+    "afterFilter": 91,
+    "clusters": 87,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-06",
-    "count": 6
+    "date": "2026-11-07",
+    "count": 3
   },
   "sources": [
     {
@@ -104,12 +104,22 @@
       "disabledAt": "2026-11-02T06:31:18.443Z"
     },
     {
-      "name": "newsbytesapp.com",
+      "name": "news18.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "HTTP 403 for https://newsbytesapp.com/",
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://news18.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "thehitavada.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
     },
@@ -170,7 +180,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
+      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     },
     {
@@ -180,7 +190,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
+      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     },
     {
@@ -190,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
+      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     },
     {
@@ -200,17 +210,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
+      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 31,
+      "articlesFetched": 26,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
+      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     },
     {
@@ -220,15 +230,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
+      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:newsbytesapp.com: HTTP 403 for https://newsbytesapp.com/",
-    "briefing skipped for \"Anthropic Is Rapidly Accelerating AI Dev\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Anthropic's models improving nearly twic\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Researchers teach football to AI models\": This operation was aborted",
+    "feed:news18.com: HTTP 403 for https://news18.com/",
+    "feed:thehitavada.com: no usable feed found",
+    "briefing skipped for \"AI points researchers toward new disease\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Machine learning model predicts kidney i\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"My local LLM turns my voice notes into t\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
