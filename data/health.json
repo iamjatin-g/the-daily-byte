@@ -1,28 +1,18 @@
 {
-  "runAt": "2026-11-05T20:11:21.973Z",
+  "runAt": "2026-11-06T07:05:40.275Z",
   "outcome": "success",
   "totals": {
-    "fetched": 165,
-    "afterFilter": 108,
-    "clusters": 96,
+    "fetched": 141,
+    "afterFilter": 211,
+    "clusters": 148,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-06",
-    "count": 3
+    "count": 6
   },
   "sources": [
-    {
-      "name": "analyticsindiamag.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
-      "disabledAt": null
-    },
     {
       "name": "aninews.in",
       "provider": "feed",
@@ -118,7 +108,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://newsbytesapp.com/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -180,7 +170,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
+      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
       "disabledAt": null
     },
     {
@@ -190,7 +180,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
+      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
       "disabledAt": null
     },
     {
@@ -200,7 +190,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
+      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
       "disabledAt": null
     },
     {
@@ -210,17 +200,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
+      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 35,
+      "articlesFetched": 31,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
+      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
       "disabledAt": null
     },
     {
@@ -230,15 +220,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-05T20:11:21.973Z",
+      "lastSuccessAt": "2026-11-06T07:05:40.275Z",
       "disabledAt": null
     }
   ],
   "errors": [
     "feed:newsbytesapp.com: HTTP 403 for https://newsbytesapp.com/",
-    "briefing skipped for \"Anthropic is rapidly accelerating AI dev\": This operation was aborted",
+    "briefing skipped for \"Anthropic Is Rapidly Accelerating AI Dev\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefing skipped for \"Anthropic's models improving nearly twic\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"IIT Guwahati researchers use Drones and \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Researchers teach football to AI models\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
