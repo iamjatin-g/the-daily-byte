@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-06T19:37:33.422Z",
-  "outcome": "success",
+  "runAt": "2026-11-07T06:18:33.917Z",
+  "outcome": "partial",
   "totals": {
-    "fetched": 136,
-    "afterFilter": 91,
-    "clusters": 87,
+    "fetched": 50,
+    "afterFilter": 93,
+    "clusters": 90,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-07",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -104,11 +104,21 @@
       "disabledAt": "2026-11-02T06:31:18.443Z"
     },
     {
+      "name": "newindianexpress.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-07T06:18:33.917Z",
+      "disabledAt": null
+    },
+    {
       "name": "news18.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://news18.com/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -118,7 +128,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -180,7 +190,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
+      "lastSuccessAt": "2026-11-07T06:18:33.917Z",
       "disabledAt": null
     },
     {
@@ -190,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
+      "lastSuccessAt": "2026-11-07T06:18:33.917Z",
       "disabledAt": null
     },
     {
@@ -200,46 +210,49 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-06T19:37:33.422Z",
+      "lastSuccessAt": "2026-11-07T06:18:33.917Z",
       "disabledAt": null
     },
     {
       "name": "AI research",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 40,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 26,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     },
     {
       "name": "machine learning",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 40,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-11-06T19:37:33.422Z",
       "disabledAt": null
     }
   ],
   "errors": [
+    "google-news:AI research: HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "google-news:LLMs: HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "google-news:machine learning: HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "feed:news18.com: HTTP 403 for https://news18.com/",
     "feed:thehitavada.com: no usable feed found",
+    "briefing skipped for \"Franklin Templeton Develops AI Research \": This operation was aborted",
     "briefing skipped for \"AI points researchers toward new disease\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefing skipped for \"Machine learning model predicts kidney i\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"My local LLM turns my voice notes into t\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
