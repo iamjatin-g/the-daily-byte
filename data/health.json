@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-07T17:49:14.539Z",
+  "runAt": "2026-11-08T06:24:32.817Z",
   "outcome": "success",
   "totals": {
-    "fetched": 153,
-    "afterFilter": 164,
-    "clusters": 149,
+    "fetched": 155,
+    "afterFilter": 53,
+    "clusters": 48,
     "linkRotDropped": 0,
-    "llmCallsUsed": 7
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-07",
-    "count": 13
+    "date": "2026-11-08",
+    "count": 3
   },
   "sources": [
     {
@@ -110,7 +110,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-07T17:49:14.539Z",
+      "lastSuccessAt": "2026-11-08T06:24:32.817Z",
       "disabledAt": null
     },
     {
@@ -122,6 +122,16 @@
       "lastError": "HTTP 403 for https://news18.com/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-07T17:49:14.539Z"
+    },
+    {
+      "name": "newsbytesapp.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://newsbytesapp.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "thehitavada.com",
@@ -190,17 +200,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-07T17:49:14.539Z",
+      "lastSuccessAt": "2026-11-08T06:24:32.817Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 10,
+      "articlesFetched": 8,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-07T17:49:14.539Z",
+      "lastSuccessAt": "2026-11-08T06:24:32.817Z",
       "disabledAt": null
     },
     {
@@ -210,7 +220,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-07T17:49:14.539Z",
+      "lastSuccessAt": "2026-11-08T06:24:32.817Z",
       "disabledAt": null
     },
     {
@@ -220,17 +230,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-07T17:49:14.539Z",
+      "lastSuccessAt": "2026-11-08T06:24:32.817Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 23,
+      "articlesFetched": 27,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-07T17:49:14.539Z",
+      "lastSuccessAt": "2026-11-08T06:24:32.817Z",
       "disabledAt": null
     },
     {
@@ -240,18 +250,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-07T17:49:14.539Z",
+      "lastSuccessAt": "2026-11-08T06:24:32.817Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:news18.com: HTTP 403 for https://news18.com/",
-    "feed:thehitavada.com: no usable feed found",
-    "briefing skipped for \"GenAI LLM Adoption Surges to 79% in 2026\": This operation was aborted",
-    "briefing skipped for \"AI auditors catch most agent misbehavior\": This operation was aborted",
-    "briefing skipped for \"AI in Theatre: 4 Stage Tools, Humans Sti\": This operation was aborted",
-    "briefing skipped for \"Study: AI could make docs' work easier a\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Research report: Explaining alignment be\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:newsbytesapp.com: HTTP 403 for https://newsbytesapp.com/",
+    "briefing skipped for \"EchoTrace reveals LLM recommenders ampli\": This operation was aborted",
+    "briefing skipped for \"Iliad Intensive 2026: Fully Funded AI Al\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"MS²Rescore Machine Learning Tool Boosts \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
