@@ -1,15 +1,15 @@
 {
-  "runAt": "2026-11-09T06:56:58.616Z",
+  "runAt": "2026-11-09T22:37:22.635Z",
   "outcome": "success",
   "totals": {
-    "fetched": 155,
-    "afterFilter": 78,
-    "clusters": 69,
+    "fetched": 156,
+    "afterFilter": 108,
+    "clusters": 101,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "count": 3
   },
   "sources": [
@@ -18,10 +18,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-02T21:51:24.502Z"
+      "disabledAt": "2026-11-09T22:37:22.635Z"
     },
     {
       "name": "deccanchronicle.com",
@@ -58,10 +58,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-01T06:31:00.623Z"
+      "disabledAt": "2026-11-09T22:37:22.635Z"
     },
     {
       "name": "livemint.com",
@@ -84,6 +84,16 @@
       "disabledAt": "2026-10-27T05:19:36.038Z"
     },
     {
+      "name": "memeburn.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 10,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
+      "disabledAt": null
+    },
+    {
       "name": "ndtv.com",
       "provider": "feed",
       "status": "disabled",
@@ -102,16 +112,6 @@
       "lastError": "HTTP 403 for https://ndtvprofit.com/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-02T06:31:18.443Z"
-    },
-    {
-      "name": "newindianexpress.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-09T06:56:58.616Z",
-      "disabledAt": null
     },
     {
       "name": "news18.com",
@@ -148,29 +148,29 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-10-31T06:00:54.239Z"
+      "disabledAt": "2026-11-09T22:37:22.635Z"
     },
     {
       "name": "tribuneindia.com",
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-02T21:51:24.502Z"
+      "disabledAt": "2026-11-09T22:37:22.635Z"
     },
     {
       "name": "AI research",
       "provider": "gdelt",
       "status": "ok",
-      "articlesFetched": 6,
+      "articlesFetched": 5,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T06:56:58.616Z",
+      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
       "disabledAt": null
     },
     {
@@ -200,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T06:56:58.616Z",
+      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
       "disabledAt": null
     },
     {
@@ -210,7 +210,7 @@
       "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T06:56:58.616Z",
+      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
       "disabledAt": null
     },
     {
@@ -220,7 +220,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T06:56:58.616Z",
+      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
       "disabledAt": null
     },
     {
@@ -230,17 +230,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T06:56:58.616Z",
+      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 22,
+      "articlesFetched": 34,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T06:56:58.616Z",
+      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
       "disabledAt": null
     },
     {
@@ -250,17 +250,18 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T06:56:58.616Z",
+      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:indianexpress.com: HTTP 403 for https://indianexpress.com/",
-    "feed:newsbytesapp.com: HTTP 403 for https://newsbytesapp.com/",
-    "feed:livemint.com: no usable feed found",
-    "briefing skipped for \"LG AI Research opens K-EXAONE 2.5 API fr\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"AI Shopping Statistics 2026 Across Buyer\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"RBA AI analysis : Interest rates could s\": This operation was aborted",
+    "feed:indiatoday.in: no usable feed found",
+    "feed:tribuneindia.com: no usable feed found",
+    "feed:timesofindia.indiatimes.com: no usable feed found",
+    "feed:aninews.in: HTTP 403 for https://aninews.in/",
+    "briefing skipped for \"AI Agents Can’t Talk\": This operation was aborted",
+    "briefing skipped for \"Apple’s New CEO Is Pushing Siri to Becom\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Howard Professor Danda B. Rawat Receives\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
