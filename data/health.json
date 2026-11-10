@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-10T07:33:31.296Z",
+  "runAt": "2026-11-10T19:54:29.566Z",
   "outcome": "success",
   "totals": {
-    "fetched": 183,
-    "afterFilter": 216,
-    "clusters": 161,
+    "fetched": 193,
+    "afterFilter": 100,
+    "clusters": 97,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-10",
-    "count": 6
+    "date": "2026-11-11",
+    "count": 3
   },
   "sources": [
     {
@@ -40,16 +40,16 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     },
     {
       "name": "digitaljournal.com",
       "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 10,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://digitaljournal.com/",
       "lastSuccessAt": "2026-11-10T07:33:31.296Z",
       "disabledAt": null
     },
@@ -62,6 +62,16 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-08T18:00:08.645Z"
+    },
+    {
+      "name": "en.people.cn",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "indianexpress.com",
@@ -144,6 +154,16 @@
       "disabledAt": "2026-11-09T06:56:58.616Z"
     },
     {
+      "name": "punchng.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
+      "disabledAt": null
+    },
+    {
       "name": "thehitavada.com",
       "provider": "feed",
       "status": "disabled",
@@ -180,7 +200,7 @@
       "articlesFetched": 6,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     },
     {
@@ -210,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     },
     {
@@ -220,7 +240,7 @@
       "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     },
     {
@@ -230,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     },
     {
@@ -240,7 +260,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     },
     {
@@ -250,7 +270,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     },
     {
@@ -260,14 +280,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "briefing skipped for \"Colorado, Wyoming researchers use AI to \": This operation was aborted",
-    "briefing skipped for \"Anthropic launches Claude Fable 5.2 and \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"European stocks may gain edge over US as\": This operation was aborted",
+    "feed:digitaljournal.com: HTTP 403 for https://digitaljournal.com/",
+    "feed:en.people.cn: no usable feed found",
+    "briefing skipped for \"Pfizer (PFE) Posts Phase 3 ELREXFIO Win \": This operation was aborted",
+    "briefing skipped for \"Air Force wants AI for cislunar space ve\": This operation was aborted",
+    "briefing skipped for \"PSI Details Data Center Revenue Behind I\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
