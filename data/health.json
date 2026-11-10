@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-09T22:37:22.635Z",
+  "runAt": "2026-11-10T07:33:31.296Z",
   "outcome": "success",
   "totals": {
-    "fetched": 156,
-    "afterFilter": 108,
-    "clusters": 101,
+    "fetched": 183,
+    "afterFilter": 216,
+    "clusters": 161,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-10",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -32,6 +32,26 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
+    },
+    {
+      "name": "devdiscourse.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "disabledAt": null
+    },
+    {
+      "name": "digitaljournal.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 10,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
+      "disabledAt": null
     },
     {
       "name": "economictimes.indiatimes.com",
@@ -82,16 +102,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-10-27T05:19:36.038Z"
-    },
-    {
-      "name": "memeburn.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 10,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
-      "disabledAt": null
     },
     {
       "name": "ndtv.com",
@@ -167,10 +177,10 @@
       "name": "AI research",
       "provider": "gdelt",
       "status": "ok",
-      "articlesFetched": 5,
+      "articlesFetched": 6,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
       "disabledAt": null
     },
     {
@@ -200,7 +210,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
       "disabledAt": null
     },
     {
@@ -210,7 +220,7 @@
       "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
       "disabledAt": null
     },
     {
@@ -220,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
       "disabledAt": null
     },
     {
@@ -230,17 +240,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 34,
+      "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
       "disabledAt": null
     },
     {
@@ -250,18 +260,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-09T22:37:22.635Z",
+      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:indiatoday.in: no usable feed found",
-    "feed:tribuneindia.com: no usable feed found",
-    "feed:timesofindia.indiatimes.com: no usable feed found",
-    "feed:aninews.in: HTTP 403 for https://aninews.in/",
-    "briefing skipped for \"AI Agents Can’t Talk\": This operation was aborted",
-    "briefing skipped for \"Apple’s New CEO Is Pushing Siri to Becom\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Howard Professor Danda B. Rawat Receives\": This operation was aborted",
+    "briefing skipped for \"Colorado, Wyoming researchers use AI to \": This operation was aborted",
+    "briefing skipped for \"Anthropic launches Claude Fable 5.2 and \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"European stocks may gain edge over US as\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
