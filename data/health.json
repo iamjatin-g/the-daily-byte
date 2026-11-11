@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-11T06:51:28.387Z",
-  "outcome": "partial",
+  "runAt": "2026-11-11T19:47:18.103Z",
+  "outcome": "success",
   "totals": {
-    "fetched": 168,
-    "afterFilter": 205,
-    "clusters": 148,
+    "fetched": 166,
+    "afterFilter": 108,
+    "clusters": 102,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-11",
-    "count": 6
+    "date": "2026-11-12",
+    "count": 3
   },
   "sources": [
     {
@@ -24,23 +24,13 @@
       "disabledAt": "2026-11-09T22:37:22.635Z"
     },
     {
-      "name": "business-standard.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://business-standard.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
       "name": "businesstoday.in",
       "provider": "feed",
       "status": "ok",
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
+      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
       "disabledAt": null
     },
     {
@@ -68,7 +58,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -78,7 +68,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -196,11 +186,11 @@
     {
       "name": "AI research",
       "provider": "gdelt",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
+      "status": "ok",
+      "articlesFetched": 4,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
       "disabledAt": null
     },
     {
@@ -230,7 +220,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
+      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
       "disabledAt": null
     },
     {
@@ -240,7 +230,7 @@
       "articlesFetched": 8,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
+      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
       "disabledAt": null
     },
     {
@@ -250,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
+      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
       "disabledAt": null
     },
     {
@@ -260,17 +250,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
+      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 34,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
+      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
       "disabledAt": null
     },
     {
@@ -280,18 +270,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
+      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:AI research: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
-    "feed:business-standard.com: HTTP 403 for https://business-standard.com/",
-    "feed:hindustantimes.com: no usable feed found",
     "feed:freepressjournal.in: no usable feed found",
-    "briefing skipped for \"OpenAI builds a kill switch for its rese\": This operation was aborted",
-    "briefing skipped for \"Where AI can aid chemistry research and \": This operation was aborted",
-    "briefing skipped for \"Machine Learning Optimizes Carbon Quantu\": This operation was aborted",
+    "feed:hindustantimes.com: no usable feed found",
+    "briefing skipped for \"Drug ads can influence AI treatment reco\": This operation was aborted",
+    "briefing skipped for \"Claude Posts Massive Month-Over-Month Tr\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Machine Learning Model Predicts Pediatri\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
