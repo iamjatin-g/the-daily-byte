@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-10T19:54:29.566Z",
-  "outcome": "success",
+  "runAt": "2026-11-11T06:51:28.387Z",
+  "outcome": "partial",
   "totals": {
-    "fetched": 193,
-    "afterFilter": 100,
-    "clusters": 97,
+    "fetched": 168,
+    "afterFilter": 205,
+    "clusters": 148,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-11",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -24,6 +24,26 @@
       "disabledAt": "2026-11-09T22:37:22.635Z"
     },
     {
+      "name": "business-standard.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://business-standard.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "businesstoday.in",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
+      "disabledAt": null
+    },
+    {
       "name": "deccanchronicle.com",
       "provider": "feed",
       "status": "disabled",
@@ -32,26 +52,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
-    },
-    {
-      "name": "devdiscourse.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
-      "disabledAt": null
-    },
-    {
-      "name": "digitaljournal.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://digitaljournal.com/",
-      "lastSuccessAt": "2026-11-10T07:33:31.296Z",
-      "disabledAt": null
     },
     {
       "name": "economictimes.indiatimes.com",
@@ -64,7 +64,17 @@
       "disabledAt": "2026-11-08T18:00:08.645Z"
     },
     {
-      "name": "en.people.cn",
+      "name": "freepressjournal.in",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "hindustantimes.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
@@ -154,16 +164,6 @@
       "disabledAt": "2026-11-09T06:56:58.616Z"
     },
     {
-      "name": "punchng.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
-      "disabledAt": null
-    },
-    {
       "name": "thehitavada.com",
       "provider": "feed",
       "status": "disabled",
@@ -196,10 +196,10 @@
     {
       "name": "AI research",
       "provider": "gdelt",
-      "status": "ok",
-      "articlesFetched": 6,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
       "lastSuccessAt": "2026-11-10T19:54:29.566Z",
       "disabledAt": null
     },
@@ -230,17 +230,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
+      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 7,
+      "articlesFetched": 8,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
+      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
+      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
+      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
       "disabledAt": null
     },
     {
@@ -270,7 +270,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
+      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
       "disabledAt": null
     },
     {
@@ -280,16 +280,18 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-10T19:54:29.566Z",
+      "lastSuccessAt": "2026-11-11T06:51:28.387Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:digitaljournal.com: HTTP 403 for https://digitaljournal.com/",
-    "feed:en.people.cn: no usable feed found",
-    "briefing skipped for \"Pfizer (PFE) Posts Phase 3 ELREXFIO Win \": This operation was aborted",
-    "briefing skipped for \"Air Force wants AI for cislunar space ve\": This operation was aborted",
-    "briefing skipped for \"PSI Details Data Center Revenue Behind I\": This operation was aborted",
+    "gdelt:AI research: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
+    "feed:business-standard.com: HTTP 403 for https://business-standard.com/",
+    "feed:hindustantimes.com: no usable feed found",
+    "feed:freepressjournal.in: no usable feed found",
+    "briefing skipped for \"OpenAI builds a kill switch for its rese\": This operation was aborted",
+    "briefing skipped for \"Where AI can aid chemistry research and \": This operation was aborted",
+    "briefing skipped for \"Machine Learning Optimizes Carbon Quantu\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
