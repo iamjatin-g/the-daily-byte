@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-12T07:28:29.334Z",
-  "outcome": "success",
+  "runAt": "2026-11-12T20:15:10.335Z",
+  "outcome": "partial",
   "totals": {
-    "fetched": 141,
-    "afterFilter": 200,
-    "clusters": 155,
+    "fetched": 144,
+    "afterFilter": 100,
+    "clusters": 98,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-12",
-    "count": 6
+    "date": "2026-11-13",
+    "count": 3
   },
   "sources": [
     {
@@ -44,7 +44,17 @@
       "disabledAt": "2026-11-08T18:00:08.645Z"
     },
     {
-      "name": "fool.com",
+      "name": "financialexpress.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://financialexpress.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "hindustantimes.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
@@ -166,10 +176,10 @@
     {
       "name": "AI research",
       "provider": "gdelt",
-      "status": "ok",
-      "articlesFetched": 5,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "fetch failed",
       "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     },
@@ -200,7 +210,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
+      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
       "disabledAt": null
     },
     {
@@ -210,7 +220,7 @@
       "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
+      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
       "disabledAt": null
     },
     {
@@ -220,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
+      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
       "disabledAt": null
     },
     {
@@ -230,17 +240,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
+      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 29,
+      "articlesFetched": 37,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
+      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
       "disabledAt": null
     },
     {
@@ -250,16 +260,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
+      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:fool.com: no usable feed found",
-    "feed:ndtv.com: HTTP 403 for https://ndtv.com/",
-    "briefing skipped for \"ByteDance prepares Muse - like agent in \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"He used AI to test if a weed could help \": This operation was aborted",
-    "briefing skipped for \"University presses pledge to keep people\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "gdelt:AI research: fetch failed",
+    "feed:hindustantimes.com: no usable feed found",
+    "feed:financialexpress.com: HTTP 403 for https://financialexpress.com/",
+    "briefing skipped for \"AI facial analysis offers new sickle cel\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"News | Construction firm opens AI resear\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Theoretical Limits of Language Model Ali\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
