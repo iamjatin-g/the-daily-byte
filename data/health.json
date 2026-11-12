@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-11T19:47:18.103Z",
+  "runAt": "2026-11-12T07:28:29.334Z",
   "outcome": "success",
   "totals": {
-    "fetched": 166,
-    "afterFilter": 108,
-    "clusters": 102,
+    "fetched": 141,
+    "afterFilter": 200,
+    "clusters": 155,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-12",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -22,16 +22,6 @@
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-09T22:37:22.635Z"
-    },
-    {
-      "name": "businesstoday.in",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
-      "disabledAt": null
     },
     {
       "name": "deccanchronicle.com",
@@ -54,21 +44,11 @@
       "disabledAt": "2026-11-08T18:00:08.645Z"
     },
     {
-      "name": "freepressjournal.in",
+      "name": "fool.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
-      "name": "hindustantimes.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 1,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -118,10 +98,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "lastError": "HTTP 403 for https://ndtv.com/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-04T19:57:12.518Z"
+      "disabledAt": "2026-11-12T07:28:29.334Z"
     },
     {
       "name": "ndtvprofit.com",
@@ -187,10 +167,10 @@
       "name": "AI research",
       "provider": "gdelt",
       "status": "ok",
-      "articlesFetched": 4,
+      "articlesFetched": 5,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
+      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     },
     {
@@ -220,17 +200,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
+      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 8,
+      "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
+      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     },
     {
@@ -240,7 +220,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
+      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     },
     {
@@ -250,17 +230,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
+      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 34,
+      "articlesFetched": 29,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
+      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     },
     {
@@ -270,16 +250,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-11T19:47:18.103Z",
+      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:freepressjournal.in: no usable feed found",
-    "feed:hindustantimes.com: no usable feed found",
-    "briefing skipped for \"Drug ads can influence AI treatment reco\": This operation was aborted",
-    "briefing skipped for \"Claude Posts Massive Month-Over-Month Tr\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Machine Learning Model Predicts Pediatri\": This operation was aborted",
+    "feed:fool.com: no usable feed found",
+    "feed:ndtv.com: HTTP 403 for https://ndtv.com/",
+    "briefing skipped for \"ByteDance prepares Muse - like agent in \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"He used AI to test if a weed could help \": This operation was aborted",
+    "briefing skipped for \"University presses pledge to keep people\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
