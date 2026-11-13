@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-12T20:15:10.335Z",
+  "runAt": "2026-11-13T06:59:38.495Z",
   "outcome": "partial",
   "totals": {
-    "fetched": 144,
-    "afterFilter": 100,
-    "clusters": 98,
+    "fetched": 146,
+    "afterFilter": 191,
+    "clusters": 138,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-13",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -44,21 +44,11 @@
       "disabledAt": "2026-11-08T18:00:08.645Z"
     },
     {
-      "name": "financialexpress.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://financialexpress.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
-    },
-    {
       "name": "hindustantimes.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -154,6 +144,16 @@
       "disabledAt": "2026-11-07T17:49:14.539Z"
     },
     {
+      "name": "timesnownews.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
       "name": "timesofindia.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -178,8 +178,8 @@
       "provider": "gdelt",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "fetch failed",
+      "consecutiveFailures": 2,
+      "lastError": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
       "lastSuccessAt": "2026-11-12T07:28:29.334Z",
       "disabledAt": null
     },
@@ -210,7 +210,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
+      "lastSuccessAt": "2026-11-13T06:59:38.495Z",
       "disabledAt": null
     },
     {
@@ -220,7 +220,7 @@
       "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
+      "lastSuccessAt": "2026-11-13T06:59:38.495Z",
       "disabledAt": null
     },
     {
@@ -230,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
+      "lastSuccessAt": "2026-11-13T06:59:38.495Z",
       "disabledAt": null
     },
     {
@@ -240,17 +240,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
+      "lastSuccessAt": "2026-11-13T06:59:38.495Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 37,
+      "articlesFetched": 39,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
+      "lastSuccessAt": "2026-11-13T06:59:38.495Z",
       "disabledAt": null
     },
     {
@@ -260,17 +260,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-12T20:15:10.335Z",
+      "lastSuccessAt": "2026-11-13T06:59:38.495Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:AI research: fetch failed",
+    "gdelt:AI research: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
+    "feed:timesnownews.com: no usable feed found",
     "feed:hindustantimes.com: no usable feed found",
-    "feed:financialexpress.com: HTTP 403 for https://financialexpress.com/",
-    "briefing skipped for \"AI facial analysis offers new sickle cel\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"News | Construction firm opens AI resear\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Theoretical Limits of Language Model Ali\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Junk LLM obsession and use AI to better \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Machine Learning and Molecular Modeling \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Machine Learning Model Predicts Long-Ter\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
