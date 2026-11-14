@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-14T06:48:53.065Z",
+  "runAt": "2026-11-14T18:23:11.094Z",
   "outcome": "success",
   "totals": {
     "fetched": 134,
-    "afterFilter": 176,
-    "clusters": 118,
+    "afterFilter": 183,
+    "clusters": 157,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-14",
-    "count": 6
+    "count": 9
   },
   "sources": [
     {
@@ -118,10 +118,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "HTTP 403 for https://news18.com/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-07T17:49:14.539Z"
+      "disabledAt": "2026-11-14T18:23:11.094Z"
     },
     {
       "name": "newsbytesapp.com",
@@ -200,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T06:48:53.065Z",
+      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     },
     {
@@ -210,7 +210,7 @@
       "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T06:48:53.065Z",
+      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     },
     {
@@ -220,7 +220,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T06:48:53.065Z",
+      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     },
     {
@@ -230,7 +230,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T06:48:53.065Z",
+      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     },
     {
@@ -240,7 +240,7 @@
       "articlesFetched": 27,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T06:48:53.065Z",
+      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     },
     {
@@ -250,15 +250,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T06:48:53.065Z",
+      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:lokmattimes.com: no usable feed found",
-    "briefing skipped for \"MicroRNA Machine Learning Outperforms St\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"LLMs Show Distinct Risk Preferences in A\": This operation was aborted",
-    "briefing skipped for \"ESP32 Flight Tracker On Apple CRT\": This operation was aborted",
+    "feed:news18.com: HTTP 403 for https://news18.com/",
+    "briefing skipped for \"AWS Releases SGLang-Neuron for Deploying\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Data Modality Determines Machine Learnin\": This operation was aborted",
+    "briefing skipped for \"DeepSeek V3 Architecture Rebuilt in 190 \": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
