@@ -1,456 +1,404 @@
 {
-  "generatedAt": "2026-11-14T18:23:11.094Z",
+  "generatedAt": "2026-11-15T06:52:55.341Z",
   "lead": {
-    "id": "097a85ef66e7bdd5",
-    "headline": "AWS Releases SGLang-Neuron for Deploying Frontier AI Models on Trainium",
-    "category": "models",
-    "publishedAt": "2026-11-14T17:58:29.000Z",
-    "score": 0.5599,
-    "publisherCount": 2,
+    "id": "1df14fb3014ea44c",
+    "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+    "category": "general",
+    "publishedAt": "2026-11-14T09:45:04.000Z",
+    "score": 0.4427,
+    "publisherCount": 3,
     "featured": true,
     "lead": true,
     "articles": [
       {
-        "id": "8a08da1a89c10d1a",
-        "headline": "AWS Releases SGLang-Neuron for Deploying Frontier AI Models on Trainium",
-        "source": "CASRAI",
-        "domain": "unknown-casrai",
-        "category": "models",
-        "publishedAt": "2026-11-14T17:58:29.000Z",
+        "id": "bf936f4a9795e415",
+        "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+        "source": "News18",
+        "domain": "news18.com",
+        "category": "general",
+        "publishedAt": "2026-11-14T09:45:04.000Z",
         "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GRjVQOEdka3U1ejRlUDQyTFpBNVoxWHNFb0k4SmR6ZG9QV3l2M3JFYVQwRFNxcHNEQjJFN3RVMVhDbEtBQUg1ZHlQSHlrUzZVQ1Y5c0ZJX09QZFlZYUFLdHp6YmkyZldlOGZCOUR3NXVSSWFRMDQ4OA?oc=5",
-        "provider": "google-news"
+        "imageUrl": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+        "url": "https://news18.com/agency-feeds/stockedge-introduces-ai-powered-insights-to-simplify-stock-research-10425600.html",
+        "provider": "gnews"
       },
       {
-        "id": "a993f88db49237de",
-        "headline": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-        "source": "Amazon Web Services (AWS)",
-        "domain": "unknown-amazon-web-services-aws",
+        "id": "d10e69bebbe86ad7",
+        "headline": "Powered Insights to Simplify Stock Research",
+        "source": "The Tribune",
+        "domain": "tribuneindia.com",
         "category": "general",
-        "publishedAt": "2026-11-12T22:03:34.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjFTcmNRZ0JjbE8yRkwwSUtpOS1GTVZfS21UYjFBd2hJOHVkOG9kMVQyQzBpbVBaMzdxYXpaT0lncG4zWl9ydHRzOEQ5d0ZDVWFpM29oV0dueG03ZjJPaXRabWtjeUVCdkIwZHd3c0t5anFnUjdITldWUGFsMlFJbE9uczIyRVk2UFM4dk4zbWJ6WkhWMWdkZEs3MjJSZXFadkdCU2pEelNQOUE?oc=5",
-        "provider": "google-news"
+        "publishedAt": "2026-11-14T09:32:43.000Z",
+        "snippet": "New Delhi [India], November 14: StockEdge, one of India’s leading equity research and analytics platforms, is addressing this gap with StockEdge AI, a new AI-powered research feature designed to…",
+        "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTViYzJjMGQwLWUwMGUtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+        "url": "https://tribuneindia.com/news/business/stockedge-introduces-ai-powered-insights-to-simplify-stock-research",
+        "provider": "gnews"
+      },
+      {
+        "id": "65d3c5ebd53fcce0",
+        "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+        "source": "ANI (Asian News International)",
+        "domain": "aninews.in",
+        "category": "general",
+        "publishedAt": "2026-11-14T09:21:39.000Z",
+        "snippet": "New Delhi [India], November 14: StockEdge, one of India’s leading equity research and analytics platforms, is addressing this gap with StockEdge AI, a new AI-powered research feature designed to…",
+        "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261114092120-thumbnail-320x180-70.jpg",
+        "url": "https://aninews.in/news/business/stockedge-introduces-ai-powered-insights-to-simplify-stock-research20261114145139",
+        "provider": "gnews"
       }
     ],
     "briefing": null
   },
   "featured": [
     {
-      "id": "097a85ef66e7bdd5",
-      "headline": "AWS Releases SGLang-Neuron for Deploying Frontier AI Models on Trainium",
-      "category": "models",
-      "publishedAt": "2026-11-14T17:58:29.000Z",
-      "score": 0.5599,
-      "publisherCount": 2,
+      "id": "1df14fb3014ea44c",
+      "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+      "category": "general",
+      "publishedAt": "2026-11-14T09:45:04.000Z",
+      "score": 0.4427,
+      "publisherCount": 3,
       "featured": true,
       "lead": true,
       "articles": [
         {
-          "id": "8a08da1a89c10d1a",
-          "headline": "AWS Releases SGLang-Neuron for Deploying Frontier AI Models on Trainium",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
-          "category": "models",
-          "publishedAt": "2026-11-14T17:58:29.000Z",
+          "id": "bf936f4a9795e415",
+          "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+          "source": "News18",
+          "domain": "news18.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T09:45:04.000Z",
           "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GRjVQOEdka3U1ejRlUDQyTFpBNVoxWHNFb0k4SmR6ZG9QV3l2M3JFYVQwRFNxcHNEQjJFN3RVMVhDbEtBQUg1ZHlQSHlrUzZVQ1Y5c0ZJX09QZFlZYUFLdHp6YmkyZldlOGZCOUR3NXVSSWFRMDQ4OA?oc=5",
-          "provider": "google-news"
+          "imageUrl": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+          "url": "https://news18.com/agency-feeds/stockedge-introduces-ai-powered-insights-to-simplify-stock-research-10425600.html",
+          "provider": "gnews"
         },
         {
-          "id": "a993f88db49237de",
-          "headline": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-          "source": "Amazon Web Services (AWS)",
-          "domain": "unknown-amazon-web-services-aws",
+          "id": "d10e69bebbe86ad7",
+          "headline": "Powered Insights to Simplify Stock Research",
+          "source": "The Tribune",
+          "domain": "tribuneindia.com",
           "category": "general",
-          "publishedAt": "2026-11-12T22:03:34.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjFTcmNRZ0JjbE8yRkwwSUtpOS1GTVZfS21UYjFBd2hJOHVkOG9kMVQyQzBpbVBaMzdxYXpaT0lncG4zWl9ydHRzOEQ5d0ZDVWFpM29oV0dueG03ZjJPaXRabWtjeUVCdkIwZHd3c0t5anFnUjdITldWUGFsMlFJbE9uczIyRVk2UFM4dk4zbWJ6WkhWMWdkZEs3MjJSZXFadkdCU2pEelNQOUE?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9218a2a5951d9b5b",
-      "headline": "Data Modality Determines Machine Learning and Deep Learning Success in Breast Cancer Prediction",
-      "category": "general",
-      "publishedAt": "2026-11-14T18:10:10.000Z",
-      "score": 0.4797,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
+          "publishedAt": "2026-11-14T09:32:43.000Z",
+          "snippet": "New Delhi [India], November 14: StockEdge, one of India’s leading equity research and analytics platforms, is addressing this gap with StockEdge AI, a new AI-powered research feature designed to…",
+          "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTViYzJjMGQwLWUwMGUtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+          "url": "https://tribuneindia.com/news/business/stockedge-introduces-ai-powered-insights-to-simplify-stock-research",
+          "provider": "gnews"
+        },
         {
-          "id": "c45217c61576a01c",
-          "headline": "Data Modality Determines Machine Learning and Deep Learning Success in Breast Cancer Prediction",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
+          "id": "65d3c5ebd53fcce0",
+          "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+          "source": "ANI (Asian News International)",
+          "domain": "aninews.in",
           "category": "general",
-          "publishedAt": "2026-11-14T18:10:10.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzNfd0c2bC1mQVhsNzBFMUI3VW5kUVBjZEQ4STR4ZU5oSm5hVUU2Q2Q3b01jNzJRZVpZZUp6aF9NSDl5M085UE1ITm8wY1VYbTI5MDg2THZOd2RDdjJEOUFsZFQySjZYZFp4dWduXzBXalU3cEFSLUVRejVUcTNSbnBWeXBtR0tIa1diRFRVSVZFUEVtNlN3VGtHY09zZDBjbmF1UVJkYzJST19xMFhLZThiX0lWZjlOUEdNbg?oc=5",
-          "provider": "google-news"
+          "publishedAt": "2026-11-14T09:21:39.000Z",
+          "snippet": "New Delhi [India], November 14: StockEdge, one of India’s leading equity research and analytics platforms, is addressing this gap with StockEdge AI, a new AI-powered research feature designed to…",
+          "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261114092120-thumbnail-320x180-70.jpg",
+          "url": "https://aninews.in/news/business/stockedge-introduces-ai-powered-insights-to-simplify-stock-research20261114145139",
+          "provider": "gnews"
         }
       ],
       "briefing": null
     },
     {
-      "id": "b7fc2c82732376f3",
-      "headline": "DeepSeek V3 Architecture Rebuilt in 190 Lines of Pure JAX",
-      "category": "general",
-      "publishedAt": "2026-11-14T18:02:57.000Z",
-      "score": 0.4778,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "526fa47fc121833e",
-          "headline": "DeepSeek V3 Architecture Rebuilt in 190 Lines of Pure JAX",
-          "source": "news.lavx.hu",
-          "domain": "unknown-news-lavx-hu",
-          "category": "general",
-          "publishedAt": "2026-11-14T18:02:57.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1NoZUNUeGl1UWtheFVUTl9XVDYxeWpUN0RtTVJPbFdJSE10NVBTVTFZNXFFdXdTaTRHbWVMYUY3UnNueER5emJzRVFOR0JQYVVYUUdaZFJBNWt1T1BaTkozYjktaklhSGFhLXVscmcycTF4dklXYm0tX3lJUGlRekpZaExfcmJRXzFoV1BYRQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "2c585b3b7f5d5685",
-      "headline": "Make money doing the work you believe in",
-      "category": "general",
-      "publishedAt": "2026-11-14T17:33:36.000Z",
-      "score": 0.4699,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "1f28c3a01b918a94",
-          "headline": "Make money doing the work you believe in",
-          "source": "Substack",
-          "domain": "unknown-substack",
-          "category": "general",
-          "publishedAt": "2026-11-14T17:33:36.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LWW5id0liRFJFMXR5eU92cGhzQlJ1SHhOR3VQQW9maVFRb0IxMzlYa2NVdk1GdEViVGVESXc4a0tRSFIxSkhwTTZYbU11UDVjU19tQnVEZk1qZUliS21FMA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "e7342ec84d12fbb3",
-      "headline": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
-      "category": "models",
-      "publishedAt": "2026-11-14T16:45:48.000Z",
-      "score": 0.4575,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "ea1b13b615689296",
-          "headline": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
-          "source": "MarkTechPost",
-          "domain": "unknown-marktechpost",
-          "category": "models",
-          "publishedAt": "2026-11-14T16:45:48.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3FLaENtaU9WNDY3bG1kclh3N0lHNWZCQnFLcnhaUU1VUVZjZlQxUHhmZ1hITF9EeENiUGwtRmpCSXhDbTI3djJOdU45SEJoNzdtaVB2ZEhtTlNIV29fWXY2SF9fNnF1MVFGVnJxY0ZTcXllZ2ZlZVdoSzZCaGwtMEppTkFZV0nSAYcBQVVfeXFMT29xS2hDbWlPVjQ2N2xtZHJYdzdJRzVmQkJxS3J4WlFNVVFWY2ZUMVB4ZmdYSExfRHhDYlBsLUZqQkl4Q20yN3YyTnVOOUhCaDc3bWlQdmRIbU5TSFdvX1l2NkhfXzZxdTFRRlZycWNGU3F5ZWdmZWVXaEs2QmhsLTBKaU5BWVdJ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "af4bb5751e4faa6b",
-      "headline": "Craig Shapiro: Wall Street research examines AI unwind and funding outlook after midterms",
+      "id": "afc4bcf4725d0ccd",
+      "headline": "Global economy to grow 2.8% in 2027 as energy prices ease: Goldman Sachs",
       "category": "industry",
-      "publishedAt": "2026-11-14T16:05:16.000Z",
-      "score": 0.4474,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d4f779ff25b5e871",
-          "headline": "Craig Shapiro: Wall Street research examines AI unwind and funding outlook after midterms",
-          "source": "Traders Union",
-          "domain": "unknown-traders-union",
-          "category": "industry",
-          "publishedAt": "2026-11-14T16:05:16.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONnFFLUxSMkcxUW84UGlQbUNHTmpYUWtyLWxsdW9CMGpENlJfUEhjZkVndkRBQkFXMmlzXzIyTWo0R0U3R202YklfMS1mNUlPZERtZVZUTld3a0Z1STQ4bzFwbEhKZVgxUjF1Z3d5QjBPdHVqcTl1dFNDU1pjai1KSmlEOVJiejQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3d813ca1d82de52c",
-      "headline": "Banned Blackwell Chips Tied to Kimi K3, DeepSeek V4: 4 Gaps",
-      "category": "policy",
-      "publishedAt": "2026-11-14T14:48:45.000Z",
-      "score": 0.4293,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "7a602ef3c20cc8cf",
-          "headline": "Banned Blackwell Chips Tied to Kimi K3, DeepSeek V4: 4 Gaps",
-          "source": "shattered.io",
-          "domain": "unknown-shattered-io",
-          "category": "policy",
-          "publishedAt": "2026-11-14T14:48:45.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmJaM1Q4UmxCbnlpNkJQUDN1aVBnVGRma09teGJMU0dnODdQMUV1UVNPUmJialV4WjBILVdRMERfTHF3WURPcDFkdUNXM3RlNDlzVUViWEFHcVlXTEk1Z1U0R3ptWmk0c1pxOG1KVUZnWS1RT1d3ODRFLWJvV2ZKX2lWbEdLZUozWGRj?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d8499b7f4a00c6d7",
-      "headline": "Gigabyte Revenue Up 63.2% on AI Servers, 2027 Eyed",
-      "category": "industry",
-      "publishedAt": "2026-11-14T12:44:24.000Z",
-      "score": 0.4026,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "9ef7618861056b26",
-          "headline": "Gigabyte Revenue Up 63.2% on AI Servers, 2027 Eyed",
-          "source": "shattered.io",
-          "domain": "unknown-shattered-io",
-          "category": "industry",
-          "publishedAt": "2026-11-14T12:44:24.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFBrNjZEeTF5Wkpjb2pxYmx0M3RNaVVucGZ3bTdrZkdJdWxkZE1aa08xcGRMdnlRQkJ3a3IyMDZGSVEtdWdNemlWaXdseG5icU0xMWFXeHdnd3N6YlB5Y1EwZlJnTkRxbjlWNDFDVExjT3RIaGJ5aTU1UWoyRjR2d0gwREpoUlhhaDZfbHh3?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "038b5e24dfe25cf1",
-      "headline": "Hackers Use Stolen LLM API Keys to Power ARTEX AI Agents and Continue Credential Theft",
-      "category": "models",
-      "publishedAt": "2026-11-14T12:20:26.000Z",
-      "score": 0.3977,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "8c3644310c3aead8",
-          "headline": "Hackers Use Stolen LLM API Keys to Power ARTEX AI Agents and Continue Credential Theft",
-          "source": "GBHackers News",
-          "domain": "unknown-gbhackers-news",
-          "category": "models",
-          "publishedAt": "2026-11-14T12:20:26.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YNHpoa2xFWVAwRnJZT1JyOEJhempwNjlOMDlmU0o5NjkycWw3dkhBU1daaUZsVzFiWDJpZHpDeTlIalJqMmpRdFZ2dGNyVlVvbVJoS19DWWNoVHk4QmN6LXB3NzA2WjhmWHRr0gFwQVVfeXFMTUdXWmlFdHNJV21xMHJPY1g0RFdrSlUxUDY3S1JzendGenoxdnJDajhxczRzQlVYREJqWnRjZVlYT0dMb21aMzVFbENOU3g3elN6aTdpMWZablM3YmdvUV9KcExBbnNibEtmaXJMQy1ZYg?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "ceeb0dee9d0ae98e",
-      "headline": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-      "category": "research",
-      "publishedAt": "2026-11-14T11:45:17.000Z",
-      "score": 0.3909,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "3f8a5bc2be5caea0",
-          "headline": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-          "source": "The Decoder",
-          "domain": "unknown-the-decoder",
-          "category": "research",
-          "publishedAt": "2026-11-14T11:45:17.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0RCaDFRSml1TkxBN09Ed3pkZDhDNDAzYThkdktlU3lVMy1IblZSb0dyRkw2TjNCTFF0c0dha25JdlZNNzh1OWlrTzI5T2dOUEtGSHdWNDVMTlMyZm5BS3lGQXNtTnN3Wm82OUtMOGVHX2FsOUhBZHRGQlVKQXJrMTZtM2xHTWQ2VmVnRlhhd0RTamJiWEZabWc1TVFZTk1ieDdDQ3ZxTmxJVy1kczNnUWM0UVpEVVFZWmgtM1RhVXpyMGdKN0ZpY3I4SzZIR0RJd2JMdmY5S1Q2VTFYTFVTUG1zcmE?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "698871b865c64761",
-      "headline": "The Mathematics of AI Safety",
-      "category": "policy",
-      "publishedAt": "2026-11-13T21:08:36.000Z",
-      "score": 0.3588,
+      "publishedAt": "2026-11-14T10:52:26.000Z",
+      "score": 0.3654,
       "publisherCount": 2,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "fb37e607a532ceb6",
-          "headline": "The Mathematics of AI Safety",
-          "source": "Georgia Institute of Technology",
-          "domain": "unknown-georgia-institute-of-technology",
-          "category": "policy",
-          "publishedAt": "2026-11-13T21:08:36.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmUXBjaHZib1l3RHU2bTRiNHhKQjJSOXFqWlVZLXY2U0lhNnd3NkNudUdZLXI0NEJGM29rVFpVSmNESlFZV0tKLTJlNmpIcy1xeTVpWlRVN1FPYk1KZ1JpcmRXekJVWXpZU096NFdlVnJTTWc?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "50ebf985378f2f18",
-          "headline": "The Mathematics of AI Safety | Newswise",
-          "source": "Newswise",
-          "domain": "unknown-newswise",
-          "category": "policy",
-          "publishedAt": "2026-11-13T15:57:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjBJUThkNGZCeDRwcTBXMDJlVjRuVThhYlBaUGJyMW9JcVNuMDA0LTRHb0IyLXNPcmR0bEVqeXBEU29PMWpudXFWLVRiY1doQnYxWUM4Z1pmc3BVRHZKTDNiX2JhbUV4blhGWXM4OU5BOHBuYzR1MmpEZFBjRjI3aWVEVjh3YWlS0gGIAUFVX3lxTE9aMElROGQ0ZkJ4NHBxMFcwMmVWNG5VOGFiUFpQYnIxb0lxU24wMDQtNEdvQjItc09yZHRsRWp5cERTb08xam51cVYtVGJjV2hCdjFZQzhnWmZzcFVEdkpMM2JfYmFtRXhuWEZZczg5TkE4cG5jNHUyakRkUGNGMjdpZURWOHdhaVI?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "933c823ffb51ffe6",
-      "headline": "ITU announces funding for educational AI research",
-      "category": "industry",
-      "publishedAt": "2026-11-14T07:38:36.000Z",
-      "score": 0.3485,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "3f8dbc2300172679",
-          "headline": "ITU announces funding for educational AI research",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
+          "id": "3e26fd542f422dd4",
+          "headline": "Global economy to grow 2.8% in 2027 as energy prices ease: Goldman Sachs",
+          "source": "The Tribune",
+          "domain": "tribuneindia.com",
           "category": "industry",
-          "publishedAt": "2026-11-14T07:38:36.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yOHFBRzBuU2ZQS3BRSFJKYnplVUM4S0VsaUktYkJjQnY4MzlmNkR2R0RPS0FPZ21kdEJ0NWZocTlWWHRzUTltbnNQYTNiSUlqMHdqcEx0d2k1UWFrYURrYVRvS2gzSG9EdTFWSG5KY0RPa1kyMzRhdW5KYw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "af365643aea1faf7",
-      "headline": "Drug Ads Can Influence AI Treatment Recommendations, Study Finds",
-      "category": "research",
-      "publishedAt": "2026-11-13T16:47:51.000Z",
-      "score": 0.3391,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "bd00d4b2f4e07eb3",
-          "headline": "Drug Ads Can Influence AI Treatment Recommendations, Study Finds",
-          "source": "Mount Sinai",
-          "domain": "unknown-mount-sinai",
-          "category": "research",
-          "publishedAt": "2026-11-13T16:47:51.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0JYNGE1QWlwMmNGZzllUU4xc1MwR1I0NzV0SDFzNTQwakx0ZWxBY1hNdkpTbjN2eUdOSFhqYWoxa0tHdjJrODVfa2dRYjhxMTdnanpENTRhRWJZV1JGcnRFdG5NUURoVGJ1My1DSHNUbEV2d1FqSHF5VE90TDBpcVI4dEFqcGF5QVo5SGFNUjYxU0IxVjRteFJxbzk3ZUJUM3k1LVk0ZEVMSmF5R1JF?oc=5",
-          "provider": "google-news"
+          "publishedAt": "2026-11-14T10:52:26.000Z",
+          "snippet": "The global economy is expected to grow by 2.8 per cent in 2027, slightly higher than the projected 2.7 per cent growth in 2026, as easing energy prices and continued investment in artificial…",
+          "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdlODY5NzMwLWUwMTktMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+          "url": "https://tribuneindia.com/news/business/global-economy-to-grow-2-8-in-2027-as-energy-prices-ease-goldman-sachs",
+          "provider": "gnews"
         },
         {
-          "id": "e8bddea68a3d2ad7",
-          "headline": "Drug ads can influence AI treatment recommendations, study finds",
-          "source": "ConsumerAffairs",
-          "domain": "unknown-consumeraffairs",
-          "category": "research",
-          "publishedAt": "2026-11-13T13:05:41.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHFBOEljWnExeUFwRHVLaFBmRjJRaUlkQ05rZ1VnaXRFOFQ3MmhLZXlUeHdSOTktVU1MblBMVk1MaktybXIybEdBTFVOMkhmRmdoaFZiZXp1Y09YN1ZkUTcxcG1iNU90NEJRdFNrekZuTDlxNUJackJFdzltTTBZR25uRmhPaGdTOWQ1U1JIQ1plaDFYWGlSbGR1OWlPNzRLUE1aWWdWYzcwb1pfcHpDSEZ3?oc=5",
-          "provider": "google-news"
+          "id": "37d83d051d0d4b04",
+          "headline": "Global economy to grow 2.8% in 2027 as energy prices ease: Goldman Sachs",
+          "source": "ANI (Asian News International)",
+          "domain": "aninews.in",
+          "category": "industry",
+          "publishedAt": "2026-11-14T10:51:15.000Z",
+          "snippet": "The global economy is expected to grow by 2.8 per cent in 2027, slightly higher than the projected 2.7 per cent growth in 2026, as easing energy prices and continued investment in artificial…",
+          "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261114103852-thumbnail-320x180-70.jpg",
+          "url": "https://aninews.in/news/business/global-economy-to-grow-28-in-2027-as-energy-prices-ease-goldman-sachs20261114162115",
+          "provider": "gnews"
         }
       ],
       "briefing": null
     },
     {
-      "id": "7dc689e62cb5b222",
-      "headline": "Researchers trial AI coach for diabetes",
-      "category": "research",
-      "publishedAt": "2026-11-14T03:20:01.000Z",
-      "score": 0.3133,
+      "id": "5f646bdea3dee7b8",
+      "headline": "Sunday Special: AI, EVs expand India’s PhD frontiers",
+      "category": "general",
+      "publishedAt": "2026-11-14T18:43:00.000Z",
+      "score": 0.3359,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "5a8c68abde27a3ce",
-          "headline": "Researchers trial AI coach for diabetes",
-          "source": "Medical Xpress",
-          "domain": "unknown-medical-xpress",
-          "category": "research",
-          "publishedAt": "2026-11-14T03:20:01.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybmlQY1BpRXRNenhNQVA5SWZvNVdCTkdKcjZPTGlwX3pGRDRoMng4MDBGN05wa0cxNS1MRG9hbmgwY05zdzZTZVdSVFlJMTBvWlFFM09YeFlsbng2NG4tajBGN1lLRm9lNjNPTlpR?oc=5",
-          "provider": "google-news"
+          "id": "7e0726a3d1e85ded",
+          "headline": "Sunday Special: AI, EVs expand India’s PhD frontiers",
+          "source": "Times of India",
+          "domain": "timesofindia.indiatimes.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T18:43:00.000Z",
+          "snippet": "India’s PhD output is rising fast: Shodhganga uploads hit 43,281 theses in 2025, with growing research in AI, EVs, nanotech and renewables.",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-135841105,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "url": "https://timesofindia.indiatimes.com/city/ahmedabad/sunday-special-ai-evs-expand-indias-phd-frontiers/articleshow/135841113.cms",
+          "provider": "gnews"
         }
       ],
       "briefing": null
     },
     {
-      "id": "9e6cd87ff3923b8b",
-      "headline": "Govt approves regulations on creation of Ukrainian dataset for training language models",
-      "category": "policy",
-      "publishedAt": "2026-11-13T18:56:46.000Z",
-      "score": 0.2649,
+      "id": "d37a1ac463dc99cc",
+      "headline": "eShe Summit 2026: Women filmmakers must control their own narratives, say Shazia Iqbal, Anam Abbas and Sulochana Peiris",
+      "category": "general",
+      "publishedAt": "2026-11-14T14:40:08.000Z",
+      "score": 0.3052,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "5cc8172b6aebb7e8",
-          "headline": "Govt approves regulations on creation of Ukrainian dataset for training language models",
-          "source": "Interfax-Ukraine",
-          "domain": "unknown-interfax-ukraine",
-          "category": "policy",
-          "publishedAt": "2026-11-13T18:56:46.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGNycENueTR1LVJIME5PejB0cFJmZFJLamdRNFFQUWlZS19rZzJSYklKSU53U2xhMVg5Q0ZYX3UxdjhDVVQyeUtnVG5YNmpoUklhRmp3bWRoZFBwZ1VCSzdBNnFPNHfSAWdBVV95cUxPd1RjcnBDbnk0dS1SSDBOT3owdHBSZmRSS2pnUTRRUFFpWUtfa2cyUmJJSklOd1NsYTFYOUNGWF91MXY4Q1VUMnlLZ1RuWDZqaFJJYUZqd21kaGRQcGdVQks3QTZxTzR3?oc=5",
-          "provider": "google-news"
+          "id": "fe9cb40c327d0d07",
+          "headline": "eShe Summit 2026: Women filmmakers must control their own narratives, say Shazia Iqbal, Anam Abbas and Sulochana Peiris",
+          "source": "Firstpost",
+          "domain": "firstpost.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T14:40:08.000Z",
+          "snippet": "At the eShe South Asia Union Summit 2026, filmmakers Shazia Iqbal, Anam Abbas and Sulochana Peiris spoke about how personal experiences shaped their politics, the importance of research and…",
+          "imageUrl": "https://images.firstpost.com/uploads/2026/11/Shazia-Iqbal-Anam-Abbas-and-Sulochana-Peiris-on-on-women-controlling-the-frame-in-cinema-2026-11-b9c1b35a7f2a86af009c59c5105f7430-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+          "url": "https://firstpost.com/lifestyle/eshe-summit-2026-women-filmmakers-must-control-their-own-narratives-say-shazia-iqbal-anam-abbas-and-sulochana-peiris-14060014.html",
+          "provider": "gnews"
         }
       ],
       "briefing": null
     }
   ],
   "latest": [
+    {
+      "id": "5f646bdea3dee7b8",
+      "headline": "Sunday Special: AI, EVs expand India’s PhD frontiers",
+      "category": "general",
+      "publishedAt": "2026-11-14T18:43:00.000Z",
+      "score": 0.3359,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "7e0726a3d1e85ded",
+          "headline": "Sunday Special: AI, EVs expand India’s PhD frontiers",
+          "source": "Times of India",
+          "domain": "timesofindia.indiatimes.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T18:43:00.000Z",
+          "snippet": "India’s PhD output is rising fast: Shodhganga uploads hit 43,281 theses in 2025, with growing research in AI, EVs, nanotech and renewables.",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-135841105,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "url": "https://timesofindia.indiatimes.com/city/ahmedabad/sunday-special-ai-evs-expand-indias-phd-frontiers/articleshow/135841113.cms",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d37a1ac463dc99cc",
+      "headline": "eShe Summit 2026: Women filmmakers must control their own narratives, say Shazia Iqbal, Anam Abbas and Sulochana Peiris",
+      "category": "general",
+      "publishedAt": "2026-11-14T14:40:08.000Z",
+      "score": 0.3052,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "fe9cb40c327d0d07",
+          "headline": "eShe Summit 2026: Women filmmakers must control their own narratives, say Shazia Iqbal, Anam Abbas and Sulochana Peiris",
+          "source": "Firstpost",
+          "domain": "firstpost.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T14:40:08.000Z",
+          "snippet": "At the eShe South Asia Union Summit 2026, filmmakers Shazia Iqbal, Anam Abbas and Sulochana Peiris spoke about how personal experiences shaped their politics, the importance of research and…",
+          "imageUrl": "https://images.firstpost.com/uploads/2026/11/Shazia-Iqbal-Anam-Abbas-and-Sulochana-Peiris-on-on-women-controlling-the-frame-in-cinema-2026-11-b9c1b35a7f2a86af009c59c5105f7430-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+          "url": "https://firstpost.com/lifestyle/eshe-summit-2026-women-filmmakers-must-control-their-own-narratives-say-shazia-iqbal-anam-abbas-and-sulochana-peiris-14060014.html",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "86206aa03172e0b6",
+      "headline": "John Langford departs Microsoft after AI restructuring limits research",
+      "category": "general",
+      "publishedAt": "2026-11-14T14:34:42.000Z",
+      "score": 0.3046,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "2a9a188bd76e76fd",
+          "headline": "John Langford departs Microsoft after AI restructuring limits research",
+          "source": "NewsBytes",
+          "domain": "newsbytesapp.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T14:34:42.000Z",
+          "snippet": "John Langford, a renowned computer scientist, led Microsoft's AI Frontiers before leaving due to restructuring that limited his team's research scope.",
+          "imageUrl": "https://i.cdn.newsbytesapp.com/images/l144_27381794666820.jpg",
+          "url": "https://newsbytesapp.com/news/science/john-langford-departs-microsoft-after-ai-restructuring-limits-research/tldr",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "52e98b7798b2890f",
+      "headline": "Who is John Langford? Meet the mind behind AI Frontiers who quit after Microsoft's restructuring",
+      "category": "general",
+      "publishedAt": "2026-11-14T14:22:11.000Z",
+      "score": 0.3032,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4e7a8f5999525dde",
+          "headline": "Who is John Langford? Meet the mind behind AI Frontiers who quit after Microsoft's restructuring",
+          "source": "Livemint",
+          "domain": "livemint.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T14:22:11.000Z",
+          "snippet": "Langford said the merger of AI Frontiers with Microsoft AI appeared reasonable in theory. However, he argued that the philosophy followed by Microsoft AI's ‘ex-Inflection leadership’ was…",
+          "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Untitled_design_-_2026-11-14T194402.679_1794665655408_Wlgc_1794665663650_osLT_7f0cf8be-5cd6-4fc1-8d32-9d4baed0f379_kiDL.png",
+          "url": "https://livemint.com/companies/people/who-is-john-langford-meet-the-mind-behind-ai-frontiers-who-quit-after-microsofts-restructuring-11794664543595.html",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "896ace7df656bb91",
+      "headline": "Amazon is building massive database covering every product sold online",
+      "category": "general",
+      "publishedAt": "2026-11-14T12:00:03.000Z",
+      "score": 0.2884,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "c9d3c75870c5d964",
+          "headline": "Amazon is building massive database covering every product sold online",
+          "source": "NewsBytes",
+          "domain": "newsbytesapp.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T12:00:03.000Z",
+          "snippet": "Amazon plans to create the World Product Graph, a comprehensive database of global online shopping data, aiming to centralize product research and attract AI agents and shoppers.",
+          "imageUrl": "https://i.cdn.newsbytesapp.com/images/l75020261114172843.jpeg",
+          "url": "https://newsbytesapp.com/news/science/amazon-builds-world-product-graph-to-track-products-sold-across-internet/story",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "afc4bcf4725d0ccd",
+      "headline": "Global economy to grow 2.8% in 2027 as energy prices ease: Goldman Sachs",
+      "category": "industry",
+      "publishedAt": "2026-11-14T10:52:26.000Z",
+      "score": 0.3654,
+      "publisherCount": 2,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3e26fd542f422dd4",
+          "headline": "Global economy to grow 2.8% in 2027 as energy prices ease: Goldman Sachs",
+          "source": "The Tribune",
+          "domain": "tribuneindia.com",
+          "category": "industry",
+          "publishedAt": "2026-11-14T10:52:26.000Z",
+          "snippet": "The global economy is expected to grow by 2.8 per cent in 2027, slightly higher than the projected 2.7 per cent growth in 2026, as easing energy prices and continued investment in artificial…",
+          "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdlODY5NzMwLWUwMTktMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+          "url": "https://tribuneindia.com/news/business/global-economy-to-grow-2-8-in-2027-as-energy-prices-ease-goldman-sachs",
+          "provider": "gnews"
+        },
+        {
+          "id": "37d83d051d0d4b04",
+          "headline": "Global economy to grow 2.8% in 2027 as energy prices ease: Goldman Sachs",
+          "source": "ANI (Asian News International)",
+          "domain": "aninews.in",
+          "category": "industry",
+          "publishedAt": "2026-11-14T10:51:15.000Z",
+          "snippet": "The global economy is expected to grow by 2.8 per cent in 2027, slightly higher than the projected 2.7 per cent growth in 2026, as easing energy prices and continued investment in artificial…",
+          "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261114103852-thumbnail-320x180-70.jpg",
+          "url": "https://aninews.in/news/business/global-economy-to-grow-28-in-2027-as-energy-prices-ease-goldman-sachs20261114162115",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "1df14fb3014ea44c",
+      "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+      "category": "general",
+      "publishedAt": "2026-11-14T09:45:04.000Z",
+      "score": 0.4427,
+      "publisherCount": 3,
+      "featured": true,
+      "lead": true,
+      "articles": [
+        {
+          "id": "bf936f4a9795e415",
+          "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+          "source": "News18",
+          "domain": "news18.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T09:45:04.000Z",
+          "snippet": "",
+          "imageUrl": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+          "url": "https://news18.com/agency-feeds/stockedge-introduces-ai-powered-insights-to-simplify-stock-research-10425600.html",
+          "provider": "gnews"
+        },
+        {
+          "id": "d10e69bebbe86ad7",
+          "headline": "Powered Insights to Simplify Stock Research",
+          "source": "The Tribune",
+          "domain": "tribuneindia.com",
+          "category": "general",
+          "publishedAt": "2026-11-14T09:32:43.000Z",
+          "snippet": "New Delhi [India], November 14: StockEdge, one of India’s leading equity research and analytics platforms, is addressing this gap with StockEdge AI, a new AI-powered research feature designed to…",
+          "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTViYzJjMGQwLWUwMGUtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+          "url": "https://tribuneindia.com/news/business/stockedge-introduces-ai-powered-insights-to-simplify-stock-research",
+          "provider": "gnews"
+        },
+        {
+          "id": "65d3c5ebd53fcce0",
+          "headline": "StockEdge Introduces AI-Powered Insights to Simplify Stock Research",
+          "source": "ANI (Asian News International)",
+          "domain": "aninews.in",
+          "category": "general",
+          "publishedAt": "2026-11-14T09:21:39.000Z",
+          "snippet": "New Delhi [India], November 14: StockEdge, one of India’s leading equity research and analytics platforms, is addressing this gap with StockEdge AI, a new AI-powered research feature designed to…",
+          "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261114092120-thumbnail-320x180-70.jpg",
+          "url": "https://aninews.in/news/business/stockedge-introduces-ai-powered-insights-to-simplify-stock-research20261114145139",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
     {
       "id": "9218a2a5951d9b5b",
       "headline": "Data Modality Determines Machine Learning and Deep Learning Success in Breast Cancer Prediction",
@@ -1533,181 +1481,6 @@
           "snippet": "",
           "imageUrl": null,
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybmlQY1BpRXRNenhNQVA5SWZvNVdCTkdKcjZPTGlwX3pGRDRoMng4MDBGN05wa0cxNS1MRG9hbmgwY05zdzZTZVdSVFlJMTBvWlFFM09YeFlsbng2NG4tajBGN1lLRm9lNjNPTlpR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "f2a77a2f4c47defb",
-      "headline": "Jitendra Singh calls for India, Italy to strengthen joint research in AI, biotech",
-      "category": "general",
-      "publishedAt": "2026-11-14T02:41:40.000Z",
-      "score": 0.3088,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "cdb3c2a7384a012a",
-          "headline": "Jitendra Singh calls for India, Italy to strengthen joint research in AI, biotech",
-          "source": "ET Telecom",
-          "domain": "unknown-et-telecom",
-          "category": "general",
-          "publishedAt": "2026-11-14T02:41:40.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLU5HR2wxcHhzTW4yLVlFeElGSVF5YnVPZllBM1NEdy1MRG12cFV6YkE4NkJQc3QzV19VSUNFU3lZSDR4Y3o2UHotemgtRmU0S3BQZWpSZDRCLU5Ia0JjYWZBM0FpUkstajFQQ1J3UXNqT3hCMURCTXdTQm5COERJX3lBdU1zbmJnNVV1RHQ2ODlnMnQ1MkVUYmNyRGlyZmhsLTRNSUNUUl9MbmVfelhBZnliaGx2bmpsZTBsQU02U25rMnBjYk92cElhQ1NHaTZaY0d0MDg1ZVJoWFRlXzBsT2d3Y2bSAeQBQVVfeXFMTy1OR0dsMXB4c01uMi1ZRXhJRklReWJ1T2ZZQTNTRHctTERtdnBVemJBODZCUHN0M1dfVUlDRVN5WUg0eGN6NlB6LXpoLUZlNEtwUGVqUmQ0Qi1OSGtCY2FmQTNBaVJLLWoxUENSd1Fzak94QjFEQk13U0JuQjhESV95QXVNc25iZzVVdUR0Njg5ZzJ0NTJFVGJjckRpcmZobC00TUlDVFJfTG5lX3pYQWZ5Ymhsdm5qbGUwbEFNNlNuazJwY2JPdnBJYUNTR2k2WmNHdDA4NWVSaFhUZV8wbE9nd2Nm?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "55c562b4456bbf9e",
-      "headline": "MIT Researchers Create Roadmap to Help Organizations Mitigate AI Risks",
-      "category": "research",
-      "publishedAt": "2026-11-14T02:11:28.000Z",
-      "score": 0.3053,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "ed841e2ffc7ca00f",
-          "headline": "MIT Researchers Create Roadmap to Help Organizations Mitigate AI Risks",
-          "source": "HPCwire",
-          "domain": "unknown-hpcwire",
-          "category": "research",
-          "publishedAt": "2026-11-14T02:11:28.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOG1MMzd3bVcwVi1Sd0hPQkpzOF9NcmQ2U2RZU3NsNnYtQUVjeG14OFJyNjZBaWJiZzlRQnNjUndxNWJ1U1FibS15cHNLakVUUTFfcnFlRDZsazdybDVBdVN1VW45VUVfWmNOOExtc3N2NjkyYzRmaWNPeHhGR0VVWjNxbDN1U2h6YjVGdTJhNjhOUVdPUWNvaGZVbjRFR3JVQUM2VDRRTUJLVEFkcXNla2Fsbw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "38451c3a6dd1394b",
-      "headline": "Evaluating AI Research Agents: SwarmEvolve vs. Scientist World",
-      "category": "general",
-      "publishedAt": "2026-11-14T01:24:00.000Z",
-      "score": 0.3001,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "9569d0f77884c9e1",
-          "headline": "Evaluating AI Research Agents: SwarmEvolve vs. Scientist World",
-          "source": "Forkast News",
-          "domain": "unknown-forkast-news",
-          "category": "general",
-          "publishedAt": "2026-11-14T01:24:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1ViMTVsaWE3YURFeXJBTUg4d25Kemw3V2pxdkV6WGVaZFZ2VmR3MjhTT2l2T1BUZFYtaXZQcThMSWhCWHdqX2JuRjBiTmRYbmxZVEZranJINVJBVENwLUpDc2dZUjhPdWVYZ0FucEpIb3o1R1lYeTVtZHpIa3pnRms5ZUlNQk5Sc3c?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "c0b55cc0e21aa306",
-      "headline": "Inside the algorithms: How artificial intelligence is enhancing traditional pathology practice",
-      "category": "general",
-      "publishedAt": "2026-11-14T00:13:06.000Z",
-      "score": 0.2927,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "132612659e2208b3",
-          "headline": "Inside the algorithms: How artificial intelligence is enhancing traditional pathology practice",
-          "source": "Northwestern University",
-          "domain": "unknown-northwestern-university",
-          "category": "general",
-          "publishedAt": "2026-11-14T00:13:06.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnpLYVpDRmlCWUpiTEJsN1Bya3lQTUVDNjRDZTgzRGJ3UEFndGxtSGswcjVRVHViSWhyaVpuM244aHFkMWgtUWJWclBwd3BpYXBLTWZkZ2h0SjdCWFY0Rjl6amVJOExfOVBhaml4SkxFMHhGQzBPT1praEFPZjZaMUxvbUJ0eE1STEZ1cWN5ZERpMjR3X2I2SDRqUXdMaFlLaEFZMHo4YnI1Xy1tOWp3eWZaYl8yMTRfRnhrdGo1Um9hLTNqNjN0SDhPVWVNeXBMNzNIcU5R?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d305ae2b10dd9a63",
-      "headline": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-      "category": "general",
-      "publishedAt": "2026-11-13T23:22:09.000Z",
-      "score": 0.2876,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "8c52c065b3f79725",
-          "headline": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-          "source": "Amazon Web Services (AWS)",
-          "domain": "unknown-amazon-web-services-aws",
-          "category": "general",
-          "publishedAt": "2026-11-13T23:22:09.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVczNDh5TDFQdUdoMW53SllxMGVrazZ1UmRzVXk0Q0xOWHZkU0VHekNsTXdON05aQXRYcXJIQ1pOQ25iNjlodUNGNWw0NXNTbGlHQXcwanV5cEo0MzNfYmJEQWZJRWJKbVdheUh4c0hKcWI1VjFXVjNiTm5WRnlLNVVaUXlXVHM1eWJoeUUzWmk4OTAwMlltMnh0aTBIcUM5clE2RFRwVHNoVURodmNab05B?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "0ab9e657d898fc66",
-      "headline": "Man’s best (robot) friend",
-      "category": "general",
-      "publishedAt": "2026-11-13T23:06:51.000Z",
-      "score": 0.2862,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "ef56912d76760c94",
-          "headline": "Man’s best (robot) friend",
-          "source": "Northeastern Global News",
-          "domain": "unknown-northeastern-global-news",
-          "category": "general",
-          "publishedAt": "2026-11-13T23:06:51.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CY2h0aS1kUzNxOGJpNHIzZGtmcWg2ZThWUnVNaXRIUHoxa3VwNGxXNHhMV1FhYzhPSnVJOHczbDNHaXNFUzhSQmM3TXBzSmxYTWRZWmE3djhsMExKUkFNUkgwbldjOHlqUzByYkJfT2hnUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "aa8ea743b7e043e2",
-      "headline": "\"No path to real use\": a veteran Microsoft AI scientist quits, says research that could halve AI costs wasn't even seriously considered",
-      "category": "general",
-      "publishedAt": "2026-11-13T22:45:07.000Z",
-      "score": 0.2841,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "c678b25c4045d8fb",
-          "headline": "\"No path to real use\": a veteran Microsoft AI scientist quits, says research that could halve AI costs wasn't even seriously considered",
-          "source": "Windows Latest",
-          "domain": "unknown-windows-latest",
-          "category": "general",
-          "publishedAt": "2026-11-13T22:45:07.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUjJPdHlYelZnR09uQ0dSV29BUng4ckNwVzhXT0Q0QVlsUkhlR28xN2lraE9rYTFCdS1BSmFVdEZjTGJUdnF5Z2hyYVpLSDlLTXVQTTNUOWdXUEYwSjJSejB4cHlZM0l5bExiU3JRYUNWQzJGejJaV20wc1cwZ1UzbzVGNUZiN0R6YmMtTmpwZndnX2dOV1dKRXdzSzF0bUNEUFhrMERTY2xLNTlUdkZmZHNUUTdfMEkyRlpLcGF4TVVWRXRDeVIyVlpQRzlOcTg0MkZBNVM2UWdfN0hBcDVFcmNhOUczb3N2R1dqdndnNHdQRm1jX21ZV3dyT0xCUlA5MVE?oc=5",
           "provider": "google-news"
         }
       ],

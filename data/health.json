@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-14T18:23:11.094Z",
-  "outcome": "success",
+  "runAt": "2026-11-15T06:52:55.341Z",
+  "outcome": "partial",
   "totals": {
-    "fetched": 134,
-    "afterFilter": 183,
-    "clusters": 157,
+    "fetched": 27,
+    "afterFilter": 10,
+    "clusters": 7,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-14",
-    "count": 9
+    "date": "2026-11-15",
+    "count": 3
   },
   "sources": [
     {
@@ -200,7 +200,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
+      "lastSuccessAt": "2026-11-15T06:52:55.341Z",
       "disabledAt": null
     },
     {
@@ -210,7 +210,7 @@
       "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
+      "lastSuccessAt": "2026-11-15T06:52:55.341Z",
       "disabledAt": null
     },
     {
@@ -220,45 +220,47 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-14T18:23:11.094Z",
+      "lastSuccessAt": "2026-11-15T06:52:55.341Z",
       "disabledAt": null
     },
     {
       "name": "AI research",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 40,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 27,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     },
     {
       "name": "machine learning",
       "provider": "google-news",
-      "status": "ok",
-      "articlesFetched": 40,
-      "consecutiveFailures": 0,
-      "lastError": null,
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
       "lastSuccessAt": "2026-11-14T18:23:11.094Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:news18.com: HTTP 403 for https://news18.com/",
-    "briefing skipped for \"AWS Releases SGLang-Neuron for Deploying\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Data Modality Determines Machine Learnin\": This operation was aborted",
-    "briefing skipped for \"DeepSeek V3 Architecture Rebuilt in 190 \": This operation was aborted",
+    "google-news:AI research: HTTP 503 for https://news.google.com/rss/search?q=AI%20research%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "google-news:LLMs: HTTP 503 for https://news.google.com/rss/search?q=LLMs%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "google-news:machine learning: HTTP 503 for https://news.google.com/rss/search?q=machine%20learning%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "briefing skipped for \"StockEdge Introduces AI-Powered Insights\": This operation was aborted",
+    "briefing skipped for \"Global economy to grow 2.8% in 2027 as e\": This operation was aborted",
+    "briefing skipped for \"Sunday Special: AI, EVs expand India’s P\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
