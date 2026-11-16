@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-16T06:55:02.770Z",
+  "runAt": "2026-11-16T22:25:18.347Z",
   "outcome": "success",
   "totals": {
-    "fetched": 156,
-    "afterFilter": 129,
-    "clusters": 101,
+    "fetched": 149,
+    "afterFilter": 113,
+    "clusters": 102,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-16",
-    "count": 6
+    "date": "2026-11-17",
+    "count": 3
   },
   "sources": [
     {
@@ -22,6 +22,16 @@
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-09T22:37:22.635Z"
+    },
+    {
+      "name": "business-standard.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://business-standard.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "deccanchronicle.com",
@@ -54,24 +64,14 @@
       "disabledAt": "2026-11-13T19:56:03.741Z"
     },
     {
-      "name": "in.mashable.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
-      "disabledAt": null
-    },
-    {
       "name": "indianexpress.com",
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "lastError": "HTTP 403 for https://indianexpress.com/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-09T06:56:58.616Z"
+      "disabledAt": "2026-11-16T22:25:18.347Z"
     },
     {
       "name": "indiatoday.in",
@@ -88,10 +88,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-09T06:56:58.616Z"
+      "disabledAt": "2026-11-16T22:25:18.347Z"
     },
     {
       "name": "lokmattimes.com",
@@ -142,16 +142,6 @@
       "lastError": "HTTP 403 for https://newsbytesapp.com/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-09T06:56:58.616Z"
-    },
-    {
-      "name": "outlookindia.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "thehitavada.com",
@@ -220,17 +210,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
+      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 8,
+      "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
+      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
       "disabledAt": null
     },
     {
@@ -240,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
+      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
       "disabledAt": null
     },
     {
@@ -250,17 +240,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
+      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 28,
+      "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
+      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
       "disabledAt": null
     },
     {
@@ -270,15 +260,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
+      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:outlookindia.com: no usable feed found",
-    "briefing skipped for \"Apple launches app to study how people u\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"University GPU Crunch Slows AI Research\": This operation was aborted",
-    "briefing skipped for \"Apple Opens 200,000-Seat Health AI Study\": This operation was aborted",
+    "feed:livemint.com: no usable feed found",
+    "feed:indianexpress.com: HTTP 403 for https://indianexpress.com/",
+    "feed:business-standard.com: HTTP 403 for https://business-standard.com/",
+    "briefing skipped for \"Apple launches research study with OpenE\": This operation was aborted",
+    "briefing skipped for \"SquadStack.ai launches Maya, the world’s\": This operation was aborted",
+    "briefing skipped for \"Dreamteam Raises $53M Led by Accel for A\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }

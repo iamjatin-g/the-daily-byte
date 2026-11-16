@@ -1,580 +1,433 @@
 {
-  "generatedAt": "2026-11-16T06:55:02.770Z",
+  "generatedAt": "2026-11-16T22:25:18.347Z",
   "lead": {
-    "id": "dee9573ea0da31b7",
-    "headline": "Apple launches app to study how people use AI for health queries: Details",
+    "id": "df6b597e43263334",
+    "headline": "Apple launches research study with OpenEvidence",
     "category": "research",
-    "publishedAt": "2026-11-16T06:15:41.000Z",
-    "score": 0.8893,
-    "publisherCount": 9,
+    "publishedAt": "2026-11-16T17:42:34.000Z",
+    "score": 0.8309,
+    "publisherCount": 6,
     "featured": true,
     "lead": true,
     "articles": [
       {
-        "id": "bc6188697a81ecc7",
+        "id": "5310ad3e930f9066",
+        "headline": "Apple launches research study with OpenEvidence",
+        "source": "MobiHealthNews",
+        "domain": "unknown-mobihealthnews",
+        "category": "research",
+        "publishedAt": "2026-11-16T17:42:34.000Z",
+        "snippet": "",
+        "imageUrl": null,
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTBEOGhPWnowYXBJd0Y2RnBZR0hPLWxGX0JoQWFPWjZCWEFsSnZjd0kwR01WQ3ZQLWJISDA5aXRJZUgtdXdkcU9hNTdibm5GRnl3WmdQTmF3aVJOM3dXelA2NEVMMWxVeDBtc1hoaU5fTVFRaUY3NWFXY2FyS1M2am9YQ2U?oc=5",
+        "provider": "google-news"
+      },
+      {
+        "id": "47ac673e937de708",
+        "headline": "Apple, OpenEvidence launch conversational health AI study and app",
+        "source": "Healthcare Dive",
+        "domain": "unknown-healthcare-dive",
+        "category": "research",
+        "publishedAt": "2026-11-16T14:39:26.000Z",
+        "snippet": "",
+        "imageUrl": null,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjFLY2JJSFNON1JBVTJHbVpOVERYMlpEZHJ3cHJpM0lXX0hNMkRfTjdWNlB3Vi1CMXZVTE0xbDFxb1lFeUtmZTlGaXdpcEZVUWFqdWVUVExSOFZtSmlDa1YxOThtT0RlbUlsZ3UwUl9fX0FpMVRwcGlEVFdGeWVmdkUwallRLWczenp5bFlJNjJmVGVIcHdCbmVLMjU3UQ?oc=5",
+        "provider": "google-news"
+      },
+      {
+        "id": "581b1758cc33dcd8",
+        "headline": "Apple partners with OpenEvidence for AI-powered health research study",
+        "source": "Telangana Today",
+        "domain": "unknown-telangana-today",
+        "category": "research",
+        "publishedAt": "2026-11-16T14:10:02.000Z",
+        "snippet": "",
+        "imageUrl": null,
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0ppN2N1d09xVVQtWm5qb01ZdDhXVmZLYTRPa2xXb3pvS1hyQ3Rwc0U3QkFETmdjeGpEUmVvWVpEejF3dF9XQmFkMWlIdUZoazNVa081Q3NJTHhVdXpaTFBVcXhIM0ltMVNyWVdWSWhZN3UweS1rNWdGX2xmMEVJWVVnbUJULU5lb29xRFdFU1pIUG5Idm9oN3JFSzY?oc=5",
+        "provider": "google-news"
+      },
+      {
+        "id": "e1546e5690a7b2ea",
+        "headline": "Apple launches AI health research app to study how users seek medical advice",
+        "source": "ET Enterprise AI",
+        "domain": "unknown-et-enterprise-ai",
+        "category": "research",
+        "publishedAt": "2026-11-16T11:54:59.000Z",
+        "snippet": "",
+        "imageUrl": null,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaG51NFVLT1RYaVY2anRvdzJYam83U2liMkVHQ082cWExd0l1QjhfLXY5dUFleE9BTVIyLWFJckdqWF9fMlJ5Q3A4blNYVXFVb0F1T2tyWWxsM2F6RnAtUkJPZWpFU1lOY2gxRGJHSmd1RThpYUpqQXFLZDY2WG1lb2llaXN5NXNRUXFCTUVjOHZPeTdfVmk5UjljYmFCeEFldWhHbnJCV3R0UHRSTUJuLTFzRHlZN052b1NqWjVpQ2dnRkhVekJpRGt3LTlydmFKa0JrWjJEcTBrQ010akt3Y3V3bWTSAeoBQVVfeXFMTXBHOE9wZVFiN0gtWGlsekFFSWFkYkFvZ1Iyb1FWcGluSkJrVUJlWXExRmFsWkhUTkZFc015aml6TU4zbnFYOUlaR2FGSHY2bzBvM3dKVG41ZXYyMExrUjlLbThYUmZIRXB6UHRNZWZobXFwaGV5bkNsMHRaZjBxcFZGZ25KY1Vnejdmakd5cndNYzJIXzlxZVV5cFN4S0RwLXdhbm1UUElQVElXWV9xNDVBUmZQZEFqRFpUdW44eDNXX3E4dFBTV2NFY05rOGwwM2hxRkdneTRlQjl5OWJXakJzM19tMFI4U2hB?oc=5",
+        "provider": "google-news"
+      },
+      {
+        "id": "8350c3e0cae3aebd",
         "headline": "Apple launches app to study how people use AI for health queries: Details",
         "source": "Business Standard",
-        "domain": "unknown-business-standard",
+        "domain": "business-standard.com",
         "category": "research",
-        "publishedAt": "2026-11-16T06:15:41.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObkRseDc2TDd1Q2E0aFQ5Nl9wUHRCZ2hNWmNCZ3FFRWhlVzVkSjNnRmV1VG91bmlsZUFza2QtT3hvVE5PdldJSUV1azBUV3AwZl9GX19UcVAtTWFqd0NOb1lpWXRmTi1PRl9oclk2UzVaZ3o3WjdRSlRjdFVTSm9TaVJ2cGFIdmlpSU9yMTBmek9oWHBoNVRDSFp6N1Q5aW8tSVlicEc1Xy1iWjZvNVNialVwVHNfRVJzZUVMd1FuekdfRzJTR1JvNmpVOS1pS2t6RkZwNWRTZEp4RHgtNHJmWtIB5gFBVV95cUxNYXhxLUNJeGEzNGR0TVZkbVBWYjJuOURtWEZfWDM2WGljdTR0TzRSZXBMRUJMeHFSbjZUSGJfRUxpX2o3c1VyWDRscHRJM1NGTEZGaDk1WkVlNVFTVFNvYW5ESXMwVEZqZVFnMXA1Q1ZqMVRJS1AwcDFBU0pGajR4d3Z1Q24zbG80TFhDc0pKNFBfMkdSUVRzSnVJcmg3R3l2UF9PNlVRWkxQd3hoMWU5NTU4NVdTLXlFVE9HRjlTR2NsaTBNTFFDdVJEal9EOGMyRGVUeHhYOTBTcU8zSE9nS054dkpydw?oc=5",
-        "provider": "google-news"
+        "publishedAt": "2026-11-16T06:15:25.000Z",
+        "snippet": "Apple Health AI Study App: Apple's new research study will examine how people use AI for health information, assess the reliability of responses and understand whether such tools influence everyday…",
+        "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/16/thumb/fitandfill/1200X628/1794809568-1033.jpg",
+        "url": "https://business-standard.com/technology/tech-news/apple-launches-app-to-study-how-people-use-ai-for-health-queries-details-126111600875_1.html",
+        "provider": "gnews"
       },
       {
-        "id": "6c2e449eeb26191a",
-        "headline": "Apple launches new Health AI study app to understand how people use AI for medical advice",
-        "source": "The Times of India",
-        "domain": "unknown-the-times-of-india",
+        "id": "9e775042c53c67b0",
+        "headline": "Apple launches new app to test how you use AI for health questions",
+        "source": "India Today",
+        "domain": "indiatoday.in",
         "category": "research",
-        "publishedAt": "2026-11-16T05:23:00.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVp0N0NOWGhTREpjN0pIR1YtQ1g3ZFYyaDlhbVl3RUdVaE9qdFFOampoMUhuVFBSNzd3V0o4ZjVMRWc4S3hCNFJHcVVzVEllMHZSc1NDUnkxU0NFUkdZVmlGRHNsSDQxQlVvOEdWYzl3TllGMzZnWWRjZWNYRlBzVlFma2FDUDRuV09FbC14amJLcGE5cExzVTkzcFZhWE9GNGc3MmRFcGtnS1NmRzRieXN1R29DTU55c0d3M3dKZl9ZcDRqZ1B2dGZjM3BHUnp2dnJ4S05NWE9sc3ZmNnJwb21aUUdhSVdLZktsbFN2ZGZMTnA1dTJRbGFtal9zUlhhZ2fSAYcCQVVfeXFMTU9hc1FFNUh5cVZWU0ZhYjBncTltR2xJQnVfWmRtOW91WEdPeVZLLTlQS2hIODd4eUxFZWRrYl9nWFBrZ3hGUk9mVGY3RnlSQzczWGl4MHg2Mnljczl0YzJaWWUyV1A5R0RLUE5BNndPRFY3OWNuWVM2VlFjSVAwenowcmxqb0MyNjNveTRLX3kwY2JlaDhqQjVWTHctTlZDV3ZrSy1hYUlYYzdqTXBuOXBhZlpNOTdHN3AtV3hDZ2lsTndwS0JaVmxSN0J6VGQzU0ZUYWw4WGhtMS1EV1dDMlpYYkFoc2tfQ2t5anJVM2I2dnV5Q0ZNd1VrYzBkQ0pycWRvbGVRSTQ?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "e9c89db5ca00b21d",
-        "headline": "Apple launches new app to study how people use AI for health advice",
-        "source": "Moneycontrol.com",
-        "domain": "unknown-moneycontrol-com",
-        "category": "research",
-        "publishedAt": "2026-11-16T05:21:51.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlJwNnVnTmNyUXZMc0pZaWN4WEFpOEUzRkV2Nk9DakdLb0VXRWtlMjF2ci0yX0UxZlJJN2FrUVJzbjE3V3JJdVFtRDh3VjJpYUZfQ1lCWTN4QXFMTU90cXNhVjhIUURxdHhFN0tZb055UjluTnB4TVpfZDdvdURYUEQtNFMxbWVtYWtrQWpQVVVuSDctb09xaDgwdHF3YTh3NUhqQzlEX1NDV1lfUjZyTWhmdjg5RjVBN0QxM3VjNDkwcFNPRVZVOdIBzgFBVV95cUxOUjcwaTVSM3B1ZTFIQjBETE0yUS10dkVOcTNMald5bHRFdXllMlBXZlhibDdsNDg3Zl9nQkt1VWlmSFBEVlNIMXo5MXZHYVJ5UDdYZ0ZRMG5ScW8xX2N0RzBTdXczc2YzZ1lEOVVxSHlSVGxoamtTRGtNR0hDbjlDNTlVR3dKSEQ4N3RHZUtXeWNRSUIzTVFiNTlUa2I2dXJKZ09DbVhDZzg2dGRrT3FuejJKeFVtQjREcUNDcndZQ0RYZFhaOUJyVUNVb3JJQQ?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "6cbb54155a4a6c52",
-        "headline": "Apple launches AI health research study",
-        "source": "CASRAI",
-        "domain": "unknown-casrai",
-        "category": "research",
-        "publishedAt": "2026-11-16T02:03:48.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYlBWQW9LaXk1anVLcWNqYnM5a25sdkNiQW5yX3ZBSVY2cEZfTm1FQjdKTnB1UFBHMkJEZHRJYXl3ZkxqYW5XVE1YZDJEVUFUc2tmbVZFbUdrdGVsUGV3RDJRNENJWDBUZ2c2czRWdUFwWVMyN29v?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "c90153842668e150",
-        "headline": "Apple launches an AI health tool as part of a research study",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "domain": "unknown-abc-news-breaking-news-latest-news-and-v",
-        "category": "research",
-        "publishedAt": "2026-11-16T01:44:47.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "66b82e32273bd582",
-        "headline": "Apple Launches New App to Study How People Use AI for Health",
-        "source": "CNET",
-        "domain": "unknown-cnet",
-        "category": "research",
-        "publishedAt": "2026-11-16T01:37:15.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rV1F6aG1kcXZkZ01tbzNyaUtwOEh5dUlwVVdxc3RyZnJSTWtBUGpqUTV3RURrZVVUNjV3dkhZbjhmeklNdmdFdnY1a0l2RGcxS3Z5ajZRQWFnQXR4VzJLMS1sbC1sS3NTWGx6WFlRRGk?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "032f017e4aaf4bf6",
-        "headline": "HLTH26: Apple launches 200K-person study to examine how consumers use health AI",
-        "source": "Fierce Healthcare",
-        "domain": "unknown-fierce-healthcare",
-        "category": "research",
-        "publishedAt": "2026-11-16T01:35:00.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "5b0c8b2dbd7f8df9",
-        "headline": "Apple launches new app to study how people use AI for health",
-        "source": "TechCrunch",
-        "domain": "unknown-techcrunch",
-        "category": "research",
-        "publishedAt": "2026-11-16T01:30:00.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjVzaFloMmIxVmlIM2RkUlQ3V1ZHcHhVd0FWbEpIQm9sZDRPYlA4eTF1RlFfSlRpMTZ5VlRXUWtIc0ctWm9GbUlDWWM2eHAzT0JHbWI3ak9aWFlRMEcwcHdiZXllUHluVU1rMzRuRGZ3NWk0dURwVFVFT1VKcS1XQkJWSnM1alJGQTRWUzV3a1lYUzhLWGJFazNtVQ?oc=5",
-        "provider": "google-news"
-      },
-      {
-        "id": "fd076c58ecdeba27",
-        "headline": "Apple launches research study to explore the use of AI for health",
-        "source": "Apple",
-        "domain": "unknown-apple",
-        "category": "research",
-        "publishedAt": "2026-11-16T01:24:28.000Z",
-        "snippet": "",
-        "imageUrl": null,
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEhyWXRwQm9NZnp2SjdSVDVubTJCeXJGTW9kaks3bWpUTGdBRWdHejdqZ0VuQ25pODcwazZ5c0R2aDhwRlpKM3FGMjUxZFhNdHhfZ3huNTNDWWZSRXBVV294TDNwQWktVm9nTWlHaEFZZEhmRWVGbmlieUYxLWFQeFVKWUpsV1hVZ2lhOE56TUxYajVSMnNpcnpzVW12bUI3cG03X3g2QTA?oc=5",
-        "provider": "google-news"
+        "publishedAt": "2026-11-16T03:09:00.000Z",
+        "snippet": "Apple has launched an app with OpenEvidence to study how people use AI for health questions. The research will assess clinically grounded answers, personalisation and privacy safeguards.",
+        "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/apple-cuts-employee-ai-usage-051236896-16x9_1.png?VersionId=iKg_E2EGT0Fw3b7p9bZ6k9KSJwXzrg2o",
+        "url": "https://indiatoday.in/technology/news/story/apple-launches-new-app-to-test-how-you-use-ai-for-health-questions-3039638-2026-11-16",
+        "provider": "gnews"
       }
     ],
     "briefing": null
   },
   "featured": [
     {
-      "id": "dee9573ea0da31b7",
-      "headline": "Apple launches app to study how people use AI for health queries: Details",
+      "id": "df6b597e43263334",
+      "headline": "Apple launches research study with OpenEvidence",
       "category": "research",
-      "publishedAt": "2026-11-16T06:15:41.000Z",
-      "score": 0.8893,
-      "publisherCount": 9,
+      "publishedAt": "2026-11-16T17:42:34.000Z",
+      "score": 0.8309,
+      "publisherCount": 6,
       "featured": true,
       "lead": true,
       "articles": [
         {
-          "id": "bc6188697a81ecc7",
+          "id": "5310ad3e930f9066",
+          "headline": "Apple launches research study with OpenEvidence",
+          "source": "MobiHealthNews",
+          "domain": "unknown-mobihealthnews",
+          "category": "research",
+          "publishedAt": "2026-11-16T17:42:34.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTBEOGhPWnowYXBJd0Y2RnBZR0hPLWxGX0JoQWFPWjZCWEFsSnZjd0kwR01WQ3ZQLWJISDA5aXRJZUgtdXdkcU9hNTdibm5GRnl3WmdQTmF3aVJOM3dXelA2NEVMMWxVeDBtc1hoaU5fTVFRaUY3NWFXY2FyS1M2am9YQ2U?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "47ac673e937de708",
+          "headline": "Apple, OpenEvidence launch conversational health AI study and app",
+          "source": "Healthcare Dive",
+          "domain": "unknown-healthcare-dive",
+          "category": "research",
+          "publishedAt": "2026-11-16T14:39:26.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjFLY2JJSFNON1JBVTJHbVpOVERYMlpEZHJ3cHJpM0lXX0hNMkRfTjdWNlB3Vi1CMXZVTE0xbDFxb1lFeUtmZTlGaXdpcEZVUWFqdWVUVExSOFZtSmlDa1YxOThtT0RlbUlsZ3UwUl9fX0FpMVRwcGlEVFdGeWVmdkUwallRLWczenp5bFlJNjJmVGVIcHdCbmVLMjU3UQ?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "581b1758cc33dcd8",
+          "headline": "Apple partners with OpenEvidence for AI-powered health research study",
+          "source": "Telangana Today",
+          "domain": "unknown-telangana-today",
+          "category": "research",
+          "publishedAt": "2026-11-16T14:10:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0ppN2N1d09xVVQtWm5qb01ZdDhXVmZLYTRPa2xXb3pvS1hyQ3Rwc0U3QkFETmdjeGpEUmVvWVpEejF3dF9XQmFkMWlIdUZoazNVa081Q3NJTHhVdXpaTFBVcXhIM0ltMVNyWVdWSWhZN3UweS1rNWdGX2xmMEVJWVVnbUJULU5lb29xRFdFU1pIUG5Idm9oN3JFSzY?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "e1546e5690a7b2ea",
+          "headline": "Apple launches AI health research app to study how users seek medical advice",
+          "source": "ET Enterprise AI",
+          "domain": "unknown-et-enterprise-ai",
+          "category": "research",
+          "publishedAt": "2026-11-16T11:54:59.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaG51NFVLT1RYaVY2anRvdzJYam83U2liMkVHQ082cWExd0l1QjhfLXY5dUFleE9BTVIyLWFJckdqWF9fMlJ5Q3A4blNYVXFVb0F1T2tyWWxsM2F6RnAtUkJPZWpFU1lOY2gxRGJHSmd1RThpYUpqQXFLZDY2WG1lb2llaXN5NXNRUXFCTUVjOHZPeTdfVmk5UjljYmFCeEFldWhHbnJCV3R0UHRSTUJuLTFzRHlZN052b1NqWjVpQ2dnRkhVekJpRGt3LTlydmFKa0JrWjJEcTBrQ010akt3Y3V3bWTSAeoBQVVfeXFMTXBHOE9wZVFiN0gtWGlsekFFSWFkYkFvZ1Iyb1FWcGluSkJrVUJlWXExRmFsWkhUTkZFc015aml6TU4zbnFYOUlaR2FGSHY2bzBvM3dKVG41ZXYyMExrUjlLbThYUmZIRXB6UHRNZWZobXFwaGV5bkNsMHRaZjBxcFZGZ25KY1Vnejdmakd5cndNYzJIXzlxZVV5cFN4S0RwLXdhbm1UUElQVElXWV9xNDVBUmZQZEFqRFpUdW44eDNXX3E4dFBTV2NFY05rOGwwM2hxRkdneTRlQjl5OWJXakJzM19tMFI4U2hB?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "8350c3e0cae3aebd",
           "headline": "Apple launches app to study how people use AI for health queries: Details",
           "source": "Business Standard",
-          "domain": "unknown-business-standard",
+          "domain": "business-standard.com",
           "category": "research",
-          "publishedAt": "2026-11-16T06:15:41.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObkRseDc2TDd1Q2E0aFQ5Nl9wUHRCZ2hNWmNCZ3FFRWhlVzVkSjNnRmV1VG91bmlsZUFza2QtT3hvVE5PdldJSUV1azBUV3AwZl9GX19UcVAtTWFqd0NOb1lpWXRmTi1PRl9oclk2UzVaZ3o3WjdRSlRjdFVTSm9TaVJ2cGFIdmlpSU9yMTBmek9oWHBoNVRDSFp6N1Q5aW8tSVlicEc1Xy1iWjZvNVNialVwVHNfRVJzZUVMd1FuekdfRzJTR1JvNmpVOS1pS2t6RkZwNWRTZEp4RHgtNHJmWtIB5gFBVV95cUxNYXhxLUNJeGEzNGR0TVZkbVBWYjJuOURtWEZfWDM2WGljdTR0TzRSZXBMRUJMeHFSbjZUSGJfRUxpX2o3c1VyWDRscHRJM1NGTEZGaDk1WkVlNVFTVFNvYW5ESXMwVEZqZVFnMXA1Q1ZqMVRJS1AwcDFBU0pGajR4d3Z1Q24zbG80TFhDc0pKNFBfMkdSUVRzSnVJcmg3R3l2UF9PNlVRWkxQd3hoMWU5NTU4NVdTLXlFVE9HRjlTR2NsaTBNTFFDdVJEal9EOGMyRGVUeHhYOTBTcU8zSE9nS054dkpydw?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "6c2e449eeb26191a",
-          "headline": "Apple launches new Health AI study app to understand how people use AI for medical advice",
-          "source": "The Times of India",
-          "domain": "unknown-the-times-of-india",
-          "category": "research",
-          "publishedAt": "2026-11-16T05:23:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVp0N0NOWGhTREpjN0pIR1YtQ1g3ZFYyaDlhbVl3RUdVaE9qdFFOampoMUhuVFBSNzd3V0o4ZjVMRWc4S3hCNFJHcVVzVEllMHZSc1NDUnkxU0NFUkdZVmlGRHNsSDQxQlVvOEdWYzl3TllGMzZnWWRjZWNYRlBzVlFma2FDUDRuV09FbC14amJLcGE5cExzVTkzcFZhWE9GNGc3MmRFcGtnS1NmRzRieXN1R29DTU55c0d3M3dKZl9ZcDRqZ1B2dGZjM3BHUnp2dnJ4S05NWE9sc3ZmNnJwb21aUUdhSVdLZktsbFN2ZGZMTnA1dTJRbGFtal9zUlhhZ2fSAYcCQVVfeXFMTU9hc1FFNUh5cVZWU0ZhYjBncTltR2xJQnVfWmRtOW91WEdPeVZLLTlQS2hIODd4eUxFZWRrYl9nWFBrZ3hGUk9mVGY3RnlSQzczWGl4MHg2Mnljczl0YzJaWWUyV1A5R0RLUE5BNndPRFY3OWNuWVM2VlFjSVAwenowcmxqb0MyNjNveTRLX3kwY2JlaDhqQjVWTHctTlZDV3ZrSy1hYUlYYzdqTXBuOXBhZlpNOTdHN3AtV3hDZ2lsTndwS0JaVmxSN0J6VGQzU0ZUYWw4WGhtMS1EV1dDMlpYYkFoc2tfQ2t5anJVM2I2dnV5Q0ZNd1VrYzBkQ0pycWRvbGVRSTQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "e9c89db5ca00b21d",
-          "headline": "Apple launches new app to study how people use AI for health advice",
-          "source": "Moneycontrol.com",
-          "domain": "unknown-moneycontrol-com",
-          "category": "research",
-          "publishedAt": "2026-11-16T05:21:51.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlJwNnVnTmNyUXZMc0pZaWN4WEFpOEUzRkV2Nk9DakdLb0VXRWtlMjF2ci0yX0UxZlJJN2FrUVJzbjE3V3JJdVFtRDh3VjJpYUZfQ1lCWTN4QXFMTU90cXNhVjhIUURxdHhFN0tZb055UjluTnB4TVpfZDdvdURYUEQtNFMxbWVtYWtrQWpQVVVuSDctb09xaDgwdHF3YTh3NUhqQzlEX1NDV1lfUjZyTWhmdjg5RjVBN0QxM3VjNDkwcFNPRVZVOdIBzgFBVV95cUxOUjcwaTVSM3B1ZTFIQjBETE0yUS10dkVOcTNMald5bHRFdXllMlBXZlhibDdsNDg3Zl9nQkt1VWlmSFBEVlNIMXo5MXZHYVJ5UDdYZ0ZRMG5ScW8xX2N0RzBTdXczc2YzZ1lEOVVxSHlSVGxoamtTRGtNR0hDbjlDNTlVR3dKSEQ4N3RHZUtXeWNRSUIzTVFiNTlUa2I2dXJKZ09DbVhDZzg2dGRrT3FuejJKeFVtQjREcUNDcndZQ0RYZFhaOUJyVUNVb3JJQQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "6cbb54155a4a6c52",
-          "headline": "Apple launches AI health research study",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
-          "category": "research",
-          "publishedAt": "2026-11-16T02:03:48.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYlBWQW9LaXk1anVLcWNqYnM5a25sdkNiQW5yX3ZBSVY2cEZfTm1FQjdKTnB1UFBHMkJEZHRJYXl3ZkxqYW5XVE1YZDJEVUFUc2tmbVZFbUdrdGVsUGV3RDJRNENJWDBUZ2c2czRWdUFwWVMyN29v?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "c90153842668e150",
-          "headline": "Apple launches an AI health tool as part of a research study",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "domain": "unknown-abc-news-breaking-news-latest-news-and-v",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:44:47.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "66b82e32273bd582",
-          "headline": "Apple Launches New App to Study How People Use AI for Health",
-          "source": "CNET",
-          "domain": "unknown-cnet",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:37:15.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rV1F6aG1kcXZkZ01tbzNyaUtwOEh5dUlwVVdxc3RyZnJSTWtBUGpqUTV3RURrZVVUNjV3dkhZbjhmeklNdmdFdnY1a0l2RGcxS3Z5ajZRQWFnQXR4VzJLMS1sbC1sS3NTWGx6WFlRRGk?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "032f017e4aaf4bf6",
-          "headline": "HLTH26: Apple launches 200K-person study to examine how consumers use health AI",
-          "source": "Fierce Healthcare",
-          "domain": "unknown-fierce-healthcare",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:35:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "5b0c8b2dbd7f8df9",
-          "headline": "Apple launches new app to study how people use AI for health",
-          "source": "TechCrunch",
-          "domain": "unknown-techcrunch",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:30:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjVzaFloMmIxVmlIM2RkUlQ3V1ZHcHhVd0FWbEpIQm9sZDRPYlA4eTF1RlFfSlRpMTZ5VlRXUWtIc0ctWm9GbUlDWWM2eHAzT0JHbWI3ak9aWFlRMEcwcHdiZXllUHluVU1rMzRuRGZ3NWk0dURwVFVFT1VKcS1XQkJWSnM1alJGQTRWUzV3a1lYUzhLWGJFazNtVQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "fd076c58ecdeba27",
-          "headline": "Apple launches research study to explore the use of AI for health",
-          "source": "Apple",
-          "domain": "unknown-apple",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:24:28.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEhyWXRwQm9NZnp2SjdSVDVubTJCeXJGTW9kaks3bWpUTGdBRWdHejdqZ0VuQ25pODcwazZ5c0R2aDhwRlpKM3FGMjUxZFhNdHhfZ3huNTNDWWZSRXBVV294TDNwQWktVm9nTWlHaEFZZEhmRWVGbmlieUYxLWFQeFVKWUpsV1hVZ2lhOE56TUxYajVSMnNpcnpzVW12bUI3cG03X3g2QTA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "c98dd71dceb3f863",
-      "headline": "University GPU Crunch Slows AI Research",
-      "category": "general",
-      "publishedAt": "2026-11-16T03:41:30.000Z",
-      "score": 0.5174,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "71ad71d2b39fa81c",
-          "headline": "University GPU Crunch Slows AI Research",
-          "source": "Elets Technomedia",
-          "domain": "unknown-elets-technomedia",
-          "category": "general",
-          "publishedAt": "2026-11-16T03:41:30.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QZThDT2U2TTdmcUY1OFpDeUhvWnNvRzE5M0hiRkdBQkktLVBpanVzbFNlX2xQSVl4QUlXbW1yZVdsbmdtbkU5VWs2VzFwTlBnUEhCR1FFYlo4eVh5S0o4a2NwbTloQmItdThYWHVnZkw5T2hLNjRnWXU2blZMQQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "dfadba783973f65f",
-          "headline": "India's universities face GPU crunch as AI research drives demand for computing power",
-          "source": "Livemint",
-          "domain": "unknown-livemint",
-          "category": "general",
-          "publishedAt": "2026-11-16T00:20:42.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWZ0ZVBsbzA3bk1DdFFyTlh6NzNlQTBBVHJJa2E3eFRWQ0p0T2QyLTdKUk1VLWwyX1VpNExYUGNuaDBudnl5NmJZbmZreHd5VVJpNjd3MHl0c1l5aERCdklXV2pjbU5iLVBRNUxCUlMtYlhMeFBuMGV0bTIxSWdwbGp2azJtOVlXVm5BX3V3U3hxcW5uejBneG4ycm5LZWhhamFmQ9IBqgFBVV95cUxQRzZvN3NzRjg1X2Vjejl1b0xYSVZ3aWZoWGJfRDVkcXlxTkFoQkFROXUzcDVOeVhEekZROU4xOVlPNE8tTUdqX1o1ZFZNNkUyLV9PbU43LW1zcjluV0tPWFFFN3JHUk1KZXpNSm9nTU1WU1ExQW5ycnlZRXpFMzFVZHludnhEMUhfblRWR01lRzA1N0pNMm1vYWFkaGlmbXgzMWNFaU4tbUZRZw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "052cd77a89399ba3",
-      "headline": "Apple Opens 200,000-Seat Health AI Study With OpenEvidence",
-      "category": "research",
-      "publishedAt": "2026-11-16T03:06:00.000Z",
-      "score": 0.5093,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "a80e278b0d58cd32",
-          "headline": "Apple Opens 200,000-Seat Health AI Study With OpenEvidence",
-          "source": "BigGo Finance",
-          "domain": "unknown-biggo-finance",
-          "category": "research",
-          "publishedAt": "2026-11-16T03:06:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vcHJPUTE5b3dJTEU5TWdzQXE5QWxGSGMtckRqT001dUV2cm5GNHFsYV9sVi1qMFB2U0xhTkhOSk1NWWEwbEtoTFl6LW9JY1cwV1RHaVdWUG5UOWExNWxONzJlQ0NieUgtcUE4ZzNDRk9nVzhEX2c?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "b3301c4a9e0f034c",
-          "headline": "Apple Opens U.S. Study of Trust in Conversational Health AI",
-          "source": "Unite.AI",
-          "domain": "unknown-unite-ai",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:45:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2Q0WThxZDRHaWdSeGFDUjN4ZDJNWUxRTV9VeGZWV0NFdkh0b0xtWlRMWjBSXzlDN0YwOHZYTmVld3RLY3pESF9xTENaX2JwLThoWUJEaUlMenNhSTVqd2JfYkxRMEFSX0FMOFRTV0t3eE5qd2puWUNSZWNkTWUzaFJfbkVLUUU?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "c4dbe67e2ee2beea",
-      "headline": "US to name Nvidia, tech firms AI national champions despite Huang scandal",
-      "category": "general",
-      "publishedAt": "2026-11-16T06:40:00.000Z",
-      "score": 0.4792,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d86ec6aa328dafaa",
-          "headline": "US to name Nvidia, tech firms AI national champions despite Huang scandal",
-          "source": "Chosunbiz",
-          "domain": "unknown-chosunbiz",
-          "category": "general",
-          "publishedAt": "2026-11-16T06:40:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVm9NOUZlSndmRGU2UWhlbVJTS2hYcjZ0RnVpNllWVVVYNzd0cHloeHFtaVY4QVpJd2J6MVp6cG5ndjdzY0h6UzE2QnFPY1hDdGYtMm1JdWRORHNFSFdMWDh1OVY0Q0JabjRJX0pjZm00OVJhVk01REdET0p6MTJUdHJqQzQyN09F0gGcAUFVX3lxTE04YVZZVFJuMGI0dUFRMzQtZTdXQjh0LUxndEFzbFJDbWZDenpsMEd6dUkwbEl3Wk51RXFtdDZ5NFB6cF9ScmtvendCTWpPUGhsOEdteklhYVZXa05NUDl4WThoaU85SE1jWG92NUtJcFdTTDBQSHNCa0IwN19iaWdzNXRqdWE4UmNZU1FKTWZwZGlIdm5zR1VTdWg0cA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "c881dc9b27a73150",
-      "headline": "CataX AI raises RMB 40 million to bring AI agents into clinical drug development",
-      "category": "general",
-      "publishedAt": "2026-11-16T06:36:23.000Z",
-      "score": 0.4782,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "49c6cb1b81584f76",
-          "headline": "CataX AI raises RMB 40 million to bring AI agents into clinical drug development",
-          "source": "TechNode",
-          "domain": "unknown-technode",
-          "category": "general",
-          "publishedAt": "2026-11-16T06:36:23.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTV3bWlRTlc2d05rc2ExZ0Uxc3ltRVFYc3NHcHhuQlMyNUUtcElaaTJWZTI1NmliMTJaSmZKZXc1cUxSaFZtQV9XZE8yWVB5QXVTU21oVDdiUGNKNkNfVEN0SzRjUHhvVmF3b08wZG1ORVR1ZXhWTnplWUk4ajgyWjNoMWY4RzlvaDhFMUx3ZmV0cnFpZzYxVFpYeGlFcDZMMXdsOGFyRUdTVUpkSV9RWWsyNA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "87a0c0332c463bfe",
-      "headline": "Apple Is Studying How People Use AI for Health Advice as ChatGPT, Claude Gain Popularity",
-      "category": "research",
-      "publishedAt": "2026-11-16T06:14:17.000Z",
-      "score": 0.4722,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "9941abd6809ea634",
-          "headline": "Apple Is Studying How People Use AI for Health Advice as ChatGPT, Claude Gain Popularity",
-          "source": "Mashable India",
-          "domain": "in.mashable.com",
-          "category": "research",
-          "publishedAt": "2026-11-16T06:14:17.000Z",
-          "snippet": "Apple is studying how AI tools are changing the way people seek and understand medical information, as ChatGPT and Claude gain traction for health-related queries. Apple has partnered with…",
-          "imageUrl": "https://sm.mashable.com/mashable_in/photo/default/z3wq-2026-11-16t104214677_4kb7.jpg",
-          "url": "https://in.mashable.com/tech/116164/apple-is-studying-how-people-use-ai-for-health-advice-as-chatgpt-claude-gain-popularity",
-          "provider": "feed"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3aeb1508785c1f55",
-      "headline": "Alibaba Launches Qwen4-Max With Strict Cybersecurity Guardrails",
-      "category": "models",
-      "publishedAt": "2026-11-16T05:55:58.000Z",
-      "score": 0.4674,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "2029674975b6c762",
-          "headline": "Alibaba Launches Qwen4-Max With Strict Cybersecurity Guardrails",
-          "source": "news.lavx.hu",
-          "domain": "unknown-news-lavx-hu",
-          "category": "models",
-          "publishedAt": "2026-11-16T05:55:58.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVBpM3V0NWpLV3dZS2RQbVJ1UFFfMTJDWl9IaFZ3cjdRcC1VdHQwemxwamU3M2dNeFphVWhRWndIeVFaODRWMFhkVnFkQUlweEV0VkJjTUZKY2FES2xFRkpNbzdmeFpZTzNXQzRwQTZrdUJjVWZUT0NlWEhGNmJXbzEtdU90MEdHMVFvRUtaeDY1Y2N4MFRF?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "4e353ae9301d7404",
-      "headline": "SoMem Preprint Tests Self-Organizing Tree Memory for Long-Horizon LLM Agents",
-      "category": "models",
-      "publishedAt": "2026-11-16T05:53:52.000Z",
-      "score": 0.4668,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "6cf1a6a15e295593",
-          "headline": "SoMem Preprint Tests Self-Organizing Tree Memory for Long-Horizon LLM Agents",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
-          "category": "models",
-          "publishedAt": "2026-11-16T05:53:52.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUNrQlZTUFhfS1lRX2pYTnBodktVVnJkVndBbzBvZXlYa1MwbThyZnAteXlGN0FMTGJsN0hqN201ZF9Gd01hMVBFc0FMVGZ2bmJhYU9WSmZqTS1pX2hrbFBBcVNvOXFzMzJDZ21QNDg4UUJCZ2RNRlVUeXhwT2dSb0RDUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "371377ffb1e2d1ce",
-      "headline": "Shinhan Bank Goes Beyond AI Responses to Verify How Tasks Are Performed",
-      "category": "policy",
-      "publishedAt": "2026-11-16T05:35:58.000Z",
-      "score": 0.4622,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "22298636d0a2172b",
-          "headline": "Shinhan Bank Goes Beyond AI Responses to Verify How Tasks Are Performed",
-          "source": "파이낸셜뉴스",
-          "domain": "unknown-파이낸셜뉴스",
-          "category": "policy",
-          "publishedAt": "2026-11-16T05:35:58.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrM3diaDNNalp2ZDdoZGxBR1hTaFJwUHh3cFBFaURpQnNhT0RpY0gzYW5ScGEySzY4S1Zxa24xcHZvZW84VUhQb09oNnVweDdiSkZyMmFMNUo?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "acab359e53ca68c9",
-      "headline": "Survey finds GP practices embracing AI amid safety, privacy concerns",
-      "category": "policy",
-      "publishedAt": "2026-11-16T03:54:00.000Z",
-      "score": 0.437,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "87c3f899303a51da",
-          "headline": "Survey finds GP practices embracing AI amid safety, privacy concerns",
-          "source": "IT Brief New Zealand",
-          "domain": "unknown-it-brief-new-zealand",
-          "category": "policy",
-          "publishedAt": "2026-11-16T03:54:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaElCNUtiQS1ubGRJU3RZWjZwZFpHeU1rQjlHeWREcUZIUmVkaGM5b0tMbGVGUHh1dUM1a2dlVEJOOW1IYWpfNjJqdEVwcWcyMzJUUHVzY2t6Z1hhaUlpN1c4SmJ2ZU44THhmdG1naEJJeHFOY1hqMy1GeV9QT1BQRmRIUU1FR083c2ZOUnBFN2xHZXZGYlM2NUJaaw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3bfbab89cea5a085",
-      "headline": "BIM, University of Texas at Arlington to launch AI master's programme in Chennai in 2027",
-      "category": "models",
-      "publishedAt": "2026-11-16T03:30:00.000Z",
-      "score": 0.4315,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d017a8f56fda93a1",
-          "headline": "BIM, University of Texas at Arlington to launch AI master's programme in Chennai in 2027",
-          "source": "EdexLive",
-          "domain": "unknown-edexlive",
-          "category": "models",
-          "publishedAt": "2026-11-16T03:30:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWZOVG9sOWlYYTBOOVRWb3ZzQjE2Nm90QVRmeXpId24zeGhiUkxETU5Qd2tVbnJEMm1sM2RpUHNpd0l4SHpPRFByNFhDLVpzVnhJRFdfdGJ3MHF0SFlOVmVZbUxYb1NpdHlBMVZ6TFI0SV80LVJ4YXRHV1hueVdSU3g1Um1LeFVaamh2SVJtdnpPc3ZqM0VPczBsQ3pUVXh5WGVpM3I1SGljNlF2SWwzWWd3RkNfQm_SAcQBQVVfeXFMUFdmWk1ieXFyWmdnWmJJOXh0TFhIR0hsdm1kZ1pna19XVEQ4aldoTjV3b2x6bnVWZzU3b1NWVDVhTDBsbnBqQWJXMFZzeENDT3I5WjVOdHlTMHR4eUlMZzItbTZ3eGg0ek9pN012dXBxb2tHTVZZS1czbWVCLU5pTEZrYmwweHIwbDlVZks0aVZrQU5nNzcwS29hVHVXcDRaVjhJRUpvbHR6dW1ZQVFrZldoQVpsWmxiY3VZUFlVN2VfRVQtcg?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3e73d9cb2d0eb202",
-      "headline": "South Korea's Nota Targets Banks' Air-Gapped Networks With AI Coding Tool, Boosting GPU Throughput Up to 95%",
-      "category": "policy",
-      "publishedAt": "2026-11-16T02:27:00.000Z",
-      "score": 0.4174,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "5e8a12cbaabdc0db",
-          "headline": "South Korea's Nota Targets Banks' Air-Gapped Networks With AI Coding Tool, Boosting GPU Throughput Up to 95%",
-          "source": "BigGo Finance",
-          "domain": "unknown-biggo-finance",
-          "category": "policy",
-          "publishedAt": "2026-11-16T02:27:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XQ2Z5akhkVE5CTkZxOFlBOHVKMUFhODh6U0p5d0FjOGFQWm1heTZNX3RxU2dhcVNtR3lCdUg3M3JKMjI2RFlOaHNnT1d4cmtJN1NhTF8zOGJ4WnJhNmZpbzE4a3Z5eWh3bXFORkVHRHg1MEpHT1E?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "c1e5ea75595abed1",
-      "headline": "Global economy to grow 2.8% in 2027 as lower oil prices, AI investments support expansion: Goldman Sachs",
-      "category": "industry",
-      "publishedAt": "2026-11-15T04:07:27.000Z",
-      "score": 0.3344,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "b068d3e3d9001997",
-          "headline": "Global economy to grow 2.8% in 2027 as lower oil prices, AI investments support expansion: Goldman Sachs",
-          "source": "The Tribune",
-          "domain": "tribuneindia.com",
-          "category": "industry",
-          "publishedAt": "2026-11-15T04:07:27.000Z",
-          "snippet": "The global economy is expected to register steady growth in 2027, supported by declining energy prices and sustained investments in artificial intelligence (AI), although geopolitical tensions…",
-          "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE1YjZjZTAwLWUwYWEtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
-          "url": "https://tribuneindia.com/news/business/global-economy-to-grow-2-8-in-2027-as-lower-oil-prices-ai-investments-support-expansion-goldman-sachs",
+          "publishedAt": "2026-11-16T06:15:25.000Z",
+          "snippet": "Apple Health AI Study App: Apple's new research study will examine how people use AI for health information, assess the reliability of responses and understand whether such tools influence everyday…",
+          "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/16/thumb/fitandfill/1200X628/1794809568-1033.jpg",
+          "url": "https://business-standard.com/technology/tech-news/apple-launches-app-to-study-how-people-use-ai-for-health-queries-details-126111600875_1.html",
           "provider": "gnews"
         },
         {
-          "id": "3ab8ffb8d5c3d54e",
-          "headline": "Global economy to grow 2.8% in 2027 as lower oil prices, AI investments support expansion: Goldman Sachs",
-          "source": "ANI (Asian News International)",
-          "domain": "aninews.in",
-          "category": "industry",
-          "publishedAt": "2026-11-15T04:06:54.000Z",
-          "snippet": "The global economy is expected to register steady growth in 2027, supported by declining energy prices and sustained investments in artificial intelligence (AI), although geopolitical tensions…",
-          "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261115040221-thumbnail-320x180-70.jpg",
-          "url": "https://aninews.in/news/business/global-economy-to-grow-28-in-2027-as-lower-oil-prices-ai-investments-support-expansion-goldman-sachs20261115093654",
+          "id": "9e775042c53c67b0",
+          "headline": "Apple launches new app to test how you use AI for health questions",
+          "source": "India Today",
+          "domain": "indiatoday.in",
+          "category": "research",
+          "publishedAt": "2026-11-16T03:09:00.000Z",
+          "snippet": "Apple has launched an app with OpenEvidence to study how people use AI for health questions. The research will assess clinically grounded answers, personalisation and privacy safeguards.",
+          "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/apple-cuts-employee-ai-usage-051236896-16x9_1.png?VersionId=iKg_E2EGT0Fw3b7p9bZ6k9KSJwXzrg2o",
+          "url": "https://indiatoday.in/technology/news/story/apple-launches-new-app-to-test-how-you-use-ai-for-health-questions-3039638-2026-11-16",
           "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "75b1c98b2675957c",
+      "headline": "SquadStack.ai launches Maya, the world’s first Sales LLM, beating OpenAI, Google and leading open-source models on real sales calls",
+      "category": "models",
+      "publishedAt": "2026-11-16T14:02:53.000Z",
+      "score": 0.5384,
+      "publisherCount": 3,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "5f83c54701478371",
+          "headline": "SquadStack.ai launches Maya, the world’s first Sales LLM, beating OpenAI, Google and leading open-source models on real sales calls",
+          "source": "CXOToday.com",
+          "domain": "unknown-cxotoday-com",
+          "category": "models",
+          "publishedAt": "2026-11-16T14:02:53.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZjBGbEQyOGY3S0QwM2wxUG1PWjZsazRSUlZCdk5FNWJyT3c4bE8xVEtwSmpHSWY3S2MyMVhxaEZPSnVvRmhzSVJPdmtwVFhJaE1OLUx0QnpTb1pkVVhlLXZlYlVRRFFLcHRlV054RENUdnpxc2NobEV6R0NudHE2VFVJUTBGcUFCaHFRTl9BYkV2bTRiWWI1ajBQeVpLc1JEZEduelZwUzA3b0thMlEwZVg4dlYyLVpUdjZhZ0VGZWwzM0VwUlFxQnBvLXY1UVVZY2tqVWhWcERwcjUzeUhPdDVwUU1sOEJESW52N2ZwbkJJRmJiRjc4?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "9c99a484488fcb5f",
+          "headline": "SquadStack.ai launches Maya, claims its Sales LLM outperforms models from OpenAI, Google",
+          "source": "The Economic Times",
+          "domain": "unknown-the-economic-times",
+          "category": "models",
+          "publishedAt": "2026-11-16T09:08:26.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMWJuN0szeGhmNUJocFRBc0FlUkZOLVdUSW9YNFNqWTRWWGpuZmhFTXJCTkthbUVuLW5kTjZhdkJaTjZ0bDRIVXdtVXQ1UkpxUmNsWG51ejhvN0hTRUhzZm1RZExrQzZ1ekU3MnlTX0RpSUd4MnVaX1R0SVpqbGtHXzVmUVQzSTlGSE9uYU1maWRXWmRuUnRJdjBOS253ZDhhNVJVNEN0WU12V2hzR1F4aEZCamEtZW45NmNZU0kyRkxUSDFhREk5QTJCMXFGa1F1V1Q0MkRONFRlbVhlWjU4M3pSejVfV21KaHk5bVFpLVJGdTh1UVNN0gHwAUFVX3lxTE4zdENxNVppZExsSmJ6TC1lN3JUc1FuTjdLd3hCalVYWmRaUUl0aFJ3aGl4Q3hGa1EzTEc3cWJab3V0bTl1VWc4M1l3c1Zlc0h6QWpxRHVOZDNsd3ROTGRZaWpUTnV4OWJGQldwLVBOUlB2bkZpbHJhLXNPRlFRamlXam5wb2YwZU5WZ25EdlVkVTdPV1lLZlQzZV9pZ1BxajBiT1RYY3RRRlBGQ0ZUV19oQTVYU2JXRDBUUmdRRlJoOV9QV01XUW5BZmZKLVY1WXJBbXdXdlRmdFE3TXY4ZUIxRy1EanFDZlRpcm93M0tlSA?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "a6222e453ee6be3f",
+          "headline": "SquadStack Launches Maya, Sales AI Model That Takes On Global LLMs",
+          "source": "CIOL",
+          "domain": "unknown-ciol",
+          "category": "models",
+          "publishedAt": "2026-11-16T06:59:44.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2RWT2RBMHZNd0xYeG1SRVI3UC0tYnp2M3NKNUVvZ2Y3d0NUSVVJd1BhcmNLOGYxbVdodU9yRWg3MUFBY0ZRQkZOZ1ZoTG1fRVhzT0Exak9yTkdub3E0UDVvZW14NXNQWERSR2dCM010VDdtaGFaLWFZMmJtbVBPUmtHNEcyenRBbWVOVzV5WW0zajFiandlTFpzeU8zeVlmUkHSAaIBQVVfeXFMTkNkVk9kQTB2TXdMWHhtUkVSN1AtLWJ6djNzSjVFb2dmN3dDVElVSXdQYXJjSzhmMW1XaHVPckVoNzFBQWNGUUJGTmdWaExtX0VYc09BMWpPck5Hbm9xNFA1b2VteDVzUFhEUkdnQjNNdFQ3bWhhWi1hWTJibW1QT1JrRzRHMnp0QW1lTlc1eVltM2oxYmp3ZUxac3lPM3lZZlJB?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "1cf3f937abdec0c2",
+      "headline": "Dreamteam Raises $53M Led by Accel for AI CRM",
+      "category": "general",
+      "publishedAt": "2026-11-16T22:24:17.000Z",
+      "score": 0.483,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "655d5bb18bcff341",
+          "headline": "Dreamteam Raises $53M Led by Accel for AI CRM",
+          "source": "CASRAI",
+          "domain": "unknown-casrai",
+          "category": "general",
+          "publishedAt": "2026-11-16T22:24:17.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3hiLTlxYVVjSFc4WHV5U2RYcjE2Qm12VEMzZnpqbTFNU2pTeFhtMjdMM3IzTjVweXEwazZQUFdvandadVp6dTZNcV9jWkxKdzNEQTBPay1XcHlObkdwclFFcGVVcDZrY3NLdXVVWElHcC0tdDE0RXZubTZqY0hkUUJNYm50M0k?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "ac41e4ec4e5795b5",
+      "headline": "Can genome editing be safer and more effective?",
+      "category": "general",
+      "publishedAt": "2026-11-16T22:21:50.000Z",
+      "score": 0.4824,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "fd5337ac4ba2875a",
+          "headline": "Can genome editing be safer and more effective?",
+          "source": "Salk Institute",
+          "domain": "unknown-salk-institute",
+          "category": "general",
+          "publishedAt": "2026-11-16T22:21:50.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDF4Vi1kM2t0a3VUb1JKUTBVc2Y1MHNyNTdoMWswdjlKUm5NNVFvQkxOTEt4MUdCWHRGeWxkdXp3Nnp5X3pMbGZHQW5uWFZuV1EyalRYNmhQbEk4MG9VcGViY2RvMFpxbUZ5ZEFxZXhFN3V5eVBvSGkxWk9hbzNMM0FIbGJpb2hh?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "c900b2dbd9954a8d",
+      "headline": "ESMO Launches a New Peer-Reviewed Journal Dedicated to Artificial Intelligence in Oncology",
+      "category": "models",
+      "publishedAt": "2026-11-16T21:53:04.000Z",
+      "score": 0.4745,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d12f1fcdeac28718",
+          "headline": "ESMO Launches a New Peer-Reviewed Journal Dedicated to Artificial Intelligence in Oncology",
+          "source": "Oncodaily",
+          "domain": "unknown-oncodaily",
+          "category": "models",
+          "publishedAt": "2026-11-16T21:53:04.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrTEFmSDBWYXJPUHJNVno4WEYzdFJTWkQtc1NORlF0a01yMFZrOWRpdFozaUdWcU1BcHpHMmZHd0YzdUVTVmxuQ0ZlQXI?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "e695219ce5950a92",
+      "headline": "Humaid Al-Shamsi։ Leading the World’s Largest Contribution with 10 Specialized Research Papers on Cancer and AI",
+      "category": "research",
+      "publishedAt": "2026-11-16T21:35:21.000Z",
+      "score": 0.4698,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e48af26dc6fd3655",
+          "headline": "Humaid Al-Shamsi։ Leading the World’s Largest Contribution with 10 Specialized Research Papers on Cancer and AI",
+          "source": "Oncodaily",
+          "domain": "unknown-oncodaily",
+          "category": "research",
+          "publishedAt": "2026-11-16T21:35:21.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oZFc5cFBoVXUzVnA0eWcyWnF6dDUtSXhmX0Z5V0tXWjF6QTBxSGNFX1RwU291a0ZTUGhydWg0aVJnQU9pREJOQkEtQ0FjdEJMcWVBWF9BYXNBckI0VmlUQUdn?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "15d184b4f1f0b5f5",
+      "headline": "Multimodal Machine Learning Identifies Two Distinct Biological Subtypes of Heart Failure",
+      "category": "general",
+      "publishedAt": "2026-11-16T21:31:56.000Z",
+      "score": 0.4689,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "bc90d57211681cba",
+          "headline": "Multimodal Machine Learning Identifies Two Distinct Biological Subtypes of Heart Failure",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-11-16T21:31:56.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTNZLUdpd05fZHc4UHdtS3hFeXlRSXFaeHlvVkdXODhhUWIyOEpZbU5zcmYwTXJmSWlmLTlyeVdnY1NWWEhEeVlNb2Jqd1NIbllPNEhPUjlIcDQwbzBzTERYaWQ0aHg3X0Y2SnVPY05MUzdHdWVWRTJwdjI4aE9PWGQwbHB0a2E2TUktSFFiclpfV3p3T19BS3l3aVRjajh2aTh2aVhBaHBXOFN0MGhGTWVrOA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8a4d014e66be9b5e",
+      "headline": "Alibaba launches Qwen4-Max with training, attention optimizations",
+      "category": "models",
+      "publishedAt": "2026-11-16T21:21:00.000Z",
+      "score": 0.466,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e4c1273070101759",
+          "headline": "Alibaba launches Qwen4-Max with training, attention optimizations",
+          "source": "SiliconANGLE",
+          "domain": "unknown-siliconangle",
+          "category": "models",
+          "publishedAt": "2026-11-16T21:21:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTFhRTFXWXF1eU9VbU5TVzczdXJady1PdF8zV3puTE5naURwTGdQa252SXctU1o3UUp0VHI0SXFwLWp0Z25neloteU93ZFBCZzhDX1hoak9Oenk0TXRucE5UNkN5Q3dpYTRpakdfRGZaMnFveXd1a2pBTmRPV1pZMHFUS1o5aXdRbmU2UG9BWXlHTUtGSmZGS253MEdVMkVPQ3ZR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "78dc44481c93ae62",
+      "headline": "The Machine Learning Curve: 2026 National AI Employment Law Updates",
+      "category": "policy",
+      "publishedAt": "2026-11-16T21:09:02.000Z",
+      "score": 0.4629,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "6b47de0bda60a0e5",
+          "headline": "The Machine Learning Curve: 2026 National AI Employment Law Updates",
+          "source": "JD Supra",
+          "domain": "unknown-jd-supra",
+          "category": "policy",
+          "publishedAt": "2026-11-16T21:09:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiQzNZQTFxQ09mR0VUSWpmc0pDcU9SNFVZSlpBT2dleEoxYnJ6OXJFV0VmUTNfSG9OQ1dubDhIcVNQSzFBWjh6UnFzVWwxUm1FZ2NRWXZSSWZEZGU2cTcteFA4dW9kaDhZMV9NbTFlelVRem55WUVBcXVzOUl3UUU?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "998266ed00e6d9d2",
+      "headline": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
+      "category": "research",
+      "publishedAt": "2026-11-16T14:30:01.000Z",
+      "score": 0.4599,
+      "publisherCount": 2,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "73dc744cf8e09e3b",
+          "headline": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
+          "source": "Tech Xplore",
+          "domain": "unknown-tech-xplore",
+          "category": "research",
+          "publishedAt": "2026-11-16T14:30:01.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5X0E0UHV4Y1o1UTZwVnBYU0otUkpTQmVtWFZmVzJ2RXNCbVJoOWlfcFMzNXM1Z2dOcFJiTVJWa1lNeE9tTlRLT3ROTnR3SDJ2RzJjV1BWM0JXeVlGZzU4TjhGc2hKcmZfQm15VGtCZGxSaGtvWUZwQXhtb2hlUQ?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "7058578a7c64ebf6",
+          "headline": "Less Data, Faster Discovery: Researchers Rethink AI’s Role in Developing New Materials",
+          "source": "Michigan Technological University",
+          "domain": "unknown-michigan-technological-university",
+          "category": "research",
+          "publishedAt": "2026-11-16T13:07:58.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVB2YmloX3NybVVKUTRtZU9PaENiQUZ4NFY2SHZJZXRYSnRoM1FJc0FSejVwVTlGWjNTZmFaT0E0a0E5UDFabWtwMmJYS3dyNkNIbi1rdXYyUF95Mk5zS1lkaUF6aVN5ZjZ5RENzZTdzSzc3bjRmanlNTUlEXy1RZjRERGloY05MR0xKd0c3WlpjcmNuZDBzdzZXbXgwVkc5SVVIN0JXOFZpckdLZGZOaUR2by1SOE1GMkxWd2FB?oc=5",
+          "provider": "google-news"
         }
       ],
       "briefing": null
@@ -582,1370 +435,1310 @@
   ],
   "latest": [
     {
-      "id": "c4dbe67e2ee2beea",
-      "headline": "US to name Nvidia, tech firms AI national champions despite Huang scandal",
+      "id": "1cf3f937abdec0c2",
+      "headline": "Dreamteam Raises $53M Led by Accel for AI CRM",
       "category": "general",
-      "publishedAt": "2026-11-16T06:40:00.000Z",
-      "score": 0.4792,
+      "publishedAt": "2026-11-16T22:24:17.000Z",
+      "score": 0.483,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "d86ec6aa328dafaa",
-          "headline": "US to name Nvidia, tech firms AI national champions despite Huang scandal",
-          "source": "Chosunbiz",
-          "domain": "unknown-chosunbiz",
+          "id": "655d5bb18bcff341",
+          "headline": "Dreamteam Raises $53M Led by Accel for AI CRM",
+          "source": "CASRAI",
+          "domain": "unknown-casrai",
           "category": "general",
-          "publishedAt": "2026-11-16T06:40:00.000Z",
+          "publishedAt": "2026-11-16T22:24:17.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVm9NOUZlSndmRGU2UWhlbVJTS2hYcjZ0RnVpNllWVVVYNzd0cHloeHFtaVY4QVpJd2J6MVp6cG5ndjdzY0h6UzE2QnFPY1hDdGYtMm1JdWRORHNFSFdMWDh1OVY0Q0JabjRJX0pjZm00OVJhVk01REdET0p6MTJUdHJqQzQyN09F0gGcAUFVX3lxTE04YVZZVFJuMGI0dUFRMzQtZTdXQjh0LUxndEFzbFJDbWZDenpsMEd6dUkwbEl3Wk51RXFtdDZ5NFB6cF9ScmtvendCTWpPUGhsOEdteklhYVZXa05NUDl4WThoaU85SE1jWG92NUtJcFdTTDBQSHNCa0IwN19iaWdzNXRqdWE4UmNZU1FKTWZwZGlIdm5zR1VTdWg0cA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3hiLTlxYVVjSFc4WHV5U2RYcjE2Qm12VEMzZnpqbTFNU2pTeFhtMjdMM3IzTjVweXEwazZQUFdvandadVp6dTZNcV9jWkxKdzNEQTBPay1XcHlObkdwclFFcGVVcDZrY3NLdXVVWElHcC0tdDE0RXZubTZqY0hkUUJNYm50M0k?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "c881dc9b27a73150",
-      "headline": "CataX AI raises RMB 40 million to bring AI agents into clinical drug development",
+      "id": "ac41e4ec4e5795b5",
+      "headline": "Can genome editing be safer and more effective?",
       "category": "general",
-      "publishedAt": "2026-11-16T06:36:23.000Z",
-      "score": 0.4782,
+      "publishedAt": "2026-11-16T22:21:50.000Z",
+      "score": 0.4824,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "49c6cb1b81584f76",
-          "headline": "CataX AI raises RMB 40 million to bring AI agents into clinical drug development",
-          "source": "TechNode",
-          "domain": "unknown-technode",
+          "id": "fd5337ac4ba2875a",
+          "headline": "Can genome editing be safer and more effective?",
+          "source": "Salk Institute",
+          "domain": "unknown-salk-institute",
           "category": "general",
-          "publishedAt": "2026-11-16T06:36:23.000Z",
+          "publishedAt": "2026-11-16T22:21:50.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTV3bWlRTlc2d05rc2ExZ0Uxc3ltRVFYc3NHcHhuQlMyNUUtcElaaTJWZTI1NmliMTJaSmZKZXc1cUxSaFZtQV9XZE8yWVB5QXVTU21oVDdiUGNKNkNfVEN0SzRjUHhvVmF3b08wZG1ORVR1ZXhWTnplWUk4ajgyWjNoMWY4RzlvaDhFMUx3ZmV0cnFpZzYxVFpYeGlFcDZMMXdsOGFyRUdTVUpkSV9RWWsyNA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDF4Vi1kM2t0a3VUb1JKUTBVc2Y1MHNyNTdoMWswdjlKUm5NNVFvQkxOTEt4MUdCWHRGeWxkdXp3Nnp5X3pMbGZHQW5uWFZuV1EyalRYNmhQbEk4MG9VcGViY2RvMFpxbUZ5ZEFxZXhFN3V5eVBvSGkxWk9hbzNMM0FIbGJpb2hh?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "3dabb064cb7aa693",
-      "headline": "Google Project Zero will disclose bugs after 90 days, fixed or not",
+      "id": "c900b2dbd9954a8d",
+      "headline": "ESMO Launches a New Peer-Reviewed Journal Dedicated to Artificial Intelligence in Oncology",
+      "category": "models",
+      "publishedAt": "2026-11-16T21:53:04.000Z",
+      "score": 0.4745,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d12f1fcdeac28718",
+          "headline": "ESMO Launches a New Peer-Reviewed Journal Dedicated to Artificial Intelligence in Oncology",
+          "source": "Oncodaily",
+          "domain": "unknown-oncodaily",
+          "category": "models",
+          "publishedAt": "2026-11-16T21:53:04.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrTEFmSDBWYXJPUHJNVno4WEYzdFJTWkQtc1NORlF0a01yMFZrOWRpdFozaUdWcU1BcHpHMmZHd0YzdUVTVmxuQ0ZlQXI?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "e695219ce5950a92",
+      "headline": "Humaid Al-Shamsi։ Leading the World’s Largest Contribution with 10 Specialized Research Papers on Cancer and AI",
+      "category": "research",
+      "publishedAt": "2026-11-16T21:35:21.000Z",
+      "score": 0.4698,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e48af26dc6fd3655",
+          "headline": "Humaid Al-Shamsi։ Leading the World’s Largest Contribution with 10 Specialized Research Papers on Cancer and AI",
+          "source": "Oncodaily",
+          "domain": "unknown-oncodaily",
+          "category": "research",
+          "publishedAt": "2026-11-16T21:35:21.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oZFc5cFBoVXUzVnA0eWcyWnF6dDUtSXhmX0Z5V0tXWjF6QTBxSGNFX1RwU291a0ZTUGhydWg0aVJnQU9pREJOQkEtQ0FjdEJMcWVBWF9BYXNBckI0VmlUQUdn?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "15d184b4f1f0b5f5",
+      "headline": "Multimodal Machine Learning Identifies Two Distinct Biological Subtypes of Heart Failure",
       "category": "general",
-      "publishedAt": "2026-11-16T06:30:02.000Z",
-      "score": 0.4765,
+      "publishedAt": "2026-11-16T21:31:56.000Z",
+      "score": 0.4689,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "bc90d57211681cba",
+          "headline": "Multimodal Machine Learning Identifies Two Distinct Biological Subtypes of Heart Failure",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-11-16T21:31:56.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTNZLUdpd05fZHc4UHdtS3hFeXlRSXFaeHlvVkdXODhhUWIyOEpZbU5zcmYwTXJmSWlmLTlyeVdnY1NWWEhEeVlNb2Jqd1NIbllPNEhPUjlIcDQwbzBzTERYaWQ0aHg3X0Y2SnVPY05MUzdHdWVWRTJwdjI4aE9PWGQwbHB0a2E2TUktSFFiclpfV3p3T19BS3l3aVRjajh2aTh2aVhBaHBXOFN0MGhGTWVrOA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "da2c693aa5cdc56a",
+      "headline": "Anthropic AI Acceleration Verges On Risk Thresholds, Group Says",
+      "category": "general",
+      "publishedAt": "2026-11-16T21:22:00.000Z",
+      "score": 0.4663,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "a3f6c180e56b233d",
-          "headline": "Google Project Zero will disclose bugs after 90 days, fixed or not",
-          "source": "Help Net Security",
-          "domain": "unknown-help-net-security",
+          "id": "4cb7d98775a9ac41",
+          "headline": "Anthropic AI Acceleration Verges On Risk Thresholds, Group Says",
+          "source": "Investor's Business Daily",
+          "domain": "unknown-investors-business-daily",
           "category": "general",
-          "publishedAt": "2026-11-16T06:30:02.000Z",
+          "publishedAt": "2026-11-16T21:22:00.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUptRTdXVUhwRy1tWGJ5RkNtWVpCN1JnM0p5VDB0YnRDTDQzVFRUYi1rODhZZVJNTm1EVkQ4a3RmUm0yX0pFcmpYVzBiTlZGc0ZTUkVGTEZYYVBydUF4dlpHVDl0U0EyQnhmdnJtb3Q0QnFLWnpZLTN4aU5wb0V1aEkzTWtVOHpP?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJIOUpNVWxHX2ZwUGpheFlRYjMybzhqanVFWmMwSHZ1SnhhcjNSR0Nvbm85WURwTGpuaG13ejh0cVl0Wk1vZ1ZINnpxcmg3NENZeVBxdTVsM2FRUk9BTEpPUkVjZG1ncDhSOURKemoxU0hZdkJRMkJDTHVQLUpLcnIycFoyaUxxSTY4WFJPcWlXby1ZbzJjb0dSeWNkS0ZwYlpwZjJHNTYzUVl0dFdfSmNkMA?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "dee9573ea0da31b7",
-      "headline": "Apple launches app to study how people use AI for health queries: Details",
+      "id": "fe9153f0ab086c43",
+      "headline": "Why AI-Driven Chip Design Requires Physics-Aware Co-Optimization",
+      "category": "general",
+      "publishedAt": "2026-11-16T21:21:53.000Z",
+      "score": 0.4662,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "2ed6945fcf487be4",
+          "headline": "Why AI-Driven Chip Design Requires Physics-Aware Co-Optimization",
+          "source": "Electronic Design",
+          "domain": "unknown-electronic-design",
+          "category": "general",
+          "publishedAt": "2026-11-16T21:21:53.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeU03R0xZaXk1OEpqMFNfWDJ0R2QxX282TVQyTGhuVWxqUnh1VC1XMGh5bVZIQnM2ZV8zR3kwanVuS2thbTZoUDV1VmxjczU5QmotOHBtNllmelFqaTg1ejdTb29JUzdTUFQyR3RLYkNGWDh4dUNUSW43WHVXV3ZTdUpFVm9haXAtaUo1LTl3ZkdDOGdZcGQyLXJpeTU0c011THo2REMwZThzSTdnN1M0cUJFS1JNVUp0RDN6YkJMS2wtWjhtVll4N2x0bjRrM1hlUTFzSmpSNzRDZGN6bWJubTIxblhPYUVhdjFwcUk5c1pDdkxaakR3?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "1af276dea1ec807f",
+      "headline": "Machine Learning Accurately Predicts Odor Detection Thresholds for Food Flavor Compounds",
+      "category": "general",
+      "publishedAt": "2026-11-16T21:21:40.000Z",
+      "score": 0.4662,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4c18610667ed401f",
+          "headline": "Machine Learning Accurately Predicts Odor Detection Thresholds for Food Flavor Compounds",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-11-16T21:21:40.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWRObVBWWFdFUlUwSmZ3WlhubVhaS0pzVE5wb0piTUo1eVJRN255UFloVW9DaWVLTzNPNUI1LUZSSDhKZE4tUU5BZ2Fza0t3SnktZHU3NlVjUkNuRzg3c0dQTnhnNmk4SkY5RnFndzY3bXVpVGRkVjRpNHhwNmI0OXJEajZoaWdrV0RUcTJrXzFxTXVMdG5TYmJCUmh6SEpsOFJtRHRlb2lUT0NDbUQ2dmFNTQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "242005a2fd96bcb3",
+      "headline": "Machine Learning Identifies Key Factors Linked to Preschool Respiratory Infections",
+      "category": "general",
+      "publishedAt": "2026-11-16T21:21:40.000Z",
+      "score": 0.4662,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "b24d851db4121895",
+          "headline": "Machine Learning Identifies Key Factors Linked to Preschool Respiratory Infections",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-11-16T21:21:40.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkFlbkx1T1BFSFZqX1lmZjg4NHZiVzJlNWFZdnhscTJONWV5TEdJOHZFRkZuS0E3TU9fV2l5Qm5pVG4tWEZjTXdDWEhNZzZvYVduSjcySzc1ckZ4SWNPd1dlMG5jQ3dNWDlRZmtCRTNHSWk0d2Z6MXNwOU55RjFmYS10aEE5TzRKLXJrZDhSVVNiS0V5UjkxY1FPVjVSZUtOd19Pd3B0SzI3VUk?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8a4d014e66be9b5e",
+      "headline": "Alibaba launches Qwen4-Max with training, attention optimizations",
+      "category": "models",
+      "publishedAt": "2026-11-16T21:21:00.000Z",
+      "score": 0.466,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e4c1273070101759",
+          "headline": "Alibaba launches Qwen4-Max with training, attention optimizations",
+          "source": "SiliconANGLE",
+          "domain": "unknown-siliconangle",
+          "category": "models",
+          "publishedAt": "2026-11-16T21:21:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTFhRTFXWXF1eU9VbU5TVzczdXJady1PdF8zV3puTE5naURwTGdQa252SXctU1o3UUp0VHI0SXFwLWp0Z25neloteU93ZFBCZzhDX1hoak9Oenk0TXRucE5UNkN5Q3dpYTRpakdfRGZaMnFveXd1a2pBTmRPV1pZMHFUS1o5aXdRbmU2UG9BWXlHTUtGSmZGS253MEdVMkVPQ3ZR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "78dc44481c93ae62",
+      "headline": "The Machine Learning Curve: 2026 National AI Employment Law Updates",
+      "category": "policy",
+      "publishedAt": "2026-11-16T21:09:02.000Z",
+      "score": 0.4629,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "6b47de0bda60a0e5",
+          "headline": "The Machine Learning Curve: 2026 National AI Employment Law Updates",
+          "source": "JD Supra",
+          "domain": "unknown-jd-supra",
+          "category": "policy",
+          "publishedAt": "2026-11-16T21:09:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiQzNZQTFxQ09mR0VUSWpmc0pDcU9SNFVZSlpBT2dleEoxYnJ6OXJFV0VmUTNfSG9OQ1dubDhIcVNQSzFBWjh6UnFzVWwxUm1FZ2NRWXZSSWZEZGU2cTcteFA4dW9kaDhZMV9NbTFlelVRem55WUVBcXVzOUl3UUU?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "86720162259af024",
+      "headline": "Machine Learning Model Simulates Solid Electrolyte Interphase Reactions in Lithium Batteries",
+      "category": "general",
+      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "score": 0.4605,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "66198346c755e7d3",
+          "headline": "Machine Learning Model Simulates Solid Electrolyte Interphase Reactions in Lithium Batteries",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-11-16T21:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0xkc29jS3o3YkpqdmNNSk4yaHJ3QWgtT0dROHc2V2FvSlQ5cnFwWmtaMElLQmdERS1sTGdCa2dFVGNYRWoxeVk3R18zUmhQMXZMZ1hFQTljUERMRktwanRObDBxRmVXdUdLeVVEbnFVRVFfSE01UUxNQlVSYnNXTkNBdWstQW1BcjZGQUNRbmxLbHBHRVZURzNES2JrbFdtTkY0Y1FfTVVSR1hGSVljajA4eDI2c2Y2?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "1a943c51449c74c2",
+      "headline": "Tuned Machine Learning Fails to Outperform Persistence in Desalination Pilot Study",
       "category": "research",
-      "publishedAt": "2026-11-16T06:15:41.000Z",
-      "score": 0.8893,
-      "publisherCount": 9,
+      "publishedAt": "2026-11-16T20:56:37.000Z",
+      "score": 0.4597,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "6330e1e52757ac5d",
+          "headline": "Tuned Machine Learning Fails to Outperform Persistence in Desalination Pilot Study",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "research",
+          "publishedAt": "2026-11-16T20:56:37.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEpJZGxjRS1lOGxSal9YTTlHVGhPbUFxRzFUZGVSZGxOX0RDMnV2V1JnUzV2N05WOWVSUExSMDk2VV9SOTMxUGpuUnFhTEJ2NnpmWUJ2V3EtUmtJXzloT2RSOUNmUmFzeDdhS080WG9RS3JYR2NHNEZYRGp2cHNqc09BbDQ3U0xpZTdRNXd2aG9DSXhvRXpZZHlia2pDTnl5WXJFbTdya1VLR1k?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f7de26693a2b715a",
+      "headline": "Why Bangladesh must clean its data house before building a Bangla LLM",
+      "category": "models",
+      "publishedAt": "2026-11-16T20:37:30.000Z",
+      "score": 0.4548,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4fba39562cde15d3",
+          "headline": "Why Bangladesh must clean its data house before building a Bangla LLM",
+          "source": "Daily Bonik Barta",
+          "domain": "unknown-daily-bonik-barta",
+          "category": "models",
+          "publishedAt": "2026-11-16T20:37:30.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yWGFXQ2dXZTBYM3dieFVOZXFRbHloMkpzTG5wZVdnRTV6V0dPR2lsQnNNNzRlV2NYeFRZaTRvdDc2MkhoR0JJRnB6bk5DTWVUUG4tbzlHYnh4ekpoNjBn?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "a770109fe8423674",
+      "headline": "Fed Chair Warsh Warns Of Super Intelligence Risks To US Economy",
+      "category": "general",
+      "publishedAt": "2026-11-16T20:13:43.000Z",
+      "score": 0.4489,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d0a1bb81d026a21c",
+          "headline": "Fed Chair Warsh Warns Of Super Intelligence Risks To US Economy",
+          "source": "Forbes Middle East",
+          "domain": "unknown-forbes-middle-east",
+          "category": "general",
+          "publishedAt": "2026-11-16T20:13:43.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT2ZENVQ1NG4zalM0SVh5YzktN2dtVEttMFE2Q0tXckk3eE5QUkN0YksySWZ5OGxMQkc4Tzl2TVl0YXpNMnpGODNxekR2ektBQmFOUldZQWFCNE5PUmxLRnJ5RmcyRWtqNl9uNUdidlhqU0lmaUlfeG02VGZtU1ZwVW55djhJckpheThWaFp0eUVVeEk1NUJ6N0hPSEpULVNMSDY0Z2pWOS1iVVctVHlVTnV2SXlGRzcxczMyenVnWkNyQWV1Mk8wMjhiZWxmOXRfXzNwTnlYS0tmenpDMTJFVHd5WDg?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d5339975b71545d0",
+      "headline": "From supply chains to cancer research: How causal AI is opening new research paths",
+      "category": "general",
+      "publishedAt": "2026-11-16T19:40:12.000Z",
+      "score": 0.4408,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "753345147498cafd",
+          "headline": "From supply chains to cancer research: How causal AI is opening new research paths",
+          "source": "Medical Xpress",
+          "domain": "unknown-medical-xpress",
+          "category": "general",
+          "publishedAt": "2026-11-16T19:40:12.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01UDlpUjZWMFV1R1BIVXJoVVhhd1BuZ2w3MGhNTVU3d21SMkVwOTI1em0wREdBMWRlamxQSnF5ZFJ6TUhqRkxnOWN4VF9BVG5FOENOdDhmd2d4UFpKLTk0bkt4dkhUQzA5bjZoQ0lGeXZDSnk5ajdxdlFhSHlYdw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f4128760c2174df2",
+      "headline": "INFevo Raises Over RMB 100M Pre-A to Expand AI Virtual-Cell Research",
+      "category": "general",
+      "publishedAt": "2026-11-16T19:37:04.000Z",
+      "score": 0.4401,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "642875aaca7928b1",
+          "headline": "INFevo Raises Over RMB 100M Pre-A to Expand AI Virtual-Cell Research",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
+          "category": "general",
+          "publishedAt": "2026-11-16T19:37:04.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamhvZnYyMENFLUVETTBvNVFlX1EwWm4wTmdqZ3ZDM2gzckhoaFFfQmNPc2F5Mlk0OVlaVUNCVlhqUGVBaEpYNkVjTlhaTlVMMjl6QzdybjZqQTNZeUNoY1dWbDREX3hNNjUwQzR0bUNmanFBVVVNdEc3c0VEbVFwX3VueTZJV1QySndVOVpfZ0JyUHZ4?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d2f562816d02b969",
+      "headline": "Can AI answer your health questions? Apple opens study to 200,000 Americans",
+      "category": "research",
+      "publishedAt": "2026-11-16T19:31:37.000Z",
+      "score": 0.4388,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "f8fb5543ccf54adb",
+          "headline": "Can AI answer your health questions? Apple opens study to 200,000 Americans",
+          "source": "The American Bazaar",
+          "domain": "unknown-the-american-bazaar",
+          "category": "research",
+          "publishedAt": "2026-11-16T19:31:37.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWG04NjVka1BUYkJVcHJPYW1tLUNuMHFwZGk5RlRKZzM4Wl8tdEtxbXZlcDM3T1ZoRHNudGZOUVhUWVdsZEFCRjh0WVprSk85NGtqb1BWVlhRTGdPbXYtWnJQaFFMUTJ5V0Y4RTFYUDlJODY3a1NUemx4ZXlJUU1aQzZfT1NGUWFhSXNYeVNuU3ZkRHU0dnBqekxuWW5jYXE4R2xmX2lmZlg1a3lQUUpGaXNMd0VDZnJtSW9wSjdBU1FTZWs?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "becf5ba94a504165",
+      "headline": "Toward a Theory of Evaluability",
+      "category": "general",
+      "publishedAt": "2026-11-16T19:26:39.000Z",
+      "score": 0.4376,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "0b57b1edaecfa59b",
+          "headline": "Toward a Theory of Evaluability",
+          "source": "Apple Machine Learning Research",
+          "domain": "unknown-apple-machine-learning-research",
+          "category": "general",
+          "publishedAt": "2026-11-16T19:26:39.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5ZkJvRVN5dFVRWGhZN2czMjhMNHNWdU4ySUo4Q2JkRVZvTVBFaUpCYWE0RnFSampxR2xqdXhfUGFnX2xkWmJrb3E4eE1JWE1DTnhKU2NJZk9KYU1BbzEyRGZyS2tFWUNIVmtjMWFRbw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "70747b59dbc1d5ee",
+      "headline": "Apple could build its AI health chatbot from this study – how to enroll",
+      "category": "research",
+      "publishedAt": "2026-11-16T19:25:57.000Z",
+      "score": 0.4374,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "2195f4a97320a25a",
+          "headline": "Apple could build its AI health chatbot from this study – how to enroll",
+          "source": "ZDNET",
+          "domain": "unknown-zdnet",
+          "category": "research",
+          "publishedAt": "2026-11-16T19:25:57.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KSVZ0Z1dLVXJuZDR6QXZZQ19vNkVtNXZncEV1UUVrVm1YcHVqMkt6am82VzdTU1NEdjZlLWwydjJyOXB0Z0tXTDMyQ1JQSVVyMUxVZm12NWhWdDdtQ1ZZcFdKSS1oV0tBVUJkYTlKTGFxX0NvS1BWTw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "120dd54a582d9806",
+      "headline": "AI’s Accuracy Nears the Best Human Forecasters",
+      "category": "general",
+      "publishedAt": "2026-11-16T19:15:09.000Z",
+      "score": 0.4349,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "342fa2faeccda6b4",
+          "headline": "AI’s Accuracy Nears the Best Human Forecasters",
+          "source": "Communications of the ACM",
+          "domain": "unknown-communications-of-the-acm",
+          "category": "general",
+          "publishedAt": "2026-11-16T19:15:09.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJaEx6dzJLaVQ3cW91cWZkV3ZVcGt2ejFyV3BOWm9OZ0NIanRuVlRkNEYyLWkzS0xIcExGRjJyLUxWLUQzU2wwY2NaZklUcl9UeHBZWFBHd1VzMnlUNGZmQnl4bkxSNkxvZlZ4TTdQSURQWExxS0lvUkVzSFY?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "73d7c66dc6529b54",
+      "headline": "China’s grip on Top500 remains uncontested as US chases AI-HPC fusion",
+      "category": "general",
+      "publishedAt": "2026-11-16T19:00:00.000Z",
+      "score": 0.4314,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "a23a0633a637811a",
+          "headline": "China’s grip on Top500 remains uncontested as US chases AI-HPC fusion",
+          "source": "The Register",
+          "domain": "unknown-the-register",
+          "category": "general",
+          "publishedAt": "2026-11-16T19:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1JrSGhSZDNYbFM0Wkx5QXJWRzFkQW5rY2QzLWdERzF6Z3JoWlgzeWhsMHlUU2FseTZaLVNyS1JtdGFHYWpuemhid2p1eGZMQmlYZGhORFQxb2ZTXzRXM3JyTEUyd05rbmVmcFJsUi11UzFwMjRZdndXbkduX0Q0ZkhoZldCSENoUFlvRldqajA1WDZULWZuZndOYVJJWTM3OUl0ZWExbS11ODEtRExncnFHcEdhODB6aVgzUFdIVXg?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "6a986c9af0ad542d",
+      "headline": "Reproducing History Is Not Enough: Intervention-Level Assurance for LLM-Generated Simulators",
+      "category": "models",
+      "publishedAt": "2026-11-16T18:46:55.000Z",
+      "score": 0.4284,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "b7110042ef4ef85d",
+          "headline": "Reproducing History Is Not Enough: Intervention-Level Assurance for LLM-Generated Simulators",
+          "source": "alphaXiv",
+          "domain": "unknown-alphaxiv",
+          "category": "models",
+          "publishedAt": "2026-11-16T18:46:55.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yWWlJVG9oc1NuSUdxT05YT0ZhVW9lTDZFQXVfLTg4OUcxMXllTUh0WC1DZVB5SWM4TXlJbjlJQWl1OVFzdldLS0VVTjNvdWRPczNSYzFpVjFVNXFRMU15ckZsOW1kaHNyck80QkVMNmdyWElxQUlnajdBTQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "30f8eecd8d3a4caa",
+      "headline": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      "category": "general",
+      "publishedAt": "2026-11-16T18:16:07.000Z",
+      "score": 0.4215,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "636786c3c6c8a461",
+          "headline": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
+          "category": "general",
+          "publishedAt": "2026-11-16T18:16:07.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVpMbmM1Y01zV1FWX1QtTXVGbG5DcGpJUFlfb1Y2UzNCcFdUeHNPeEVneGltSEhRb1R4RHp1MWpicFdiakhfXzlMSEtVX051cVFhbXdhS2l5LXEzZWRra0lrOVhoUjFnUGtrSEoxX3Z0SU9ZZTQ1WnZPUzlXV1pyS0czZUlldnZfbGotZm9XOWRXVzVQVTZqTGktYkRROFVMd3ZXNW1CSlZwYzlOSGhrcERyclFNQ2JHSU1FMUtR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "127fe120bd0b3c61",
+      "headline": "NANP develops AI tool to score feed value loss risk",
+      "category": "general",
+      "publishedAt": "2026-11-16T18:01:12.000Z",
+      "score": 0.4183,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "5f3befbab28fcb25",
+          "headline": "NANP develops AI tool to score feed value loss risk",
+          "source": "Feed Strategy",
+          "domain": "unknown-feed-strategy",
+          "category": "general",
+          "publishedAt": "2026-11-16T18:01:12.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONkV1YTJSdWZ3OVJWRjg4dGZWOEMzdUk3Uy1XN045YUU2MTBXRjFtcGkwY3d2clNLenJvQ2ZObDFJcjU5d3JwSkVUeHpFa1BOLTU4N0NnQjBFemt2X1IzY3l0Mlotd1ZXS045YmJpcUxzaTh6X3ZUbHdXNTBwSVB6V3NTWTdUaEg3b3ZOUEZCVmtSQUJZY2NfSzEwdDc4NTgzeGRBaEJpdUFJNVJ5VG5MWk5GempieVBnLVNncUsybV9UbUhIa2FXLWNyYUl0ZmtMckRwLU0xWUFxM2dFWnhtQmV6MGRNQQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "cbde98b98736bf96",
+      "headline": "Mirendil raises $1 billion to advance AI research",
+      "category": "general",
+      "publishedAt": "2026-11-16T18:00:00.000Z",
+      "score": 0.418,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e7d6678f36ca661d",
+          "headline": "Mirendil raises $1 billion to advance AI research",
+          "source": "Diya TV",
+          "domain": "unknown-diya-tv",
+          "category": "general",
+          "publishedAt": "2026-11-16T18:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rNFRIWDlSSWVSZHZSVUVUdEVKUS1lMjNzTUstUGpTMEVkeERSLXc2Z1FaLU1aTnlNV1VTalpTSGxDWjlycEQ5YWltbnNqcE8xTzJqaVZJUkpyQzBYU19tQVlJMWwyZURPdUlFcTNPYnZHR2g5a3V3THdyZw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "6aa897d0bb0f1ee5",
+      "headline": "OpenAI Study Finds Scientists Rarely Request End-to-End AI Research",
+      "category": "research",
+      "publishedAt": "2026-11-16T17:43:03.000Z",
+      "score": 0.4143,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "03776a3b5451998e",
+          "headline": "OpenAI Study Finds Scientists Rarely Request End-to-End AI Research",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
+          "category": "research",
+          "publishedAt": "2026-11-16T17:43:03.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVzNtQ2NBMkk4RldDV1F3ZzR2d2w2UzZHcEtHMWpNMG80MTQtS3pKRmNTRGg2X1VzRWdlbTJLcXdpTnpkQ3RFSXowT1VkUzBGNlNOTFZUNUxidmNvZlg2UmpHZV9tUldpOGlpc0VNeTJtV3hkNUZSQkNVQUJlS0h2OENBSEVza3AtODJYcTBoUklqRzA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "df6b597e43263334",
+      "headline": "Apple launches research study with OpenEvidence",
+      "category": "research",
+      "publishedAt": "2026-11-16T17:42:34.000Z",
+      "score": 0.8309,
+      "publisherCount": 6,
       "featured": true,
       "lead": true,
       "articles": [
         {
-          "id": "bc6188697a81ecc7",
+          "id": "5310ad3e930f9066",
+          "headline": "Apple launches research study with OpenEvidence",
+          "source": "MobiHealthNews",
+          "domain": "unknown-mobihealthnews",
+          "category": "research",
+          "publishedAt": "2026-11-16T17:42:34.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTBEOGhPWnowYXBJd0Y2RnBZR0hPLWxGX0JoQWFPWjZCWEFsSnZjd0kwR01WQ3ZQLWJISDA5aXRJZUgtdXdkcU9hNTdibm5GRnl3WmdQTmF3aVJOM3dXelA2NEVMMWxVeDBtc1hoaU5fTVFRaUY3NWFXY2FyS1M2am9YQ2U?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "47ac673e937de708",
+          "headline": "Apple, OpenEvidence launch conversational health AI study and app",
+          "source": "Healthcare Dive",
+          "domain": "unknown-healthcare-dive",
+          "category": "research",
+          "publishedAt": "2026-11-16T14:39:26.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjFLY2JJSFNON1JBVTJHbVpOVERYMlpEZHJ3cHJpM0lXX0hNMkRfTjdWNlB3Vi1CMXZVTE0xbDFxb1lFeUtmZTlGaXdpcEZVUWFqdWVUVExSOFZtSmlDa1YxOThtT0RlbUlsZ3UwUl9fX0FpMVRwcGlEVFdGeWVmdkUwallRLWczenp5bFlJNjJmVGVIcHdCbmVLMjU3UQ?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "581b1758cc33dcd8",
+          "headline": "Apple partners with OpenEvidence for AI-powered health research study",
+          "source": "Telangana Today",
+          "domain": "unknown-telangana-today",
+          "category": "research",
+          "publishedAt": "2026-11-16T14:10:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0ppN2N1d09xVVQtWm5qb01ZdDhXVmZLYTRPa2xXb3pvS1hyQ3Rwc0U3QkFETmdjeGpEUmVvWVpEejF3dF9XQmFkMWlIdUZoazNVa081Q3NJTHhVdXpaTFBVcXhIM0ltMVNyWVdWSWhZN3UweS1rNWdGX2xmMEVJWVVnbUJULU5lb29xRFdFU1pIUG5Idm9oN3JFSzY?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "e1546e5690a7b2ea",
+          "headline": "Apple launches AI health research app to study how users seek medical advice",
+          "source": "ET Enterprise AI",
+          "domain": "unknown-et-enterprise-ai",
+          "category": "research",
+          "publishedAt": "2026-11-16T11:54:59.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaG51NFVLT1RYaVY2anRvdzJYam83U2liMkVHQ082cWExd0l1QjhfLXY5dUFleE9BTVIyLWFJckdqWF9fMlJ5Q3A4blNYVXFVb0F1T2tyWWxsM2F6RnAtUkJPZWpFU1lOY2gxRGJHSmd1RThpYUpqQXFLZDY2WG1lb2llaXN5NXNRUXFCTUVjOHZPeTdfVmk5UjljYmFCeEFldWhHbnJCV3R0UHRSTUJuLTFzRHlZN052b1NqWjVpQ2dnRkhVekJpRGt3LTlydmFKa0JrWjJEcTBrQ010akt3Y3V3bWTSAeoBQVVfeXFMTXBHOE9wZVFiN0gtWGlsekFFSWFkYkFvZ1Iyb1FWcGluSkJrVUJlWXExRmFsWkhUTkZFc015aml6TU4zbnFYOUlaR2FGSHY2bzBvM3dKVG41ZXYyMExrUjlLbThYUmZIRXB6UHRNZWZobXFwaGV5bkNsMHRaZjBxcFZGZ25KY1Vnejdmakd5cndNYzJIXzlxZVV5cFN4S0RwLXdhbm1UUElQVElXWV9xNDVBUmZQZEFqRFpUdW44eDNXX3E4dFBTV2NFY05rOGwwM2hxRkdneTRlQjl5OWJXakJzM19tMFI4U2hB?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "8350c3e0cae3aebd",
           "headline": "Apple launches app to study how people use AI for health queries: Details",
           "source": "Business Standard",
-          "domain": "unknown-business-standard",
+          "domain": "business-standard.com",
           "category": "research",
-          "publishedAt": "2026-11-16T06:15:41.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObkRseDc2TDd1Q2E0aFQ5Nl9wUHRCZ2hNWmNCZ3FFRWhlVzVkSjNnRmV1VG91bmlsZUFza2QtT3hvVE5PdldJSUV1azBUV3AwZl9GX19UcVAtTWFqd0NOb1lpWXRmTi1PRl9oclk2UzVaZ3o3WjdRSlRjdFVTSm9TaVJ2cGFIdmlpSU9yMTBmek9oWHBoNVRDSFp6N1Q5aW8tSVlicEc1Xy1iWjZvNVNialVwVHNfRVJzZUVMd1FuekdfRzJTR1JvNmpVOS1pS2t6RkZwNWRTZEp4RHgtNHJmWtIB5gFBVV95cUxNYXhxLUNJeGEzNGR0TVZkbVBWYjJuOURtWEZfWDM2WGljdTR0TzRSZXBMRUJMeHFSbjZUSGJfRUxpX2o3c1VyWDRscHRJM1NGTEZGaDk1WkVlNVFTVFNvYW5ESXMwVEZqZVFnMXA1Q1ZqMVRJS1AwcDFBU0pGajR4d3Z1Q24zbG80TFhDc0pKNFBfMkdSUVRzSnVJcmg3R3l2UF9PNlVRWkxQd3hoMWU5NTU4NVdTLXlFVE9HRjlTR2NsaTBNTFFDdVJEal9EOGMyRGVUeHhYOTBTcU8zSE9nS054dkpydw?oc=5",
-          "provider": "google-news"
+          "publishedAt": "2026-11-16T06:15:25.000Z",
+          "snippet": "Apple Health AI Study App: Apple's new research study will examine how people use AI for health information, assess the reliability of responses and understand whether such tools influence everyday…",
+          "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/16/thumb/fitandfill/1200X628/1794809568-1033.jpg",
+          "url": "https://business-standard.com/technology/tech-news/apple-launches-app-to-study-how-people-use-ai-for-health-queries-details-126111600875_1.html",
+          "provider": "gnews"
         },
         {
-          "id": "6c2e449eeb26191a",
-          "headline": "Apple launches new Health AI study app to understand how people use AI for medical advice",
-          "source": "The Times of India",
-          "domain": "unknown-the-times-of-india",
+          "id": "9e775042c53c67b0",
+          "headline": "Apple launches new app to test how you use AI for health questions",
+          "source": "India Today",
+          "domain": "indiatoday.in",
           "category": "research",
-          "publishedAt": "2026-11-16T05:23:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVp0N0NOWGhTREpjN0pIR1YtQ1g3ZFYyaDlhbVl3RUdVaE9qdFFOampoMUhuVFBSNzd3V0o4ZjVMRWc4S3hCNFJHcVVzVEllMHZSc1NDUnkxU0NFUkdZVmlGRHNsSDQxQlVvOEdWYzl3TllGMzZnWWRjZWNYRlBzVlFma2FDUDRuV09FbC14amJLcGE5cExzVTkzcFZhWE9GNGc3MmRFcGtnS1NmRzRieXN1R29DTU55c0d3M3dKZl9ZcDRqZ1B2dGZjM3BHUnp2dnJ4S05NWE9sc3ZmNnJwb21aUUdhSVdLZktsbFN2ZGZMTnA1dTJRbGFtal9zUlhhZ2fSAYcCQVVfeXFMTU9hc1FFNUh5cVZWU0ZhYjBncTltR2xJQnVfWmRtOW91WEdPeVZLLTlQS2hIODd4eUxFZWRrYl9nWFBrZ3hGUk9mVGY3RnlSQzczWGl4MHg2Mnljczl0YzJaWWUyV1A5R0RLUE5BNndPRFY3OWNuWVM2VlFjSVAwenowcmxqb0MyNjNveTRLX3kwY2JlaDhqQjVWTHctTlZDV3ZrSy1hYUlYYzdqTXBuOXBhZlpNOTdHN3AtV3hDZ2lsTndwS0JaVmxSN0J6VGQzU0ZUYWw4WGhtMS1EV1dDMlpYYkFoc2tfQ2t5anJVM2I2dnV5Q0ZNd1VrYzBkQ0pycWRvbGVRSTQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "e9c89db5ca00b21d",
-          "headline": "Apple launches new app to study how people use AI for health advice",
-          "source": "Moneycontrol.com",
-          "domain": "unknown-moneycontrol-com",
-          "category": "research",
-          "publishedAt": "2026-11-16T05:21:51.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlJwNnVnTmNyUXZMc0pZaWN4WEFpOEUzRkV2Nk9DakdLb0VXRWtlMjF2ci0yX0UxZlJJN2FrUVJzbjE3V3JJdVFtRDh3VjJpYUZfQ1lCWTN4QXFMTU90cXNhVjhIUURxdHhFN0tZb055UjluTnB4TVpfZDdvdURYUEQtNFMxbWVtYWtrQWpQVVVuSDctb09xaDgwdHF3YTh3NUhqQzlEX1NDV1lfUjZyTWhmdjg5RjVBN0QxM3VjNDkwcFNPRVZVOdIBzgFBVV95cUxOUjcwaTVSM3B1ZTFIQjBETE0yUS10dkVOcTNMald5bHRFdXllMlBXZlhibDdsNDg3Zl9nQkt1VWlmSFBEVlNIMXo5MXZHYVJ5UDdYZ0ZRMG5ScW8xX2N0RzBTdXczc2YzZ1lEOVVxSHlSVGxoamtTRGtNR0hDbjlDNTlVR3dKSEQ4N3RHZUtXeWNRSUIzTVFiNTlUa2I2dXJKZ09DbVhDZzg2dGRrT3FuejJKeFVtQjREcUNDcndZQ0RYZFhaOUJyVUNVb3JJQQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "6cbb54155a4a6c52",
-          "headline": "Apple launches AI health research study",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
-          "category": "research",
-          "publishedAt": "2026-11-16T02:03:48.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYlBWQW9LaXk1anVLcWNqYnM5a25sdkNiQW5yX3ZBSVY2cEZfTm1FQjdKTnB1UFBHMkJEZHRJYXl3ZkxqYW5XVE1YZDJEVUFUc2tmbVZFbUdrdGVsUGV3RDJRNENJWDBUZ2c2czRWdUFwWVMyN29v?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "c90153842668e150",
-          "headline": "Apple launches an AI health tool as part of a research study",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "domain": "unknown-abc-news-breaking-news-latest-news-and-v",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:44:47.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "66b82e32273bd582",
-          "headline": "Apple Launches New App to Study How People Use AI for Health",
-          "source": "CNET",
-          "domain": "unknown-cnet",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:37:15.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rV1F6aG1kcXZkZ01tbzNyaUtwOEh5dUlwVVdxc3RyZnJSTWtBUGpqUTV3RURrZVVUNjV3dkhZbjhmeklNdmdFdnY1a0l2RGcxS3Z5ajZRQWFnQXR4VzJLMS1sbC1sS3NTWGx6WFlRRGk?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "032f017e4aaf4bf6",
-          "headline": "HLTH26: Apple launches 200K-person study to examine how consumers use health AI",
-          "source": "Fierce Healthcare",
-          "domain": "unknown-fierce-healthcare",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:35:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "5b0c8b2dbd7f8df9",
-          "headline": "Apple launches new app to study how people use AI for health",
-          "source": "TechCrunch",
-          "domain": "unknown-techcrunch",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:30:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjVzaFloMmIxVmlIM2RkUlQ3V1ZHcHhVd0FWbEpIQm9sZDRPYlA4eTF1RlFfSlRpMTZ5VlRXUWtIc0ctWm9GbUlDWWM2eHAzT0JHbWI3ak9aWFlRMEcwcHdiZXllUHluVU1rMzRuRGZ3NWk0dURwVFVFT1VKcS1XQkJWSnM1alJGQTRWUzV3a1lYUzhLWGJFazNtVQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "fd076c58ecdeba27",
-          "headline": "Apple launches research study to explore the use of AI for health",
-          "source": "Apple",
-          "domain": "unknown-apple",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:24:28.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEhyWXRwQm9NZnp2SjdSVDVubTJCeXJGTW9kaks3bWpUTGdBRWdHejdqZ0VuQ25pODcwazZ5c0R2aDhwRlpKM3FGMjUxZFhNdHhfZ3huNTNDWWZSRXBVV294TDNwQWktVm9nTWlHaEFZZEhmRWVGbmlieUYxLWFQeFVKWUpsV1hVZ2lhOE56TUxYajVSMnNpcnpzVW12bUI3cG03X3g2QTA?oc=5",
-          "provider": "google-news"
+          "publishedAt": "2026-11-16T03:09:00.000Z",
+          "snippet": "Apple has launched an app with OpenEvidence to study how people use AI for health questions. The research will assess clinically grounded answers, personalisation and privacy safeguards.",
+          "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/apple-cuts-employee-ai-usage-051236896-16x9_1.png?VersionId=iKg_E2EGT0Fw3b7p9bZ6k9KSJwXzrg2o",
+          "url": "https://indiatoday.in/technology/news/story/apple-launches-new-app-to-test-how-you-use-ai-for-health-questions-3039638-2026-11-16",
+          "provider": "gnews"
         }
       ],
       "briefing": null
     },
     {
-      "id": "87a0c0332c463bfe",
-      "headline": "Apple Is Studying How People Use AI for Health Advice as ChatGPT, Claude Gain Popularity",
-      "category": "research",
-      "publishedAt": "2026-11-16T06:14:17.000Z",
-      "score": 0.4722,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "9941abd6809ea634",
-          "headline": "Apple Is Studying How People Use AI for Health Advice as ChatGPT, Claude Gain Popularity",
-          "source": "Mashable India",
-          "domain": "in.mashable.com",
-          "category": "research",
-          "publishedAt": "2026-11-16T06:14:17.000Z",
-          "snippet": "Apple is studying how AI tools are changing the way people seek and understand medical information, as ChatGPT and Claude gain traction for health-related queries. Apple has partnered with…",
-          "imageUrl": "https://sm.mashable.com/mashable_in/photo/default/z3wq-2026-11-16t104214677_4kb7.jpg",
-          "url": "https://in.mashable.com/tech/116164/apple-is-studying-how-people-use-ai-for-health-advice-as-chatgpt-claude-gain-popularity",
-          "provider": "feed"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d8689c47e70cfbdc",
-      "headline": "Survey: India’s Laptop Buyers Prioritize Performance as AI Capabilities and Snapdragon Gain Traction",
+      "id": "2f50a43e3497ea9e",
+      "headline": "LSE academic wins UKRI Fellowship for AI research on wills",
       "category": "general",
-      "publishedAt": "2026-11-16T06:12:27.000Z",
-      "score": 0.4717,
+      "publishedAt": "2026-11-16T17:40:52.000Z",
+      "score": 0.4139,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "7f1aec07b8fdd634",
-          "headline": "Survey: India’s Laptop Buyers Prioritize Performance as AI Capabilities and Snapdragon Gain Traction",
-          "source": "Counterpoint Research",
-          "domain": "unknown-counterpoint-research",
+          "id": "90042bd668f58908",
+          "headline": "LSE academic wins UKRI Fellowship for AI research on wills",
+          "source": "The London School of Economics and Political Science",
+          "domain": "unknown-the-london-school-of-economics-and-polit",
           "category": "general",
-          "publishedAt": "2026-11-16T06:12:27.000Z",
+          "publishedAt": "2026-11-16T17:40:52.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFlIMFdBcGpFTXNYX1BNVnJkZFU0WUZDaUxxTklKdUV0UjRPal9IdEFzVEZIalgyQkRaMmdaUzBrUk1ydkpGUDNqVWY0T0dzdUItRExuX0dUUl9xSDBFcURiVENldFV2dG9UOWN6SWhTRDk5N1dlUGZ2WTgyTHp4THlKN1l2OEVPbkZhaXNNblkydmRORjYzZFZnUkxtczlDRWNiWFNobHhidU5WbGFpc1JMcjFiZUx5WVM0UzNBclMtajYtWDVMN1dFVXNsR1Z6MHZINg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYW91VXByTUdUbWFsQXZNX3VENlY2RnpsNUpNYWpQenc0UjdUMHpNWnVJZ0JUMmlTWFpQbHN5SVg3TER2V2pVdXZRSWZ1SDlMQ1V2N1oyWmg4VS1lZHdwOUV3aTFRbFppalpIOTNaWHBYNElTTjVtWF9VLUFpNFJHUVotRGs0TmhDVmRFNDJ0Z21ndERuZzYyeU13?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "04bd8e8826520ebb",
-      "headline": "Seven Studies Advance Explainable Machine Learning for Robotics and Intelligent Systems",
+      "id": "dc12526b3eee1b4d",
+      "headline": "Science at the Frontier: How scientists use ChatGPT",
       "category": "general",
-      "publishedAt": "2026-11-16T06:11:05.000Z",
-      "score": 0.4714,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "7ba595705500e901",
-          "headline": "Seven Studies Advance Explainable Machine Learning for Robotics and Intelligent Systems",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "general",
-          "publishedAt": "2026-11-16T06:11:05.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3IxbU5nUDAxZV9BRkR2aHFyMVZBVFZCRjBjMUFFQlJZVUNzY3hFVU05eVVFbnk1bXpOd0hoUTlvQU1WS1dGcWpkNWdLNVpfSkJMRFhTR3hKTzdCdG9sLWJGQ25yalQ0TUFucm1rVDZOajVKQTMzakhvRzNRM3Jnb0hwQVNhQ1hXM1NGUElFX3J1WWE1eGtZTXhmMDkwUFJDWnlPNU1VdFBwY2Z0a3M1SURR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "040caf85b3860c85",
-      "headline": "Apple's New Research App Is Designed To Make AI Health Tools More User-Friendly",
-      "category": "general",
-      "publishedAt": "2026-11-16T06:06:05.000Z",
-      "score": 0.47,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "ca02adff996ba2a9",
-          "headline": "Apple's New Research App Is Designed To Make AI Health Tools More User-Friendly",
-          "source": "Engadget",
-          "domain": "unknown-engadget",
-          "category": "general",
-          "publishedAt": "2026-11-16T06:06:05.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeU85dXZvTXlHNmVTRHc5d1JzR2UtQVlmdnlwTXhUOFQyNXJ4WWlzTk9scVhwdU50VnBtbEpOSVM2MDF6bzA5U2dxZDZXbjA2Q201d09jQUxEcGI2bDB1Z3VQOWZBUUg4MGdfOFZIc2lLZDNFdUZRZFpsdkdocXRYUUUyLXBRT3ZJZENQdGlCcVB1OFBNYkp3Y25waTZXR3ZlaDF6aERR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3aeb1508785c1f55",
-      "headline": "Alibaba Launches Qwen4-Max With Strict Cybersecurity Guardrails",
-      "category": "models",
-      "publishedAt": "2026-11-16T05:55:58.000Z",
-      "score": 0.4674,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "2029674975b6c762",
-          "headline": "Alibaba Launches Qwen4-Max With Strict Cybersecurity Guardrails",
-          "source": "news.lavx.hu",
-          "domain": "unknown-news-lavx-hu",
-          "category": "models",
-          "publishedAt": "2026-11-16T05:55:58.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVBpM3V0NWpLV3dZS2RQbVJ1UFFfMTJDWl9IaFZ3cjdRcC1VdHQwemxwamU3M2dNeFphVWhRWndIeVFaODRWMFhkVnFkQUlweEV0VkJjTUZKY2FES2xFRkpNbzdmeFpZTzNXQzRwQTZrdUJjVWZUT0NlWEhGNmJXbzEtdU90MEdHMVFvRUtaeDY1Y2N4MFRF?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "4e353ae9301d7404",
-      "headline": "SoMem Preprint Tests Self-Organizing Tree Memory for Long-Horizon LLM Agents",
-      "category": "models",
-      "publishedAt": "2026-11-16T05:53:52.000Z",
-      "score": 0.4668,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "6cf1a6a15e295593",
-          "headline": "SoMem Preprint Tests Self-Organizing Tree Memory for Long-Horizon LLM Agents",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
-          "category": "models",
-          "publishedAt": "2026-11-16T05:53:52.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUNrQlZTUFhfS1lRX2pYTnBodktVVnJkVndBbzBvZXlYa1MwbThyZnAteXlGN0FMTGJsN0hqN201ZF9Gd01hMVBFc0FMVGZ2bmJhYU9WSmZqTS1pX2hrbFBBcVNvOXFzMzJDZ21QNDg4UUJCZ2RNRlVUeXhwT2dSb0RDUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "cba6c9b929bfeb87",
-      "headline": "Apple plans to study how consumers use AI for health needs: Questions and answers",
-      "category": "research",
-      "publishedAt": "2026-11-16T05:53:13.000Z",
-      "score": 0.4666,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "c053aad4cabb0188",
-          "headline": "Apple plans to study how consumers use AI for health needs: Questions and answers",
-          "source": "Chief Healthcare Executive",
-          "domain": "unknown-chief-healthcare-executive",
-          "category": "research",
-          "publishedAt": "2026-11-16T05:53:13.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmREUlA2NFdHeHdIUkhPZnpleFJUWFdxWXhyOEVUb3ZwS1dpQVBwcnh4LWxJYi1QX1pnd29SSVJHcVBMcjV5SDdnUmJocXl3em9IQWpRbDhaekhoR3lsOVg1Z0NOMEowa3ZTQXhVOWVBYnRkVXh3cDlURTVjNkpDTk1QZmxmSU5kYl8wZ3Mta3FPYzJZSDI4Q0wwUDdGakhOVDVUbm5IV0haNUxjaUZGejZPSmRwRVB5SnlEc21KVXlHVXhO?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "371377ffb1e2d1ce",
-      "headline": "Shinhan Bank Goes Beyond AI Responses to Verify How Tasks Are Performed",
-      "category": "policy",
-      "publishedAt": "2026-11-16T05:35:58.000Z",
-      "score": 0.4622,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "22298636d0a2172b",
-          "headline": "Shinhan Bank Goes Beyond AI Responses to Verify How Tasks Are Performed",
-          "source": "파이낸셜뉴스",
-          "domain": "unknown-파이낸셜뉴스",
-          "category": "policy",
-          "publishedAt": "2026-11-16T05:35:58.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrM3diaDNNalp2ZDdoZGxBR1hTaFJwUHh3cFBFaURpQnNhT0RpY0gzYW5ScGEySzY4S1Zxa24xcHZvZW84VUhQb09oNnVweDdiSkZyMmFMNUo?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3b7bcf78333b156e",
-      "headline": "Deploying AI into workplaces: What leaders need to know",
-      "category": "general",
-      "publishedAt": "2026-11-16T05:23:00.000Z",
-      "score": 0.4588,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "3294daaaa77c105e",
-          "headline": "Deploying AI into workplaces: What leaders need to know",
-          "source": "American Psychological Association (APA)",
-          "domain": "unknown-american-psychological-association-apa",
-          "category": "general",
-          "publishedAt": "2026-11-16T05:23:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YlkzU2d2V2hKdldJNENfYks3NFczNUY0RjJ5WVJDdHNQQ0ZtWm5odzVKWjlxSEtiSmpnbFpFZkV1WGozV3JENGkzRHNQdXFzdElYVUNmRHM?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "e9ca1c92e9a17de9",
-      "headline": "Integrating AI and Robotics for Persistent Materials Science Research Systems",
-      "category": "general",
-      "publishedAt": "2026-11-16T05:13:00.000Z",
-      "score": 0.4563,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "14ab9329357572b2",
-          "headline": "Integrating AI and Robotics for Persistent Materials Science Research Systems",
-          "source": "AZoM",
-          "domain": "unknown-azom",
-          "category": "general",
-          "publishedAt": "2026-11-16T05:13:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOTWkySzBZVVJYMU1iakpROTdfQ1R0LVJvQm1Tdk9GcTBsNkpYR090QXhEVEZQT21sTGpTSEdUT1lISGZ4VHRuMEVpQ2NiNV9uejQ3S2xR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d42f70346632b404",
-      "headline": "Clinician of the Future 2026: How doctors and nurses are adapting to intelligent systems",
-      "category": "general",
-      "publishedAt": "2026-11-16T05:04:31.000Z",
-      "score": 0.4541,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "0e5a8ea0231dc5b4",
-          "headline": "Clinician of the Future 2026: How doctors and nurses are adapting to intelligent systems",
-          "source": "healthcare-in-europe.com",
-          "domain": "unknown-healthcare-in-europe-com",
-          "category": "general",
-          "publishedAt": "2026-11-16T05:04:31.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Td3NKUHgyWDRBM1M4bHBHMzd4YmtYMDBNMEJiZHJaZHo4RUttclEwNDJETlVNWmVkSzJtdmZNNEhuZmNwaE5xeGxpUTh4Y09iNGVNVDFjN1oyN3l4V01Kc0RzOTJId3I5TjEyU3NPajVkNXBpeVlYbjJoU20?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "24ef65ae070247ff",
-      "headline": "Students unveil AI tools to solve social challenges",
-      "category": "general",
-      "publishedAt": "2026-11-16T05:02:02.000Z",
-      "score": 0.4535,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "9308a421786be728",
-          "headline": "Students unveil AI tools to solve social challenges",
-          "source": "The Korea Times",
-          "domain": "unknown-the-korea-times",
-          "category": "general",
-          "publishedAt": "2026-11-16T05:02:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXVoN2lWeXEyOFBBQzkta1VFMjZ6VEhSaEFsdmlhRXYtZXpJT0hjNTBJZzN5S0x0cFhhZUY5Tk1Rd01ZaG82amdkQnE1Q2RRdl9nZnFPS2prSzFMWjJaNGdPd0hLN0J3Ty1qaGpycWp1V2dmalMxVEVwUFlNLVEydENPbE0zeVk5Q3VHV3FBTm04ZHVTV013NWd5My0wWWpiVG5NOGNxONIBpwFBVV95cUxOMXVoN2lWeXEyOFBBQzkta1VFMjZ6VEhSaEFsdmlhRXYtZXpJT0hjNTBJZzN5S0x0cFhhZUY5Tk1Rd01ZaG82amdkQnE1Q2RRdl9nZnFPS2prSzFMWjJaNGdPd0hLN0J3Ty1qaGpycWp1V2dmalMxVEVwUFlNLVEydENPbE0zeVk5Q3VHV3FBTm04ZHVTV013NWd5My0wWWpiVG5NOGNxOA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9a9badc3b7eab4aa",
-      "headline": "Nvidia engineer Darrell Dai resigns after Jensen Huang’s exit: Who is he, his role, education and why did he quit?",
-      "category": "general",
-      "publishedAt": "2026-11-16T04:45:00.000Z",
-      "score": 0.4493,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "88acae830b60ba73",
-          "headline": "Nvidia engineer Darrell Dai resigns after Jensen Huang’s exit: Who is he, his role, education and why did he quit?",
-          "source": "Education Times",
-          "domain": "unknown-education-times",
-          "category": "general",
-          "publishedAt": "2026-11-16T04:45:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbFJOanZsSkVfbkhITXZyRElsWWdpUUdXQVJJRVNrdE5NdzB5V3Rfc01fRDBuSE56YlhkS2pFZUZNTFRxQkFILWdtUUFENEhIYWRQSGozTG5KMnhrRDBoQndvbkFfdFdSNGlkaGJQaUVBckFkck1yMkFWLVdJakpBY2Z4UnhBa01nUFR4ejJUV2NtdnlzWnN5Z0NTeE9lNTJnMlBMdWlid0psVDBkSzU1bDZWSkl4cS1rX0VaZVVrdFBacUtqOFJjSlFrSEI2cnhja2I1MW5IMXpLWWxKazhQWVVsMldVOWFxbXN1S1lsWGRRbnlZbkRqekhKZlF2Smg3RFBCUkdn?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "dceacc79a51725c3",
-      "headline": "Vision Makers Highlights AI-Powered Cryptocurrency Research and Market Analysis Platform",
-      "category": "general",
-      "publishedAt": "2026-11-16T04:42:11.000Z",
-      "score": 0.4486,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "e529669d080b549a",
-          "headline": "Vision Makers Highlights AI-Powered Cryptocurrency Research and Market Analysis Platform",
-          "source": "Benzinga",
-          "domain": "unknown-benzinga",
-          "category": "general",
-          "publishedAt": "2026-11-16T04:42:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUE40MlBwcmJrZVFsVWhiTUl1dUV5TmNIdE9XUWcwZFcxTGUyN2trUzc0MENQemQ4TW9rOUhKcFlDOHF2SFhWNzBnZlV1bHN3a0pWZ2k0UnFmSkpFUHR4YnNobWpiNjEwRjJIQVVRTUoyWEJEc0E2ZDJ6UU1kVlNBQnZTTW1JU3hkV3loTEZmRVNTbi1HekFYLW9CZmpLZEJSeEUtanRrZXVOVGM3RzJsZmNGYTQ5MUhqRGVQdEhjVDZaeE1wTGJpTlR3?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "acab359e53ca68c9",
-      "headline": "Survey finds GP practices embracing AI amid safety, privacy concerns",
-      "category": "policy",
-      "publishedAt": "2026-11-16T03:54:00.000Z",
-      "score": 0.437,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "87c3f899303a51da",
-          "headline": "Survey finds GP practices embracing AI amid safety, privacy concerns",
-          "source": "IT Brief New Zealand",
-          "domain": "unknown-it-brief-new-zealand",
-          "category": "policy",
-          "publishedAt": "2026-11-16T03:54:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaElCNUtiQS1ubGRJU3RZWjZwZFpHeU1rQjlHeWREcUZIUmVkaGM5b0tMbGVGUHh1dUM1a2dlVEJOOW1IYWpfNjJqdEVwcWcyMzJUUHVzY2t6Z1hhaUlpN1c4SmJ2ZU44THhmdG1naEJJeHFOY1hqMy1GeV9QT1BQRmRIUU1FR083c2ZOUnBFN2xHZXZGYlM2NUJaaw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "c98dd71dceb3f863",
-      "headline": "University GPU Crunch Slows AI Research",
-      "category": "general",
-      "publishedAt": "2026-11-16T03:41:30.000Z",
-      "score": 0.5174,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "71ad71d2b39fa81c",
-          "headline": "University GPU Crunch Slows AI Research",
-          "source": "Elets Technomedia",
-          "domain": "unknown-elets-technomedia",
-          "category": "general",
-          "publishedAt": "2026-11-16T03:41:30.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QZThDT2U2TTdmcUY1OFpDeUhvWnNvRzE5M0hiRkdBQkktLVBpanVzbFNlX2xQSVl4QUlXbW1yZVdsbmdtbkU5VWs2VzFwTlBnUEhCR1FFYlo4eVh5S0o4a2NwbTloQmItdThYWHVnZkw5T2hLNjRnWXU2blZMQQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "dfadba783973f65f",
-          "headline": "India's universities face GPU crunch as AI research drives demand for computing power",
-          "source": "Livemint",
-          "domain": "unknown-livemint",
-          "category": "general",
-          "publishedAt": "2026-11-16T00:20:42.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWZ0ZVBsbzA3bk1DdFFyTlh6NzNlQTBBVHJJa2E3eFRWQ0p0T2QyLTdKUk1VLWwyX1VpNExYUGNuaDBudnl5NmJZbmZreHd5VVJpNjd3MHl0c1l5aERCdklXV2pjbU5iLVBRNUxCUlMtYlhMeFBuMGV0bTIxSWdwbGp2azJtOVlXVm5BX3V3U3hxcW5uejBneG4ycm5LZWhhamFmQ9IBqgFBVV95cUxQRzZvN3NzRjg1X2Vjejl1b0xYSVZ3aWZoWGJfRDVkcXlxTkFoQkFROXUzcDVOeVhEekZROU4xOVlPNE8tTUdqX1o1ZFZNNkUyLV9PbU43LW1zcjluV0tPWFFFN3JHUk1KZXpNSm9nTU1WU1ExQW5ycnlZRXpFMzFVZHludnhEMUhfblRWR01lRzA1N0pNMm1vYWFkaGlmbXgzMWNFaU4tbUZRZw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "aebc9e7636f6218a",
-      "headline": "Shinhan Bank Presents Two Research Papers on Trustworthy Financial AI at Global Conference in Milan",
-      "category": "research",
-      "publishedAt": "2026-11-16T03:40:11.000Z",
-      "score": 0.4338,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "bdf6e9bb9952edc9",
-          "headline": "Shinhan Bank Presents Two Research Papers on Trustworthy Financial AI at Global Conference in Milan",
-          "source": "Korea IT Times",
-          "domain": "unknown-korea-it-times",
-          "category": "research",
-          "publishedAt": "2026-11-16T03:40:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lVUFtcTlJVDE1cGVGT3F4T08wamIybkQwaTI2cEhJc3NYU2Q3YUIwcUZ5dXZ5M0QycTVxMFVNa2xpSl9sZGxqYmxGczVpbW53Sm02d3dBdXQ2UVN5Z0U1Q3Nwc3ZZTGUxRkZ5Q0xSbDM?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3bfbab89cea5a085",
-      "headline": "BIM, University of Texas at Arlington to launch AI master's programme in Chennai in 2027",
-      "category": "models",
-      "publishedAt": "2026-11-16T03:30:00.000Z",
-      "score": 0.4315,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d017a8f56fda93a1",
-          "headline": "BIM, University of Texas at Arlington to launch AI master's programme in Chennai in 2027",
-          "source": "EdexLive",
-          "domain": "unknown-edexlive",
-          "category": "models",
-          "publishedAt": "2026-11-16T03:30:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWZOVG9sOWlYYTBOOVRWb3ZzQjE2Nm90QVRmeXpId24zeGhiUkxETU5Qd2tVbnJEMm1sM2RpUHNpd0l4SHpPRFByNFhDLVpzVnhJRFdfdGJ3MHF0SFlOVmVZbUxYb1NpdHlBMVZ6TFI0SV80LVJ4YXRHV1hueVdSU3g1Um1LeFVaamh2SVJtdnpPc3ZqM0VPczBsQ3pUVXh5WGVpM3I1SGljNlF2SWwzWWd3RkNfQm_SAcQBQVVfeXFMUFdmWk1ieXFyWmdnWmJJOXh0TFhIR0hsdm1kZ1pna19XVEQ4aldoTjV3b2x6bnVWZzU3b1NWVDVhTDBsbnBqQWJXMFZzeENDT3I5WjVOdHlTMHR4eUlMZzItbTZ3eGg0ek9pN012dXBxb2tHTVZZS1czbWVCLU5pTEZrYmwweHIwbDlVZks0aVZrQU5nNzcwS29hVHVXcDRaVjhJRUpvbHR6dW1ZQVFrZldoQVpsWmxiY3VZUFlVN2VfRVQtcg?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "937b60b8aa9a7b57",
-      "headline": "AI-Guided Echocardiography Shows High Yield in Controlled Studies",
-      "category": "general",
-      "publishedAt": "2026-11-16T03:20:04.000Z",
-      "score": 0.4292,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "53d24f1f72d9bb67",
-          "headline": "AI-Guided Echocardiography Shows High Yield in Controlled Studies",
-          "source": "Unite.AI",
-          "domain": "unknown-unite-ai",
-          "category": "general",
-          "publishedAt": "2026-11-16T03:20:04.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSTlnUmMzbDRPWE9mVjliRnFmdW9xbDh0UGVQZnIza2E2dlJiTjcwWFMzTU9HdDBuTmRkOFhrWVdIQjhHVE9DMDg1dTFTUDBXVWdKeVpfTWlwZHA5ZmJvTGpKbEpxeXNLalRoZzgyNkFVUEhKeXBXazQxUFhTTXBDNmVrVGo0U19ZVWxZT1BOVmE?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "717db4c093b12b18",
-      "headline": "Memorilla offers latent semantic memory for LLMs",
-      "category": "models",
-      "publishedAt": "2026-11-16T03:17:24.000Z",
-      "score": 0.4286,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "8af21b8d94801779",
-          "headline": "Memorilla offers latent semantic memory for LLMs",
-          "source": "TechGig",
-          "domain": "unknown-techgig",
-          "category": "models",
-          "publishedAt": "2026-11-16T03:17:24.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNanZsa2J0b19PTnBubmVndFFaT3BEOHZwcExsbjc0SUNXSkRSQk1XWTJoMU1XdENhb29vR0lmMnV2ZVo5aWQ2MTVweTNBb0ZELWxGa2k3MGFzblp4RTRwS2pkNlEwaDBSUVdlYWdaNzRSUnk1ZHk3Z0pZNEVkREc5MHBQVjdTdllKcWt4ZHBsNA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "b179fdf279991d93",
-      "headline": "LS ELECTRIC to Supply Switchgear for US AI Data Center Expansion",
-      "category": "general",
-      "publishedAt": "2026-11-16T03:09:01.000Z",
-      "score": 0.4267,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "87ea5ea84de1560d",
-          "headline": "LS ELECTRIC to Supply Switchgear for US AI Data Center Expansion",
-          "source": "Unite.AI",
-          "domain": "unknown-unite-ai",
-          "category": "general",
-          "publishedAt": "2026-11-16T03:09:01.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWJ5U1huXzFDbzBjcWtEYWNZelRKZnZia0hxczN3bzVFRjkxSUtiZXlKUWVCMGIycnlWSklxa2ZLcm9yNmszaHV3Z25Tb29oSXMtSFc2X2tmNUx2VEtZV0E0RVo2dUJjcFhnSjdoOUJjTWE1M3l2LTFTVXZXRGdMTExpa2pncFl1ZGNySW81UQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "052cd77a89399ba3",
-      "headline": "Apple Opens 200,000-Seat Health AI Study With OpenEvidence",
-      "category": "research",
-      "publishedAt": "2026-11-16T03:06:00.000Z",
-      "score": 0.5093,
-      "publisherCount": 2,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "a80e278b0d58cd32",
-          "headline": "Apple Opens 200,000-Seat Health AI Study With OpenEvidence",
-          "source": "BigGo Finance",
-          "domain": "unknown-biggo-finance",
-          "category": "research",
-          "publishedAt": "2026-11-16T03:06:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vcHJPUTE5b3dJTEU5TWdzQXE5QWxGSGMtckRqT001dUV2cm5GNHFsYV9sVi1qMFB2U0xhTkhOSk1NWWEwbEtoTFl6LW9JY1cwV1RHaVdWUG5UOWExNWxONzJlQ0NieUgtcUE4ZzNDRk9nVzhEX2c?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "b3301c4a9e0f034c",
-          "headline": "Apple Opens U.S. Study of Trust in Conversational Health AI",
-          "source": "Unite.AI",
-          "domain": "unknown-unite-ai",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:45:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2Q0WThxZDRHaWdSeGFDUjN4ZDJNWUxRTV9VeGZWV0NFdkh0b0xtWlRMWjBSXzlDN0YwOHZYTmVld3RLY3pESF9xTENaX2JwLThoWUJEaUlMenNhSTVqd2JfYkxRMEFSX0FMOFRTV0t3eE5qd2puWUNSZWNkTWUzaFJfbkVLUUU?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "17eb5858e40e7361",
-      "headline": "Skilling & Upskilling the Workforce: AI Innovation & Research, Emerging Founders Program, AI for the Navy",
-      "category": "general",
-      "publishedAt": "2026-11-16T03:00:44.000Z",
-      "score": 0.4248,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "1a62f4c54c153ea0",
-          "headline": "Skilling & Upskilling the Workforce: AI Innovation & Research, Emerging Founders Program, AI for the Navy",
-          "source": "TheTechPanda",
-          "domain": "unknown-thetechpanda",
-          "category": "general",
-          "publishedAt": "2026-11-16T03:00:44.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGlyYVRXNmFFQ3ZNdHRLZm5DVWcwRmx0OVJObEtSaDVQQm8xSVA4aERoQnRzQ3pHMWFwNlNsbEpaZnFxLTRrbEtUZVJhMlFiYU9HOFJJNi1xVVMtSWNraHB1eDVxTGIzV3hTc25mR1BRNkFSakpFeW96WHE3bzA2X0tURE85anpoRXg5aXkxYldybHpTRFd5QWM0enZfUE5DaW5ydzVXSFRaQ1Ria3JVWFVLemE3eFphNjFCUThwbW5OUVotd2RzMWJR?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "03e34c8886b12305",
-      "headline": "Longbridge Group and Cyberport partner to advance responsible agentic AI innovation in Hong Kong",
-      "category": "general",
-      "publishedAt": "2026-11-16T03:00:00.000Z",
-      "score": 0.4247,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "e0e746f397118246",
-          "headline": "Longbridge Group and Cyberport partner to advance responsible agentic AI innovation in Hong Kong",
-          "source": "FutureCIO",
-          "domain": "unknown-futurecio",
-          "category": "general",
-          "publishedAt": "2026-11-16T03:00:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOempsZkl1SEszaG5lbUlsSlVPYnMybnV5eXBZbEJHYXhOR1c1S2psZVpHcTYzR2pXMXdsN2VVSi1RbDAtQW5mM1c1SE45T2hDVktxTjBDeDNNTW1aWEpUNzg5Qnh0VTlpblV4ZVVUUGFrS0hDWjFSVmFtb0hoT09McHpqekxYQkltcEQyWlhaOWxfYlM1WjhtV0JJdTlFTGZxRmx6LVp1Zm44S1FETXUteUEybTRCc3Y4MmNLeA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d9faaf396f8c8a41",
-      "headline": "Larson: AI’s math breakthroughs are a warning — pause the AI race now",
-      "category": "general",
-      "publishedAt": "2026-11-16T02:49:58.000Z",
-      "score": 0.4224,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "2cf2e69206d7d3db",
-          "headline": "Larson: AI’s math breakthroughs are a warning — pause the AI race now",
-          "source": "Brown Daily Herald",
-          "domain": "unknown-brown-daily-herald",
-          "category": "general",
-          "publishedAt": "2026-11-16T02:49:58.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXJoVlRhZWp4bWZISVZSUkJ6QlVpTk5QS3ZycFlCNVQ0Y1FwYkxfNUNsbHRYbENnV3NvdGJ4S2Rud3NveG15WGh2UW9DYnBmelJpaFduRk9xRzlMdWZXRWV5eHNaQ2R1Zk52c3ZLcWdjWWtfRlZ4UlhRd3l0c2FvN1RyMnptcEFGZDFGSEtvclpEREtRYngwN3M5c1Z6cTU0U2dlallhWkR1Q3MxX3Yydm81N1hLUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "9aa7244f7da793bd",
-      "headline": "DGIST partners with local root industry company Samwoo Group to strengthen regional industry’s AI Transformation (AX) ecosystem",
-      "category": "general",
-      "publishedAt": "2026-11-16T02:34:21.000Z",
-      "score": 0.419,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "f6169f2482f92e44",
-          "headline": "DGIST partners with local root industry company Samwoo Group to strengthen regional industry’s AI Transformation (AX) ecosystem",
-          "source": "Asia Research News |",
-          "domain": "unknown-asia-research-news",
-          "category": "general",
-          "publishedAt": "2026-11-16T02:34:21.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkZGa05hamtwYWV4d0p3bE9lQUVDTkRrU1BjWU5IcElZYWM3TTRadWp5Z3FVdE9hbWhKeUhqcHN0V204Rkg0ZVJfTW9kWXJYc3lpVjdJM1pyVFhsMFliQXFLRG00d19HMV9IdmxTYl9fWWdxRjVTYUl1YVBiWVBpODJMaDlNd2Rwb0xNcFZjeUszcW1jWFJoWXlkYlJ1QUd3MVF4aUN6NXp3b0pzUlVMV3lhWEwyX01SaWRXOW5FU2dPQlNUaUtBSXNreHZ1LWs3V0U3cA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "1f2f7187da1baa30",
-      "headline": "South Korea’s Sogang University’s next global move pairs AI with a search for top scholars",
-      "category": "general",
-      "publishedAt": "2026-11-16T02:32:21.000Z",
-      "score": 0.4186,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "d486231c12a0987c",
-          "headline": "South Korea’s Sogang University’s next global move pairs AI with a search for top scholars",
-          "source": "Asia News Network",
-          "domain": "unknown-asia-news-network",
-          "category": "general",
-          "publishedAt": "2026-11-16T02:32:21.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSzFyR3dLZ1EtQ0pqbkJUenAtYWh0MHRIUUNmV2NrMzdVNFVEMlZmdDFreUVFYkIwcUIzSkR6WnR6LXkxenJaYW1hWC1OLWRPeXF6aVpaUmMtQnZSdlZCdHNIck9FR2xnQ3dLZzh6QlZtalhGMHNnalZBRVF5U2JHcWdvZTNCNFJYcFBFMC1Hd3VjczA3SFk3MzhKaEtRSFd3MnA1SExUN05hT2pEWDFmMkVvMG4?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "88ff4996bd1319d9",
-      "headline": "NTT Mobility to Test Mapless Autonomous Buses on Japanese Public Roads in 2027",
-      "category": "general",
-      "publishedAt": "2026-11-16T02:27:52.000Z",
-      "score": 0.4176,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "01a4db6ddda1faeb",
-          "headline": "NTT Mobility to Test Mapless Autonomous Buses on Japanese Public Roads in 2027",
-          "source": "AI Insider",
-          "domain": "unknown-ai-insider",
-          "category": "general",
-          "publishedAt": "2026-11-16T02:27:52.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZmRTS0NORHpKcllsdjdpSWx3Tlh1azh5M3JTdXRzalR1aTYzbFpqX3dXWjktaTFESFlqOWc1VWVNdlhHYnVTYlM4d2NLYmw4NHkzOGdjN2xDY2dxUk0xRGZpWGZZOUlMVS0wOE9ETGlKX0MyYTY3RkhOTnltWGhWV3BlNm1pSk1WSXhmNldpaXYzeXotWGQtMnlBMUhxd1JPQ1hZNHVtbHgwbUFMLWdKWXJORlA4cDA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "3e73d9cb2d0eb202",
-      "headline": "South Korea's Nota Targets Banks' Air-Gapped Networks With AI Coding Tool, Boosting GPU Throughput Up to 95%",
-      "category": "policy",
-      "publishedAt": "2026-11-16T02:27:00.000Z",
-      "score": 0.4174,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "5e8a12cbaabdc0db",
-          "headline": "South Korea's Nota Targets Banks' Air-Gapped Networks With AI Coding Tool, Boosting GPU Throughput Up to 95%",
-          "source": "BigGo Finance",
-          "domain": "unknown-biggo-finance",
-          "category": "policy",
-          "publishedAt": "2026-11-16T02:27:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XQ2Z5akhkVE5CTkZxOFlBOHVKMUFhODh6U0p5d0FjOGFQWm1heTZNX3RxU2dhcVNtR3lCdUg3M3JKMjI2RFlOaHNnT1d4cmtJN1NhTF8zOGJ4WnJhNmZpbzE4a3Z5eWh3bXFORkVHRHg1MEpHT1E?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "a420576b7b6c64b6",
-      "headline": "Machine Learning and Omics Profiling Identify Three Regional Tea Flavor Markers",
-      "category": "general",
-      "publishedAt": "2026-11-16T02:16:04.000Z",
-      "score": 0.415,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "a91aa2589058f720",
-          "headline": "Machine Learning and Omics Profiling Identify Three Regional Tea Flavor Markers",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "general",
-          "publishedAt": "2026-11-16T02:16:04.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWlMzWlB3bWtRUTMyRXhPbjY4dS1EZVUxNi1ZTm00QWRNdVd2UFlFUWpqWUVrMFEtYk92Q0NkcGt6MEpYMFBmeWFKQmFKRnRXN05Oc09MWlZLN1REbWtWeHkxSVZaNWE4STUxM3o3M0w3YjFGakg2YTlGM0UwZEpDWDB6dHcxdEVXdlJLbENWa0h2RjFqTFQtaWRqcXQ5ekNmT3VHNUcwNA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "245692f6bd02f83b",
-      "headline": "Stanford Researchers Open-Source Memorilla Latent Memory Module for Frozen LLMs",
-      "category": "research",
-      "publishedAt": "2026-11-16T02:03:48.000Z",
-      "score": 0.4124,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "f152932f08ac3934",
-          "headline": "Stanford Researchers Open-Source Memorilla Latent Memory Module for Frozen LLMs",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
-          "category": "research",
-          "publishedAt": "2026-11-16T02:03:48.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OSDBjaFlmN3Y5cE9GbHJnVlhIYkRhVFd4WnVfWmpnWFhFTGFfTmN0SkN2TnpQYTZlNURZVWJsU1RuSGhYRDZKdW1OY0JUVk5fNUh2a25DVHk2MVRBZW8zMldFdTdPTHdJRFZqSmJNQUY3Rk9SSlBEUnU4LWVSUQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "bd5d19cb0a26ce10",
-      "headline": "Nota Inc. Targets Financial Sector AI Coding Market; GPU Throughput Up by Up to 95%",
-      "category": "general",
-      "publishedAt": "2026-11-16T01:50:18.000Z",
-      "score": 0.4096,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "4034428a3f2ff17d",
-          "headline": "Nota Inc. Targets Financial Sector AI Coding Market; GPU Throughput Up by Up to 95%",
-          "source": "파이낸셜뉴스",
-          "domain": "unknown-파이낸셜뉴스",
-          "category": "general",
-          "publishedAt": "2026-11-16T01:50:18.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mUUlWWWsxVGU0ZzFvbnNwS2toQUN1N1lNejVxWEo0SGlqR1U4ZTR1ZGlQaEV1OGNJYWtJZFgtOF91ZklwRDVWOXZhblEzdkJKbUo3UzdkTU0?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "376de0c8c5bae569",
-      "headline": "Nota announced on the 16th that it has signed an optimization large language model (LLM) and server",
-      "category": "models",
-      "publishedAt": "2026-11-16T01:48:52.000Z",
+      "publishedAt": "2026-11-16T17:19:12.000Z",
       "score": 0.4093,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "26a4f60e6eb25f4c",
-          "headline": "Nota announced on the 16th that it has signed an optimization large language model (LLM) and server",
-          "source": "매일경제",
-          "domain": "unknown-매일경제",
-          "category": "models",
-          "publishedAt": "2026-11-16T01:48:52.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kSGMtcGhlQkFhUlBHSHZqcFNkdEFPbldBNjE3NVJqd3pDN1dNbEdQem84Zjc4dlNSUWtpWnFYQXFwSlFnYnI4QlZHTQ?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "331d59ba558e4183",
-      "headline": "Japan and Vietnam sign AI research memorandum",
-      "category": "general",
-      "publishedAt": "2026-11-16T01:33:46.000Z",
-      "score": 0.4061,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "7e91f82a16dfb43f",
-          "headline": "Japan and Vietnam sign AI research memorandum",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
-          "category": "general",
-          "publishedAt": "2026-11-16T01:33:46.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnNmOVhLbVVfLWZrZW15ZzRKN1VBMjY4cHhCRnIxZUUtMEtVcm42TUY4ZkhPOWU0S0JfYjhjU3hKZXlKVkxvaUZPeGtBdFNOLVJibkRYN0tRQzl3dW4tTXI5T2o5bGluSHR6bk1PMko5aVcyaUI0UUpUWWxROXJXcUMxOA?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "87d62afc67ee2616",
-      "headline": "Getting Edge Video AI Past the Pilot: How to Right-Size Compute and Build a Repeatable Production Pipeline",
-      "category": "general",
-      "publishedAt": "2026-11-16T01:30:14.000Z",
-      "score": 0.4054,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "c8adba67e2f1f199",
-          "headline": "Getting Edge Video AI Past the Pilot: How to Right-Size Compute and Build a Repeatable Production Pipeline",
-          "source": "Embedded Computing Design",
-          "domain": "unknown-embedded-computing-design",
-          "category": "general",
-          "publishedAt": "2026-11-16T01:30:14.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWmNZdFZuRlJseWFrZldsWWVDaTdqR2NZOUZJU2MtTzZGY00zbW9PNUhIOW9KLXlrYmY3Ty0xV1czV2hlbWNDcXFwLUFrcnVBdDZsaGpVbDVyZC05SF8xYjhNRnlySHVlLUxRbXA5dENMOHpacGgxMDUtYWNIV1BDdEg2TUVOaGVud1FpTENNUEJ2Zmp3R2MxdGFzU0tYUDMzRldScnYyem5OMXRvYjJZMDJ4LWVSMUZ3aThxRVdKNUQ3TWZ3Zlo5VW00U25tUWpEVWFJR0JCQ1psU2pLQTBXS05LQUxVNl90Y2NfMFRXYWx6U0cyVHd0ODZuTDNBdGducG4tZ2wzQlRSX0dhNTdBWmNJU0pfTWlXMU81cDdOdk9wazVObTVBY0c2Vy0?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "80e97986b99e99aa",
-      "headline": "Google DeepMind researchers verify Signal’s cryptographic core with AlphaProof Code",
-      "category": "research",
-      "publishedAt": "2026-11-16T01:02:12.000Z",
-      "score": 0.3997,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "17642b6da563a471",
-          "headline": "Google DeepMind researchers verify Signal’s cryptographic core with AlphaProof Code",
-          "source": "EdTech Innovation Hub",
-          "domain": "unknown-edtech-innovation-hub",
-          "category": "research",
-          "publishedAt": "2026-11-16T01:02:12.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXhEQk9zOTdWbFlGWmlJam9XSXRsQVg1bnpzNm80ZXRKUmE1LWtmcjVGMmI2ZHNjQWJvbHN2RUtWcUYybWlkY0Jmb2NkV1BTY2UyaXgtaU1DWktDd0R6T0IxNjVmNzdEWmxRcEJ4ZFNaODdkbWdTekV2VndaendVaC1zS3JlLXd5Nkx1RzV2ZDUtb084Q3VyMURpRzBzZGJBM1JYWnZpQ0g4bXVqeEp3bjMyaHlhejM1a1JfemtDY1M?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "474933304c1b22ef",
-      "headline": "Machine Learning Sepsis Models Need Proven Clinical Utility in Neonatal Care",
-      "category": "general",
-      "publishedAt": "2026-11-16T00:36:02.000Z",
-      "score": 0.3945,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "b750a8ba737e517f",
-          "headline": "Machine Learning Sepsis Models Need Proven Clinical Utility in Neonatal Care",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "general",
-          "publishedAt": "2026-11-16T00:36:02.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWc2ekgzaTV4Zm5FQ1RrRDJIUkpsdnUxSnUxUDFSNkZxUWNHZDM2MHFsQ25MRjdreUQzMUo4bVVuWWIwemxrNThnS29GYkprQ1ZfOV9ER3VZaDFSX1YyZ05udi10dDBabGEtT1AyWEd5Z09FMTdqQlBoUUd2S2xfWnlnOVRETmpkbFNQZnYtaEVyVko4cHppdXd3N0ZialBqd09N?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "cc56ca4e8aa52d7f",
-      "headline": "Machine Learning Integrates Biofluid Omics to Track Parkinson Disease Progression Stages",
-      "category": "general",
-      "publishedAt": "2026-11-16T00:20:59.000Z",
-      "score": 0.3916,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "14abe6d3bf8694ae",
-          "headline": "Machine Learning Integrates Biofluid Omics to Track Parkinson Disease Progression Stages",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "general",
-          "publishedAt": "2026-11-16T00:20:59.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1JUVEpRSGZNY1IwN1RKdk5uc0NhOG4zWE1yazB6Szl3VWM2cEF2SWtZUDdlNWo2RGRscDhRMHN4bDU0SWtUbnZCVVR5ajduLVFTcGJmY2J3cUI0MlhQR3pXLVQzT3U5SE9LU1FFMzNGSTR1Q2c1dEJVLTg0QUJXX0tJSjRxYU9aOXhHdDlTZFEwY21pNFAwQ3RMX1JBd1E4VFlkZ3NtYjAydkN5bHFrckpBYw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "1ebe2c4cfb3ccef7",
-      "headline": "Explainable Machine Learning Reveals Challenges in Predicting Parkinson’s Motor Complications",
-      "category": "general",
-      "publishedAt": "2026-11-16T00:05:59.000Z",
-      "score": 0.3887,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "8e080a1f8d5aff08",
-          "headline": "Explainable Machine Learning Reveals Challenges in Predicting Parkinson’s Motor Complications",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "general",
-          "publishedAt": "2026-11-16T00:05:59.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUXpBRzY3MUhpVi1YcENMdGJERWM2N2hCTW1PTVd3RFZ2VmxLR2dQWm1HRHhEVk5FX0dwZFNaQ1c0VV84NDlzakRmUlo5SUFBRjRkc19GRV80czN2bS1fa1I3Ri1HRS02cFIxcnRVd0h6NU5MRzVRZ09XejBwTDV0alpJQUlDankyakNNOWxKYktuV0J6Z05wZERYZ0ZzRlR5WFM0aHk2RWdsN21hYm5vWW9sOS1vZ2kw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "a91fe2cac2b922c1",
-      "headline": "Google adds Gemini 4 Carbon to free AI access program for 10,000 scientists",
-      "category": "models",
-      "publishedAt": "2026-11-16T00:02:11.000Z",
-      "score": 0.388,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "b1fedbc3e0e2741c",
-          "headline": "Google adds Gemini 4 Carbon to free AI access program for 10,000 scientists",
-          "source": "EdTech Innovation Hub",
-          "domain": "unknown-edtech-innovation-hub",
-          "category": "models",
-          "publishedAt": "2026-11-16T00:02:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTl0ZVliY3J3SWtTWkdPYk9WYnRjcy0wYWxUNFFXeWhtaVJPZDB1LTh4dTI2RTlEZjhwLV9QWXc0cUZJajVsOGQ5RFdMZHYtRDVlMTJOLUx4ekdCTWtoNjhhVUxyZzBEVV9wazlCdi1XdUU5YU14RFdUd1VhX2ZUbS1OTFdtRTBnV3pUZFNYclFmajdHX0lfQXgwQjJjTENKZUZQekNLVUVrUW1hRXc1b3ZsSWxtdw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "80aeabb879b21b9c",
-      "headline": "The Future of AI Jobs May Be Outside the Tech Industry",
-      "category": "general",
-      "publishedAt": "2026-11-15T23:19:46.000Z",
-      "score": 0.3801,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "16e79f4f30d66b3b",
-          "headline": "The Future of AI Jobs May Be Outside the Tech Industry",
-          "source": "HackerNoon",
-          "domain": "unknown-hackernoon",
-          "category": "general",
-          "publishedAt": "2026-11-15T23:19:46.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRGotVGhLbV9uZFB6Vlcyc0lQRG1QdXVoY3EyQjZKUm5Pc3JTRkNaQWthR19OdGNRQXNtVlZNeEg4SzNNeEF5YlNQM2dqcU1zZnhaRm11OUNjY2ktSkVFLW5xUzgzUFJ1c01ZbEwyM2ZHMG1Sc0RVY2ttZFlGVnlwRThpYw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "d8267c082149974f",
-      "headline": "Our new blog for science",
-      "category": "general",
-      "publishedAt": "2026-11-15T22:29:38.000Z",
-      "score": 0.3712,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "7c1166d0e9de35f6",
-          "headline": "Our new blog for science",
+          "id": "abb618a507a8430b",
+          "headline": "Science at the Frontier: How scientists use ChatGPT",
           "source": "OpenAI",
           "domain": "unknown-openai",
           "category": "general",
-          "publishedAt": "2026-11-15T22:29:38.000Z",
+          "publishedAt": "2026-11-16T17:19:12.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xMG5vSllDdjVHa3N1MmhSV2VBMnJIZ0tMcXg3dzJmY2ZvS2V3Zk9zaXRZY1h5enlLRzJDMURCbUZjN3ZJNnJuR1g2TnMxZ1hOaXdZQ21paTRXLWJ4dDl3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "96fb306f7379857f",
-      "headline": "Quantum tunneling search could accelerate optimisation on photonic chips for machine learning",
+      "id": "53c44563abb1ceef",
+      "headline": "Broadening access to AI for scientists",
       "category": "general",
-      "publishedAt": "2026-11-15T22:24:53.000Z",
-      "score": 0.3704,
+      "publishedAt": "2026-11-16T17:15:16.000Z",
+      "score": 0.4085,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "28cdebf5c1d837e4",
-          "headline": "Quantum tunneling search could accelerate optimisation on photonic chips for machine learning",
+          "id": "6930607dbeb39d20",
+          "headline": "Broadening access to AI for scientists",
+          "source": "OpenAI",
+          "domain": "unknown-openai",
+          "category": "general",
+          "publishedAt": "2026-11-16T17:15:16.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d879299dde052e8d",
+      "headline": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
+      "category": "general",
+      "publishedAt": "2026-11-16T17:04:11.000Z",
+      "score": 0.4062,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "59df43ce03701709",
+          "headline": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
+          "category": "general",
+          "publishedAt": "2026-11-16T17:04:11.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1R4Q3kzV1JYWWVWVlBDRm1hVF9VcVp2Mkd3OWJ1NzZFWGY5TGdodExiWk1tZ1JJbmdyTkhEa3daMGVPSnFKZWg0NHI3al9zOXlNTVNIY2MyVGpFU2lQNno1T3p4Mm0zQ1RoOTBGc1NwNzFJTHhSaVN4VEsyRmxmNUVRV2h5WmYzdzVBTzBsUkRlRVdIbGVFZlRlZm9abDBYUGJPNHJIb2pyMERiTVRMRjE1STdMZmpnVFVURnhveGJvLUdWTGpXNXJHamw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "030aaefac4acd8a1",
+      "headline": "OpenAI will embed safety researchers to investigate AI subversion",
+      "category": "research",
+      "publishedAt": "2026-11-16T17:02:43.000Z",
+      "score": 0.4059,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "61991d27e8945348",
+          "headline": "OpenAI will embed safety researchers to investigate AI subversion",
+          "source": "TechCrunch",
+          "domain": "unknown-techcrunch",
+          "category": "research",
+          "publishedAt": "2026-11-16T17:02:43.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGwxMmpFWW1rLXdmMmZSeG9faHNxQjQzNmVZN1k0ZXVMY0wxQXhtRWNrNjFhOW9kRlp4M0RvVy0tczdJQ0k1TFZXa2xRTTNfSlJVMlViRXVQajZTRDhyMldKQ3hTVmIwT0FuVlBMcnJBeDlVNGxla2Z5TWR3MlBNTVh3N201c3N1bnQ4a3l6NV82cTg3ZzNYTjlVMmVHcVl4TUE?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "99a3cb82bfb2b91d",
+      "headline": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "category": "general",
+      "publishedAt": "2026-11-16T17:01:35.000Z",
+      "score": 0.4056,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d4e4b402bc250b48",
+          "headline": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+          "source": "Microsoft",
+          "domain": "unknown-microsoft",
+          "category": "general",
+          "publishedAt": "2026-11-16T17:01:35.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMC1vbDhQcGpubTdvZG5BUmhZOHRidDFKMTdTLXo2SWk5RDg3THlEc2p2S3dCMXUtb28taWo1aERsNUJBRnlfUE1SeERkMFZVY01aVWh5NHpvR0dRdEpsQk9DQnNrODBQLXpnVklkUnB1Wm9ydjVZbnc1SVVReGVFQ0Z0UV9aRTVzNFBiTTZHMXdFb0dfcE04WXQ1V2xwY2QxWG1ZQms0SVhIcVp2X1VuY3dxRnNJN3pBNkJfT3gteWFfWW9vdGc?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "93c2a66e26524c31",
+      "headline": "SE3 raises $30 million for spatial AI research",
+      "category": "general",
+      "publishedAt": "2026-11-16T16:52:58.000Z",
+      "score": 0.4039,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "96f3bf51044bfb1a",
+          "headline": "SE3 raises $30 million for spatial AI research",
+          "source": "CASRAI",
+          "domain": "unknown-casrai",
+          "category": "general",
+          "publishedAt": "2026-11-16T16:52:58.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4OWZCcUFXcUN2cFo4S0ZSdWdyZEJDMi1oWDBma29RWkVETGpVcmM1dFpIVS1faVplci1rM3hHbEtBWFZucGljMDVtYXNJZUFDNDVJMTRGT1JpT1MzNGJmVndObXB1akJScVE?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "13e71aa8ec5e42f1",
+      "headline": "LLM Designs Fault-tolerant Circuits For Quantum Error Correction",
+      "category": "models",
+      "publishedAt": "2026-11-16T16:48:20.000Z",
+      "score": 0.4029,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "993487337a1d4f4a",
+          "headline": "LLM Designs Fault-tolerant Circuits For Quantum Error Correction",
+          "source": "Quantum Zeitgeist",
+          "domain": "unknown-quantum-zeitgeist",
+          "category": "models",
+          "publishedAt": "2026-11-16T16:48:20.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwTTdxSlNsam02Z1pTbmRnbGtCMVNQMFdlWnI0SHdYa29YU2hRWDNxQ19wY0xVb1BTN2hhMDZFYTI3OHJJczBodUYzOXFsb1ExUEpKS0VUQnMwcUttdjdhbmhPNUcxTkFhZEpxLXNxeXEyOUF0clNNNmFLaw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "5f20e79ad52f8b3a",
+      "headline": "Bigger software suites sound good — but for whom?",
+      "category": "general",
+      "publishedAt": "2026-11-16T16:44:19.000Z",
+      "score": 0.4021,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d33b3aaf3f07d626",
+          "headline": "Bigger software suites sound good — but for whom?",
+          "source": "TechTarget",
+          "domain": "unknown-techtarget",
+          "category": "general",
+          "publishedAt": "2026-11-16T16:44:19.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlFfdC1EbkdwbTdPQmt0VHpJXzhrRmRfOGR1akFJMWUzamIxUWQwVVZiQXJJWXowMmJ4RVhadEF1WEhQY0pVMVJjYm53Y1QyWmlYR1JhamVsV1ZzbEctQnNBY2UyS3JTbGozXzlBQUVPSUp3Y3lCWE1nbU5SX2tNMWVFLVZILWFTaGZfanBtaw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "63aa01ce2956829c",
+      "headline": "Can AI replace college advisers? Research says not yet",
+      "category": "general",
+      "publishedAt": "2026-11-16T16:44:12.000Z",
+      "score": 0.4021,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "5e83e180b30266c2",
+          "headline": "Can AI replace college advisers? Research says not yet",
+          "source": "Princeton Engineering",
+          "domain": "unknown-princeton-engineering",
+          "category": "general",
+          "publishedAt": "2026-11-16T16:44:12.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWJKYW8ycl9ZZW5EVzJuRlJUUnVoc3JSdTRSTVU3OC15RERhbzhmOTZDY0NpOVdpTnhNQjZsSzdFTTJneGlNLVRTcXpZdi1TSE44THJ3TGVTRnZRZ1JwS25QSWtRLWJNMTBJbFNUOElCZUJsWXVyalZRWHdlamplNHBwQU8zYzYwTjd5SE1vbkZ4aTZZRFU1M2ZiLTJocnpFSXUtY0N3?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "381c85feeba88309",
+      "headline": "Loughborough researcher awarded prestigious UKRI Turing AI Fellowship to transform flood forecasting",
+      "category": "general",
+      "publishedAt": "2026-11-16T16:42:42.000Z",
+      "score": 0.4018,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "adc0c92aecbb37f6",
+          "headline": "Loughborough researcher awarded prestigious UKRI Turing AI Fellowship to transform flood forecasting",
+          "source": "Loughborough University",
+          "domain": "unknown-loughborough-university",
+          "category": "general",
+          "publishedAt": "2026-11-16T16:42:42.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUxyQ1ZaRC1kSlpsMEZWUHl3ak9lb2JSV2l3UTk2NTBONGd3d3A2MkU0cUl6ZzJsT0VmZVI4NWVEQUI2VThYMk5hdWluNjVKa25KcWJXM3cwLVVfdEVsNFB3WGpLbk9hVmJQZG1Jc2dQVmI1ME55eVdjcXJaOV9yQmZ2YkNRSmdx?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "0c87199a24019aa9",
+      "headline": "Learning Machines",
+      "category": "general",
+      "publishedAt": "2026-11-16T16:40:15.000Z",
+      "score": 0.4013,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "ef97882caa61428a",
+          "headline": "Learning Machines",
+          "source": "University of Pittsburgh",
+          "domain": "unknown-university-of-pittsburgh",
+          "category": "general",
+          "publishedAt": "2026-11-16T16:40:15.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tYy1VSjM3ZHljeDI2WnkyU3YtcWdKV2NUN05qVV9mM2RZdHVnTVNLRWtnaGF5OEtWR2JDbFY2N3ZIdm5XVUNsTTUxZHhibXVaU2NxNlRud1RGUWtxQU96bDItYjRpek13XzFmVWxR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "82268ae9771f144a",
+      "headline": "Large Language Models In A Nutshell",
+      "category": "general",
+      "publishedAt": "2026-11-16T16:27:04.000Z",
+      "score": 0.3986,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "0b48c46e3874cd39",
+          "headline": "Large Language Models In A Nutshell",
+          "source": "FourWeekMBA",
+          "domain": "unknown-fourweekmba",
+          "category": "general",
+          "publishedAt": "2026-11-16T16:27:04.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13MUZqN001Y2hYT0FrR2hIYVR1aVJKdlpfYkptU0toYnpwbkE5M0ZCOTkwS19JaVNWQnhyRUhmVG16VFFQVTczSHBRNGZSa1l3QjZFMS1Ka19Ddw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "fa54cb417a293ee5",
+      "headline": "llm 0.37.2 Fixes Two Paths That Sent OpenAI Keys to Other Providers",
+      "category": "models",
+      "publishedAt": "2026-11-16T16:26:23.000Z",
+      "score": 0.3985,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "13c6e987b29d5d84",
+          "headline": "llm 0.37.2 Fixes Two Paths That Sent OpenAI Keys to Other Providers",
+          "source": "remio",
+          "domain": "unknown-remio",
+          "category": "models",
+          "publishedAt": "2026-11-16T16:26:23.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHlRSzJfZ3hmZmNYTU9Ncmc3NVlFbGFBZHdNQVNibnBOOW9sN0V4Z3pJS0VQVmRuTkpwdkZ5WWtacTBoai1SS3hWdDMxa205Y1YtcG52VUpSZ21GU3hnNFk4Mm1BN09KamNKTUszdWNNV29SSU5hMEY1dS1ScUR6SFAyMW5uU05xUEdxWlk0VHlYNXJhRTdlVQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "75bdf7661eeda95d",
+      "headline": "Knowledge Graphs + LLMs: Grounding Enterprise Answers in Real Dependencies",
+      "category": "models",
+      "publishedAt": "2026-11-16T16:25:52.000Z",
+      "score": 0.3984,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3e0cbdc4b0e400a6",
+          "headline": "Knowledge Graphs + LLMs: Grounding Enterprise Answers in Real Dependencies",
+          "source": "HPCwire",
+          "domain": "unknown-hpcwire",
+          "category": "models",
+          "publishedAt": "2026-11-16T16:25:52.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1Z1RTVWdzYtTU1idU9hQk95Y25OdTIybDdUNzJJU2RIWF82aW5ISnRwVUNTbGIwQmZMVlRYZ3c4OUJWd1lhQldxaXBiQkYtcGoxMmV3emZsdFdneTZaMnl3T09Nc1dDRjB2T3EtV1V2bjg4YVAtQ1RYVDJvU1dsbTJaaVFqT25TUktrRXdXZGxTZ3h1RkdwbmR5U2tvYU1HeVQ3QWxDQ2VPSVJkcjJQY2pfRUpaNklhXzFN?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "0f746e8d2b7120d9",
+      "headline": "Nvidia launches Nemotron for Science AI research platform By Investing.com",
+      "category": "models",
+      "publishedAt": "2026-11-16T16:11:33.000Z",
+      "score": 0.3956,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "627f4f0070788ca3",
+          "headline": "Nvidia launches Nemotron for Science AI research platform By Investing.com",
+          "source": "Investing.com India",
+          "domain": "unknown-investing-com-india",
+          "category": "models",
+          "publishedAt": "2026-11-16T16:11:33.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHpoR1VCTjgzYXVSdmRNOUtLUnh3MFhXSHFqc1YyUUhaQThwM281Q0UzV2RYUWtVcS0tQnlIbGIwdGNXdFR2R09ZTkpyOHNtZ3NfemxHM3hJTUYtSEltc0swOWQySi0xRGM3VDNBdGJtUXdtdnFTTFh3ZGRDSVJnU1cwZXZoRDJZb1dsdWFPQ0hfVUZpQ1Y2dVFycUpKYnFDZF84Y1czQ3B1VHh1cDhOWkJKeGY5NXpUTkE?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "cacd9c29c74fa2bb",
+      "headline": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+      "category": "research",
+      "publishedAt": "2026-11-16T16:07:00.000Z",
+      "score": 0.3947,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "b58b93ad1d249aee",
+          "headline": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+          "source": "The Guardian",
+          "domain": "unknown-the-guardian",
+          "category": "research",
+          "publishedAt": "2026-11-16T16:07:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmhlRldOOXBrTGdmcG51endOeHM0dWRObFJYNUZ0cU5LRDl4dG9pQm1xbWxHcjhZSGc1VGRPYjJ3ek9WeFUtbDVtTDVGMm05VmxnY044WDcwcUlWZE9WMDZNcDFLWkZVLTBRQnFLMkZtdkZ1RlFXMEtXWEl6NWE3SGJRT1FkR0R1c3MzYVlyeDNPTzUtaFZWMVUyVWpOMDZiVlQyODUyd2FfZw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "cf2e652f3f23c8a3",
+      "headline": "What AI at work really costs",
+      "category": "general",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "score": 0.3933,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4097b91f08383c67",
+          "headline": "What AI at work really costs",
+          "source": "Microsoft",
+          "domain": "unknown-microsoft",
+          "category": "general",
+          "publishedAt": "2026-11-16T16:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2RuUlpBMUlmOFRsaGFqTGx4S3F5dXFVTmlJWnBuV0k0Rjl4cE02NjJSOURGanVEa3NreklzZHlqVV9ZYjJWV2xqR3gwa3JoOFFJZVBKU2syWlRWZFRmbm85VG5FeHpORkJRbzktSlpWaWFKOVJIMjZOUzU1X1JUeXMtdGlua0NDUGljRzNB?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "848380282ff20399",
+      "headline": "Researchers building manufacturing AI that can explain reasoning to engineers",
+      "category": "research",
+      "publishedAt": "2026-11-16T15:57:00.000Z",
+      "score": 0.3927,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "1a7ea48bca59a1c2",
+          "headline": "Researchers building manufacturing AI that can explain reasoning to engineers",
+          "source": "The Pennsylvania State University",
+          "domain": "unknown-the-pennsylvania-state-university",
+          "category": "research",
+          "publishedAt": "2026-11-16T15:57:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3l5LWZxRXVqOHAzVnpLUUl0R2g5UjBfdmlxNi02QldOQ2VsOHd0N3RNS2hvM0U3Q2ZQUy1ObFJhSXEwYlVoakQ2Vmg3TnhhcE9sMGN1Q2dfaUFlS3FPdW1yOGtPekVDQjRNQUR5bkJoYXhJcklINHhaZUpuWjh3LWVfY1pyOVBIWlRsalpDdnNYTlQwT2xEWktiQnB5YkJuZXNfaXdHWGc3YV81VllJZlZzVnB6dFk?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "1c903f7aa6c683c8",
+      "headline": "Quantum Machine Learning Could Assess Prediction Reliability Using New Theory",
+      "category": "general",
+      "publishedAt": "2026-11-16T15:53:51.000Z",
+      "score": 0.3921,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "c4c1693f36b6367e",
+          "headline": "Quantum Machine Learning Could Assess Prediction Reliability Using New Theory",
           "source": "Quantum Zeitgeist",
           "domain": "unknown-quantum-zeitgeist",
           "category": "general",
-          "publishedAt": "2026-11-15T22:24:53.000Z",
+          "publishedAt": "2026-11-16T15:53:51.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUpEcm9ya1NTbjd2VXdTOFhEQVlKZlhOalgyMkxyUF94WlNGSl9TSmwyQkhxWG5rZVowTkNLUXpBS2ZBbmIxejRzOFBpVVU4cThucHpJdUJjUmlCXzJoc2RkM0lRX1dLSHA4Qy04cTdVck53S2ZfN1BlRVZKVTZIZkd0Yy13Tk1vWWRPNUZPVEd2NlFHUkhr?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDZDWTNETmpNVUdXa3h4NnpKcFZzZXZCSGhGclRFZnRWd1hWV3lSX19mWEJGcGVZamZ3bDBlYXEzd01IRG1uajRKZVdfWW1BMVpZTVJnQXZuU3B4Nm1tekFkdDJNU1AtNVgyRFBJM0d1MTFiSHc1NUNoT2JLelJFV3Z2WWl1VjhOcGpkSXctYXAxSHh6SmtYb0JiVQ?oc=5",
           "provider": "google-news"
         }
       ],
       "briefing": null
     },
     {
-      "id": "eadef9a12dc9dcec",
-      "headline": "Researchers Get AI ‘Drunk’ to Expose New Cyber Security Risks in Chatbots",
-      "category": "research",
-      "publishedAt": "2026-11-15T21:33:28.000Z",
-      "score": 0.3617,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "5f18b780a20ad896",
-          "headline": "Researchers Get AI ‘Drunk’ to Expose New Cyber Security Risks in Chatbots",
-          "source": "The Good Men Project",
-          "domain": "unknown-the-good-men-project",
-          "category": "research",
-          "publishedAt": "2026-11-15T21:33:28.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxsX0pEY2JkNWJjenplS3p5cnRTTWQtUEk2UTlHblMzTFQyLXVKa2hiSGs0YlJ1eXR3MGdZQV9DV2lvbjJBQTJzX1RKZFpabFV0VG4zYmxDREIwaW9OLTEzeHo3NUtGVDlNSTJSMFA1RW1rYlVxMzF4N2lxU0ljNE03cGFZRkgtbGlJRl9Lb2M2cjlTeFUzN1E0RllLTXlwLXpuclM4NmVpSlZobHBmSHNPNVZSMVk?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "1b1a9323568c7350",
-      "headline": "Skill Adapter Personalizes and Routes Reusable LLM Agent Skills",
-      "category": "models",
-      "publishedAt": "2026-11-15T20:18:50.000Z",
-      "score": 0.3498,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "a40c1729e46a13d0",
-          "headline": "Skill Adapter Personalizes and Routes Reusable LLM Agent Skills",
-          "source": "CASRAI",
-          "domain": "unknown-casrai",
-          "category": "models",
-          "publishedAt": "2026-11-15T20:18:50.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAySXBvS3JZUjBsTUtzeS11LVB5N2g5TUxRVkptN09uSkw3WVZLN2hPTV80NXh2SjVfNllYUjgzUnNWeXpvMUFsVER2ZHRFVk9qYzFpS0FfOVhlVGlpUkxJeWtWSS1EMWptdVB5bjZpUDVSakd1QlRJT3VwMk1HUmM?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "bc7782812831bdae",
-      "headline": "AI in medical imaging: Dr Swati Goyal’s book unveiled at national conference",
+      "id": "01eaa0119ff430fa",
+      "headline": "Use prompt caching with open-weight models on Amazon Bedrock",
       "category": "general",
-      "publishedAt": "2026-11-15T19:16:07.000Z",
-      "score": 0.3404,
+      "publishedAt": "2026-11-16T15:42:41.000Z",
+      "score": 0.39,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "3924f7d51c6042bb",
-          "headline": "AI in medical imaging: Dr Swati Goyal’s book unveiled at national conference",
-          "source": "MillenniumPost",
-          "domain": "unknown-millenniumpost",
+          "id": "54745526d736c7d7",
+          "headline": "Use prompt caching with open-weight models on Amazon Bedrock",
+          "source": "Amazon Web Services (AWS)",
+          "domain": "unknown-amazon-web-services-aws",
           "category": "general",
-          "publishedAt": "2026-11-15T19:16:07.000Z",
+          "publishedAt": "2026-11-16T15:42:41.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWU4ZkVoU0R1SGRWWWFnN2k0cFdzYUw5TXltNXNFVkVXMTNlSXR3LUFBZFRmdmZGazZwZkVRQUc0UGtaUVlWSUE2VVF6aFl5QTFZVGNLcXg0Um83VTdkcTE5cTdMR1djb1pLdlpGU3U1UTQtVnZjdVdjNnUtOHhQRV9BMUZLM2FNWGNJdjNNZ2d2Z3JLbW5OT2txU055ZFFxdGV5a2FNZF9aM1lJNEl1VDc4RHhyMkZ4NnfSAb8BQVVfeXFMT0NPRGZpUW5XcVBtdHlzNWliYXpMNTlmdnd2bmZxcmd2ck5iNGdWT0oxMktjYVRHMHh0ODlZLTJISTh0T2JSS1A1cXpNLUFWUEVBUlNpbkxjaWRWX1RWdDhXaGNQUDFIUEZ4MWpRTk5MSUp6RGlYdGhESjZUeXl3eVZBNUJiekFObmN0UHptdXNhWVFaRE1VU2thM1E0dUdvVnc4ZGVDQms5V2pUZUY5TEJGTHp4TlkzUkJnTml6NjA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHJ6UE0wUzJ5V1R2bENHXy16YXFLaWFnNG5rQnpYUy1VSzJOazhlWm9wcURIcWVSV0JPSjByMGpZV0JndTZWc2wzRzN2UDhNeU43Q3JIMWlzREdrcC1LU1UzNVJCRXlzZVpiWFVzc3l0ZFY0QU5LR0h0bkRqTDg3Y0RRMUpLYlhZdFB0U3U5YnBpcW1ZUlV0MWtqZUpwbUVQam5RMVd3VmY3SzQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "afde3a2c8874624d",
+      "headline": "Apple and OpenEvidence Seek 200,000 Consumers for Health AI Study",
+      "category": "research",
+      "publishedAt": "2026-11-16T15:32:40.000Z",
+      "score": 0.3881,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "fdea3edfcc6c2533",
+          "headline": "Apple and OpenEvidence Seek 200,000 Consumers for Health AI Study",
+          "source": "PYMNTS.com",
+          "domain": "unknown-pymnts-com",
+          "category": "research",
+          "publishedAt": "2026-11-16T15:32:40.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0NnYlM4ekd1OEZWOVBrRWhoXzkyVFViZlhONzBpbEJmV3pCc2UtVGUyRWVUUkZydFdReFhBRXdkNWN4S0JtNno1RFQ4R0J5WHgyVFctai1nWFAyN1RZbzZOWTlCTGlxaTh2OC0yNHdiOUpmOGxDMEVRYUViYlR3TTZLQW1Bc2RYMFlfZGZ4OWxsWXQ3elFGNlJyTko5TXFnd0NIVy1fN0Y0U0xMckhTSU9ocy0wdlNWYV9ZOERabw?oc=5",
           "provider": "google-news"
         }
       ],
