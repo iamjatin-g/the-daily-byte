@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-15T19:01:36.751Z",
-  "outcome": "partial",
+  "runAt": "2026-11-16T06:55:02.770Z",
+  "outcome": "success",
   "totals": {
-    "fetched": 131,
-    "afterFilter": 63,
-    "clusters": 59,
+    "fetched": 156,
+    "afterFilter": 129,
+    "clusters": 101,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-16",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -52,6 +52,16 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-13T19:56:03.741Z"
+    },
+    {
+      "name": "in.mashable.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
+      "disabledAt": null
     },
     {
       "name": "indianexpress.com",
@@ -138,7 +148,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -210,17 +220,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-15T19:01:36.751Z",
+      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 7,
+      "articlesFetched": 8,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-15T19:01:36.751Z",
+      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
       "disabledAt": null
     },
     {
@@ -230,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-15T19:01:36.751Z",
+      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
       "disabledAt": null
     },
     {
@@ -240,17 +250,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-15T19:01:36.751Z",
+      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 24,
+      "articlesFetched": 28,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-15T19:01:36.751Z",
+      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
       "disabledAt": null
     },
     {
@@ -260,18 +270,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-15T19:01:36.751Z",
+      "lastSuccessAt": "2026-11-16T06:55:02.770Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:LLMs: fetch failed",
-    "gdelt:machine learning: fetch failed",
-    "feed:economictimes.indiatimes.com: no usable feed found",
     "feed:outlookindia.com: no usable feed found",
-    "briefing skipped for \"Guimaraes learning a lot from 'machine' \": This operation was aborted",
-    "briefing skipped for \"Governor Hochul announces AI research in\": This operation was aborted",
-    "briefing skipped for \"Deep learning-based prediction of mechan\": This operation was aborted",
+    "briefing skipped for \"Apple launches app to study how people u\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"University GPU Crunch Slows AI Research\": This operation was aborted",
+    "briefing skipped for \"Apple Opens 200,000-Seat Health AI Study\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
