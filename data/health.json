@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-16T22:25:18.347Z",
+  "runAt": "2026-11-17T08:12:48.319Z",
   "outcome": "success",
   "totals": {
     "fetched": 149,
-    "afterFilter": 113,
-    "clusters": 102,
+    "afterFilter": 215,
+    "clusters": 149,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 14
   },
   "llmCallsToday": {
     "date": "2026-11-17",
-    "count": 3
+    "count": 17
   },
   "sources": [
     {
@@ -22,16 +22,6 @@
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-09T22:37:22.635Z"
-    },
-    {
-      "name": "business-standard.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://business-standard.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "deccanchronicle.com",
@@ -52,6 +42,16 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-15T19:01:36.751Z"
+    },
+    {
+      "name": "firstpost.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://firstpost.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "hindustantimes.com",
@@ -158,10 +158,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-09T22:37:22.635Z"
+      "disabledAt": "2026-11-17T08:12:48.319Z"
     },
     {
       "name": "tribuneindia.com",
@@ -210,7 +210,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
+      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
       "disabledAt": null
     },
     {
@@ -220,7 +220,7 @@
       "articlesFetched": 9,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
+      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
       "disabledAt": null
     },
     {
@@ -230,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
+      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
       "disabledAt": null
     },
     {
@@ -240,7 +240,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
+      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
+      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
       "disabledAt": null
     },
     {
@@ -260,17 +260,13 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-16T22:25:18.347Z",
+      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:livemint.com: no usable feed found",
-    "feed:indianexpress.com: HTTP 403 for https://indianexpress.com/",
-    "feed:business-standard.com: HTTP 403 for https://business-standard.com/",
-    "briefing skipped for \"Apple launches research study with OpenE\": This operation was aborted",
-    "briefing skipped for \"SquadStack.ai launches Maya, the world’s\": This operation was aborted",
-    "briefing skipped for \"Dreamteam Raises $53M Led by Accel for A\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefings: 3 failures in a row, stopping for this run"
+    "feed:timesofindia.indiatimes.com: no usable feed found",
+    "feed:firstpost.com: HTTP 403 for https://firstpost.com/",
+    "briefing skipped for \"Apple launches AI health study app to ex\": This operation was aborted"
   ]
 }
