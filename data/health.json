@@ -1,27 +1,37 @@
 {
-  "runAt": "2026-11-17T08:12:48.319Z",
+  "runAt": "2026-11-17T21:11:22.312Z",
   "outcome": "success",
   "totals": {
-    "fetched": 149,
-    "afterFilter": 215,
-    "clusters": 149,
+    "fetched": 170,
+    "afterFilter": 110,
+    "clusters": 101,
     "linkRotDropped": 0,
-    "llmCallsUsed": 14
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-17",
-    "count": 17
+    "date": "2026-11-18",
+    "count": 3
   },
   "sources": [
+    {
+      "name": "analyticsindiamag.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
+      "disabledAt": null
+    },
     {
       "name": "aninews.in",
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-09T22:37:22.635Z"
+      "disabledAt": "2026-11-17T21:11:22.312Z"
     },
     {
       "name": "deccanchronicle.com",
@@ -42,16 +52,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-15T19:01:36.751Z"
-    },
-    {
-      "name": "firstpost.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://firstpost.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "hindustantimes.com",
@@ -78,10 +78,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-09T22:37:22.635Z"
+      "disabledAt": "2026-11-17T21:11:22.312Z"
     },
     {
       "name": "livemint.com",
@@ -154,6 +154,16 @@
       "disabledAt": "2026-11-07T17:49:14.539Z"
     },
     {
+      "name": "timesnownews.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
       "name": "timesofindia.indiatimes.com",
       "provider": "feed",
       "status": "disabled",
@@ -168,10 +178,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-09T22:37:22.635Z"
+      "disabledAt": "2026-11-17T21:11:22.312Z"
     },
     {
       "name": "AI research",
@@ -210,17 +220,17 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
+      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "gnews",
       "status": "ok",
-      "articlesFetched": 9,
+      "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
+      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
       "disabledAt": null
     },
     {
@@ -230,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
+      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
       "disabledAt": null
     },
     {
@@ -240,7 +250,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
+      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
       "disabledAt": null
     },
     {
@@ -250,7 +260,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
+      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
       "disabledAt": null
     },
     {
@@ -260,13 +270,18 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T08:12:48.319Z",
+      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:timesofindia.indiatimes.com: no usable feed found",
-    "feed:firstpost.com: HTTP 403 for https://firstpost.com/",
-    "briefing skipped for \"Apple launches AI health study app to ex\": This operation was aborted"
+    "feed:tribuneindia.com: no usable feed found",
+    "feed:aninews.in: HTTP 403 for https://aninews.in/",
+    "feed:indiatoday.in: no usable feed found",
+    "feed:timesnownews.com: no usable feed found",
+    "briefing skipped for \"Apple launches health AI study with app \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"98 per cent of scientists expect AI to a\": This operation was aborted",
+    "briefing skipped for \"LLM-Driven Social Simulations Face Signi\": This operation was aborted",
+    "briefings: 3 failures in a row, stopping for this run"
   ]
 }
