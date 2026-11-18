@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-18T07:46:15.502Z",
+  "runAt": "2026-11-18T20:47:14.715Z",
   "outcome": "success",
   "totals": {
     "fetched": 170,
-    "afterFilter": 217,
-    "clusters": 167,
+    "afterFilter": 99,
+    "clusters": 96,
     "linkRotDropped": 0,
-    "llmCallsUsed": 6
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-18",
-    "count": 9
+    "date": "2026-11-19",
+    "count": 3
   },
   "sources": [
     {
@@ -22,16 +22,6 @@
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-17T21:11:22.312Z"
-    },
-    {
-      "name": "coingape.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
-      "disabledAt": null
     },
     {
       "name": "deccanchronicle.com",
@@ -124,6 +114,16 @@
       "disabledAt": "2026-11-02T06:31:18.443Z"
     },
     {
+      "name": "newindianexpress.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
+      "disabledAt": null
+    },
+    {
       "name": "news18.com",
       "provider": "feed",
       "status": "disabled",
@@ -156,12 +156,12 @@
     {
       "name": "timesnownews.com",
       "provider": "feed",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-11-18T20:47:14.715Z"
     },
     {
       "name": "timesofindia.indiatimes.com",
@@ -220,7 +220,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
+      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
       "disabledAt": null
     },
     {
@@ -230,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
+      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
       "disabledAt": null
     },
     {
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
+      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
+      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
+      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
       "disabledAt": null
     },
     {
@@ -270,15 +270,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
+      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
       "disabledAt": null
     }
   ],
   "errors": [
     "feed:timesnownews.com: no usable feed found",
-    "briefing skipped for \"Apple launches health AI study with app \": This operation was aborted",
-    "briefing skipped for \"Generative AI feedback use and English w\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Fusionex Hub: Augmented Intelligence Put\": LLM rate limit (HTTP 429)",
-    "briefings: rate limited, stopping for this run"
+    "briefing skipped for \"Strengthening India’s AI and Supercomput\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"NeRNA-Web Generates Structure-Aware Nega\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"RadixArk Releases DaisyRose-27B, Built o\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefings: 3 failures in a row, stopping for this run"
   ]
 }
