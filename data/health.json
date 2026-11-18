@@ -1,28 +1,18 @@
 {
-  "runAt": "2026-11-17T21:11:22.312Z",
+  "runAt": "2026-11-18T07:46:15.502Z",
   "outcome": "success",
   "totals": {
     "fetched": 170,
-    "afterFilter": 110,
-    "clusters": 101,
+    "afterFilter": 217,
+    "clusters": 167,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 6
   },
   "llmCallsToday": {
     "date": "2026-11-18",
-    "count": 3
+    "count": 9
   },
   "sources": [
-    {
-      "name": "analyticsindiamag.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
-      "disabledAt": null
-    },
     {
       "name": "aninews.in",
       "provider": "feed",
@@ -32,6 +22,16 @@
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-17T21:11:22.312Z"
+    },
+    {
+      "name": "coingape.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
+      "disabledAt": null
     },
     {
       "name": "deccanchronicle.com",
@@ -158,7 +158,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -220,7 +220,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
+      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
       "disabledAt": null
     },
     {
@@ -230,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
+      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
       "disabledAt": null
     },
     {
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
+      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
+      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
+      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
       "disabledAt": null
     },
     {
@@ -270,18 +270,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-17T21:11:22.312Z",
+      "lastSuccessAt": "2026-11-18T07:46:15.502Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:tribuneindia.com: no usable feed found",
-    "feed:aninews.in: HTTP 403 for https://aninews.in/",
-    "feed:indiatoday.in: no usable feed found",
     "feed:timesnownews.com: no usable feed found",
-    "briefing skipped for \"Apple launches health AI study with app \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"98 per cent of scientists expect AI to a\": This operation was aborted",
-    "briefing skipped for \"LLM-Driven Social Simulations Face Signi\": This operation was aborted",
-    "briefings: 3 failures in a row, stopping for this run"
+    "briefing skipped for \"Apple launches health AI study with app \": This operation was aborted",
+    "briefing skipped for \"Generative AI feedback use and English w\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Fusionex Hub: Augmented Intelligence Put\": LLM rate limit (HTTP 429)",
+    "briefings: rate limited, stopping for this run"
   ]
 }
