@@ -1,15 +1,15 @@
 {
-  "runAt": "2026-11-19T07:42:05.941Z",
+  "runAt": "2026-11-19T20:52:54.260Z",
   "outcome": "success",
   "totals": {
-    "fetched": 186,
-    "afterFilter": 191,
-    "clusters": 142,
+    "fetched": 190,
+    "afterFilter": 101,
+    "clusters": 95,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 6
   },
   "llmCallsToday": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "count": 6
   },
   "sources": [
@@ -32,16 +32,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
-    },
-    {
-      "name": "devdiscourse.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
-      "disabledAt": null
     },
     {
       "name": "economictimes.indiatimes.com",
@@ -130,7 +120,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
+      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
       "disabledAt": null
     },
     {
@@ -152,6 +142,16 @@
       "lastError": "HTTP 403 for https://newsbytesapp.com/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-09T06:56:58.616Z"
+    },
+    {
+      "name": "thehindubusinessline.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "disabledAt": null
     },
     {
       "name": "thehitavada.com",
@@ -230,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
+      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
       "disabledAt": null
     },
     {
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
+      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
+      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
       "disabledAt": null
     },
     {
@@ -260,17 +260,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
+      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 36,
+      "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
+      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
       "disabledAt": null
     },
     {
@@ -280,15 +280,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
+      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:ndtv.com: HTTP 403 for https://ndtv.com/",
-    "briefing skipped for \"Sino Biological introduces AI-trusted an\": This operation was aborted",
-    "briefing skipped for \"Machine Learning Distinguishes Vestibula\": This operation was aborted",
-    "briefing skipped for \"Viet Nam Puts Workers and Business Produ\": This operation was aborted",
+    "briefing skipped for \"Study Finds 22,096 Uncensored AI Models \": This operation was aborted",
+    "briefing skipped for \"Machine Learning Identifies Two Adipogen\": This operation was aborted",
+    "briefing skipped for \"AI & Tech Brief: Exclusive | Trahan’s ne\": This operation was aborted",
+    "briefing skipped for \"PR News | Forget The 24-Hour News Cycle,\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"AI in medicine and biology: Researchers \": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
