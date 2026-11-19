@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-18T20:47:14.715Z",
+  "runAt": "2026-11-19T07:42:05.941Z",
   "outcome": "success",
   "totals": {
-    "fetched": 170,
-    "afterFilter": 99,
-    "clusters": 96,
+    "fetched": 186,
+    "afterFilter": 191,
+    "clusters": 142,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-19",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -32,6 +32,16 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-01T06:31:00.623Z"
+    },
+    {
+      "name": "devdiscourse.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
+      "disabledAt": null
     },
     {
       "name": "economictimes.indiatimes.com",
@@ -98,10 +108,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "lastError": "HTTP 403 for https://ndtv.com/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-12T07:28:29.334Z"
+      "disabledAt": "2026-11-19T07:42:05.941Z"
     },
     {
       "name": "ndtvprofit.com",
@@ -120,7 +130,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
+      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
       "disabledAt": null
     },
     {
@@ -220,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
+      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
       "disabledAt": null
     },
     {
@@ -230,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
+      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
       "disabledAt": null
     },
     {
@@ -240,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
+      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
       "disabledAt": null
     },
     {
@@ -250,17 +260,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
+      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 36,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
+      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
       "disabledAt": null
     },
     {
@@ -270,15 +280,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-18T20:47:14.715Z",
+      "lastSuccessAt": "2026-11-19T07:42:05.941Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:timesnownews.com: no usable feed found",
-    "briefing skipped for \"Strengthening India’s AI and Supercomput\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"NeRNA-Web Generates Structure-Aware Nega\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"RadixArk Releases DaisyRose-27B, Built o\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:ndtv.com: HTTP 403 for https://ndtv.com/",
+    "briefing skipped for \"Sino Biological introduces AI-trusted an\": This operation was aborted",
+    "briefing skipped for \"Machine Learning Distinguishes Vestibula\": This operation was aborted",
+    "briefing skipped for \"Viet Nam Puts Workers and Business Produ\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
