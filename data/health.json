@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-20T07:33:35.815Z",
+  "runAt": "2026-11-20T20:38:05.454Z",
   "outcome": "success",
   "totals": {
-    "fetched": 190,
-    "afterFilter": 210,
-    "clusters": 147,
+    "fetched": 194,
+    "afterFilter": 106,
+    "clusters": 104,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-20",
-    "count": 9
+    "date": "2026-11-21",
+    "count": 3
   },
   "sources": [
     {
@@ -48,8 +48,8 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://financialexpress.com/",
+      "consecutiveFailures": 2,
+      "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": null
     },
@@ -58,10 +58,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-13T19:56:03.741Z"
+      "disabledAt": "2026-11-20T20:38:05.454Z"
     },
     {
       "name": "indianexpress.com",
@@ -130,7 +130,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
     },
     {
@@ -160,7 +160,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
     },
     {
@@ -206,12 +206,12 @@
     {
       "name": "AI research",
       "provider": "gdelt",
-      "status": "disabled",
-      "articlesFetched": 0,
-      "consecutiveFailures": 3,
-      "lastError": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
-      "lastSuccessAt": "2026-11-12T07:28:29.334Z",
-      "disabledAt": "2026-11-13T19:56:03.741Z"
+      "status": "ok",
+      "articlesFetched": 5,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
+      "disabledAt": null
     },
     {
       "name": "LLMs",
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
     },
     {
@@ -270,17 +270,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 39,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
     },
     {
@@ -290,15 +290,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
+      "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:financialexpress.com: HTTP 403 for https://financialexpress.com/",
-    "briefing skipped for \"BMO Demonstrates Quantum Utility in Game\": This operation was aborted",
-    "briefing skipped for \"How Claude took a stand at the Super Bow\": This operation was aborted",
-    "briefing skipped for \"How Anthropic doubled business customers\": This operation was aborted",
+    "feed:hindustantimes.com: no usable feed found",
+    "feed:financialexpress.com: no usable feed found",
+    "briefing skipped for \"METR Finds AI Time Horizons Doubling as \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Announcing Amazon Textract Insights: Ver\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Trump, Xi Agree Military AI Decisions Ne\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
