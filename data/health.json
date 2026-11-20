@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-19T20:52:54.260Z",
+  "runAt": "2026-11-20T07:33:35.815Z",
   "outcome": "success",
   "totals": {
     "fetched": 190,
-    "afterFilter": 101,
-    "clusters": 95,
+    "afterFilter": 210,
+    "clusters": 147,
     "linkRotDropped": 0,
-    "llmCallsUsed": 6
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-20",
-    "count": 6
+    "count": 9
   },
   "sources": [
     {
@@ -42,6 +42,16 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-15T19:01:36.751Z"
+    },
+    {
+      "name": "financialexpress.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://financialexpress.com/",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "hindustantimes.com",
@@ -120,7 +130,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
       "disabledAt": null
     },
     {
@@ -144,13 +154,13 @@
       "disabledAt": "2026-11-09T06:56:58.616Z"
     },
     {
-      "name": "thehindubusinessline.com",
+      "name": "thehindu.com",
       "provider": "feed",
       "status": "ok",
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
       "disabledAt": null
     },
     {
@@ -230,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
       "disabledAt": null
     },
     {
@@ -240,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
       "disabledAt": null
     },
     {
@@ -250,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
       "disabledAt": null
     },
     {
@@ -260,7 +270,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
       "disabledAt": null
     },
     {
@@ -270,7 +280,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
       "disabledAt": null
     },
     {
@@ -280,16 +290,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-19T20:52:54.260Z",
+      "lastSuccessAt": "2026-11-20T07:33:35.815Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "briefing skipped for \"Study Finds 22,096 Uncensored AI Models \": This operation was aborted",
-    "briefing skipped for \"Machine Learning Identifies Two Adipogen\": This operation was aborted",
-    "briefing skipped for \"AI & Tech Brief: Exclusive | Trahan’s ne\": This operation was aborted",
-    "briefing skipped for \"PR News | Forget The 24-Hour News Cycle,\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"AI in medicine and biology: Researchers \": This operation was aborted",
+    "feed:financialexpress.com: HTTP 403 for https://financialexpress.com/",
+    "briefing skipped for \"BMO Demonstrates Quantum Utility in Game\": This operation was aborted",
+    "briefing skipped for \"How Claude took a stand at the Super Bow\": This operation was aborted",
+    "briefing skipped for \"How Anthropic doubled business customers\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
