@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-21T07:29:29.349Z",
+  "runAt": "2026-11-21T19:37:15.237Z",
   "outcome": "partial",
   "totals": {
-    "fetched": 208,
-    "afterFilter": 209,
-    "clusters": 152,
+    "fetched": 194,
+    "afterFilter": 65,
+    "clusters": 47,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-21",
-    "count": 6
+    "date": "2026-11-22",
+    "count": 3
   },
   "sources": [
     {
@@ -20,7 +20,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     },
     {
@@ -108,7 +108,7 @@
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://moneycontrol.com/",
       "lastSuccessAt": null,
       "disabledAt": null
@@ -140,7 +140,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     },
     {
@@ -170,7 +170,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     },
     {
@@ -218,7 +218,7 @@
       "provider": "gdelt",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
       "lastSuccessAt": "2026-11-20T20:38:05.454Z",
       "disabledAt": null
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     },
     {
@@ -270,7 +270,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     },
     {
@@ -280,17 +280,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 38,
+      "articlesFetched": 24,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     },
     {
@@ -300,16 +300,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T07:29:29.349Z",
+      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
       "disabledAt": null
     }
   ],
   "errors": [
     "gdelt:AI research: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
     "feed:moneycontrol.com: HTTP 403 for https://moneycontrol.com/",
-    "briefing skipped for \"Google gives IIT Kharagpur $5 million fo\": This operation was aborted",
-    "briefing skipped for \"METR TH2 Evaluation Finds AI Time Horizo\": This operation was aborted",
-    "briefing skipped for \"Google announces Rs 46 crore AI research\": This operation was aborted",
+    "briefing skipped for \"Google offers $5 mn to IIT Kharagpur for\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Google Announces ₹46 Crore AI Research F\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"OpenCode and a local LLM handle the bori\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
