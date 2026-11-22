@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-22T07:10:16.601Z",
+  "runAt": "2026-11-22T19:54:14.606Z",
   "outcome": "partial",
   "totals": {
-    "fetched": 171,
-    "afterFilter": 147,
-    "clusters": 80,
+    "fetched": 196,
+    "afterFilter": 83,
+    "clusters": 70,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-22",
-    "count": 6
+    "date": "2026-11-23",
+    "count": 3
   },
   "sources": [
     {
@@ -74,6 +74,16 @@
       "disabledAt": "2026-11-17T21:11:22.312Z"
     },
     {
+      "name": "joy.org.au",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 10,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "disabledAt": null
+    },
+    {
       "name": "livemint.com",
       "provider": "feed",
       "status": "disabled",
@@ -120,7 +130,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
       "disabledAt": null
     },
     {
@@ -144,13 +154,23 @@
       "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
+      "name": "organiser.org",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 10,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "disabledAt": null
+    },
+    {
       "name": "thehindu.com",
       "provider": "feed",
       "status": "ok",
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
       "disabledAt": null
     },
     {
@@ -208,20 +228,20 @@
       "provider": "gdelt",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 6,
-      "lastError": "fetch failed",
+      "consecutiveFailures": 7,
+      "lastError": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22LLMs%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-15T19:01:36.751Z"
+      "disabledAt": "2026-11-22T19:54:14.606Z"
     },
     {
       "name": "machine learning",
       "provider": "gdelt",
-      "status": "disabled",
-      "articlesFetched": 0,
-      "consecutiveFailures": 6,
-      "lastError": "fetch failed",
-      "lastSuccessAt": null,
-      "disabledAt": "2026-11-15T19:01:36.751Z"
+      "status": "ok",
+      "articlesFetched": 4,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "disabledAt": null
     },
     {
       "name": "AI research",
@@ -230,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
       "disabledAt": null
     },
     {
@@ -240,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
       "disabledAt": null
     },
     {
@@ -250,7 +270,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
       "disabledAt": null
     },
     {
@@ -260,17 +280,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 21,
+      "articlesFetched": 22,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
       "disabledAt": null
     },
     {
@@ -280,18 +300,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
+      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:AI research: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
-    "feed:newsbytesapp.com: HTTP 403 for https://newsbytesapp.com/",
-    "feed:lokmattimes.com: no usable feed found",
-    "feed:ndtvprofit.com: HTTP 403 for https://ndtvprofit.com/",
-    "briefing skipped for \"Google Announces ₹46 Crore AI Research F\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Google offers $5 mn to IIT Kharagpur for\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Parshu Tactical Defence trains Indian Na\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "gdelt:LLMs: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22LLMs%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
+    "briefing skipped for \"Google pledges USD 5 million to IIT Khar\": This operation was aborted",
+    "briefing skipped for \"CJI Surya Kant calls for mandatory legal\": This operation was aborted",
+    "briefing skipped for \"Mark Williams-Cook's joke cats.txt passe\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
