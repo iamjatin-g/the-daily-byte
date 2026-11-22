@@ -1,28 +1,18 @@
 {
-  "runAt": "2026-11-21T19:37:15.237Z",
+  "runAt": "2026-11-22T07:10:16.601Z",
   "outcome": "partial",
   "totals": {
-    "fetched": 194,
-    "afterFilter": 65,
-    "clusters": 47,
+    "fetched": 171,
+    "afterFilter": 147,
+    "clusters": 80,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-22",
-    "count": 3
+    "count": 6
   },
   "sources": [
-    {
-      "name": "analyticsindiamag.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
-      "disabledAt": null
-    },
     {
       "name": "aninews.in",
       "provider": "feed",
@@ -98,20 +88,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-14T06:48:53.065Z"
-    },
-    {
-      "name": "moneycontrol.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 2,
-      "lastError": "HTTP 403 for https://moneycontrol.com/",
-      "lastSuccessAt": null,
-      "disabledAt": null
+      "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
       "name": "ndtv.com",
@@ -128,10 +108,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "HTTP 403 for https://ndtvprofit.com/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-02T06:31:18.443Z"
+      "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
       "name": "newindianexpress.com",
@@ -140,7 +120,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
+      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
       "disabledAt": null
     },
     {
@@ -158,10 +138,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "HTTP 403 for https://newsbytesapp.com/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-09T06:56:58.616Z"
+      "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
       "name": "thehindu.com",
@@ -170,7 +150,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
+      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
       "disabledAt": null
     },
     {
@@ -216,12 +196,12 @@
     {
       "name": "AI research",
       "provider": "gdelt",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
       "lastSuccessAt": "2026-11-20T20:38:05.454Z",
-      "disabledAt": null
+      "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
       "name": "LLMs",
@@ -250,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
+      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
       "disabledAt": null
     },
     {
@@ -260,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
+      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
       "disabledAt": null
     },
     {
@@ -270,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
+      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
       "disabledAt": null
     },
     {
@@ -280,17 +260,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
+      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 24,
+      "articlesFetched": 21,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
+      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
       "disabledAt": null
     },
     {
@@ -300,16 +280,18 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-21T19:37:15.237Z",
+      "lastSuccessAt": "2026-11-22T07:10:16.601Z",
       "disabledAt": null
     }
   ],
   "errors": [
     "gdelt:AI research: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20research%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
-    "feed:moneycontrol.com: HTTP 403 for https://moneycontrol.com/",
-    "briefing skipped for \"Google offers $5 mn to IIT Kharagpur for\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:newsbytesapp.com: HTTP 403 for https://newsbytesapp.com/",
+    "feed:lokmattimes.com: no usable feed found",
+    "feed:ndtvprofit.com: HTTP 403 for https://ndtvprofit.com/",
     "briefing skipped for \"Google Announces ₹46 Crore AI Research F\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"OpenCode and a local LLM handle the bori\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Google offers $5 mn to IIT Kharagpur for\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Parshu Tactical Defence trains Indian Na\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }

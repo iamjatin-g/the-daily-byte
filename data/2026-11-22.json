@@ -1,16 +1,149 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-21T19:37:15.237Z",
+  "generatedAt": "2026-11-22T07:10:16.601Z",
   "clusters": [
     {
-      "id": "7f16fe6959bd2a1d",
+      "id": "3edf5c4c9e7ddaea",
+      "headline": "Google Announces ₹46 Crore AI Research Funding For IIT Kharagpur To Boost Innovation",
+      "category": "general",
+      "publishedAt": "2026-11-21T17:51:11.000Z",
+      "score": 0.7431,
+      "publisherCount": 10,
+      "featured": true,
+      "lead": true,
+      "articles": [
+        {
+          "id": "3124ec39ab4b5f36",
+          "headline": "Google Announces ₹46 Crore AI Research Funding For IIT Kharagpur To Boost Innovation",
+          "source": "The 420.in",
+          "domain": "unknown-the-420-in",
+          "category": "industry",
+          "publishedAt": "2026-11-21T17:51:11.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenlYMnpCLUc0NzJZQUYxS3dzYkw0Nng1VVRSV2hPR1lFUmMtNm42NVN6V1drVDFJTEZtaEg1LXZtNkhXaTZrV2s5OEdWM1lCdkNqYlhhZEdJc1g2OEdkOXlJRVlkQXdxVm1mTXc4NGxWVW1kaHBXNWEwcXhKNE9fUmZpWGVKWkFfaFlrZXFzR1Q0MmFnbVFTbmF2LTlsSFliRXRrNFBYTVloN1p2cjd0Tg?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "9b3f58dd33331d5f",
+          "headline": "Sundar Pichai’s Alma Mater IIT Kharagpur Gets Rs 46 Crore Google Grant To Boost AI Research, Education",
+          "source": "Jagran Josh",
+          "domain": "unknown-jagran-josh",
+          "category": "general",
+          "publishedAt": "2026-11-21T12:35:12.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdTFjVDl1Skk5U3pwQU9Hb1dxaTE5d1pxWUFpM1diSmJRU0RJaHQ2ZEhnbXNaelpMeUtpTGVMdTU2bFoxYUYtZUNzVVpzU3otTFJ2WTdMXzBvbWxIWHFFVTc4Rm53ZVdoODNBanZmYjNkdXpGdXFoNU9Fb3I4dzJFWVZobUZ5azdWcVlTNUlPazE0ZWV5LU1SXzRaZUZEWW15bkctSW9nNTRLem1ZUE8wUS1zMUwtZFUyRm8xWHZfYWNHRlM0QTFRcUJCRUpNWHNEZXJfa0t30gHcAUFVX3lxTE90YnFXZVlta3VSQTJibnZDcFc3d1BVY0V4YjdKS3h0WmJvRW1Ib2xkdnloWDdMUzlYejFYSEh0ZU11ODlUNjhUUll6WmFxUEtwc0p3RlJfOXo3aHVKUW5iNFYtb1VQY1JlN3lfa21zaFNzelBobEtvUnEwTjltVXNGVkppMnZ2QmFaZGw5WDFGdWRibTlpT1UtRkgzWUhZZ0tHelVZMTMtOElXQ0ZhVllGLVY3MkYzckdiQnE3MElrUXBxdkFsVUZNVlVUV1VoX1lxQjhqM0xhUkdvZlY?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "1b57ba1a1817aede",
+          "headline": "Google Announces Rs 46 Crore Funding For IIT Kharagpur's AI Research",
+          "source": "NDTV.com",
+          "domain": "ndtv.com",
+          "category": "industry",
+          "publishedAt": "2026-11-21T12:18:16.000Z",
+          "snippet": "Google will provide IIT Kharagpur with Rs 46 crore to accelerate advanced artificial intelligence research, support AI education and strengthen campus technology infrastructure.",
+          "imageUrl": "https://c.ndtvimg.com/2024-01/fbvesblo_iit-kharagpur_625x300_10_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+          "url": "https://ndtv.com/education/google-announces-rs-46-crore-funding-for-iit-kharagpurs-ai-research-12358844",
+          "provider": "gnews"
+        },
+        {
+          "id": "f5ddc40f274831f2",
+          "headline": "Google Commits $5 Million to IIT Kharagpur AI Research",
+          "source": "GK Today",
+          "domain": "unknown-gk-today",
+          "category": "general",
+          "publishedAt": "2026-11-21T08:46:10.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXBwenc5RGN1eGljam5QZVE5a0F0N0xWOWR4cVNFODZSaGhoNlhQWmZRN1NGajdpemhDLVR3R3dWREctSW1OYzZuR3NMSWc2OUhVSUhCZVZ4QWRJTnVuU3o0a085cXpMRXc3UUtvZE1naVJpbmo3VTBORDItVENfZm9MVQ?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "e4319bc30c354d87",
+          "headline": "Google announces $5 mn funding for IIT Kharagpur for advanced AI research",
+          "source": "Business Standard",
+          "domain": "unknown-business-standard",
+          "category": "industry",
+          "publishedAt": "2026-11-21T08:31:48.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGw2ZF9OUjEwR2pCVjhudnNhNXpvcVdaOThYZXAzOXNHb1FqQnpqQl82MTF3SlgyUzV6WVVFcEN0OVV4OUZjZE1TcW5pTWJ5d2sxMHdodVVBbHN1VjNrdWhNaW9ueEd0LVVtUVBPdTB1U3BPWEhoUWRBRDFycldPUThiUGJfMkhrdDNTaGx6em41ZUQ5dEJjSVNQcFlpSHF1LXh3ZFl1b2xKTmxwNnVnS2dXZDBTc1kyaTRJdnpzMW45ZXJVbmNDdzhvSktiTFcwZWhqYnF1QV9HaWJNaVhFRFlzd3kwUdIB5gFBVV95cUxOVGw2ZF9OUjEwR2pCVjhudnNhNXpvcVdaOThYZXAzOXNHb1FqQnpqQl82MTF3SlgyUzV6WVVFcEN0OVV4OUZjZE1TcW5pTWJ5d2sxMHdodVVBbHN1VjNrdWhNaW9ueEd0LVVtUVBPdTB1U3BPWEhoUWRBRDFycldPUThiUGJfMkhrdDNTaGx6em41ZUQ5dEJjSVNQcFlpSHF1LXh3ZFl1b2xKTmxwNnVnS2dXZDBTc1kyaTRJdnpzMW45ZXJVbmNDdzhvSktiTFcwZWhqYnF1QV9HaWJNaVhFRFlzd3kwUQ?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "2c7c4d5896bae1a6",
+          "headline": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
+          "source": "Fortune India",
+          "domain": "unknown-fortune-india",
+          "category": "general",
+          "publishedAt": "2026-11-21T08:24:27.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1Y1WjlRS1I0Z2VOR3hGSl81alhSbnVkQ05qLVhCMG1DMHlaNWV3d2d4aHRhRlR1b2JraEhqMVQ5bXNER1k2N2FXMEY4NWtoVnUxMDZYZTZzX0FzSlhDanFWTFpPbktxVHBVYjEyV1FpUVFRazBYNnVidUF0UTliNHpXek9SSGsyNGhWdTlVTDNiS3QyTjA5dDBHUDlPS0l4RU9MVERIUjhOOThGYjM1ZkdneWVKNTlONHY0aVNTMTfSAc4BQVVfeXFMT2RrYjVzYmNsazg5R19yOVo0WmlEOW5Id3RkTmQyTkV1Q3BnbVZjS0RhTGpUZkZtejZYejNlTnVJVVA3Q0VFSGs1UUxYdnBwZnVFcUEtcUQ4ZllnRDVDUS14d3VjQktwMDNKbURaSnBkdTFRVDhOanhtRlhXWDFSSWpKMVpsR1VlUUpXb3FpX3Q5b1YweXZXYnQ5YVpCaHh6LXNmeW1qM0toZHlTRW5VSVJ0eEVHQ3RWaFo1QjE0X0ZRcXBOTF9NbWxLekxXemc?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "03633f9e96d62272",
+          "headline": "Google commits $5 million USD to IIT Kharagpur for advanced AI research",
+          "source": "Education Times",
+          "domain": "unknown-education-times",
+          "category": "general",
+          "publishedAt": "2026-11-21T08:07:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWhoMGpZWTlEQlFtZC1xb3hVQ25oZDlfbjlMLWFxVk1mZkswZFB4UmxYQlRxX3EwVnU3U2dBSlRyOEVSc0NFckdka1JpakJaYVRUNVpVWFZNNWhnN3hZYUY3bmF6UlA5SHBldVRYUV9uQ25EdzA0RkFITVd5S3Y5RmVBUFBQMkxpd3ZZUUc5WFE1RU9jaUxBdDRQMTZobDh2LVNhc3hLU1ZlZW4wMVRoOUJ1dTlETVRXSTlNVU15cmx4YmxOekpwdHNEZmE?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "367af77ae3862d94",
+          "headline": "Google gives IIT Kharagpur USD 5 million for AI research and talent development",
+          "source": "Careers360",
+          "domain": "unknown-careers360",
+          "category": "general",
+          "publishedAt": "2026-11-21T07:34:25.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZjNXdXd2a2F1Y3hkWXV0MUJoYmpaT0hXM2pnSUdCRm1rT0tJb2R0TUNCWUxRbzVtMXVoRWx0N20xeVVXcXFaTDZINUk3SmdYZ09iMDdKeGoyWms2SFlTMHo1SERQU2xXLWI4ZHhJZklkTUgtZk1sWEZkZWVFSnpZNXNxZlB2VWE2Sl81RnAxWUladG1yMHBXd2VWRGJMT3hnZ09TRl96Ull4S0RNWEp2QnpKUkp4LUVHU3kxa1VGS0JxQUx1alhZbVNzR0hEQmhlQURwMFdnOElodlNzUk5FMU5YNER5dmVLT1NueVZwaWVDTHBVQXFvNlhn0gH_AUFVX3lxTE9ITkl6R3BnZ2IwUXhYcWJKWEVsWVFXcTlmWTJuakZucHNDZWpTQVJTclV2YjdiMHYtSXQxajlsd1ZLRENBcjFCaEFady1tWUtFbjFaMW9GeFFfTE5IQV9HbTFrS1dLU0dzZEpBSTNWY2lZMzNtZzFwc1hmT3paUGNnUnl1NU5naHRHNHZNeE5TMzZVb2lLc1VfbUpCZHMyXy0wM0FKSlVwZHQwdW5wQlY5eldfNlFTc25XcjJ1SVJ2NjdBQ0d0SWlyTDM3dDdmTWlMeDdIamlsOWpDTDZ2RmQ4aEtuRDZMUTFzVDlhWTl1RFE4Y1VuOWJhTF9iaURvRQ?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "87085c313375e8c3",
+          "headline": "Google gives IIT Kharagpur $5 million for AI research, Sundar Pichai shares emotional link",
+          "source": "India Today",
+          "domain": "indiatoday.in",
+          "category": "industry",
+          "publishedAt": "2026-11-21T06:58:30.000Z",
+          "snippet": "Google is giving $5 million to IIT Kharagpur to support AI research, education and technology development. The funding will focus on areas such as Indian languages, agriculture and materials science…",
+          "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/iit-kharagpur-210358679-16x9_0.png?VersionId=xS15uPyHiFkJEYFg0e1_tyoZcL1yUUi8",
+          "url": "https://indiatoday.in/technology/news/story/google-gives-iit-kharagpur-5-million-for-ai-research-sundar-pichai-shares-emotional-link-3043759-2026-11-21",
+          "provider": "gnews"
+        },
+        {
+          "id": "5519fc34402f7bfc",
+          "headline": "Google commits $5 million to Sundar Pichai’s alma mater IIT Kharagpur for AI research",
+          "source": "Moneycontrol",
+          "domain": "moneycontrol.com",
+          "category": "general",
+          "publishedAt": "2026-11-21T06:58:13.000Z",
+          "snippet": "Google CEO Sundar Pichai said IIT Kharagpur is driving groundbreaking work in areas like Indic languages, agriculture, and education and the move would help advance PM Modi’s vision of making AI…",
+          "imageUrl": "https://images.moneycontrol.com/static-mcnews/2026/06/20260605080952_a.jpg",
+          "url": "https://moneycontrol.com/artificial-intelligence/google-commits-5-million-to-sundar-pichai-s-alma-mater-iit-kharagpur-for-ai-research-article-14086070.html",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "d6bd01241b1a53ef",
       "headline": "Google offers $5 mn to IIT Kharagpur for AI research, talent development",
       "category": "general",
       "publishedAt": "2026-11-21T16:22:36.000Z",
-      "score": 0.8505,
-      "publisherCount": 14,
+      "score": 0.7319,
+      "publisherCount": 13,
       "featured": true,
-      "lead": true,
+      "lead": false,
       "articles": [
         {
           "id": "c91720715b499678",
@@ -25,6 +158,18 @@
           "provider": "google-news"
         },
         {
+          "id": "0853e9d6dcb89ca0",
+          "headline": "Google offers $5 mn to IIT Kharagpur for AI research, talent development",
+          "source": "The Hindu",
+          "domain": "thehindu.com",
+          "category": "general",
+          "publishedAt": "2026-11-21T16:22:36.000Z",
+          "snippet": "Google is providing the Indian Institute of Technology Kharagpur (IIT Kharagpur) with $5 million to help develop and accelerate advanced AI research while cultivating India’s next generation of…",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+          "url": "https://thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
+          "provider": "gnews"
+        },
+        {
           "id": "e6780007056377c2",
           "headline": "Google gives IIT Kharagpur $5 million to fund AI research and student training",
           "source": "The Times of India",
@@ -35,6 +180,18 @@
           "imageUrl": null,
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUWh0aUdVSUE5REI2VHZtYS04bjhGaFZVc1BucUhCeENhNnpvZUVYbXlhcllFbWxPMFVtazhHaXkwS3htTFNOUE51VFU0WWM2STFpUEJVSnJyQ3JZbERzcl96NEJxTkJHT21mZmQ3VjJpUEFucC1WeG1BSjREZWMxbTl0UlpqS3g1ZGtwZmhxWmotNFM4Tk5oNm1GUmZ1SExwdGxMaXJwYmpCcU9TMUgwODc3TWMzazZPUXlKT0o4TWFkWHFDWER2cWRHVkg0MnphWVJscUd3R0hDRFhSUDRnR2g3TnIyN0p4NGxWMzZpTVdyd9IB9wFBVV95cUxNU21WOUNwWVUxVUk2ZVlGNGlZRkpsOGxIUGxOLXN3MUVXS1pCdjJSSGlLUlpnU2NSaTh6dExfRnJLRmZTZ28xQU9zODg3SGgtN18ybG1CQ2dPM1U4NnJXaUlrb1NfUTJpMkRpOG1JQXY1RFlGNUhvdm5SeXJMS2FxN3hyNzhIclFTLUxUNG9VaFkzdzBOLVNlQnBGTFhMTm1HZmZ2djdMeFphdVhSUTdjN2t1Y2tKTm90b3JQVUxaaHhXZGk3XzVfbkhSdE1aX1k1ZkpaRmxEYVBjTHF0cUZoaU9lbjhxSlNZREQtMWNQZUxKc3NleGxj?oc=5",
           "provider": "google-news"
+        },
+        {
+          "id": "4da4c47a551b461e",
+          "headline": "Google gives IIT Kharagpur $5 million to fund AI research and student training",
+          "source": "Times of India",
+          "domain": "timesofindia.indiatimes.com",
+          "category": "industry",
+          "publishedAt": "2026-11-21T13:36:00.000Z",
+          "snippet": "Google has announced a $5 million (around Rs 46 crore) funding initiative for IIT Kharagpur aimed at advancing artificial intelligence research, expanding",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-136055659,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-gives-iit-kharagpur-5-million-to-fund-ai-research-and-student-training/articleshow/136055582.cms",
+          "provider": "gnews"
         },
         {
           "id": "27e3c5af197f8dc6",
@@ -49,6 +206,18 @@
           "provider": "google-news"
         },
         {
+          "id": "5d4c3957064fde02",
+          "headline": "Google announces $5 million funding for IIT Kharagpur to boost AI research",
+          "source": "Hindustan Times",
+          "domain": "hindustantimes.com",
+          "category": "industry",
+          "publishedAt": "2026-11-21T12:14:41.000Z",
+          "snippet": "Sundar Pichai said that the collaboration would help expand the impact of IIT’s work and create opportunities for students. | Trending",
+          "imageUrl": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/Google-AI-Showcase-1_1715738880474_1795262696339_bAzp_dd6ce4fe-9fe9-48d8-9778-e1f2c03a3df2_SR9U.jpg",
+          "url": "https://hindustantimes.com/trending/google-announces-5-million-funding-for-iit-kharagpur-to-boost-ai-research-101795262505631.html",
+          "provider": "gnews"
+        },
+        {
           "id": "609b1f7dfb739621",
           "headline": "Google commits $5 million to IIT-Kharagpur for AI research, talent development",
           "source": "The Times of India",
@@ -59,6 +228,18 @@
           "imageUrl": null,
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcFRNY3pVdlp3bTJFQzZqcVRQSFM1VGd4eGtQQTA5U0tNUGdQRUN4aC1pYzdtYnJGZHNnbjdjRWU1Y0JVN0Z0SGFYcVhEVllyOGFXYkExTHJLTnB3LU14bC1HYjM1ZmU1UVZQOE9nb3RZZDRHQ01iWlBiWm9UZWFuWEp0d3F4MlpTbXBsX09JaUJPWEFUS05ja2p0cFotSWVXeDRyODJ0bjA5bmVDYzI4M1dMbV9pM01IOWlEbEdlN1UxSlFYeFBlek9BYUJEa3BXTXdjU1VxTlV5T3pL0gHiAUFVX3lxTE9lcXdVQnRIT05KYkdRT21mUlVwRTc4TzdhaDVDZVIyZVlJYjdHMmhISk1HMjRRT1gzbUlzeFlLN29KeWJJc1A3ZEhiWWM2VnAxU1dDUUtNWTRKYWFzSjN1Z3R5c1RWTHU4alVZdGJTSHB1azdfMkhueHh1ZG52LTUxTTdjTjVQVlVCVXFlQzJXdEFGMW5Eak1UcWR1X1BqRmNmZGdWdHhfZ0wxMm80cUhVN05fazhKSWFDYXRUc2EyYkhkX1phRmRNSGR2VGlhUlVGRHF3UnZ4WnJkQ2UwalMtU3c?oc=5",
           "provider": "google-news"
+        },
+        {
+          "id": "79418f1fd7a96c18",
+          "headline": "Google commits $5 million to IIT-Kharagpur for AI research, talent development",
+          "source": "Times of India",
+          "domain": "timesofindia.indiatimes.com",
+          "category": "general",
+          "publishedAt": "2026-11-21T12:11:00.000Z",
+          "snippet": "NEW DELHI: As India steps up efforts to develop indigenous artificial intelligence capabilities and build a skilled workforce, Google on Saturday",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-136053823,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "url": "https://timesofindia.indiatimes.com/india/google-commits-5-million-to-iit-kharagpur-for-ai-research-talent-development/articleshow/136053247.cms",
+          "provider": "gnews"
         },
         {
           "id": "84238885ecc99c58",
@@ -133,54 +314,6 @@
           "provider": "google-news"
         },
         {
-          "id": "f5ddc40f274831f2",
-          "headline": "Google Commits $5 Million to IIT Kharagpur AI Research",
-          "source": "GK Today",
-          "domain": "unknown-gk-today",
-          "category": "general",
-          "publishedAt": "2026-11-21T08:46:10.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXBwenc5RGN1eGljam5QZVE5a0F0N0xWOWR4cVNFODZSaGhoNlhQWmZRN1NGajdpemhDLVR3R3dWREctSW1OYzZuR3NMSWc2OUhVSUhCZVZ4QWRJTnVuU3o0a085cXpMRXc3UUtvZE1naVJpbmo3VTBORDItVENfZm9MVQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "e4319bc30c354d87",
-          "headline": "Google announces $5 mn funding for IIT Kharagpur for advanced AI research",
-          "source": "Business Standard",
-          "domain": "unknown-business-standard",
-          "category": "industry",
-          "publishedAt": "2026-11-21T08:31:48.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGw2ZF9OUjEwR2pCVjhudnNhNXpvcVdaOThYZXAzOXNHb1FqQnpqQl82MTF3SlgyUzV6WVVFcEN0OVV4OUZjZE1TcW5pTWJ5d2sxMHdodVVBbHN1VjNrdWhNaW9ueEd0LVVtUVBPdTB1U3BPWEhoUWRBRDFycldPUThiUGJfMkhrdDNTaGx6em41ZUQ5dEJjSVNQcFlpSHF1LXh3ZFl1b2xKTmxwNnVnS2dXZDBTc1kyaTRJdnpzMW45ZXJVbmNDdzhvSktiTFcwZWhqYnF1QV9HaWJNaVhFRFlzd3kwUdIB5gFBVV95cUxOVGw2ZF9OUjEwR2pCVjhudnNhNXpvcVdaOThYZXAzOXNHb1FqQnpqQl82MTF3SlgyUzV6WVVFcEN0OVV4OUZjZE1TcW5pTWJ5d2sxMHdodVVBbHN1VjNrdWhNaW9ueEd0LVVtUVBPdTB1U3BPWEhoUWRBRDFycldPUThiUGJfMkhrdDNTaGx6em41ZUQ5dEJjSVNQcFlpSHF1LXh3ZFl1b2xKTmxwNnVnS2dXZDBTc1kyaTRJdnpzMW45ZXJVbmNDdzhvSktiTFcwZWhqYnF1QV9HaWJNaVhFRFlzd3kwUQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "367af77ae3862d94",
-          "headline": "Google gives IIT Kharagpur USD 5 million for AI research and talent development",
-          "source": "Careers360",
-          "domain": "unknown-careers360",
-          "category": "general",
-          "publishedAt": "2026-11-21T07:34:25.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZjNXdXd2a2F1Y3hkWXV0MUJoYmpaT0hXM2pnSUdCRm1rT0tJb2R0TUNCWUxRbzVtMXVoRWx0N20xeVVXcXFaTDZINUk3SmdYZ09iMDdKeGoyWms2SFlTMHo1SERQU2xXLWI4ZHhJZklkTUgtZk1sWEZkZWVFSnpZNXNxZlB2VWE2Sl81RnAxWUladG1yMHBXd2VWRGJMT3hnZ09TRl96Ull4S0RNWEp2QnpKUkp4LUVHU3kxa1VGS0JxQUx1alhZbVNzR0hEQmhlQURwMFdnOElodlNzUk5FMU5YNER5dmVLT1NueVZwaWVDTHBVQXFvNlhn0gH_AUFVX3lxTE9ITkl6R3BnZ2IwUXhYcWJKWEVsWVFXcTlmWTJuakZucHNDZWpTQVJTclV2YjdiMHYtSXQxajlsd1ZLRENBcjFCaEFady1tWUtFbjFaMW9GeFFfTE5IQV9HbTFrS1dLU0dzZEpBSTNWY2lZMzNtZzFwc1hmT3paUGNnUnl1NU5naHRHNHZNeE5TMzZVb2lLc1VfbUpCZHMyXy0wM0FKSlVwZHQwdW5wQlY5eldfNlFTc25XcjJ1SVJ2NjdBQ0d0SWlyTDM3dDdmTWlMeDdIamlsOWpDTDZ2RmQ4aEtuRDZMUTFzVDlhWTl1RFE4Y1VuOWJhTF9iaURvRQ?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "87085c313375e8c3",
-          "headline": "Google gives IIT Kharagpur $5 million for AI research, Sundar Pichai shares emotional link",
-          "source": "India Today",
-          "domain": "indiatoday.in",
-          "category": "industry",
-          "publishedAt": "2026-11-21T06:58:30.000Z",
-          "snippet": "Google is giving $5 million to IIT Kharagpur to support AI research, education and technology development. The funding will focus on areas such as Indian languages, agriculture and materials science…",
-          "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/iit-kharagpur-210358679-16x9_0.png?VersionId=xS15uPyHiFkJEYFg0e1_tyoZcL1yUUi8",
-          "url": "https://indiatoday.in/technology/news/story/google-gives-iit-kharagpur-5-million-for-ai-research-sundar-pichai-shares-emotional-link-3043759-2026-11-21",
-          "provider": "gnews"
-        },
-        {
           "id": "8cc207cad8d66d8c",
           "headline": "Google Commits $5 Mn To IIT Kharagpur For AI Research",
           "source": "BW Businessworld",
@@ -196,74 +329,711 @@
       "briefing": null
     },
     {
-      "id": "3edf5c4c9e7ddaea",
-      "headline": "Google Announces ₹46 Crore AI Research Funding For IIT Kharagpur To Boost Innovation",
-      "category": "general",
-      "publishedAt": "2026-11-21T17:51:11.000Z",
-      "score": 0.7886,
-      "publisherCount": 5,
+      "id": "d94c39e243cf875a",
+      "headline": "Parshu Tactical Defence trains Indian Navy officers in hands-on LLM fine-tuning; INS Valsura honours team",
+      "category": "models",
+      "publishedAt": "2026-11-21T12:22:34.000Z",
+      "score": 0.5389,
+      "publisherCount": 4,
       "featured": true,
       "lead": false,
       "articles": [
         {
-          "id": "3124ec39ab4b5f36",
-          "headline": "Google Announces ₹46 Crore AI Research Funding For IIT Kharagpur To Boost Innovation",
-          "source": "The 420.in",
-          "domain": "unknown-the-420-in",
+          "id": "b14ec5b3a1539f62",
+          "headline": "Parshu Tactical Defence trains Indian Navy officers in hands-on LLM fine-tuning; INS Valsura honours team",
+          "source": "The Tribune",
+          "domain": "unknown-the-tribune",
+          "category": "models",
+          "publishedAt": "2026-11-21T12:22:34.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcDNYTlMyaDlQelZHWW1pRG9UWWI5RUlFbDI2NVppMGlVMjVOWHN0QVlrZVhjNEV4Nm1uemRRRjg5emdQOHc2ODN3Q2Y2SkFsOGVCdEVmRnF3aE1yckRGbDNiNXlVaGVhY29pOEJiSi1jdldGeUxIOWJ0QXlxTDZadjlBSHhwUS1hQ19ZN2h2Y1I2bWJlMkFxSTBBTmFKckJ5d25pVnZZaE9fekp5cWxhMVpYZXB4UjBEVnQ0YklJc0lxMW03aGhoR3dkazNoVXRlQWZJRzZ5UTctdHpJQjZvMlMzMGlmZ9IB5gFBVV95cUxQcDNYTlMyaDlQelZHWW1pRG9UWWI5RUlFbDI2NVppMGlVMjVOWHN0QVlrZVhjNEV4Nm1uemRRRjg5emdQOHc2ODN3Q2Y2SkFsOGVCdEVmRnF3aE1yckRGbDNiNXlVaGVhY29pOEJiSi1jdldGeUxIOWJ0QXlxTDZadjlBSHhwUS1hQ19ZN2h2Y1I2bWJlMkFxSTBBTmFKckJ5d25pVnZZaE9fekp5cWxhMVpYZXB4UjBEVnQ0YklJc0lxMW03aGhoR3dkazNoVXRlQWZJRzZ5UTctdHpJQjZvMlMzMGlmZw?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "1517ec432b53431b",
+          "headline": "Parshu Tactical Defence trains Indian Navy officers in hands",
+          "source": "The Tribune",
+          "domain": "tribuneindia.com",
           "category": "industry",
-          "publishedAt": "2026-11-21T17:51:11.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenlYMnpCLUc0NzJZQUYxS3dzYkw0Nng1VVRSV2hPR1lFUmMtNm42NVN6V1drVDFJTEZtaEg1LXZtNkhXaTZrV2s5OEdWM1lCdkNqYlhhZEdJc1g2OEdkOXlJRVlkQXdxVm1mTXc4NGxWVW1kaHBXNWEwcXhKNE9fUmZpWGVKWkFfaFlrZXFzR1Q0MmFnbVFTbmF2LTlsSFliRXRrNFBYTVloN1p2cjd0Tg?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "9b3f58dd33331d5f",
-          "headline": "Sundar Pichai’s Alma Mater IIT Kharagpur Gets Rs 46 Crore Google Grant To Boost AI Research, Education",
-          "source": "Jagran Josh",
-          "domain": "unknown-jagran-josh",
-          "category": "general",
-          "publishedAt": "2026-11-21T12:35:12.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdTFjVDl1Skk5U3pwQU9Hb1dxaTE5d1pxWUFpM1diSmJRU0RJaHQ2ZEhnbXNaelpMeUtpTGVMdTU2bFoxYUYtZUNzVVpzU3otTFJ2WTdMXzBvbWxIWHFFVTc4Rm53ZVdoODNBanZmYjNkdXpGdXFoNU9Fb3I4dzJFWVZobUZ5azdWcVlTNUlPazE0ZWV5LU1SXzRaZUZEWW15bkctSW9nNTRLem1ZUE8wUS1zMUwtZFUyRm8xWHZfYWNHRlM0QTFRcUJCRUpNWHNEZXJfa0t30gHcAUFVX3lxTE90YnFXZVlta3VSQTJibnZDcFc3d1BVY0V4YjdKS3h0WmJvRW1Ib2xkdnloWDdMUzlYejFYSEh0ZU11ODlUNjhUUll6WmFxUEtwc0p3RlJfOXo3aHVKUW5iNFYtb1VQY1JlN3lfa21zaFNzelBobEtvUnEwTjltVXNGVkppMnZ2QmFaZGw5WDFGdWRibTlpT1UtRkgzWUhZZ0tHelVZMTMtOElXQ0ZhVllGLVY3MkYzckdiQnE3MElrUXBxdkFsVUZNVlVUV1VoX1lxQjhqM0xhUkdvZlY?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "2c7c4d5896bae1a6",
-          "headline": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
-          "source": "Fortune India",
-          "domain": "unknown-fortune-india",
-          "category": "general",
-          "publishedAt": "2026-11-21T08:24:27.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1Y1WjlRS1I0Z2VOR3hGSl81alhSbnVkQ05qLVhCMG1DMHlaNWV3d2d4aHRhRlR1b2JraEhqMVQ5bXNER1k2N2FXMEY4NWtoVnUxMDZYZTZzX0FzSlhDanFWTFpPbktxVHBVYjEyV1FpUVFRazBYNnVidUF0UTliNHpXek9SSGsyNGhWdTlVTDNiS3QyTjA5dDBHUDlPS0l4RU9MVERIUjhOOThGYjM1ZkdneWVKNTlONHY0aVNTMTfSAc4BQVVfeXFMT2RrYjVzYmNsazg5R19yOVo0WmlEOW5Id3RkTmQyTkV1Q3BnbVZjS0RhTGpUZkZtejZYejNlTnVJVVA3Q0VFSGs1UUxYdnBwZnVFcUEtcUQ4ZllnRDVDUS14d3VjQktwMDNKbURaSnBkdTFRVDhOanhtRlhXWDFSSWpKMVpsR1VlUUpXb3FpX3Q5b1YweXZXYnQ5YVpCaHh6LXNmeW1qM0toZHlTRW5VSVJ0eEVHQ3RWaFo1QjE0X0ZRcXBOTF9NbWxLekxXemc?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "03633f9e96d62272",
-          "headline": "Google commits $5 million USD to IIT Kharagpur for advanced AI research",
-          "source": "Education Times",
-          "domain": "unknown-education-times",
-          "category": "general",
-          "publishedAt": "2026-11-21T08:07:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWhoMGpZWTlEQlFtZC1xb3hVQ25oZDlfbjlMLWFxVk1mZkswZFB4UmxYQlRxX3EwVnU3U2dBSlRyOEVSc0NFckdka1JpakJaYVRUNVpVWFZNNWhnN3hZYUY3bmF6UlA5SHBldVRYUV9uQ25EdzA0RkFITVd5S3Y5RmVBUFBQMkxpd3ZZUUc5WFE1RU9jaUxBdDRQMTZobDh2LVNhc3hLU1ZlZW4wMVRoOUJ1dTlETVRXSTlNVU15cmx4YmxOekpwdHNEZmE?oc=5",
-          "provider": "google-news"
-        },
-        {
-          "id": "5519fc34402f7bfc",
-          "headline": "Google commits $5 million to Sundar Pichai’s alma mater IIT Kharagpur for AI research",
-          "source": "Moneycontrol",
-          "domain": "moneycontrol.com",
-          "category": "general",
-          "publishedAt": "2026-11-21T06:58:13.000Z",
-          "snippet": "Google CEO Sundar Pichai said IIT Kharagpur is driving groundbreaking work in areas like Indic languages, agriculture, and education and the move would help advance PM Modi’s vision of making AI…",
-          "imageUrl": "https://images.moneycontrol.com/static-mcnews/2026/06/20260605080952_a.jpg",
-          "url": "https://moneycontrol.com/artificial-intelligence/google-commits-5-million-to-sundar-pichai-s-alma-mater-iit-kharagpur-for-ai-research-article-14086070.html",
+          "publishedAt": "2026-11-21T12:22:34.000Z",
+          "snippet": "Jamnagar (Gujarat) [India], November 21: Parshu Tactical Defence Pvt Ltd, an Alwar-based deep-tech startup incubated at IIT Madras, has trained more than 56 Indian Navy officers in hands-on…",
+          "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNlZTA2MDYwLWU1YTYtMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
+          "url": "https://tribuneindia.com/news/business/parshu-tactical-defence-trains-indian-navy-officers-in-hands-on-llm-fine-tuning-ins-valsura-honours-team",
           "provider": "gnews"
+        },
+        {
+          "id": "11fbbfd264b74fa8",
+          "headline": "Parshu Tactical Defence trains Indian Navy officers in hands-on LLM fine-tuning; INS Valsura honours team",
+          "source": "ANI (Asian News International)",
+          "domain": "aninews.in",
+          "category": "models",
+          "publishedAt": "2026-11-21T12:17:14.000Z",
+          "snippet": "Jamnagar (Gujarat) [India], November 21: Parshu Tactical Defence Pvt Ltd, an Alwar-based deep-tech startup incubated at IIT Madras, has trained more than 56 Indian Navy officers in hands-on…",
+          "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261121121626-thumbnail-320x180-70.jpg",
+          "url": "https://aninews.in/news/business/parshu-tactical-defence-trains-indian-navy-officers-in-hands-on-llm-fine-tuning-ins-valsura-honours-team20261121174714",
+          "provider": "gnews"
+        },
+        {
+          "id": "6adf6393e16b51b9",
+          "headline": "Parshu Tactical Defence trains Indian Navy officers in hands-on LLM fine-tuning; INS Valsura honours team",
+          "source": "ANI News",
+          "domain": "unknown-ani-news",
+          "category": "models",
+          "publishedAt": "2026-11-21T12:17:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTmJsVE5iaGNfRUl4M1BHeVA0SDNQZThfNzk1WndINkl0VnJwbk1pWWx3TzRZdmxOVnQ4bmRKdjNEdF9WcWhjZHlvQ051V1lac0NZbFdINTQzdmF4WlR4dWZXSXhtYklGT2tFSzZKRVZJNGp2anlxRFBFZUdualNmOGhrT3dVaE9jNHZuSjRxNDV2azlhM3pxSlJrVDNRUy1kTmZmSjVOSDZ2MXNXOThuU1g0SzJyRkhtbHExVTI3WHBEYzRmRlkyNnFKRlVsV2JvbklGR1hKVGVYb1k1OHZMa2NxUEtkVHdnN0I0?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "9b7b607e775bbc65",
+      "headline": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+      "category": "general",
+      "publishedAt": "2026-11-22T06:50:36.000Z",
+      "score": 0.4779,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3e4f020d1c746507",
+          "headline": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headli",
+          "domain": "thehindu.com",
+          "category": "general",
+          "publishedAt": "2026-11-22T06:50:36.000Z",
+          "snippet": "Nvidia’s provision of chips to companies running data centres in Southeast Asia has come under the spotlight amid questions surrounding founder Jensen Huang’s relationship with Alice Huang, the CEO…",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/rb94e2/article71711937.ece/alternates/LANDSCAPE_1200/iStock-2258598400.jpg",
+          "url": "https://thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece",
+          "provider": "feed"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8138e65085ebcd99",
+      "headline": "Sycophantic AI models quickly abandon climate facts when faced with denier push-back, says report",
+      "category": "general",
+      "publishedAt": "2026-11-22T06:36:01.000Z",
+      "score": 0.474,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "0f44455cb531945e",
+          "headline": "Sycophantic AI models quickly abandon climate facts when faced with denier push-back, says report",
+          "source": "Renew Economy",
+          "domain": "unknown-renew-economy",
+          "category": "general",
+          "publishedAt": "2026-11-22T06:36:01.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXZzUmYtWFNZUVNmTzl0UE92MlNGOXhYaUUxWXQ0czN3VDlpVDBJZFd5cVN1QlNLUFB4UkRuWHV3SnpodVVKd1Jpckx6eWY4NmhOOWYtME9KcWFOMlFzLV9iOC05VjFJaGpuNGRTeVQzdWgxaUQ4anRzZ09zTVZRV1BzWnM3OXZWVk4tQzZlbjJHMXFIMmRNVENHM3RLaFJIX1FzczlFVmxMMy14dllzbDZLWWNiYmRXR25yZlRXSlRRVWvSAcgBQVVfeXFMTWRhMkE2SkxpcmpJZEhLMmJzb2pINDNqbEtMTDZwcHdERFJ6ZUJHSjQ5QlU5WDF0NEcxUkRUZnY0aEZFQjZvRFZHV3I1YUVfUm1MTHZ1OUJSTUNjeHZFaXpLMThJeWw3QVVaZWFBUkNlNFFTeHlrcnU4UnFOVUhNUmQtcGdjUHlnTmVSeHlYbGVnVHBkMXc5MElRdHQxWVpSUUZoQldHRC1BVi1sdHlYdmlWejBCSUpuSHNqVlkzY05GNlhibElxOFo?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "38eee912734fe6a0",
+      "headline": "Union Minister Rajiv Ranjan Singh reviews indigenous cattle research at SVVU in Tirupati",
+      "category": "general",
+      "publishedAt": "2026-11-22T06:14:34.000Z",
+      "score": 0.4683,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "1e90c3eb40db3fe9",
+          "headline": "Union Minister Rajiv Ranjan Singh reviews indigenous cattle research at SVVU in Tirupati",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headli",
+          "domain": "thehindu.com",
+          "category": "general",
+          "publishedAt": "2026-11-22T06:14:34.000Z",
+          "snippet": "SVVU Vice-Chancellor highlights contributions of the institution to conservation, multiplication and genetic improvement of indigenous livestock breeds",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/epic7g/article71729401.ece/alternates/LANDSCAPE_1200/10215_21_11_2026_20_52_14_1_WHATSAPPIMAGE2026_11_21AT84930PM.JPEG",
+          "url": "https://thehindu.com/news/national/andhra-pradesh/union-minister-rajiv-ranjan-singh-reviews-indigenous-cattle-research-at-svvu-in-tirupati/article71729080.ece",
+          "provider": "feed"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f1b3009858aabfaa",
+      "headline": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "category": "research",
+      "publishedAt": "2026-11-22T05:06:00.000Z",
+      "score": 0.4507,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "8e16cda84135bd80",
+          "headline": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+          "source": "The Hacker News",
+          "domain": "unknown-the-hacker-news",
+          "category": "research",
+          "publishedAt": "2026-11-22T05:06:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsV1FRbk81QXNMTkJkUXlra2EyYnFOT05DUlNDOWJtRHl3S0F5MjFWbjBzald3WmdVVUhKaklmVTBlVnBGckNQTFhHWjRQRGh4a0xKck5IRENiekR1MDJBbW0zQUp0dGxpbGdzWk9vdjgxc3gwekJfTUJjQkRsUQ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "a921d62165a385ae",
+      "headline": "Tanmay Kuamr Chaurasia Publishes Guide to Evaluating LLM Outputs",
+      "category": "models",
+      "publishedAt": "2026-11-22T05:00:03.000Z",
+      "score": 0.4493,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "39c765384d5a5ca7",
+          "headline": "Tanmay Kuamr Chaurasia Publishes Guide to Evaluating LLM Outputs",
+          "source": "news.lavx.hu",
+          "domain": "unknown-news-lavx-hu",
+          "category": "models",
+          "publishedAt": "2026-11-22T05:00:03.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXRFTUd6LUhweHdBN0UxYkNkaGhfTEJnT081QkhoekE0NTVPb1dMUE9TZVVBYnBLWlRYZlRWX0lyLXlicEFqYnVOeEp0WTFoNlk2bUljSFZhZjBJa3BqVTYyRzFVdm5odTNMb1VXT3NLa1A0dHVBMEs3bmhNcHBuNHJVeFVDUC1OYkMtWVpqYndERWQ5anRrMA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "80f3a25968bd0e3c",
+      "headline": "Lean Certifies AI Proof of 167-Year-Old Riemann Hypothesis",
+      "category": "general",
+      "publishedAt": "2026-11-22T03:59:23.000Z",
+      "score": 0.4347,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "131c2c5ca3dd3dca",
+          "headline": "Lean Certifies AI Proof of 167-Year-Old Riemann Hypothesis",
+          "source": "shattered.io",
+          "domain": "unknown-shattered-io",
+          "category": "general",
+          "publishedAt": "2026-11-22T03:59:23.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTNMZnc2X3ExTTdDQXBCaU1XUHQwakpYOHd1b1dHSDN1dzFvaW9ZMEdWTzktSEJzX2Jjcjc4bUR3NTd6X3QwdVNNV2UzNHhvdF84VGxVeXhvX3VtUnlnRWdUdVBUaEdFTW5DT3pqaUhteDRWZ3V3Q0ZaYzBQWEVHUy1kcWxIaFU3N0luLWc3LTg?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "61fb5ad48fba23a3",
+      "headline": "OpenRouter Cuts Three Providers After AI Prompt Exposure Findings",
+      "category": "general",
+      "publishedAt": "2026-11-22T03:06:02.000Z",
+      "score": 0.4226,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3122b60487d935e9",
+          "headline": "OpenRouter Cuts Three Providers After AI Prompt Exposure Findings",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
+          "category": "general",
+          "publishedAt": "2026-11-22T03:06:02.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlpyM0R2OVMtUS1MN1RZQnE0anJHR3JRQ0tIMnV0Zkd4bkhIcVFvYk1HU1NkWm5BMzV2UExpX0FPYXB1OFNxbk80ZUhxRHZFdExZcHhEbXZnT0pXVkVyTUNlQlp3UnlSdE1NSlZzbDZqRGdxY2NRbldSZnNTZXpJQ2RJTEdLTDd5MkQ0dzFCb2o?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "533cebe635197263",
+      "headline": "Grammarly Runs 100 Billion LLM Calls a Week | Superhuman｜MTS",
+      "category": "models",
+      "publishedAt": "2026-11-21T19:08:37.000Z",
+      "score": 0.4205,
+      "publisherCount": 2,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "8fd126ee2fdcf4e8",
+          "headline": "Grammarly Runs 100 Billion LLM Calls a Week | Superhuman｜MTS",
+          "source": "finance.biggo.com",
+          "domain": "unknown-finance-biggo-com",
+          "category": "models",
+          "publishedAt": "2026-11-21T19:08:37.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kWEszYjNCSUxHaEV0VHdJUHgtdlNzNkliMnpvcDJhMDIwcXNTVlBpQmtDSWRWR2J2NVVPdEJaTWFYQ0J0WlJKTlVEMklGZm5tenI2My1MR0RJLUtPVHZv?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "248e0e8797fc5532",
+          "headline": "Superhuman CEO Shishir Mehrotra: Grammarly Runs 100 Billion LLM Calls a Week, and AI's Real Problem Is the Last Mile",
+          "source": "BigGo Finance",
+          "domain": "unknown-biggo-finance",
+          "category": "models",
+          "publishedAt": "2026-11-21T19:08:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90anY0SHJPdjFjd19DX0tWdmNIUWNNUzU0QTVBY2hSNmxnVElqelhYd3RhRkZSeFFOaVQzb1k2eVpKOFI1ZGxmVWdYbHZFam1QUE5LWjMtSnZtWkU?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "9a7a4b6d8ff9c301",
+      "headline": "MONAI Label Zero-Day: AI Agents Exploit Medical Imaging Research Servers",
+      "category": "general",
+      "publishedAt": "2026-11-22T02:23:51.000Z",
+      "score": 0.4134,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "20993b873902f4cc",
+          "headline": "MONAI Label Zero-Day: AI Agents Exploit Medical Imaging Research Servers",
+          "source": "Cloud Security Alliance (CSA)",
+          "domain": "unknown-cloud-security-alliance-csa",
+          "category": "general",
+          "publishedAt": "2026-11-22T02:23:51.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGVRdmxYQ01aU2hXZzlmR0tSbGp4M0JMVTVFcWI3ZTc5SUhyYXJrYTc4RW93VmlkTzNVR3pXS2pTa2ZEamxXX0R6VE9NTjBpRlF3X204bm0xcE9UNkV3cElGd2hsVnVzdG1Wa0FGeTctZlRTeEhpN0pLdkN3TjdfcXNDOTlxaUplVFYyWWJNRkQ2SHpreTFCbjJoZFVpekhJVjkxMmRQeE11a205QWc?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8e65d353cfcc1f87",
+      "headline": "Meta ads is now available in AWS Quick",
+      "category": "general",
+      "publishedAt": "2026-11-22T01:59:13.000Z",
+      "score": 0.4083,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d584431bf496987d",
+          "headline": "Meta ads is now available in AWS Quick",
+          "source": "Amazon Web Services",
+          "domain": "unknown-amazon-web-services",
+          "category": "general",
+          "publishedAt": "2026-11-22T01:59:13.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkFtaHMtN1FWSllFbWladFBrVjJkNkRoaTZKTzNraF9taVZPaUxQRXdNMm5ER3Ftb3U3Yy11WU1fT21HS0ZNSFJReGR4ZVdnSTRuS205bmFkcmtzWjF5VVR0T3ExdWZVU2dNSXRmSF9zTkVoV0hCVEptc0VyQnZKYjNBOWxjenhMdEJfdHVB?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "492b3eae4a443d55",
+      "headline": "Welcome to the Dr. Arnold S. Goldstein , MBA ’66, LLM ’75, Welcome Center",
+      "category": "models",
+      "publishedAt": "2026-11-22T01:50:16.000Z",
+      "score": 0.4064,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "36aa52fa7dd16c86",
+          "headline": "Welcome to the Dr. Arnold S. Goldstein , MBA ’66, LLM ’75, Welcome Center",
+          "source": "Suffolk University",
+          "domain": "unknown-suffolk-university",
+          "category": "models",
+          "publishedAt": "2026-11-22T01:50:16.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcWtJUmxZZ3RhNkljc0hVOWZrQU9EYXg0LVUxNmdLZG55NTg2emdod1plY3paUHBia1MzRVdnZ1VEam1KZGpFaFpjUFBtWTROVjRuWHRsd0NaWHpZWUxVbGFndUI3RmRaQ0NQc2dfbTBzMEZnVW5iTnU1ekEzdEJrOVNxb3NneU1YVUdJWkdtQVFQcHFMZldLUWc1V1otTW1zOHhoZ1d6QUl4TnI1UFp0RTJKU2YzUS1FUmtEVzU3THBSZw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "6af4cd1bff893057",
+      "headline": "GDRFA launches two new AI and research labs to drive innovation",
+      "category": "models",
+      "publishedAt": "2026-11-22T01:19:39.000Z",
+      "score": 0.4002,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "714e625743f65149",
+          "headline": "GDRFA launches two new AI and research labs to drive innovation",
+          "source": "Gulf News",
+          "domain": "unknown-gulf-news",
+          "category": "models",
+          "publishedAt": "2026-11-22T01:19:39.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW1kczRVZTJDTUFNSXNUbmNVRHplb1F2MlNwRllnRGx5UDQ3NEdpdHBDRWtFY1JLNTlPRVhob3MxdFhESnZ4YkpaVzlvRW00UTIxMGVDUDVWMmJhY2xWNnBjNmt5SjNkNnhEd3pmdXg2cE1jWUZMU3JkMGhNZFFBN0k0Mi1WZWtfZ2c1TjRkUHkzTVVuMnUzbU80Ri1QbzhOLXlxUTFoZXNPUdIBvAFBVV95cUxPTm01bEZXQnVhQVRvWGtFN2FESG5KaTFnZnJKOF9ZU2JtUHFCeUh2c3lFS2RtQkNjZlJrS3lhTEc0VVlmLVR4ZkZEY2hxRnRrUHZIQ2piOS1ES2hGQ3FBRE1VckZrNUx3SnBXMlliRng1MVg3dGJIalFtWlV3SUNFekJWZVN0TzNWVmpTNldja2lBZ0NCajlFUThQakM2VmVLajFFSjVRcGpDM3c3cjViTllEVUQ4LWNlSnc4TA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "224f5a0b3906b4e7",
+      "headline": "Alumnus pledges Rs 46.34 crore for research on applied artificial intelligence at IIT",
+      "category": "general",
+      "publishedAt": "2026-11-22T01:08:01.000Z",
+      "score": 0.3978,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "9ad8f81d77c5fabe",
+          "headline": "Alumnus pledges Rs 46.34 crore for research on applied artificial intelligence at IIT",
+          "source": "Telegraph India",
+          "domain": "unknown-telegraph-india",
+          "category": "general",
+          "publishedAt": "2026-11-22T01:08:01.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNb0szNnhNQVlRRUgwUnhoUFA4MmR2eDNMaXMwOFQ2Qi00aS1lVHh1djJoMVU0bjc0VlRVSnRvT1FVWEdGTHlwWE5uV0VNNHE4Tmw3T3lsUTFHVUx0eXNlRVNFdlA0ZE9jcXlWcTNrNk56UGtQQmFSdWNmd2RBSUVfczNuZm1LNVNLaldsSEVUM215WmVvWjhTbWN6cDRFVnluQWJWTVkxSHFiNU9PRG5hOGZ2ZVlpTW1GMHFMQWt6Q0JYVVJmem9WN0pLeGN3c01VUk9kOVFUdmM3Qmk5dkhnOFBBQ3VOLWhEVjh1NUY1cTdRVE1YQ3BDTUJsdGExdGlDcUdJUl9OMNIBjAJBVV95cUxOQXNZM3hUVEJlMFI3SFZsLV9OaGNDSzctYmJKYTZ5cF9sTEFQeVNuclNqTkl1cHVuRG9oMnpZdmlLa0FzLWhQb21MRW5ZWEtuZEQyekZKTVJjNzFKNDJjR2FpLWdTWmd0a2ZzTmRZdVdMTWpoWGJBLUV2ZWsydTZaR0dFb3pTV3RGR2x2MHRHOFljZy1nd2c1bmhHd0E1blU2U3RoUUpJNWVQMlBGVWFuSTh1X1hYbEJOdnAzZDB3dF9VNkpXUmRaTWh1LWEtNmctUWFBMlQ2eVdBUFJBZkNhcTVMcDIwbmNmSEZUU1VJNldON1FGTGp5YzVjTmhWdklkb3oxaTJsYTZZZmx3?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8502715780d87ed1",
+      "headline": "South Korea's LG Uplus Replaces All Four Division Heads in AI Monetization Push",
+      "category": "general",
+      "publishedAt": "2026-11-22T00:55:00.000Z",
+      "score": 0.3953,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "d19907e378335150",
+          "headline": "South Korea's LG Uplus Replaces All Four Division Heads in AI Monetization Push",
+          "source": "BigGo Finance",
+          "domain": "unknown-biggo-finance",
+          "category": "general",
+          "publishedAt": "2026-11-22T00:55:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsYkNlbEJLNHVIX3FuWm9TNi1DX1FYc0R5aUxGV0tSRjVmcG9BY3c5MDYzV09Oal9GOUdwRjEtdWsyRUp2WjlyM2F3ZmE5VS1FMmRmVkRWcHlraFRzS0w1ZndJQVZJT1dpdUszaDNlRnVlckFTVGc?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "7dfad12c52de0991",
+      "headline": "Penn State coughs up a late lead in its loss against Rutgers",
+      "category": "general",
+      "publishedAt": "2026-11-22T00:23:00.000Z",
+      "score": 0.3891,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "57ce378728ad6f67",
+          "headline": "Penn State coughs up a late lead in its loss against Rutgers",
+          "source": "Pittsburgh Post-Gazette",
+          "domain": "unknown-pittsburgh-post-gazette",
+          "category": "general",
+          "publishedAt": "2026-11-22T00:23:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQelpnVXBuLVZjb2FwSklMZXZ0OFR0bUcxVVFQZEc2T0tzaGNOZWxCTEwwTjB5czFGV19RbDlQc3RVUElBTDdrV1V1VmdwLUt3NTgxZjRETVItUlhHam10ekgtay1OYjhvNnMyU0xDN01ILXBzZGs3WG0yZ1FHQ2FhOU9qRk1TY3lXeUVSTlJLZjlXbnczYnFSTzRScTdnWTA4andkeGlmbm1Ja2VUWEo1cXMxOW9LSGstaWlYTjJKbGx2UzNCQjN6bUNjcWlDTHdUaGFLUEdybWhHRUNMRXhQeXdpYkg?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "5bcf22ef54fb016b",
+      "headline": "PM opens IIT-Patna’s AI centre, lays stone for research park",
+      "category": "industry",
+      "publishedAt": "2026-11-21T14:55:00.000Z",
+      "score": 0.3883,
+      "publisherCount": 2,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "4b7e85678b3ea5fa",
+          "headline": "PM opens IIT-Patna’s AI centre, lays stone for research park",
+          "source": "The Times of India",
+          "domain": "unknown-the-times-of-india",
+          "category": "general",
+          "publishedAt": "2026-11-21T14:55:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmJ3Z25DSlNfVm5ZMmdlcXJHNVpVYjRseFJCWUZJUGxfenNBMFRyVkR0ZVk2VENFSUNVSkVyMlBielRMOGRGWEtvOHAzYkZKVUFPYVJZRkw1T2c5Tk9yOENSc0ptdGZ2RnRCRVZjQkFKdi1zUmxjY2JTQ21PaU9Cc1ptOUpTdTRmVThwSmtFaE9yU296Yk1VVzVhRi01ejRsVDc2TzRzVnlBWngzTzZ3YzhHa3RvdDFaOFBWTmdnRHNQTlBCbnQ0bDB6TdIB0AFBVV95cUxPNWFIZWZTNFcyTW15M2xYb3E5aDh6MTdyb0Y1cm5wLXFHOUluWXZiZ3AzY1BSVkFiZkV1QXZ4LXNjbERTWUlnTEcxeURzYVFKRjhOZTE3YlZGYUJNRlk0Z1FvS2trWElZZ245cjFPcnFETVBmOERUVXFMMDFQWUlZeTYtc1FCREdUTm9iNHgxNjA0alFqRmFtVVZPWXQxSDlsdXF1VVRxZ3lwSFVBTmp4Wm83dndNQkxpRTlGRzctN3dYczllZG5DVzlkMzBJdmJ5?oc=5",
+          "provider": "google-news"
+        },
+        {
+          "id": "f7621af383dc5f3e",
+          "headline": "PM opens IIT-Patna’s AI centre, lays stone for research park",
+          "source": "Times of India",
+          "domain": "timesofindia.indiatimes.com",
+          "category": "industry",
+          "publishedAt": "2026-11-21T14:55:00.000Z",
+          "snippet": "PM Modi inaugurates IIT Patna AI centre, lays foundation for Rs 400 crore research park and startup hostel, boosting R&D, MSMEs and incubation in Bihar.",
+          "imageUrl": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "url": "https://timesofindia.indiatimes.com/city/patna/pm-opens-iit-patnas-ai-centre-lays-stone-for-research-park/articleshow/136057293.cms",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "9fd60001d6305a74",
+      "headline": "Inference Optimisation Skill: Claude Code LLM Tuning",
+      "category": "models",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "score": 0.3848,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "90764538b4dfc43c",
+          "headline": "Inference Optimisation Skill: Claude Code LLM Tuning",
+          "source": "explainx.ai",
+          "domain": "unknown-explainx-ai",
+          "category": "models",
+          "publishedAt": "2026-11-22T00:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejJmakJOUXNoWV9XYUtYdUZra0V0S21Uc2c4MnhPb3o4WEhEbXcxRi1OLW01cnNVLVVCVGtOZkQ3NU10eURGQy1PNldWSkNuaVNjdmNVVEd0czY3czNIdzlSbkE3eVJtNDhsdGZPYUlYSklyUG10Ny03QlYyV3pNMEJGV0NKSnY3WFZrUUxpcC14NjNwSThrVXp3?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "ecd1d23ab63d38d4",
+      "headline": "Together AI Discloses Prompt Leak After Coding Agent Exposed Credential",
+      "category": "general",
+      "publishedAt": "2026-11-21T23:38:04.000Z",
+      "score": 0.3807,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "a68f86b36a56ce7d",
+          "headline": "Together AI Discloses Prompt Leak After Coding Agent Exposed Credential",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
+          "category": "general",
+          "publishedAt": "2026-11-21T23:38:04.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHpXdXJnbmRKMEg1RlBiTC1IVWhxSC1NQTR1aWVSby1WdnJ1d0o4SGRsai0zNVd3bHFNYlRLQnp0eEhxLTBIeEk0SUxYWmlQMmtVMWVRQnQzaWItNVl1Tjk0Ry1Ra1FObVNuc0k0SUVDd0xELVUyLVhJSlRiYTFQa0JZaFBNNVZ2dG1KZGFSeWl5XzZZc015bA?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "afed507e3e9afd86",
+      "headline": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing",
+      "category": "general",
+      "publishedAt": "2026-11-21T23:37:53.000Z",
+      "score": 0.3807,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "219492268a932867",
+          "headline": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing",
+          "source": "NVIDIA",
+          "domain": "unknown-nvidia",
+          "category": "general",
+          "publishedAt": "2026-11-21T23:37:53.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHh1NTJ0QVdnakQ4bENuSVBZNU5WTk85Qzhqdjh1SDdKV01YMEREVUtiNzU5NkVvYnVSbnFUZHRYUDNxdFp0RTY5OEhIaW9KcG1hdm9MQ1FzZ1VGMlpWalJFS0RsODBZZDVvMDd5OGJQQkVMS3dCaWFGeVhIMnhvd1EybWdtQWc?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "679d3e8398e47ea8",
+      "headline": "More Patients Can Be the Wrong Investment in Medical AI Research",
+      "category": "industry",
+      "publishedAt": "2026-11-21T23:14:25.000Z",
+      "score": 0.3764,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "640ecca3f439dd38",
+          "headline": "More Patients Can Be the Wrong Investment in Medical AI Research",
+          "source": "KoreaTechDesk",
+          "domain": "unknown-koreatechdesk",
+          "category": "industry",
+          "publishedAt": "2026-11-21T23:14:25.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ODFocVlmMVAxV0VNeV84NkhsV0c5RjItMVdHWVB1UnRhNE5oTWd1Tm5ZZkgwWkZxQl85alFkM2NBV0hERUNRdHRqOVFWTkEtdEZDSkxRWXdJa2ppeUxGSjBLVG5tOGxrc1VqYkk3Y1V4OG5yTFZhNFFhSHYwRzg?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "f53f317077182d5f",
+      "headline": "Machine Learning and In-Line Sensors Accurately Predict Extruded Drug Delivery Properties",
+      "category": "general",
+      "publishedAt": "2026-11-21T21:08:32.000Z",
+      "score": 0.3552,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "1582a9e10f519e30",
+          "headline": "Machine Learning and In-Line Sensors Accurately Predict Extruded Drug Delivery Properties",
+          "source": "Bioengineer.org",
+          "domain": "unknown-bioengineer-org",
+          "category": "general",
+          "publishedAt": "2026-11-21T21:08:32.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObzhKOGpSM29ZZkFDRlFBWFF2SlloLW5IR211UWMzazJ2XzRxYUhzVDZzelg1QmpUcWxOSjV6Y09PSkJqVEh5VlFLMFN1V00tcDRQUmxmSTVJWDVHS0tGVElkME9QcUtSd2FkQ0JjUDh3T0dqQkkwSlF5bHJRX0pReDhJMm8xQkxFcE9mdllsSnFlNDlJWHJuVkRDOGJEM1hKeFJiS2ZoYzNnOEJLdWRDbjI3Uk0?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "c1c50f9cd46d3953",
+      "headline": "New Germanium Design Predicts GHz-scale Spin Splittings For Andreev Qubits",
+      "category": "general",
+      "publishedAt": "2026-11-21T20:39:09.000Z",
+      "score": 0.3506,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "0b26b0ecebba60c5",
+          "headline": "New Germanium Design Predicts GHz-scale Spin Splittings For Andreev Qubits",
+          "source": "Quantum Zeitgeist",
+          "domain": "unknown-quantum-zeitgeist",
+          "category": "general",
+          "publishedAt": "2026-11-21T20:39:09.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2hXUEJMZW9iNTBSSXhJNEJRZW1BWHlTbFJjSkhka0pLMHduOUFLSFZSVzNoV04ycTBVbW5TYVZ6ZXZPVE5ORVRWWlVaeGdad3hFckVRQUl0My1RaldpRHhhN1RPYUhoRGstcHFkR0hQZFc2ckNkMm55emxJLVo4OFU5Wm51RFhBcVE?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "48fc84b700db9db5",
+      "headline": "Ryzen AI Max 192GB vs 128GB: Bigger Wins for LLMs",
+      "category": "models",
+      "publishedAt": "2026-11-21T20:24:23.000Z",
+      "score": 0.3483,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "026c08094011d3e2",
+          "headline": "Ryzen AI Max 192GB vs 128GB: Bigger Wins for LLMs",
+          "source": "shattered.io",
+          "domain": "unknown-shattered-io",
+          "category": "models",
+          "publishedAt": "2026-11-21T20:24:23.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUhYNzVuZ1A0Rkd3YVFSLU9wZjJWOUZvUk9kTE5KbFJsc0U0azRMOFBaOWZPc1UxNVNhVE16UUp3T1dZRDlaR1BKcW5idEtzTEstNGhpRzhjcjFKUlp4WTNYaFA3cEltY1VnakJxeVpsWFRnbHlXdmc5eXpQcmRCLTVTOWRzcTVo?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "fd659198636ee6aa",
+      "headline": "ShinMegamiBoson releases LookAtMyQuant, a quantization compiler for large language models",
+      "category": "models",
+      "publishedAt": "2026-11-21T19:05:53.000Z",
+      "score": 0.3367,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "df3b06854b1ad715",
+          "headline": "ShinMegamiBoson releases LookAtMyQuant, a quantization compiler for large language models",
+          "source": "news.lavx.hu",
+          "domain": "unknown-news-lavx-hu",
+          "category": "models",
+          "publishedAt": "2026-11-21T19:05:53.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3ZSZTlrQWtXWHpaWk03X191UTN2bkJNNHN4LXJLZC0xMGVmZ0ZRZ3ZsX01JZ0VBZ3JkZ1cwUHFpeFl0aGxEVjFPeWRtZWZpMzdYb1Y0ZFQ4aEJnTDN5MjhhczVjWGNoYzNhYUZPQUpwQ01MOS1GcDRzSVZySW1uYm5fVTZTMldjTHliazdOMndxSkhmaTh2RjJfOHVIc2hjNlFiRGVScDF3Z3dRb1RxSmlhcUZMY1kz?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "2a393604cfcee6d6",
+      "headline": "California colleges strike major AI deal as educators rage at machine learning: ‘Homogenized slop’",
+      "category": "general",
+      "publishedAt": "2026-11-21T19:01:00.000Z",
+      "score": 0.336,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "12b49da9671ec250",
+          "headline": "California colleges strike major AI deal as educators rage at machine learning: ‘Homogenized slop’",
+          "source": "New York Post",
+          "domain": "unknown-new-york-post",
+          "category": "general",
+          "publishedAt": "2026-11-21T19:01:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0JQSGlpd0NTRlpvbko0QllyaElJUG5ud1F4aWdvSm8xVlZCenBLZ0pCWUY0Q2Jrd29WR2I1RUpxak1CYUdtS0xHdWJIVllGVC0zeUVreGwySlZ6Wnd4WXViTDkxX01aMXROYU9jdUdlTi1WTEgwZjhqM01aUHpLT1M3YWtISXNwZHhkRnVLVktxdkwxbmFmOUJzN2ZrdG5MOFdV?oc=5",
+          "provider": "google-news"
         }
       ],
       "briefing": null
@@ -273,9 +1043,9 @@
       "headline": "OpenCode and a local LLM handle the boring 80% of my coding, so Claude only gets the hard part",
       "category": "models",
       "publishedAt": "2026-11-21T19:00:20.000Z",
-      "score": 0.4733,
+      "score": 0.3359,
       "publisherCount": 1,
-      "featured": true,
+      "featured": false,
       "lead": false,
       "articles": [
         {
@@ -298,9 +1068,9 @@
       "headline": "Review Links Atomic Scale Characterization and Machine Learning to Materials Science Advances",
       "category": "general",
       "publishedAt": "2026-11-21T18:58:12.000Z",
-      "score": 0.4727,
+      "score": 0.3356,
       "publisherCount": 1,
-      "featured": true,
+      "featured": false,
       "lead": false,
       "articles": [
         {
@@ -323,7 +1093,7 @@
       "headline": "METR’s updated AI tests find coding chops outpace research judgment",
       "category": "general",
       "publishedAt": "2026-11-21T18:57:51.000Z",
-      "score": 0.4726,
+      "score": 0.3356,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -348,7 +1118,7 @@
       "headline": "AI, the new termite on book shelves",
       "category": "general",
       "publishedAt": "2026-11-21T18:47:16.000Z",
-      "score": 0.4698,
+      "score": 0.3341,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -373,7 +1143,7 @@
       "headline": "NIELIT Opens India's AI & Quantum University",
       "category": "general",
       "publishedAt": "2026-11-21T18:12:07.000Z",
-      "score": 0.4606,
+      "score": 0.3293,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -398,7 +1168,7 @@
       "headline": "USCC 2026 Report: Chips, AI, Data and Research",
       "category": "general",
       "publishedAt": "2026-11-21T18:07:18.000Z",
-      "score": 0.4594,
+      "score": 0.3286,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -423,7 +1193,7 @@
       "headline": "CertiK and Columbia University Researchers Formally Verify Production AI Kernels From DeepSeek and FlashAttention",
       "category": "research",
       "publishedAt": "2026-11-21T18:06:21.000Z",
-      "score": 0.4591,
+      "score": 0.3285,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
@@ -448,7 +1218,7 @@
       "headline": "Karnataka Secures 43% Of India’s New GCCs Between FY21 And FY26",
       "category": "general",
       "publishedAt": "2026-11-21T18:04:00.000Z",
-      "score": 0.4585,
+      "score": 0.3282,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -469,11 +1239,36 @@
       "briefing": null
     },
     {
+      "id": "f10626f02c114cf4",
+      "headline": "How to Run a Local LLM Privately on Your Own Computer",
+      "category": "models",
+      "publishedAt": "2026-11-21T17:26:01.000Z",
+      "score": 0.3232,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3755f1bc22761de7",
+          "headline": "How to Run a Local LLM Privately on Your Own Computer",
+          "source": "ChipIn",
+          "domain": "unknown-chipin",
+          "category": "models",
+          "publishedAt": "2026-11-21T17:26:01.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mTEFlVVF2c0d3WFgxN3ZBaFhRRUZTdGZGNkVPX3RPS2lvMVMtcEJFWjNkNTNjWTNMNWRVR0JKT0IxSWdXZHktODVmeEhXdw?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "ea7e66ab2cb387f0",
       "headline": "Rogo – AI Platform for Finance, Research Automation & Financial Modeling",
       "category": "general",
       "publishedAt": "2026-11-21T16:52:32.000Z",
-      "score": 0.4409,
+      "score": 0.3189,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -498,7 +1293,7 @@
       "headline": "HyperWrite – AI Writing Assistant, Predictive Autocomplete & Web Research",
       "category": "general",
       "publishedAt": "2026-11-21T16:51:22.000Z",
-      "score": 0.4406,
+      "score": 0.3188,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -523,7 +1318,7 @@
       "headline": "Nvidia researchers argue huge AI context windows are a dead end",
       "category": "research",
       "publishedAt": "2026-11-21T16:23:45.000Z",
-      "score": 0.4341,
+      "score": 0.3153,
       "publisherCount": 1,
       "featured": true,
       "lead": false,
@@ -544,11 +1339,36 @@
       "briefing": null
     },
     {
+      "id": "b63548ef66863e8c",
+      "headline": "88% of Black Friday Shoppers Use AI to Hunt Deals",
+      "category": "general",
+      "publishedAt": "2026-11-21T16:19:23.000Z",
+      "score": 0.3148,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "3322ac6115c25c6b",
+          "headline": "88% of Black Friday Shoppers Use AI to Hunt Deals",
+          "source": "shattered.io",
+          "domain": "unknown-shattered-io",
+          "category": "general",
+          "publishedAt": "2026-11-21T16:19:23.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDJZZThVaDJaV3VrZTdUMEhQbUJsbHNENlRuRzZvcFhPcU5DbTJ4NGEweTFxQTV3WHhfSzJuUUNsRWQ3WExwcF9Qa21NaVpSbnFibGtycFpIeVZyWDNsbVF1a1ZteWt0UEpoVkhLckZ4Zkh5clFKNTFQOG1TbW03UTltSTJBX0VRWUE?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "a35973e02d9b8f16",
       "headline": "In a first for Jadavpur University, Abhiroop Chatterjee wins Google PhD Fellowship 2026 in machine learning",
       "category": "general",
       "publishedAt": "2026-11-21T16:09:58.000Z",
-      "score": 0.4309,
+      "score": 0.3137,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -569,13 +1389,38 @@
       "briefing": null
     },
     {
+      "id": "3b4fc28a910ede96",
+      "headline": "Tether is pushing the 13-billion parameter BitNet b1.58 LLM to the edge.",
+      "category": "models",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "score": 0.3125,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "8a1774c3e7d8246c",
+          "headline": "Tether is pushing the 13-billion parameter BitNet b1.58 LLM to the edge.",
+          "source": "TechCrunch",
+          "domain": "unknown-techcrunch",
+          "category": "models",
+          "publishedAt": "2026-11-21T16:00:00.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVnaVduS1pTYmdDRi14RjhvVGFxUzJLb0tiQkVROVdtSFd4S1lrTTZDOC1RR00zcTZoa29qeThVZmhyVFlQME5lVFRuS0o2cUw5QUFqTXp5WUJNZUdkc3h0dE1WYnFBQzl6dEk4RHFEWkgwZDVaeEFHdllkTnBDb3NJanRLSHpiUGlqOHNvSGNsMVlxcURMdFJjNm1MLWhBSlFpOGNuX1hzcHZjQ3BJ?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "4989e7dde0ff3cb1",
       "headline": "The Next Frontier for AI: Human Frontier Mission Announces Global Launch",
       "category": "models",
       "publishedAt": "2026-11-21T16:00:00.000Z",
-      "score": 0.4287,
+      "score": 0.3125,
       "publisherCount": 1,
-      "featured": true,
+      "featured": false,
       "lead": false,
       "articles": [
         {
@@ -598,7 +1443,7 @@
       "headline": "Machine Learning Signature Predicts Hepatocellular Carcinoma Outcomes and Drug Sensitivity",
       "category": "general",
       "publishedAt": "2026-11-21T15:56:57.000Z",
-      "score": 0.428,
+      "score": 0.3121,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -623,7 +1468,7 @@
       "headline": "CJI Calls for Commonwealth AI Disclosure Rules",
       "category": "general",
       "publishedAt": "2026-11-21T15:34:43.000Z",
-      "score": 0.423,
+      "score": 0.3095,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -648,7 +1493,7 @@
       "headline": "AI may not work like the human brain after all, scientists discover",
       "category": "general",
       "publishedAt": "2026-11-21T15:25:56.000Z",
-      "score": 0.421,
+      "score": 0.3085,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -669,36 +1514,11 @@
       "briefing": null
     },
     {
-      "id": "5bcf22ef54fb016b",
-      "headline": "PM opens IIT-Patna’s AI centre, lays stone for research park",
-      "category": "general",
-      "publishedAt": "2026-11-21T14:55:00.000Z",
-      "score": 0.4143,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "4b7e85678b3ea5fa",
-          "headline": "PM opens IIT-Patna’s AI centre, lays stone for research park",
-          "source": "The Times of India",
-          "domain": "unknown-the-times-of-india",
-          "category": "general",
-          "publishedAt": "2026-11-21T14:55:00.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmJ3Z25DSlNfVm5ZMmdlcXJHNVpVYjRseFJCWUZJUGxfenNBMFRyVkR0ZVk2VENFSUNVSkVyMlBielRMOGRGWEtvOHAzYkZKVUFPYVJZRkw1T2c5Tk9yOENSc0ptdGZ2RnRCRVZjQkFKdi1zUmxjY2JTQ21PaU9Cc1ptOUpTdTRmVThwSmtFaE9yU296Yk1VVzVhRi01ejRsVDc2TzRzVnlBWngzTzZ3YzhHa3RvdDFaOFBWTmdnRHNQTlBCbnQ0bDB6TdIB0AFBVV95cUxPNWFIZWZTNFcyTW15M2xYb3E5aDh6MTdyb0Y1cm5wLXFHOUluWXZiZ3AzY1BSVkFiZkV1QXZ4LXNjbERTWUlnTEcxeURzYVFKRjhOZTE3YlZGYUJNRlk0Z1FvS2trWElZZ245cjFPcnFETVBmOERUVXFMMDFQWUlZeTYtc1FCREdUTm9iNHgxNjA0alFqRmFtVVZPWXQxSDlsdXF1VVRxZ3lwSFVBTmp4Wm83dndNQkxpRTlGRzctN3dYczllZG5DVzlkMzBJdmJ5?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
       "id": "dee35661a3dda896",
       "headline": "Annabelle Mürb Presents AI Research on Patient-Reported Outcomes in Breast Cancer at ESMO 2026",
       "category": "general",
       "publishedAt": "2026-11-21T14:45:27.000Z",
-      "score": 0.4123,
+      "score": 0.3039,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -719,61 +1539,11 @@
       "briefing": null
     },
     {
-      "id": "da83acb7be709fc5",
-      "headline": "Scaling Laws Outperform Machine Learning in Predicting Metal Plasticity Across Regimes",
-      "category": "policy",
-      "publishedAt": "2026-11-21T14:38:27.000Z",
-      "score": 0.4108,
-      "publisherCount": 1,
-      "featured": true,
-      "lead": false,
-      "articles": [
-        {
-          "id": "e8055bfd24917bab",
-          "headline": "Scaling Laws Outperform Machine Learning in Predicting Metal Plasticity Across Regimes",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "policy",
-          "publishedAt": "2026-11-21T14:38:27.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEltcG4wRHlLZjE2QndwdTlsR3V0cnd4Tkk1STRqV3RGUnZCZzhKWFZneDI0OU1Nd0pmQTMxWUFfVGxPZlZBYS1nNkZYT0pKYWF4bjhiS25Neld3Z1l0R0VieE43Wk8tMndtYklrcEtDSGg3eGhuQVpsN2pGTzJfaXRDUnB3MEpjX016RW1yOTZKTzRtajE1REw2cU9WOE04ZEZPWDdoSVFHczJPdTctYw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
-      "id": "341b12c6b590ca79",
-      "headline": "Machine Learning Tracks Preterm Infant Development to Gauge Autism Risk",
-      "category": "general",
-      "publishedAt": "2026-11-21T14:28:07.000Z",
-      "score": 0.4087,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "26c94ed0b76d42cd",
-          "headline": "Machine Learning Tracks Preterm Infant Development to Gauge Autism Risk",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
-          "category": "general",
-          "publishedAt": "2026-11-21T14:28:07.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUElsN1BuM3l4WjVEakFHTGc4cHMwOHFpYmY0cmFud0RFY1o1MVRKdHhNMU1GQk95S0FwRGExUU9nQXhtN2xXUzdCN190UFhHZ0w1b2dpLU1kTUVzMFlyRkZsREdBNzN0NzU1R2U1NlFoaklpWVo2emgzc3NKdWpLcEhJLVRSUWhNX2lJRnNTencyS1IwOE1mdzJHbDY?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
       "id": "ed9cfed6cf2548a6",
       "headline": "Jadavpur University Researcher Secures Prestigious Google PhD Fellowship",
       "category": "general",
       "publishedAt": "2026-11-21T14:24:10.000Z",
-      "score": 0.4078,
+      "score": 0.3015,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -798,7 +1568,7 @@
       "headline": "Even scientists can't agree on what science actually is",
       "category": "general",
       "publishedAt": "2026-11-21T13:56:52.000Z",
-      "score": 0.4022,
+      "score": 0.2986,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -819,25 +1589,25 @@
       "briefing": null
     },
     {
-      "id": "0d3f6c9b338d0598",
-      "headline": "Spectroscopy and Machine Learning Advance Mammalian Wildlife Forensics and Conservation Science",
+      "id": "b028fad4d46fb58b",
+      "headline": "Moody's: Samsung & SK Hynix, 2 AI Memory Winners",
       "category": "general",
-      "publishedAt": "2026-11-21T13:42:33.000Z",
-      "score": 0.3993,
+      "publishedAt": "2026-11-21T13:44:22.000Z",
+      "score": 0.2972,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
       "articles": [
         {
-          "id": "75129a16cf1209aa",
-          "headline": "Spectroscopy and Machine Learning Advance Mammalian Wildlife Forensics and Conservation Science",
-          "source": "Bioengineer.org",
-          "domain": "unknown-bioengineer-org",
+          "id": "7e44c425c790a89f",
+          "headline": "Moody's: Samsung & SK Hynix, 2 AI Memory Winners",
+          "source": "shattered.io",
+          "domain": "unknown-shattered-io",
           "category": "general",
-          "publishedAt": "2026-11-21T13:42:33.000Z",
+          "publishedAt": "2026-11-21T13:44:22.000Z",
           "snippet": "",
           "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlNKdDQ0bUx0VGNDYW0xTE5vTTc0alZiZlBNeGlLUnA5MDl4M2Q5ejk1TERGcFdjYzhPQS0yYkF1SlM2OXRGZ0huYU1CblNzajBCMVFLYUt2ZTFaSFBZZ1o5Z2J6Nkkyc08zTklqVm51bUxfMVVJMGtVV3FkWkpCdjJPd2xxZ05kQTNPaGZkc2hVSVRiemRmeldQdE5MbEhpM2xLQ2ljdHZ5Q2JxcjBJZVd5bXRKWk1FZl9uZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNF9YRDFuWlBBeFprX3Nka1pzdU0taUdxc1dEd01OeTJHUGZIazFWclBiam1hSHZxUGhKd1oxMHF1MV9OeWJaVEtRWGlQUTc1TzB1N3BwS0ctUzRvLUg5cFNsTmlvcHM3eGRGZ1dQSF8zMmtPR3A1QmdLZXpnWmNraFBtWk12ellLZVBmOUF6bGpfb2Q0SnN4VFdXT0U?oc=5",
           "provider": "google-news"
         }
       ],
@@ -848,7 +1618,7 @@
       "headline": "Traffic signs recognition for advanced driver assistance systems using deep learning",
       "category": "general",
       "publishedAt": "2026-11-21T13:40:45.000Z",
-      "score": 0.399,
+      "score": 0.2969,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -869,11 +1639,61 @@
       "briefing": null
     },
     {
+      "id": "e389c0e4292a0b7b",
+      "headline": "Tracking Malaria From Space: What Water and Altitude Reveal About Risk in Tanzania",
+      "category": "research",
+      "publishedAt": "2026-11-21T12:59:20.000Z",
+      "score": 0.2926,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "33e2d0fd44f1aa44",
+          "headline": "Tracking Malaria From Space: What Water and Altitude Reveal About Risk in Tanzania",
+          "source": "Devdiscourse",
+          "domain": "devdiscourse.com",
+          "category": "research",
+          "publishedAt": "2026-11-21T12:59:20.000Z",
+          "snippet": "Researchers studying Karagwe District in northwestern Tanzania explored whether satellite observations and machine learning could help explain differences in malaria prevalence across the landscape…",
+          "imageUrl": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/19_11_2026_14_58_27_1177926.png&width=920&format=jpeg",
+          "url": "https://devdiscourse.com/article/health/4009354-tracking-malaria-from-space-what-water-and-altitude-reveal-about-risk-in-tanzania",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "dc86064d7b565481",
+      "headline": "Ban on AI neither practicable nor wise, says CJI Surya Kant",
+      "category": "policy",
+      "publishedAt": "2026-11-21T12:53:48.000Z",
+      "score": 0.292,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "ac78a6f92917a475",
+          "headline": "Ban on AI neither practicable nor wise, says CJI Surya Kant",
+          "source": "Hindustan Times",
+          "domain": "hindustantimes.com",
+          "category": "policy",
+          "publishedAt": "2026-11-21T12:53:48.000Z",
+          "snippet": "Turning to the use of AI in legal research, Kant warned that a fluent and convincing answer was not necessarily an accurate one | India News",
+          "imageUrl": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/Justice-Kant-said-banning-AI-tools-would-merely-dr_1795265620632_yCli.jpg",
+          "url": "https://hindustantimes.com/india-news/ban-on-ai-neither-practicable-nor-wise-says-cji-surya-kant-101795265628736.html",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "e65cc274380ccac3",
       "headline": "What rights do we owe a machine?",
       "category": "general",
       "publishedAt": "2026-11-21T12:30:00.000Z",
-      "score": 0.3853,
+      "score": 0.2897,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -898,9 +1718,9 @@
       "headline": "Indian Navy Officers Master AI: Hands-on LLM Training at INS Valsura",
       "category": "models",
       "publishedAt": "2026-11-21T12:27:41.000Z",
-      "score": 0.3849,
+      "score": 0.2894,
       "publisherCount": 1,
-      "featured": true,
+      "featured": false,
       "lead": false,
       "articles": [
         {
@@ -919,36 +1739,11 @@
       "briefing": null
     },
     {
-      "id": "afaf02007f60f97c",
-      "headline": "Parshu Tactical Defence trains Indian Navy officers in hands-on LLM fine-tuning; INS Valsura honours team",
-      "category": "models",
-      "publishedAt": "2026-11-21T12:22:34.000Z",
-      "score": 0.3839,
-      "publisherCount": 1,
-      "featured": false,
-      "lead": false,
-      "articles": [
-        {
-          "id": "b14ec5b3a1539f62",
-          "headline": "Parshu Tactical Defence trains Indian Navy officers in hands-on LLM fine-tuning; INS Valsura honours team",
-          "source": "The Tribune",
-          "domain": "unknown-the-tribune",
-          "category": "models",
-          "publishedAt": "2026-11-21T12:22:34.000Z",
-          "snippet": "",
-          "imageUrl": null,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcDNYTlMyaDlQelZHWW1pRG9UWWI5RUlFbDI2NVppMGlVMjVOWHN0QVlrZVhjNEV4Nm1uemRRRjg5emdQOHc2ODN3Q2Y2SkFsOGVCdEVmRnF3aE1yckRGbDNiNXlVaGVhY29pOEJiSi1jdldGeUxIOWJ0QXlxTDZadjlBSHhwUS1hQ19ZN2h2Y1I2bWJlMkFxSTBBTmFKckJ5d25pVnZZaE9fekp5cWxhMVpYZXB4UjBEVnQ0YklJc0lxMW03aGhoR3dkazNoVXRlQWZJRzZ5UTctdHpJQjZvMlMzMGlmZ9IB5gFBVV95cUxQcDNYTlMyaDlQelZHWW1pRG9UWWI5RUlFbDI2NVppMGlVMjVOWHN0QVlrZVhjNEV4Nm1uemRRRjg5emdQOHc2ODN3Q2Y2SkFsOGVCdEVmRnF3aE1yckRGbDNiNXlVaGVhY29pOEJiSi1jdldGeUxIOWJ0QXlxTDZadjlBSHhwUS1hQ19ZN2h2Y1I2bWJlMkFxSTBBTmFKckJ5d25pVnZZaE9fekp5cWxhMVpYZXB4UjBEVnQ0YklJc0lxMW03aGhoR3dkazNoVXRlQWZJRzZ5UTctdHpJQjZvMlMzMGlmZw?oc=5",
-          "provider": "google-news"
-        }
-      ],
-      "briefing": null
-    },
-    {
       "id": "8dff4ca947eabe82",
       "headline": "Thinking Machines Releases Inkling 2 Mini, an Open-Weights Looped Transformer",
       "category": "models",
       "publishedAt": "2026-11-21T12:19:01.000Z",
-      "score": 0.3833,
+      "score": 0.2886,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -973,7 +1768,7 @@
       "headline": "CJI Surya Kant calls for guidelines on AI use, disclosure in legal research",
       "category": "general",
       "publishedAt": "2026-11-21T12:09:08.000Z",
-      "score": 0.3814,
+      "score": 0.2876,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -994,11 +1789,36 @@
       "briefing": null
     },
     {
+      "id": "116f65164a59dc07",
+      "headline": "Pune's Rangoonwala Dental College Celebrates 25 Years of Excellence, Eyes Future with AI and Digital Dentistry",
+      "category": "general",
+      "publishedAt": "2026-11-21T11:52:20.000Z",
+      "score": 0.286,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "aecf13571d5c493c",
+          "headline": "Pune's Rangoonwala Dental College Celebrates 25 Years of Excellence, Eyes Future with AI and Digital Dentistry",
+          "source": "Lokmat Times",
+          "domain": "lokmattimes.com",
+          "category": "general",
+          "publishedAt": "2026-11-21T11:52:20.000Z",
+          "snippet": "Pune's Rangoonwala Dental College Celebrates 25 Years of Excellence, Eyes Future with AI and Digital Dentistry - PUNE: M. A. Rangoonwala College of Dental Sciences and Research Centre (MARDC) in Pune…",
+          "imageUrl": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20261121115211_202611.jpg",
+          "url": "https://lokmattimes.com/business/punes-rangoonwala-dental-college-celebrates-25-years-of-excellence-eyes-future-with-ai-and-digital-dentistry-a001-w01",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "8967af009237721f",
       "headline": "Gladios Pte Ltd Launches GladiosWAF — Democratizing Zero-Rule AI Web Security",
       "category": "models",
       "publishedAt": "2026-11-21T11:21:04.000Z",
-      "score": 0.3728,
+      "score": 0.2831,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1019,11 +1839,61 @@
       "briefing": null
     },
     {
+      "id": "6b7c57f8ea65daeb",
+      "headline": "IIT Kharagpur Gets $5 Million Funding From Google To Expand Innovation In Artificial Intelligence",
+      "category": "industry",
+      "publishedAt": "2026-11-21T11:15:42.000Z",
+      "score": 0.2826,
+      "publisherCount": 1,
+      "featured": true,
+      "lead": false,
+      "articles": [
+        {
+          "id": "c5dcbd4308438418",
+          "headline": "IIT Kharagpur Gets $5 Million Funding From Google To Expand Innovation In Artificial Intelligence",
+          "source": "NDTV Profit",
+          "domain": "ndtvprofit.com",
+          "category": "industry",
+          "publishedAt": "2026-11-21T11:15:42.000Z",
+          "snippet": "The $5 million fund from Google will be directed towards advanced research, educational opportunities and AI capacity building at IIT Kharagpur",
+          "imageUrl": "https://c.ndtvimg.com/2026-11/pqsbpj7c_iit-kharagpur_625x300_14_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+          "url": "https://ndtvprofit.com/education/iit-kharagpur-gets-5-million-funding-from-google-to-expand-innovation-in-artificial-intelligence-12358611",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "5094e777bda6ce5d",
+      "headline": "Anthropic's Claude offers possible Riemann hypothesis proof, says Levent Alpoge",
+      "category": "models",
+      "publishedAt": "2026-11-21T11:13:49.000Z",
+      "score": 0.2824,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "ec1626eb6df9eede",
+          "headline": "Anthropic's Claude offers possible Riemann hypothesis proof, says Levent Alpoge",
+          "source": "NewsBytes",
+          "domain": "newsbytesapp.com",
+          "category": "models",
+          "publishedAt": "2026-11-21T11:13:49.000Z",
+          "snippet": "Anthropic's AI model, Claude, reportedly proved the Riemann hypothesis, a pivotal mathematical problem, marking a significant milestone in AI-driven mathematical research.",
+          "imageUrl": "https://i.cdn.newsbytesapp.com/images/l144_15531795259568.jpg",
+          "url": "https://newsbytesapp.com/news/science/anthropics-claude-offers-possible-riemann-hypothesis-proof-says-levent-alpoge/tldr",
+          "provider": "gnews"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "4813d06b38847e01",
       "headline": "AI Red Teaming for LLM Applications: 10 Security Risks Organisations Should Test",
       "category": "models",
       "publishedAt": "2026-11-21T11:02:57.000Z",
-      "score": 0.3697,
+      "score": 0.2814,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1048,7 +1918,7 @@
       "headline": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions",
       "category": "general",
       "publishedAt": "2026-11-21T11:01:28.000Z",
-      "score": 0.3694,
+      "score": 0.2813,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1069,13 +1939,63 @@
       "briefing": null
     },
     {
+      "id": "6c17cd48fd206303",
+      "headline": "New approach enables physically consistent AI models of chaotic systems",
+      "category": "general",
+      "publishedAt": "2026-11-21T10:23:52.000Z",
+      "score": 0.2779,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "a480389e54671c78",
+          "headline": "New approach enables physically consistent AI models of chaotic systems",
+          "source": "MIT Climate Portal",
+          "domain": "unknown-mit-climate-portal",
+          "category": "general",
+          "publishedAt": "2026-11-21T10:23:52.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGdzX3lkSll3YXVHWnotWGdOY2oyYmNiSG5MM2JOZlU1cTdVa2o3ai1Xdk1pX1JMMHhDNXl2LXh6OFZMZlY3ZDlsQnNJUS1uWEpmUE5BNGs4OThfWHFPbS1KVTFkYkpuNmhybUxTZ1NIZmRhSnJ5cFdHNFVXU1k2Vjh5SXk4Tm9PNFNMOVBTTXJza25UYm51OFdrblBUX1k?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
+      "id": "8fe4ad38d25234d2",
+      "headline": "IIT Kharagpur Secures $5M From Google to Expand Campus AI Work",
+      "category": "general",
+      "publishedAt": "2026-11-21T09:56:03.000Z",
+      "score": 0.2755,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "589117c0da5be4b5",
+          "headline": "IIT Kharagpur Secures $5M From Google to Expand Campus AI Work",
+          "source": "Unite.AI",
+          "domain": "unknown-unite-ai",
+          "category": "general",
+          "publishedAt": "2026-11-21T09:56:03.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPallQQlV4a3NxUU1ibzN1Nm1rS0VNVDNQczFmZVJxZ0pTMTg2RnNUZDJCa0k5LWtNWmVnSkd5NjYydDV5VDktZlY0MGctdXl2eGh2ZGc3Y05Nd2lsak9Gdko0M0I4Z2dTckJSSWQ0cGtZQXFHM1c2TkpnSk9vYWtzRF9Yc1c0ZnNUeXRR?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "9e6b63642688005d",
       "headline": "RESEARCH UPDATE: IIT Mandi researchers develop AI-based model to predict wildlife population changes",
       "category": "research",
       "publishedAt": "2026-11-21T09:24:00.000Z",
-      "score": 0.3534,
+      "score": 0.2728,
       "publisherCount": 1,
-      "featured": true,
+      "featured": false,
       "lead": false,
       "articles": [
         {
@@ -1098,7 +2018,7 @@
       "headline": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
       "category": "general",
       "publishedAt": "2026-11-21T09:17:24.000Z",
-      "score": 0.3523,
+      "score": 0.2723,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1123,7 +2043,7 @@
       "headline": "AI agents would narrow the “incredibly large combinatorial universe of cancer questions”",
       "category": "general",
       "publishedAt": "2026-11-21T08:45:32.000Z",
-      "score": 0.3474,
+      "score": 0.2697,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1148,7 +2068,7 @@
       "headline": "AWS Cuts LLM Costs with Distributed KV Caching Skill",
       "category": "models",
       "publishedAt": "2026-11-21T08:22:57.000Z",
-      "score": 0.344,
+      "score": 0.2679,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1169,11 +2089,36 @@
       "briefing": null
     },
     {
+      "id": "509e2fb1f7f6248c",
+      "headline": "SEC Investigating Nvidia Accounting: 9 Facts, 5 Gaps",
+      "category": "general",
+      "publishedAt": "2026-11-21T08:21:05.000Z",
+      "score": 0.2678,
+      "publisherCount": 1,
+      "featured": false,
+      "lead": false,
+      "articles": [
+        {
+          "id": "e3e0656949017146",
+          "headline": "SEC Investigating Nvidia Accounting: 9 Facts, 5 Gaps",
+          "source": "shattered.io",
+          "domain": "unknown-shattered-io",
+          "category": "general",
+          "publishedAt": "2026-11-21T08:21:05.000Z",
+          "snippet": "",
+          "imageUrl": null,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjdUV1pkbWpCYktqX2VabFdzWWItQUtfakh5QXcxQzd5Q0dpQ1oxMk50ei1FcVF1aUtLMzRaNGwwOXJaUjRxWFNHNkUyb1Y0R0w1YXNtTHRaakhyYU5nR3NRVVN0YXA5Y1Y5VC12blJLZXlrT3J2b09Pa3JLeWtnMnFiMWo0c01GazR5OHNLMm5teS05?oc=5",
+          "provider": "google-news"
+        }
+      ],
+      "briefing": null
+    },
+    {
       "id": "13f7da2cf8416f32",
       "headline": "IBM (IBM) Reaches Quantum Utility Milestone In Machine Learning",
       "category": "general",
       "publishedAt": "2026-11-21T08:10:41.000Z",
-      "score": 0.3422,
+      "score": 0.267,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1198,7 +2143,7 @@
       "headline": "University of California, QuEra, and Collaborators Introduce Multi-Agent LLM Compiler Qubrio for Neutral-Atom Processors",
       "category": "models",
       "publishedAt": "2026-11-21T07:22:07.000Z",
-      "score": 0.3352,
+      "score": 0.2633,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1223,7 +2168,7 @@
       "headline": "“Ghost in the Machine” Is a Documentary — but It’s Also an Urgent Technological Horror Story",
       "category": "general",
       "publishedAt": "2026-11-21T05:54:54.000Z",
-      "score": 0.3234,
+      "score": 0.2571,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1248,7 +2193,7 @@
       "headline": "ML signal platform for Colombo Stock Exchange built",
       "category": "general",
       "publishedAt": "2026-11-20T23:54:42.000Z",
-      "score": 0.2837,
+      "score": 0.2362,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1273,7 +2218,7 @@
       "headline": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm | Amazon Web Services",
       "category": "general",
       "publishedAt": "2026-11-20T23:07:03.000Z",
-      "score": 0.2794,
+      "score": 0.2339,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1298,7 +2243,7 @@
       "headline": "AI for Dummies",
       "category": "general",
       "publishedAt": "2026-11-20T22:37:46.000Z",
-      "score": 0.2768,
+      "score": 0.2325,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1323,7 +2268,7 @@
       "headline": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
       "category": "general",
       "publishedAt": "2026-11-20T22:35:24.000Z",
-      "score": 0.2766,
+      "score": 0.2324,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1348,7 +2293,7 @@
       "headline": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
       "category": "general",
       "publishedAt": "2026-11-20T21:00:00.000Z",
-      "score": 0.2687,
+      "score": 0.2283,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
@@ -1373,7 +2318,7 @@
       "headline": "The Case for “Small AI”",
       "category": "general",
       "publishedAt": "2026-11-20T20:13:21.000Z",
-      "score": 0.2651,
+      "score": 0.2264,
       "publisherCount": 1,
       "featured": false,
       "lead": false,
