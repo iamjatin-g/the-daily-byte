@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-22T19:54:14.606Z",
-  "outcome": "partial",
+  "runAt": "2026-11-23T07:56:47.914Z",
+  "outcome": "success",
   "totals": {
-    "fetched": 196,
-    "afterFilter": 83,
-    "clusters": 70,
+    "fetched": 198,
+    "afterFilter": 172,
+    "clusters": 127,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-23",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -74,16 +74,6 @@
       "disabledAt": "2026-11-17T21:11:22.312Z"
     },
     {
-      "name": "joy.org.au",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 10,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
-      "disabledAt": null
-    },
-    {
       "name": "livemint.com",
       "provider": "feed",
       "status": "disabled",
@@ -130,7 +120,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     },
     {
@@ -154,23 +144,13 @@
       "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
-      "name": "organiser.org",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 10,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
-      "disabledAt": null
-    },
-    {
       "name": "thehindu.com",
       "provider": "feed",
       "status": "ok",
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     },
     {
@@ -214,6 +194,16 @@
       "disabledAt": "2026-11-17T21:11:22.312Z"
     },
     {
+      "name": "worldtribune.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 10,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
+      "disabledAt": null
+    },
+    {
       "name": "AI research",
       "provider": "gdelt",
       "status": "disabled",
@@ -237,10 +227,10 @@
       "name": "machine learning",
       "provider": "gdelt",
       "status": "ok",
-      "articlesFetched": 4,
+      "articlesFetched": 7,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     },
     {
@@ -250,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     },
     {
@@ -260,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     },
     {
@@ -270,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     },
     {
@@ -280,17 +270,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 22,
+      "articlesFetched": 31,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     },
     {
@@ -300,15 +290,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-22T19:54:14.606Z",
+      "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:LLMs: HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=%22LLMs%22%20sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=50&timespan=1d&sort=datedesc",
-    "briefing skipped for \"Google pledges USD 5 million to IIT Khar\": This operation was aborted",
-    "briefing skipped for \"CJI Surya Kant calls for mandatory legal\": This operation was aborted",
-    "briefing skipped for \"Mark Williams-Cook's joke cats.txt passe\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Google commits $5 million to IIT Kharagp\": This operation was aborted",
+    "briefing skipped for \"New Activision Patent Would Train NPC Tr\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Votee AI partners AI Singapore to explor\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
