@@ -1,27 +1,37 @@
 {
-  "runAt": "2026-11-24T10:10:36.134Z",
+  "runAt": "2026-11-24T22:39:51.656Z",
   "outcome": "partial",
   "totals": {
     "fetched": 210,
-    "afterFilter": 214,
-    "clusters": 157,
+    "afterFilter": 106,
+    "clusters": 100,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-24",
-    "count": 16
+    "date": "2026-11-25",
+    "count": 3
   },
   "sources": [
+    {
+      "name": "analyticsindiamag.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "disabledAt": null
+    },
     {
       "name": "aninews.in",
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 6,
+      "consecutiveFailures": 7,
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-17T21:11:22.312Z"
+      "disabledAt": "2026-11-24T22:39:51.656Z"
     },
     {
       "name": "deccanchronicle.com",
@@ -40,7 +50,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
       "disabledAt": null
     },
     {
@@ -124,16 +134,6 @@
       "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
-      "name": "newindianexpress.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
-      "disabledAt": null
-    },
-    {
       "name": "news18.com",
       "provider": "feed",
       "status": "disabled",
@@ -160,7 +160,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
       "disabledAt": null
     },
     {
@@ -198,10 +198,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 6,
+      "consecutiveFailures": 7,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-17T21:11:22.312Z"
+      "disabledAt": "2026-11-24T22:39:51.656Z"
     },
     {
       "name": "AI research",
@@ -226,12 +226,12 @@
     {
       "name": "machine learning",
       "provider": "gdelt",
-      "status": "failed",
+      "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "lastError": "fetch failed",
       "lastSuccessAt": "2026-11-23T07:56:47.914Z",
-      "disabledAt": null
+      "disabledAt": "2026-11-24T22:39:51.656Z"
     },
     {
       "name": "AI research",
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
       "disabledAt": null
     },
     {
@@ -270,7 +270,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
       "disabledAt": null
     },
     {
@@ -280,7 +280,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
       "disabledAt": null
     },
     {
@@ -290,17 +290,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
       "disabledAt": null
     }
   ],
   "errors": [
     "gdelt:machine learning: fetch failed",
-    "feed:timesofindia.indiatimes.com: no usable feed found",
-    "feed:news18.com: HTTP 403 for https://news18.com/",
-    "briefing skipped for \"GCHQ, Greater Manchester universities la\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"UT Health San Antonio $2M CPRIT Cancer A\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"SeoulTech Researchers Develop Smarter Wa\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:aninews.in: HTTP 403 for https://aninews.in/",
+    "feed:tribuneindia.com: no usable feed found",
+    "briefing skipped for \"Predicting the unknown: a robust approac\": This operation was aborted",
+    "briefing skipped for \"VA Opens Market Research for Appeals Sys\": This operation was aborted",
+    "briefing skipped for \"Huang's return to Nvidia brings open-wei\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
