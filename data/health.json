@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-24T00:10:11.933Z",
+  "runAt": "2026-11-24T10:10:36.134Z",
   "outcome": "partial",
   "totals": {
-    "fetched": 174,
-    "afterFilter": 105,
-    "clusters": 98,
+    "fetched": 210,
+    "afterFilter": 214,
+    "clusters": 157,
     "linkRotDropped": 0,
-    "llmCallsUsed": 13
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-24",
-    "count": 13
+    "count": 16
   },
   "sources": [
     {
@@ -40,7 +40,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T00:10:11.933Z",
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
       "disabledAt": null
     },
     {
@@ -52,16 +52,6 @@
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-24T00:10:11.933Z"
-    },
-    {
-      "name": "freepressjournal.in",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "hindustantimes.com",
@@ -137,10 +127,10 @@
       "name": "newindianexpress.com",
       "provider": "feed",
       "status": "ok",
-      "articlesFetched": 4,
+      "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T00:10:11.933Z",
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
       "disabledAt": null
     },
     {
@@ -148,10 +138,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "lastError": "HTTP 403 for https://news18.com/",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-14T18:23:11.094Z"
+      "disabledAt": "2026-11-24T10:10:36.134Z"
     },
     {
       "name": "newsbytesapp.com",
@@ -162,6 +152,16 @@
       "lastError": "HTTP 403 for https://newsbytesapp.com/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-22T07:10:16.601Z"
+    },
+    {
+      "name": "thehindu.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
+      "disabledAt": null
     },
     {
       "name": "thehitavada.com",
@@ -188,10 +188,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-17T08:12:48.319Z"
+      "disabledAt": "2026-11-24T10:10:36.134Z"
     },
     {
       "name": "tribuneindia.com",
@@ -228,7 +228,7 @@
       "provider": "gdelt",
       "status": "failed",
       "articlesFetched": 0,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "lastError": "fetch failed",
       "lastSuccessAt": "2026-11-23T07:56:47.914Z",
       "disabledAt": null
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T00:10:11.933Z",
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T00:10:11.933Z",
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T00:10:11.933Z",
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
       "disabledAt": null
     },
     {
@@ -270,7 +270,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T00:10:11.933Z",
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
       "disabledAt": null
     },
     {
@@ -280,7 +280,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T00:10:11.933Z",
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
       "disabledAt": null
     },
     {
@@ -290,19 +290,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T00:10:11.933Z",
+      "lastSuccessAt": "2026-11-24T10:10:36.134Z",
       "disabledAt": null
     }
   ],
   "errors": [
     "gdelt:machine learning: fetch failed",
-    "feed:freepressjournal.in: no usable feed found",
-    "feed:economictimes.indiatimes.com: no usable feed found",
-    "feed:livemint.com: no usable feed found",
-    "briefing skipped for \"Google commits $5 million to IIT Kharagp\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"NEWSMAKER-Jensen Huang's comeback to Nvi\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Cisco and OpenAI Launch Shirudo, A New P\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Main Sequence leads $6.29M round for AI \": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"New Benchmark Could Help AI Keep Up with\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+    "feed:timesofindia.indiatimes.com: no usable feed found",
+    "feed:news18.com: HTTP 403 for https://news18.com/",
+    "briefing skipped for \"GCHQ, Greater Manchester universities la\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"UT Health San Antonio $2M CPRIT Cancer A\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"SeoulTech Researchers Develop Smarter Wa\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefings: 3 failures in a row, stopping for this run"
   ]
 }
