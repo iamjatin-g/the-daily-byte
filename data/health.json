@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-24T22:39:51.656Z",
-  "outcome": "partial",
+  "runAt": "2026-11-25T08:55:55.078Z",
+  "outcome": "success",
   "totals": {
-    "fetched": 210,
-    "afterFilter": 106,
-    "clusters": 100,
+    "fetched": 188,
+    "afterFilter": 216,
+    "clusters": 158,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-25",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -20,7 +20,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
       "disabledAt": null
     },
     {
@@ -50,7 +50,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
       "disabledAt": null
     },
     {
@@ -154,13 +154,13 @@
       "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
-      "name": "thehindu.com",
+      "name": "scanx.trade",
       "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://scanx.trade/",
+      "lastSuccessAt": null,
       "disabledAt": null
     },
     {
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
       "disabledAt": null
     },
     {
@@ -270,17 +270,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 38,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
       "disabledAt": null
     },
     {
@@ -290,17 +290,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-24T22:39:51.656Z",
+      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "gdelt:machine learning: fetch failed",
-    "feed:aninews.in: HTTP 403 for https://aninews.in/",
-    "feed:tribuneindia.com: no usable feed found",
-    "briefing skipped for \"Predicting the unknown: a robust approac\": This operation was aborted",
-    "briefing skipped for \"VA Opens Market Research for Appeals Sys\": This operation was aborted",
-    "briefing skipped for \"Huang's return to Nvidia brings open-wei\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:scanx.trade: HTTP 403 for https://scanx.trade/",
+    "briefing skipped for \"What did DeepSeek CEO, now worth $55B, s\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Google Commits $5 Mn To IIT Kharagpur Fo\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Google DeepMind Releases \"gBench\" Evalua\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
