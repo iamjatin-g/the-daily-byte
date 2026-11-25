@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-25T08:55:55.078Z",
+  "runAt": "2026-11-25T21:53:17.889Z",
   "outcome": "success",
   "totals": {
-    "fetched": 188,
-    "afterFilter": 216,
-    "clusters": 158,
+    "fetched": 189,
+    "afterFilter": 105,
+    "clusters": 94,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 9
   },
   "llmCallsToday": {
-    "date": "2026-11-25",
-    "count": 6
+    "date": "2026-11-26",
+    "count": 9
   },
   "sources": [
     {
@@ -20,7 +20,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
+      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
       "disabledAt": null
     },
     {
@@ -32,6 +32,16 @@
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-24T22:39:51.656Z"
+    },
+    {
+      "name": "cnbctv18.com",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
     },
     {
       "name": "deccanchronicle.com",
@@ -50,7 +60,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
+      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
       "disabledAt": null
     },
     {
@@ -88,10 +98,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 6,
+      "consecutiveFailures": 7,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-17T21:11:22.312Z"
+      "disabledAt": "2026-11-25T21:53:17.889Z"
     },
     {
       "name": "livemint.com",
@@ -152,16 +162,6 @@
       "lastError": "HTTP 403 for https://newsbytesapp.com/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-22T07:10:16.601Z"
-    },
-    {
-      "name": "scanx.trade",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "HTTP 403 for https://scanx.trade/",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "thehitavada.com",
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
+      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
+      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
       "disabledAt": null
     },
     {
@@ -260,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
+      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
       "disabledAt": null
     },
     {
@@ -270,17 +270,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
+      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 38,
+      "articlesFetched": 39,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
+      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
       "disabledAt": null
     },
     {
@@ -290,15 +290,18 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T08:55:55.078Z",
+      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:scanx.trade: HTTP 403 for https://scanx.trade/",
-    "briefing skipped for \"What did DeepSeek CEO, now worth $55B, s\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Google Commits $5 Mn To IIT Kharagpur Fo\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Google DeepMind Releases \"gBench\" Evalua\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:indiatoday.in: no usable feed found",
+    "feed:cnbctv18.com: no usable feed found",
+    "briefing skipped for \"Anthropic and OpenAI researchers fear th\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Smartphone app uses AI to identify illeg\": This operation was aborted",
+    "briefing skipped for \"Claude Fable 5.2 tops new FrontierPhysic\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Anthropic Brings Claude Duet AI Agent to\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"TC-LLM - Boeing 787-9 Dreamliner - Turki\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
