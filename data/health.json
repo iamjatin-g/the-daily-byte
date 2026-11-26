@@ -1,28 +1,18 @@
 {
-  "runAt": "2026-11-25T21:53:17.889Z",
+  "runAt": "2026-11-26T08:41:05.557Z",
   "outcome": "success",
   "totals": {
-    "fetched": 189,
-    "afterFilter": 105,
-    "clusters": 94,
+    "fetched": 190,
+    "afterFilter": 198,
+    "clusters": 154,
     "linkRotDropped": 0,
-    "llmCallsUsed": 9
+    "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-26",
-    "count": 9
+    "count": 12
   },
   "sources": [
-    {
-      "name": "analyticsindiamag.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
-      "disabledAt": null
-    },
     {
       "name": "aninews.in",
       "provider": "feed",
@@ -32,16 +22,6 @@
       "lastError": "HTTP 403 for https://aninews.in/",
       "lastSuccessAt": null,
       "disabledAt": "2026-11-24T22:39:51.656Z"
-    },
-    {
-      "name": "cnbctv18.com",
-      "provider": "feed",
-      "status": "failed",
-      "articlesFetched": 0,
-      "consecutiveFailures": 1,
-      "lastError": "no usable feed found",
-      "lastSuccessAt": null,
-      "disabledAt": null
     },
     {
       "name": "deccanchronicle.com",
@@ -60,7 +40,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
+      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
       "disabledAt": null
     },
     {
@@ -164,6 +144,16 @@
       "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
+      "name": "thehindu.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "disabledAt": null
+    },
+    {
       "name": "thehitavada.com",
       "provider": "feed",
       "status": "disabled",
@@ -178,10 +168,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 3,
+      "consecutiveFailures": 4,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-18T20:47:14.715Z"
+      "disabledAt": "2026-11-26T08:41:05.557Z"
     },
     {
       "name": "timesofindia.indiatimes.com",
@@ -240,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
+      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
       "disabledAt": null
     },
     {
@@ -250,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
+      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
       "disabledAt": null
     },
     {
@@ -260,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
+      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
       "disabledAt": null
     },
     {
@@ -270,17 +260,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
+      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 39,
+      "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
+      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
       "disabledAt": null
     },
     {
@@ -290,18 +280,15 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-25T21:53:17.889Z",
+      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:indiatoday.in: no usable feed found",
-    "feed:cnbctv18.com: no usable feed found",
-    "briefing skipped for \"Anthropic and OpenAI researchers fear th\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Smartphone app uses AI to identify illeg\": This operation was aborted",
-    "briefing skipped for \"Claude Fable 5.2 tops new FrontierPhysic\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Anthropic Brings Claude Duet AI Agent to\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"TC-LLM - Boeing 787-9 Dreamliner - Turki\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:timesnownews.com: no usable feed found",
+    "briefing skipped for \"Anthropic expands Claude Duet AI agent r\": This operation was aborted",
+    "briefing skipped for \"Day Atal Faculty Development Programme O\": This operation was aborted",
+    "briefing skipped for \"China shares flat as markets struggle to\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
