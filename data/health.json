@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-26T08:41:05.557Z",
+  "runAt": "2026-11-26T21:47:48.057Z",
   "outcome": "success",
   "totals": {
-    "fetched": 190,
-    "afterFilter": 198,
-    "clusters": 154,
+    "fetched": 187,
+    "afterFilter": 87,
+    "clusters": 84,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-26",
-    "count": 12
+    "date": "2026-11-27",
+    "count": 3
   },
   "sources": [
     {
@@ -40,7 +40,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
       "disabledAt": null
     },
     {
@@ -150,7 +150,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
       "disabledAt": null
     },
     {
@@ -230,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
       "disabledAt": null
     },
     {
@@ -240,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
       "disabledAt": null
     },
     {
@@ -250,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
       "disabledAt": null
     },
     {
@@ -260,17 +260,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 40,
+      "articlesFetched": 37,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
       "disabledAt": null
     },
     {
@@ -280,15 +280,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T08:41:05.557Z",
+      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:timesnownews.com: no usable feed found",
-    "briefing skipped for \"Anthropic expands Claude Duet AI agent r\": This operation was aborted",
-    "briefing skipped for \"Day Atal Faculty Development Programme O\": This operation was aborted",
-    "briefing skipped for \"China shares flat as markets struggle to\": This operation was aborted",
+    "briefing skipped for \"IndiaAI Mission Launches Chariot-1 Found\": This operation was aborted",
+    "briefing skipped for \"Machine Learning Model Optimizes Miniatu\": This operation was aborted",
+    "briefing skipped for \"NVIDIA, Jensen Huang’s Comeback, and Can\": This operation was aborted",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
