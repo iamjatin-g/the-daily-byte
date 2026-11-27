@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-27T08:52:23.890Z",
+  "runAt": "2026-11-27T21:31:23.634Z",
   "outcome": "success",
   "totals": {
     "fetched": 164,
-    "afterFilter": 188,
-    "clusters": 139,
+    "afterFilter": 87,
+    "clusters": 78,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
-    "date": "2026-11-27",
-    "count": 6
+    "date": "2026-11-28",
+    "count": 3
   },
   "sources": [
     {
@@ -40,7 +40,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
+      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
       "disabledAt": null
     },
     {
@@ -58,10 +58,10 @@
       "provider": "feed",
       "status": "disabled",
       "articlesFetched": 0,
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "lastError": "no usable feed found",
       "lastSuccessAt": null,
-      "disabledAt": "2026-11-20T20:38:05.454Z"
+      "disabledAt": "2026-11-27T21:31:23.634Z"
     },
     {
       "name": "indianexpress.com",
@@ -144,6 +144,16 @@
       "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
+      "name": "scanx.trade",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 1,
+      "lastError": "HTTP 403 for https://scanx.trade/",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
       "name": "thehitavada.com",
       "provider": "feed",
       "status": "disabled",
@@ -220,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
+      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
       "disabledAt": null
     },
     {
@@ -230,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
+      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
       "disabledAt": null
     },
     {
@@ -240,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
+      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
       "disabledAt": null
     },
     {
@@ -250,7 +260,7 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
+      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
       "disabledAt": null
     },
     {
@@ -260,7 +270,7 @@
       "articlesFetched": 34,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
+      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
       "disabledAt": null
     },
     {
@@ -270,14 +280,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
+      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "briefing skipped for \"IndiaAI Mission Launches Chariot-1 Found\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Stanford physicist Venkatesa Chandraseka\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"IIM Calcutta opens admissions for 16th b\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:hindustantimes.com: no usable feed found",
+    "feed:scanx.trade: HTTP 403 for https://scanx.trade/",
+    "briefing skipped for \"Could AI Break Bitcoin? Not Yet, Researc\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"The implications of automation and AI fo\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Can an SNES Run an LLM?\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
