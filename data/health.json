@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-26T21:47:48.057Z",
+  "runAt": "2026-11-27T08:52:23.890Z",
   "outcome": "success",
   "totals": {
-    "fetched": 187,
-    "afterFilter": 87,
-    "clusters": 84,
+    "fetched": 164,
+    "afterFilter": 188,
+    "clusters": 139,
     "linkRotDropped": 0,
     "llmCallsUsed": 3
   },
   "llmCallsToday": {
     "date": "2026-11-27",
-    "count": 3
+    "count": 6
   },
   "sources": [
     {
@@ -40,7 +40,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
+      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
       "disabledAt": null
     },
     {
@@ -144,16 +144,6 @@
       "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
-      "name": "thehindu.com",
-      "provider": "feed",
-      "status": "ok",
-      "articlesFetched": 20,
-      "consecutiveFailures": 0,
-      "lastError": null,
-      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
-      "disabledAt": null
-    },
-    {
       "name": "thehitavada.com",
       "provider": "feed",
       "status": "disabled",
@@ -230,7 +220,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
+      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
       "disabledAt": null
     },
     {
@@ -240,7 +230,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
+      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
       "disabledAt": null
     },
     {
@@ -250,7 +240,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
+      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
       "disabledAt": null
     },
     {
@@ -260,17 +250,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
+      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 37,
+      "articlesFetched": 34,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
+      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
       "disabledAt": null
     },
     {
@@ -280,14 +270,14 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-26T21:47:48.057Z",
+      "lastSuccessAt": "2026-11-27T08:52:23.890Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "briefing skipped for \"IndiaAI Mission Launches Chariot-1 Found\": This operation was aborted",
-    "briefing skipped for \"Machine Learning Model Optimizes Miniatu\": This operation was aborted",
-    "briefing skipped for \"NVIDIA, Jensen Huang’s Comeback, and Can\": This operation was aborted",
+    "briefing skipped for \"IndiaAI Mission Launches Chariot-1 Found\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Stanford physicist Venkatesa Chandraseka\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"IIM Calcutta opens admissions for 16th b\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
