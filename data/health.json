@@ -1,16 +1,16 @@
 {
-  "runAt": "2026-11-27T21:31:23.634Z",
+  "runAt": "2026-11-28T08:12:15.354Z",
   "outcome": "success",
   "totals": {
-    "fetched": 164,
-    "afterFilter": 87,
-    "clusters": 78,
+    "fetched": 186,
+    "afterFilter": 179,
+    "clusters": 124,
     "linkRotDropped": 0,
-    "llmCallsUsed": 3
+    "llmCallsUsed": 4
   },
   "llmCallsToday": {
     "date": "2026-11-28",
-    "count": 3
+    "count": 7
   },
   "sources": [
     {
@@ -40,7 +40,7 @@
       "articlesFetched": 20,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
+      "lastSuccessAt": "2026-11-28T08:12:15.354Z",
       "disabledAt": null
     },
     {
@@ -144,13 +144,33 @@
       "disabledAt": "2026-11-22T07:10:16.601Z"
     },
     {
-      "name": "scanx.trade",
+      "name": "outlookmoney.com",
       "provider": "feed",
       "status": "failed",
       "articlesFetched": 0,
       "consecutiveFailures": 1,
+      "lastError": "no usable feed found",
+      "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "scanx.trade",
+      "provider": "feed",
+      "status": "failed",
+      "articlesFetched": 0,
+      "consecutiveFailures": 2,
       "lastError": "HTTP 403 for https://scanx.trade/",
       "lastSuccessAt": null,
+      "disabledAt": null
+    },
+    {
+      "name": "thehindu.com",
+      "provider": "feed",
+      "status": "ok",
+      "articlesFetched": 20,
+      "consecutiveFailures": 0,
+      "lastError": null,
+      "lastSuccessAt": "2026-11-28T08:12:15.354Z",
       "disabledAt": null
     },
     {
@@ -230,7 +250,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
+      "lastSuccessAt": "2026-11-28T08:12:15.354Z",
       "disabledAt": null
     },
     {
@@ -240,7 +260,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
+      "lastSuccessAt": "2026-11-28T08:12:15.354Z",
       "disabledAt": null
     },
     {
@@ -250,7 +270,7 @@
       "articlesFetched": 10,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
+      "lastSuccessAt": "2026-11-28T08:12:15.354Z",
       "disabledAt": null
     },
     {
@@ -260,17 +280,17 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
+      "lastSuccessAt": "2026-11-28T08:12:15.354Z",
       "disabledAt": null
     },
     {
       "name": "LLMs",
       "provider": "google-news",
       "status": "ok",
-      "articlesFetched": 34,
+      "articlesFetched": 36,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
+      "lastSuccessAt": "2026-11-28T08:12:15.354Z",
       "disabledAt": null
     },
     {
@@ -280,16 +300,16 @@
       "articlesFetched": 40,
       "consecutiveFailures": 0,
       "lastError": null,
-      "lastSuccessAt": "2026-11-27T21:31:23.634Z",
+      "lastSuccessAt": "2026-11-28T08:12:15.354Z",
       "disabledAt": null
     }
   ],
   "errors": [
-    "feed:hindustantimes.com: no usable feed found",
     "feed:scanx.trade: HTTP 403 for https://scanx.trade/",
-    "briefing skipped for \"Could AI Break Bitcoin? Not Yet, Researc\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"The implications of automation and AI fo\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "briefing skipped for \"Can an SNES Run an LLM?\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "feed:outlookmoney.com: no usable feed found",
+    "briefing skipped for \"Spatial Validation Exposes Overestimated\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"Linux is dropping a 45-year-old driver b\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "briefing skipped for \"How Artificial Intelligence Is Reshaping\": LLM HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "briefings: 3 failures in a row, stopping for this run"
   ]
 }
